@@ -1,0 +1,36 @@
+--- 
+wordpress_id: 320
+layout: post
+title: Personal Web Proxies
+wordpress_url: http://www.decafbad.com/blog/?p=320
+---
+<p>Okay, now that I'm healthy, my girlfriend is healthy, my job is healthy, and my iBook is back to being healthy - I might just get a chance to sneak some time in for my <a href="http://www.decafbad.com/twiki/bin/view/Main/Projects">Projects</a> again.</p>
+<p>At the moment, I'm considering building a <a href="http://www.decafbad.com/twiki/bin/view/Main/PersonalWebProxy">PersonalWebProxy</a>.  I've been playing with them and thinking about them off and on for years now.  You can see a short list of them that I've poked at in the <a href="http://www.decafbad.com/twiki/bin/view/Main/PersonalWebProxy">PersonalWebProxy</a> wiki topic - you're welcome to add to the list if you know of more.  In particular, the <a href="http://www.almaden.ibm.com/cs/wbi/index.html" target="_top">WBI project</a> at IBM got me initially hooked on things.  I really thought it was nifty how they edited HTML on the fly to weave in the WBI UI and add indicators on links in the page.  And the idea of storing a history of one's web browsing in a local cache, available for review and later search, has always seemed incredibly attractive.</p>
+<p>Lately, I've been thinking of a few more things that might be useful in a personal web proxy:<br />
+<ul>
+<li> Marking pages to be periodically checked for change notification.<br />
+</li>
+<li> A browsing "shopping cart", in which to collect pages now for later browsing.<br />
+</li>
+<li> Auto-harvest <a href="http://www.decafbad.com/twiki/bin/view/Main/RSS">RSS</a>, <a href="http://www.decafbad.com/twiki/bin/view/Main/FOAF">FOAF</a>, and whatever other associated page metadata that might be useful now or later.  Maybe suggest subscribing to the site after a few visits.<br />
+</li>
+<li> Use a ubiquitous rating mechanism, machine learning, and maybe some off-peak spidering to have new content of interest suggested.<br />
+</li>
+<li> Publish and share browsing patterns, generate "Friends who viewed this page today also viewed this today..."<br />
+</li>
+<li> Generate <a href="http://www.decafbad.com/twiki/bin/view/Main/RSS">RSS</a> feeds for all notification features<br />
+</li>
+</ul>
+And then, of course, there are things that I've seen already in other projects:<br />
+    * Rich browsing history<br />
+<ul>
+<li> Collaborative annotation<br />
+</li>
+<li> Ad filtering &amp; pop-up blocking<br />
+</li>
+<li> Content summarization<br />
+</li>
+</ul>
+I'm thinking it would be nice to put together something like WBI and its modular API, maybe in Python, and make this thing super friendly to quick hacking.  Could be some fun.  What do you think?</p>
+<!--more-->
+shortname=ooocdf

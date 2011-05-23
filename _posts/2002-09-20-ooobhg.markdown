@@ -1,0 +1,13 @@
+--- 
+wordpress_id: 262
+layout: post
+title: I like JohnCompanies servers
+wordpress_url: http://www.decafbad.com/blog/?p=262
+---
+Oh, and a quick thing I feel compelled to share:  <a href="http://www.decafbad.com/twiki/bin/view/Main/JohnCompanies">JohnCompanies</a> is the best hosting I've had so far since I started this domain.  I have yet to move everything over to it, but I'm so very impressed at the notices I've been getting.  There were two brief outages recently, one planned and one not planned, but the important bit is that <em>I received email telling me about them and what happened before I was even aware there was a situation</em>.
+<br /><br />
+I like that.
+<br /><br />
+<b>Update:</b> <a href="http://shawnyeager.com/monolog/">Shawn Yeager</a> commented that the outage wasn't really all that brief - 9 hours in fact.  So... well, that <i>does</i> suck.  Personally, I didn't suffer from it, having yet to completely rely on them.  I do, still, enjoy having gotten the email.  :)
+<!--more-->
+shortname=ooobhg

@@ -1,0 +1,14 @@
+--- 
+wordpress_id: 207
+layout: post
+title: "Ampheta + Windows + Outlines: Once More with Feeling"
+wordpress_url: http://www.decafbad.com/blog/?p=207
+---
+<p>At last:  I had a good solid hacking session with the beast under <a href="http://www.decafbad.com/twiki/bin/view/Main/WinXP">WinXP</a>, and I think I've flushed out the showstopper bugs.  So, here's yet <i>another</i> release (hopefully <i>zaro boogs</i>) of the thing for you to grab and try:<ul><li><a href="http://www.decafbad.com/gems/AmphetaOutlines-20020806-2.tar.gz">AmphetaOutlines-20020806-2.tar.gz</a></li></ul>Thanks for bearing with me out there and not beating me about the head and shoulders.  :)  I mean, yes, it's free and its experimental...  but it's still damn frustrating.</p>
+<p>Basically, the trouble started when I tried to use "<code>use lib</code>".  Seems like a reasonable enough request, <code>lib.pm</code> being very much a core part of perl.  But, Morbus hadn't used it anywhere in <a href="http://www.decafbad.com/twiki/bin/view/Main/AmphetaDesk">AmphetaDesk</a>, so Perl2EXE cheerfully left it out.  Well, I had to hack by other means, since I wanted this thing to be as drop-in compatible with the current release of <a href="http://www.decafbad.com/twiki/bin/view/Main/AmphetaDesk">AmphetaDesk</a> as possible.</p>
+<p>And then, there were other bits I'd left out.  And also there were the bits that I'd written at 3:30 am the other night and wasn't precisely sure what made it possible for them to actually work anywhere, let alone on my iBook.  But, I think now I've got things under control.</p>
+<p>It makes me appreciate the OS X environment so much more.  OS X is like driving a nice big, fully packed RV that handles like a station wagon down the hacking highway.  On the other hand, Windows is a Ford Festiva with a hole in the floorboards and a nagging suspicion that I forgot something back at the house.  Okay, so that was a bit contrived.  I just wanted to say <i>something</i> smarmy after all this grumbling.  :)</p>
+<p>Is this thing working for anyone yet?! </p>
+<p><b>Update:</b> In case you were wondering, this release should be usable via the original instructions <a href="http://www.decafbad.com/news_archives/000226.phtml">back here</a>.  Which are, basically:<ol><li>Replace <code>templates/default</code> with this archive's contents.</li><li>Create a directory named <code>channels_meta</code> in your <code>data</code> directory.</li><li><a href="http://www.decafbad.com/twiki/bin/view/Main/ShareAndEnjoy">Share and Enjoy</a></li></ol></p>
+<!--more-->
+shortname=ooobbh

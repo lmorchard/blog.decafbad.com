@@ -1,0 +1,11 @@
+--- 
+wordpress_id: 574
+layout: post
+title: Mr. Gruff
+wordpress_url: http://www.decafbad.com/blog/?p=574
+---
+No offense intended toward anyone, but...
+
+<div align="center"><a href="http://www.cafepress.com/objectivemin.14663010?zoom=yes#zoom"><img src="http://zoom.cafepress.com/9/5724969_zoom.jpg" border="0" /></a></div>
+
+This goat rocks, as do <a href="http://objective.jesussave.us/">OBJECTIVE: Christian Ministries</a>.

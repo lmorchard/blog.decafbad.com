@@ -1,0 +1,12 @@
+--- 
+wordpress_id: 125
+layout: post
+title: "Simple, neat elegance: Wiki, weblog, and design"
+wordpress_url: http://www.decafbad.com/blog/?p=125
+---
+<p>Noticed two things from <a href="http://radio.weblogs.com/0100629/">Mike James</a> this morning:</p>
+<p>An <a href="http://radio.weblogs.com/0100629/2002/05/10.html#a117">interesting melding of weblog and wiki</a> over at <a href="http://www.tesugen.com/">www.tesugen.com</a>.  The combination of <a href="http://www.oreillynet.com/~rael/lang/perl/blosxom/">Blosxom</a>, which elegantly composes the weblog from a simple pile of files, and <a href="http://www.usemod.com/cgi-bin/wiki.pl">UseModWiki</a>, which can cache its pages in a simple pile of files, makes me think about the combination myself...  (Oh, and TWiki does this, too, not in caching but in the storage of page content in the raw.)  I could make Blosxom search for files by regex (ie. Blog*) and post to the weblog in <span style='background : #FFFFCE;'><a href="http://www.decafbad.com/twiki/bin/edit/Main/UseModWiki?topicparent=Main.FilterData"><b>?</b></a><font color="#0000FF">UseModWiki</font></span> with a naming convention of pages.  Seems neatly elegant.</p>
+<p>And the second thing are the <a href="http://radio.weblogs.com/0100629/2002/05/09.html#a116">MovableWorksOfArt</a> that Mike cites.  Again, simple and neat elegance.  I'm with Mike:  I've got a lot to learn, and a lot to strip down from the design of this site.  I also really need to dig into some proper <a href="http://www.decafbad.com/twiki/bin/view/Main/CSS">CSS</a>.  <a href="http://diveintomark.org/">Mark Pilgrim's</a> <a href="http://www.decafbad.com/twiki/bin/view/Main/CSS">CSS</a> magic shames me.<br />
+</p>
+<!--more-->
+shortname=oooadf

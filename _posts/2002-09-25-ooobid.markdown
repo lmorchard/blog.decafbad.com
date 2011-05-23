@@ -1,0 +1,13 @@
+--- 
+wordpress_id: 269
+layout: post
+title: Exodus to JohnCompanies in progress
+wordpress_url: http://www.decafbad.com/blog/?p=269
+---
+Okay.  Enough's enough - the phpwebhosting server's disk filled up again, and my <a href="http://www.decafbad.com/twiki/bin/view/Main/JohnCompanies">JohnCompanies</a> server has been idle all this time.  I've moved everything over, made a cursory set of tests to see if everything's okay, and flipped the DNS switch.
+<br /><br />
+Hopefully, you're seeing this post.  Otherwise, you probably saw a test pattern until the DNS wave of mutilation reached your corner of the net.  In the mean time, a few random things will likely be broken.  I'll be sorting through those in the next week or so.  If you feel like letting me know when you find something, I'd be much appreciative.
+<br /><br />
+Thanks!
+<!--more-->
+shortname=ooobid

@@ -1,0 +1,13 @@
+--- 
+wordpress_id: 238
+layout: post
+title: "Interop:  Movable Type IM-based pub/sub?"
+wordpress_url: http://www.decafbad.com/blog/?p=238
+---
+<p>Even more gas is flowing - from <a href="http://www.jacobsen.no/anders/blog/">andersja</a>'s blog: <a href="http://www.jacobsen.no/anders/blog/archives/2002/08/30/movable_type_notifications_to_instant_messenger.html">Movable Type notifications to Instant Messenger?</a></p>
+<p>I really want to see this, and I want to see news aggregators exploit this - why poll a feed once an hour when you can just have the feed tell you to come 'n get it?  Basic publish/subscribe model.  </p>
+<p>But the advantage Radio has over MT in this regard is this:  Radio is a persistently running app/server/daemon thing.  MT is a collection of scripts that does nothing until asked to run.  Radio can connect to IM and stay connected.  Something like MT would need to login to an IM service each and every time it wanted to ping.  Maybe that's not such a big deal, really.  I also have a hunch that there would be some difficulties with web hosting sites who don't really want customers emitting IMs from their CGIs.  Maybe not a big deal either.</p>
+<p>Just seems like an impedance mismatch, though.</p>
+<p>What I'd like to see is something like this:  An XML-RPC/SOAP <-> IM gateway.  And then, eventually, I'd like to see a decentrallized P2P network with XML-RPC/SOAP entry points that can smoothly replace centralized resources that have XML-RPC/SOAP entry points, maybe using IM networks as one possible rendevous point.  (Just remembered this project: <a href="http://relativity.yi.org/jxta-bridge/">JXTA Bridge</a>.  Mental note - play with JXTA again and poke at SOAP some more.)</p>
+<!--more-->
+shortname=ooobfa

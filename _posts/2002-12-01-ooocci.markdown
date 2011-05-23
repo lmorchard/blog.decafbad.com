@@ -1,0 +1,9 @@
+--- 
+wordpress_id: 313
+layout: post
+title: example.com is not porn - yay!
+wordpress_url: http://www.decafbad.com/blog/?p=313
+---
+Noticed <a href="http://example.com" target="_top">http://example.com</a> linked to via the <a href="http://rdfig.xmlhack.com/">#rdfig weblog</a>, and had this thought: Thank goodness that <a href="http://www.netsol.com/cgi-bin/whois/whois?STRING=example.com&amp;SearchType=do">someone</a> had thought to register that domain, or else my boss would have more likely than not been viewing porn after clicking on a link it in our last meeting.
+<!--more-->
+shortname=ooocci

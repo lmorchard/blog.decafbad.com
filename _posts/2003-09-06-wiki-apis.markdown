@@ -1,0 +1,23 @@
+--- 
+wordpress_id: 478
+layout: post
+title: An API for Wikis?  Here's one.
+wordpress_url: http://www.decafbad.com/blog/?p=478
+---
+<br /><br />
+<blockquote><i>Some folks are experimenting with using Wiki to build websites.  I particularly like what Matt Haughey did with PHPWiki and a bit of <a href="http://www.decafbad.com/twiki/bin/view/Main/CSS">CSS</a> magic dust.  Looks nice, eh?  [Via Seb's Wikis are Ugly? post at Corante]
+<br /><br />
+Janne Jalkanen's Wiki-based Weblog is interesting too.  Hmm.  Maybe blog API(s) can be used for Wikis too.  That reminds me, shouldn't Wiki formatted text have their own MIME type?  Is there one?  "text/wiki"?  For now, different dialects of Wiki formatting rules will have to be accounted for like "text/wiki+moinmoin".</i></blockquote><div class="credit" align="right"><small>Source: <cite><a href="http://www.docuverse.com/blog/donpark/2003/09/05.html#a859">Don Park's Daily Habit</s></cite></small></div>
+<br /><br />
+It's been a while since I last worked on it, but I did implement an
+XML-RPC API on a few wikis, called <a href="http://www.decafbad.com/twiki/bin/view/Main/XmlRpcToWiki">XmlRpcToWiki</a>.  Janne Jalkanen
+did a lot of work toward the same interface with JSPWiki.  I use this API
+in the linkage between my blog and the wiki on this site.  Now that
+I've drifted away from <a href="http://www.decafbad.com/twiki/bin/view/Main/XmlRpc">XmlRpc</a> a bit and am more in favor of simpler
+<a href="http://www.decafbad.com/twiki/bin/view/Main/REST">REST</a>-ish web service APIs, I'd like to see something more toward that
+end.  Seems like a lot of people are discovering or rediscovering
+wikis since the introduction of Sam Ruby's wiki for Atom/Echo/Pie
+work, so it's interesting to see a lot of things come up again like
+grousing about APIs and mutant wiki-format offshoots and standards.
+<!--more-->
+shortname=wiki_apis

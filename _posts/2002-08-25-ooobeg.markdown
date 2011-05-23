@@ -1,0 +1,15 @@
+--- 
+wordpress_id: 234
+layout: post
+title: AmphetaOutlines fix download page fixed
+wordpress_url: http://www.decafbad.com/blog/?p=234
+---
+<p>D'oh.  Just realized that the download link for the fixed <a href="http://www.decafbad.com/twiki/bin/view/Main/AmphetaOutlines">AmphetaOutlines</a> was at the bottom of the page, so I was puzzled that I kept getting emails about it doing the same broken things.  I seem to be missing many things lately.  :)</p>
+<p>Anyway, the correct download is here:<br />
+<ul>
+<li> <a href="http://www.decafbad.com/twiki/pub/Main/FilterData/AmphetaOutlines-20020822.tar.gz" target="_top">AmphetaOutlines-20020822.tar.gz</a>: </p>
+</li>
+</ul>
+<p>This <strong>should</strong> include the corrected "URL=" redirect.</p>
+<!--more-->
+shortname=ooobeg

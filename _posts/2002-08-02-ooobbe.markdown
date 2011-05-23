@@ -1,0 +1,10 @@
+--- 
+wordpress_id: 204
+layout: post
+title: Well intentioned links drive the herd to stampede
+wordpress_url: http://www.decafbad.com/blog/?p=204
+---
+<p>So, I was happy to discover I'd gotten a <a href="http://doc.weblogs.com/2002/08/01#nothingExceedsLikeSuccess">link from Doc</a>.  But then, I was not not so happy to discover it was because I'm contributing to the downfall of his website due to popularity.  Gah!  The link, she is a double edged sword, and of course I only meant to point, not to prick or stab.</p>
+<p>This makes me recall blog posts to the <a href="http://open-content.net">Open Content Network</a> I'd seen awhile back.  Sounds like a little bit of the <a href="http://open-content.net/specs/draft-jchapweske-caw-03.html">HTTP Extensions for a Content-Addressable Web</a> and <a href="http://open-content.net/specs/">Content Mirror Advertisement Specification</a> voodoo magic would hit the spot here.</p>
+<!--more-->
+shortname=ooobbe

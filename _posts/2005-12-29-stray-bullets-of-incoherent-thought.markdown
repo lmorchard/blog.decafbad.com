@@ -1,0 +1,24 @@
+--- 
+wordpress_id: 809
+layout: post
+title: Stray bullets of incoherent thought
+wordpress_url: http://decafbad.com/blog/?p=809
+---
+No time for much in the way of coherent thought expressed, but here are a few stray bullets:
+
+* ["It is the engine that drives itself / But it chooses the uphill climb."][ly]  
+  Yeah, I feel that.
+
+* Lots of great things happening at work that are demanding cool things from me.  But alas, I feel I'm neither at liberty nor at an opportune moment to talk about them.  (But, let's just say that I'm glad I wrote [that first book][book1].)
+
+* After a brief pause for the holiday season and for a bit of a shift in focus and format, work on [the new book][book] has continued apace.  And boy howdy, do I know [how Meredith feels][she].
+
+* Work is gradually trickling in on [FeedMagick][fm].  It's in an entirely too-rough-for-comfort state at the moment, but give a shout if it looks interesting to you.
+
+Time for lunch and pizza.  See you soon.
+
+[ly]: http://www.2112.net/powerwindows/CPlyrics.htm#cttc
+[book]: http://decafbad.com/blog/2005/12/14/hacking-delicious-is-a-real-book
+[book1]: http://decafbad.com/blog/2005/10/28/how-to-hack-rss-and-atom-feeds
+[she]: http://meredith.wolfwater.com/wordpress/index.php/2005/12/28/the-book-progress-report/
+[fm]: http://decafbad.com/trac/wiki/FeedMagick

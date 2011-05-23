@@ -1,0 +1,12 @@
+--- 
+wordpress_id: 219
+layout: post
+title: Bayesian filters, the ultimate anti-spam weapon?
+wordpress_url: http://www.decafbad.com/blog/?p=219
+---
+<p>Do not stand in our way - we will walk around you.</p>
+<p>Spam is in our way.</p>
+<p>We will <a href="http://www.paulgraham.com/spam.html">use the inhuman aspects inherent to your sales pitch</a> to walk around you.</p>
+<p><a href="http://www.cluetrain.com">Cluetrain</a> on statistic-driven autopilot.  :)</p>
+<!--more-->
+shortname=ooobdo

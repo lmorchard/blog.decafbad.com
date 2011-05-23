@@ -1,0 +1,12 @@
+--- 
+wordpress_id: 147
+layout: post
+title: A query on scheduling WinXP programs, and Radio resource demands
+wordpress_url: http://www.decafbad.com/blog/?p=147
+---
+<p>Does anyone out there know of a workable, preferably free app for <a href="http://www.decafbad.com/twiki/bin/view/Main/WinXP">WinXP</a> with which I can launch and quit a program on a scheduled basis?  Starting to work my mad Google skillz to find this, but having a hard time coming up with search terms that give me good results.  See, Radio <a href="http://www.decafbad.com/twiki/bin/view/Main/UserLand">UserLand</a> demands too much CPU from any of the machines I currently own.  The desktop where I want to park it also serves as my PVR, and when it starts up to record a show, Radio keeps stealing CPU from the video encoding, and I end up with choppy and sometimes dead video.  I even tried screwing with priorities, and that only seems to help moderately.</p>
+<p>So, I want to start up Radio, let it churn free.  Then just before a show comes on, I want to quit Radio.  I was doing this manually via a VNC connection from work, but that's just stupid.  The other alternatives I've tried are running it under Wine on my Debian Linux box, which doesn't <i>quite</i> seem to work happily, or to run Radio again on my OS X iBook, which seems to crush the poor thing.</p>
+<p>I suppose my desktop PC is due for an upgrade, containing only a 600MHz Athlon (though 512MB of RAM), but I've been waiting on that.  Funny, the last time I upgraded, it was to run a few more games.  This time, its to make Radio happier.  :)</p>
+<p>(<i>Addendum</i>: Hey, wait, Radio's an intelligent, reasonable platform...  I wonder if I couldn't just get it to shut <i>itself</i> down at a given time, and then have Windows launch it again.  I think the shutdown is the main issue, since Windows seems to come with a scheduler already for launching programs.)</p>
+<!--more-->
+shortname=oooafh

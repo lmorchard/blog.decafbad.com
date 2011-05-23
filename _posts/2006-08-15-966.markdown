@@ -1,0 +1,7 @@
+--- 
+wordpress_id: 966
+layout: post
+wordpress_url: http://decafbad.com/blog/2006/08/15/966
+---
+In case it's not obvious, I've switched blog themes.  This time, it's a barely-tweaked copy of [Sandbox](http://www.plaintxt.org/themes/sandbox/).  I'm sure I'll be making further incremental tweaks as round tuits are made available.  I'd like to get back to posting around here, maybe with a much lighterweight approach like I've been wanting for some time.  Anyway, I pulled this trigger.  Hopefully not much breaks, but feel free to let me know if it does!
+

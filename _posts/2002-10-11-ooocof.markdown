@@ -1,0 +1,15 @@
+--- 
+wordpress_id: 281
+layout: post
+title: It's all about the conversation, not the referrer logs.
+wordpress_url: http://www.decafbad.com/blog/?p=281
+---
+Mark Pilgrim implements something I've been thinking about for awhile: His "<a href="http://diveintomark.org/archives/2002/10/11.html#further_reading_upgrades">Further Reading Upgrades</a>" now harvest what appears to be the paragraph surrounding a link on a referring page.  Along with the <a href="http://www.decafbad.com/twiki/bin/view/Main/RSS">RSS</a> feed of "Further Reading" items he's made available, he's got a nice game of follow-the-leader set up for the rest of us referrer log watchers.  Nice &amp; elegant &amp; makes me ashamed.  :)
+<br /><br />
+<strong>Update:</strong> Mark pulls back the curtain and <a href="http://diveintomark.org/projects/misc/linkbackparser.py.txt">reveals the secret</a>.  Yay!
+<br /><br />
+Yet another demonstration to me that <a href="http://www.decafbad.com/news_archives/000258.phtml#000258">ideas are f'ing worthless</a> and the making is what matters.  Lots of things I've been <strong>thinking</strong> about doing, but never get done.  (See also: <a href="http://www.decafbad.com/news_archives/000305.phtml" title="Blog entry #000305">Blog:000305</a>)  Just a few weeks ago, I managed to upgrade my referrer tracking to dig out the titles of referring pages.  And I've had an <a href="http://www.decafbad.com/recent_referers_rss.php">RSS feed</a> of referrers myself for a few months now, but mine's been ugly as sin and so I've kept it to myself.  So now I'll need to think in earnest about how to do some extraction of the link-surrounding excerpt in referring pages.  Mark's referrer handling really is elegant - it even seems to know how to collapse multiple views on the same referring entry (ie. front page, archive page, individual entry page).
+<br /><br />
+More things to play with :)
+<!--more-->
+shortname=ooocof

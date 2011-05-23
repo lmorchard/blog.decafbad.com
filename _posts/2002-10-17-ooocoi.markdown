@@ -1,0 +1,13 @@
+--- 
+wordpress_id: 284
+layout: post
+title: Is the iBook supposed to make that noise?
+wordpress_url: http://www.decafbad.com/blog/?p=284
+---
+Ugh.  Hard drive in my little iBook is going "brr-tick-tick-tick-tick.  brr-tick-tick-tick-tick." while various processes inexplicably freeze up and go AWOL.  These are things I've come to recognize as the death of a hard drive.  So, since I've been putting everything on my laptop lately, I'm feeling a bit lost today.  No email via local IMAP filtered through <a href="http://www.decafbad.com/twiki/bin/view/Main/SpamAssassin">SpamAssassin</a> and things.  No news aggregator.  No outlines.  Currently running a disk utility that I hope will route around the damage, but I'm not sure.
+<br /><br />
+I know it's gratuitous, but replacing my iBook with a <span style='background : #FFFFCE;'><a href="http://www.decafbad.com/twiki/bin/edit/Main/TiBook?topicparent=Main.FilterData"><b>?</b></a><font color="#0000FF">TiBook</font></span> that I don't have to pay off for 18 months sounds mightly nice.  But, I promised myself and my girlfriend that the Treo was the last toy for awhile, until I have everything all paid off.  That, and I keep hearing rumors of a new <span style='background : #FFFFCE;'><a href="http://www.decafbad.com/twiki/bin/edit/Main/TiBook?topicparent=Main.FilterData"><b>?</b></a><font color="#0000FF">TiBook</font></span> in the ether, early next year.  Yeah, yeah, wait for the next latest and greatest and I'll be waiting all eternity, but waiting in this case would appear to align with other more prudent goals.
+<br /><br />
+But either way, I'm feeling my lack of computing support today like a sleeping limb.  I'm such a dork :)
+<!--more-->
+shortname=ooocoi

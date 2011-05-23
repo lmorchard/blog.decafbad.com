@@ -1,0 +1,13 @@
+--- 
+wordpress_id: 17
+layout: post
+title: Trying out a new site layout
+wordpress_url: http://www.decafbad.com/blog/?p=17
+---
+Thinking that simple is better here, so I tossed out the big vertical sidebar navigation for a much simpler nav bar at the bottom.  Also playing around with putting wiki changes in the sidebar.
+<br /><br />
+Any thoughts?  I think I'll stop twiddling with that for now and play around with getting a few more things released.
+<br /><br />
+<i>Okay, maybe one more tweak.  This is not exactly like <a href="http://www.decafbad.com/twiki/bin/view/Main/OutOfBox">out-of-box</a> Movable Type, but hopefully not annoying.</i>
+<!--more-->
+shortname=oooocb

@@ -1,0 +1,13 @@
+--- 
+wordpress_id: 213
+layout: post
+title: Bean Markup Language creator speaks!
+wordpress_url: http://www.decafbad.com/blog/?p=213
+---
+<p>Wow, that was fast.  I got a <a href="http://www.decafbad.com/news_archives/000232.phtml#comments">direct response</a> from one of the two original creators of BML, Sanjiva Weerawarana:<blockquote><i>...I still believe BML has a useful role in life. We still have some of our original trusty users who periodically email us asking for status / updates etc..</p>
+<p>What's the right thing to do? I am quite certain that we can get it open-sourced (I mean from an IBM process point of view), but I haven't yet been convinced that there'd be a willing community for it yet.</i></blockquote>This tells me that there's still some life left in the project, so I certainly won't be running off to release my unauthorized decompilation.  Besides respect of ownership and authorship, it'd be nice to see a sanctioned release of the real code, comments and all.  </p>
+<p>Sanjiva asks what to do and who wants it.  I say:  Gimme, and I want it!  But of course there's more, in terms of effort and consideration, to an Open Source project than that.  So, where's the interest (besides me) to make it worth doing?</p>
+<p>I'm not sure.  Seems very nifty to me, but again, I see barely a mention on Google.  But, I look at <a href="http://www.thinlet.com/">Thinlet</a> buzz that recently bubbled through my news scan, with raves about the XML wiring for GUI and quickness in assembling apps.  It's very cool.  And then I wonder how cool might it be to combine the two, or use BML <i>instead</i> of Thinlet.</p>
+<p>Is the lack of interest a product of a lack of word getting out?  Or, again, have I missed something in my return to the world of Java?</p>
+<!--more-->
+shortname=ooobcd

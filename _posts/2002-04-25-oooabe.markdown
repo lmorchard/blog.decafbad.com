@@ -1,0 +1,11 @@
+--- 
+wordpress_id: 105
+layout: post
+title: Thanks, kuro5hin.  Decaf is bad.  Caffeine is good.
+wordpress_url: http://www.decafbad.com/blog/?p=105
+---
+<p>I just had to link to this: <a href="http://www.kuro5hin.org/?op=displaystory;sid=2002/4/25/13272/5729">A coder's guide to coffee @ kuro5hin</a></p>
+<p>I think I'm going to buy myself a french press tonight.</p>
+<p>Oh, and just for fun, visit <a href="http://www.caffeinearchive.com/">The Caffeine Archive</a>.</p>
+<!--more-->
+shortname=oooabe

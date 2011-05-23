@@ -1,0 +1,13 @@
+--- 
+wordpress_id: 334
+layout: post
+title: "On joining the FSF: The first actually useful membership card?"
+wordpress_url: http://www.decafbad.com/blog/?p=334
+---
+Mark Pilgrim <a href="http://diveintomark.org/archives/2002/12/22.html#pony_the_hell_up">writes</a>: "I am now a <a href="http://member.fsf.org/">card-carrying associate member of the Free Software Foundation</a>.  Software is free, but lawyers are expensive."
+And from the FSF membership page:<blockquote><i>You will receive a personalized, bootable, business-card-sized GNU/Linux distribution as your membership card.
+This GNU/Linux distribution is based on LNX-BBC. New cards will be sent to renewing members every year if and only if there is a new major release of LNX-BBC.</i></blockquote>
+So, not only can you give a little something back to a project from which most of us have benefitted from - you'll also get a membership card that's as useful in and of itself as carrying a swiss army knife, and as far as I know, it won't get confiscated from you at the airport.
+(Oh, and this entry is a test of the <a href="http://ranchero.com/software/netnewswire/">NetNewsWire Pro Beta</a> weblog editor.  This is only a test.)
+<!--more-->
+shortname=ooocfo

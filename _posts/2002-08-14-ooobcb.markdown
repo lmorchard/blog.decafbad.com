@@ -1,0 +1,12 @@
+--- 
+wordpress_id: 211
+layout: post
+title: Where art thou, Bean Markup Project?
+wordpress_url: http://www.decafbad.com/blog/?p=211
+---
+<p>Ack.  Okay, so I started tinkering with <a href="http://www.alphaworks.ibm.com/tech/bml">Bean Markup Language</a> as the configuration glue for my Java app.  So far it seems to be working very nicely and doing everything I want it to do.  The problem, though, is that as I look around for examples and things I notice that it seems as if this project is dead.  I look further, and I realize...  <i>I can't find any source code to this thing.</i>  And here I am working it into the core of my app.</p>
+<p>Well, I'd hate to start over and reinvent this wheel, since it seems to be such a nice wheel.  Between the clean definition of beans and their properties, and the ability to toss little bits of script (using the <a href="http://oss.software.ibm.com/developerworks/projects/bsf">BSF</a>) in there to further tweak things, it seems perfect.  But the apparent abandonment of the project and my lack of source gives me the willies.</p>
+<p>So...  Does anyone out there know anything about what's happened with the <a href="http://www.alphaworks.ibm.com/tech/bml">Bean Markup Language</a> project?  Could anyone get me the source?  Or, could someone point me to an equivalent alternative?  Because, if I can't find source or an equally powerful alternative, I'm tossing around the notion of re-implementing BML with a clone project if the license doesn't prohibit it.</p>
+<p>Or am I completely crazy and barking up the wrong tree to begin with?  Is there a better, more elegant way to create and connect Java components together than this?  And is it free?</p>
+<!--more-->
+shortname=ooobcb

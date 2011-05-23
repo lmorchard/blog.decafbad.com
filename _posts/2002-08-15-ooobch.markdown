@@ -1,0 +1,10 @@
+--- 
+wordpress_id: 217
+layout: post
+title: ChoiceMail, the ultimate anti-spam weapon?
+wordpress_url: http://www.decafbad.com/blog/?p=217
+---
+<p>I just read about <a href="http://www.sfgate.com/cgi-bin/article.cgi?file=/gate/archive/2002/07/30/choicem.DTL">ChoiceMail</a>, a whitelist-based email service that "turns your inbox into the equivalent of your front door" where people have to knock and identify themselves as human via a quick web form (hello, <a href="http://www.cluetrain.com">Cluetrain</a>) before their message is allowed in.  This is exactly the idea I've been <a href="http://www.decafbad.com/news_archives/000192.phtml">tossing around in my head</a> and <a href="http://impressive.net/people/gerald/2000/12/spam-filtering.html">reading about</a> for some time now.</p>
+<p>I would pay for this service in an instant, but unfortunately it apparently <a href="http://www.digiportal.com/product4.html">requires Windows</a>.  So, I just got <a href="http://www.spamassassin.org">SpamAssassin</a> and <a href="http://razor.sourceforge.net">Razor</a> working on home IMAP server, so I think I might just poke at finally implementing a service like <span style='background : #FFFFCE;'><a href="http://www.decafbad.com/twiki/bin/edit/Main/ChoiceMail?topicparent=Main.FilterData"><b>?</b></a><font color="#0000FF">ChoiceMail</font></span> on my own.  Hell, maybe I'll even have it send me Jabber messages for permission confirmation and accept messages for whitelist additions, but keeping everything in the context of email seems better.</p>
+<!--more-->
+shortname=ooobch

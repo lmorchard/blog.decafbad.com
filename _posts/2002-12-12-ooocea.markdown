@@ -1,0 +1,12 @@
+--- 
+wordpress_id: 325
+layout: post
+title: Working on an RDF-based task tracking proof of concept
+wordpress_url: http://www.decafbad.com/blog/?p=325
+---
+<p>So I'm singing the <a href="http://www.decafbad.com/twiki/bin/view/Main/RDF">RDF</a> praises at work today.  I've gone through creating a very small proof-of-concept task tracking vocabulary in <a href="http://www.decafbad.com/twiki/bin/view/Main/RDF">RDF</a>.  Initially, it covers things such as clients, projects, tasks, workers, time card entries.  So far, I just have a vocabulary in RDFS and a sample load of data - both built by hand - but thanks to <a href="http://brownsauce.sourceforge.net" target="_top">the BrownSauce RDF browser</a>, I've been able to show off some nifty things.  I know I've linked to that project two days in a row now, but I think it was seeing things through that browser that finally turned the last tumbler in my mental lock on <a href="http://www.decafbad.com/twiki/bin/view/Main/RDF">RDF</a>.</p>
+<p>As a demo to co-workers, just clicking through the linked resources, I can show who's managing what projects, who's been assigned what tasks, what a given person has worked on, etc.  And I just keep drilling through links showing one view of relations after another.  It's fun.  Someone said it looks like how they breeze through data on fake computers in TV shows.</p>
+<p>Eventually what we want to do, if this proves to be useful, is expand this thing from just task tracking to slurp down more and more knowledge from around the organization and form a semantic intranet.  And, I think it can do it.  I just started getting <a href="http://www.hpl.hp.com/semweb/jena-top.html" target="_top">Jena</a> stashing statements into a <a href="http://www.decafbad.com/twiki/bin/view/Main/MySQL">MySQL</a> database, so my next steps are to start actually working up an application around the data.</p>
+<p>So far so good.  I hope I'm not insane to be thinking this is easy.  Waiting for the enthusiasm to calm down so I can realistically take account of what warts are to be found in the current state of <a href="http://www.decafbad.com/twiki/bin/view/Main/RDF">RDF</a> art.</p>
+<!--more-->
+shortname=ooocea

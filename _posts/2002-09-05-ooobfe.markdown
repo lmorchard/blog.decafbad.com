@@ -1,0 +1,38 @@
+--- 
+wordpress_id: 242
+layout: post
+title: Some quickies
+wordpress_url: http://www.decafbad.com/blog/?p=242
+---
+<ol>
+<li><b>Et tu Dave?</b>
+<br /><br />
+I'm mostly in catch-up mode on the hubbub surrounding <a href="http://www.decafbad.com/twiki/bin/view/Main/RSS">RSS</a>, so I can't say much other than that I like both flavors though I prefer the <a href="http://www.decafbad.com/twiki/bin/view/Main/RDF">RDF</a> approach best.  But... it's <a href="http://groups.yahoo.com/group/syndication/message/3249">strange</a> <a href="http://www.disobey.com/dnn/2002/09/index.shtml#001361">reading</a> <a href="http://winerlog.inspiredsites.net/discuss/msgReader$127">about</a>     <a href="http://tarr.uspto.gov/servlet/tarr?regser=serial&amp;entry=78025336">UserLand's abandoned trademark application for <a href="http://www.decafbad.com/twiki/bin/view/Main/RSS">RSS</a></a>.</li>
+<li><b>Chimera rocks my socks:</b> 
+<br /><br />
+<a href="http://diveintomark.org/archives/2002/09/04.html#chimera_coming_along_nicely">Mark Pilgrim likes Chimera</a>.  Personally, I've been using it as my primary browser for about 5 weeks now, and update to the latest nightly every few days.  I had a glitch or two, but it's come light years from when I first started playing with it and it already seems to leave Mozilla-proper in the dust.</li>
+<li><b>Caffinated scraping:</b>
+<br /><br />
+I've been cobbling together an (X)HTML-to-RSS scraper using what I've learned of Java, XSLT, and XPath lately.  I've been tempted to slap together an aggregator of my own, too, but no: <a href="http://www.decafbad.com/twiki/bin/view/Main/AmphetaDesk">AmphetaDesk</a> has not made me itchy enough to do it.  The scraper might be of some use to someone though.</li>
+<li><b>Strange connectivity urges:</b>
+<br /><br />
+I've been having these strange urges lately to start playing with P2P-ish things again and build a collection of rendevous that piggyback on a number of existing infrastructures (ie. IRC, IM, NNTP, email, etc).  I want to get back on the path of investigating complete decentralization, or at least some robust thing which lies in between.  At the very least, though, I want to start doing some sort of IM-RPCish thing between behind-firewall PCs.  And this Jabber server I just installed on my new <a href="http://www.decafbad.com/twiki/bin/view/Main/JohnCompanies">JohnCompanies</a> system should be nice.  (It's at jabber.decafbad.com)
+</li>
+<li><b>Soaking in <a href="http://www.decafbad.com/twiki/bin/view/Main/LiveJournal">LiveJournal</a>:</b>
+<br /><br />
+Blessed be, I need help:  I've convinced them at work to let me pilot a weblog/journal system on our intranet - and I've started by installing the <a href="http://www.decafbad.com/twiki/bin/view/Main/LiveJournal">LiveJournal</a> source.  
+<br /><br />
+I've also installed LJ here on my new server from <a href="http://www.decafbad.com/twiki/bin/view/Main/JohnCompanies">JohnCompanies</a>, but I'm not quite sure what I want to do with it beyond tweaking and personal hacking.  I've been musing at possibly enhancing some bits - particularly with regards to <a href="http://www.decafbad.com/twiki/bin/view/Main/RSS">RSS</a> syndication and aggregation, maybe some backlink tracking.  
+<br /><br />
+Maybe I'll polish the thing up a bit and offer it up as a sister to LJ where the 15-year-olds will not reign and reciprocal connections with the outside world are encouraged and facilitated.  Would any of you pay for something like that?
+<br /><br />
+This seems pretty ambitious, and it's likely I'll never do it, but hey.
+</li>
+<li><b>And on other fronts:</b>
+<br /><br />
+Still in the underworld with Java, trying to get this project dragged past the finish line.  Jaguar rocks and I took my girlfriend to the Apple Store opening in Novi, MI; we didn't buy anything, though it was close.    There's a second Apple Store opening in my area in Troy, MI; the danger has not passed.  And finally, I have succumbed lately to playing Grand Theft Auto 3 and it has affected my driving and given me pedestrian-smacking instincts to subdue while walking around town.
+</li>
+<li><b>That is all.  For now.</b></li>
+</ol>
+<!--more-->
+shortname=ooobfe

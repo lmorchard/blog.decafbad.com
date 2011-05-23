@@ -1,0 +1,11 @@
+--- 
+wordpress_id: 240
+layout: post
+title: Construction on the orbital mind control laser platform has begun
+wordpress_url: http://www.decafbad.com/blog/?p=240
+---
+<p>So I took the plunge and snagged a <a href="http://www.decafbad.com/twiki/bin/view/Main/FreeBSD">FreeBSD</a> "colocation" account with <a href="http://www.johncompanies.com/collocation/freebsd/index.html">JohnCompanies</a>, to address my <a href="http://www.decafbad.com/news_archives/000252.phtml">desire for more experimental freedom</a> on a server hosted Somewhere Out There.  I may eventually hook up with a few fellow hackers to spread the monthly rent, and I may even consider floating some trial balloon for-pay services - assuming I hack together something I'm presumptious enough to think is worth money.  :)  But for now, the cost is very affordable for what I get.</p>
+<p>So, I haven't dumped my current webhost yet, but I'm slowly going about installing services and software up there, including but not limited to: Apache, mod_perl, <a href="http://www.decafbad.com/twiki/bin/view/Main/PHP">PHP</a>4, Tomcat, Jabber, INNd, IRCd and whatever else seems like a good idea (whether or not it actually is a good idea).  I might even throw a <a href="http://www.decafbad.com/twiki/bin/view/Main/LiveJournal">LiveJournal</a> installation up there.</p>
+<p>And, once I come to my senses, I may pare this list down and disable things until I get around to actually doing real things with them.  More soon, I hope.</p>
+<!--more-->
+shortname=ooobfc

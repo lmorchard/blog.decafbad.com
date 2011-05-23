@@ -1,0 +1,11 @@
+--- 
+wordpress_id: 311
+layout: post
+title: .NET on OS X?
+wordpress_url: http://www.decafbad.com/blog/?p=311
+---
+So... I want to learn and tinker with C# and .NET, but I don't have and don't want to build any Windows machines.  I have some headless Linux machines, but my main daily environment is Mac OS X.  So now I see that <a href="http://msdn.microsoft.com/downloads/default.asp?url=/downloads/sample.asp?url=/msdn-files/027/002/097/msdncompositedoc.xml">The Shared Source CLI 1.0 Release</a> compiles for OS 10.2, and I see that the <a href="http://www.gnu.org/projects/dotgnu/">DotGNU project</a> has some news of a 100% free software release of Portable.Net.  What about Mono?  <a href="http://www.google.com/search?q=mono%20os%20x&amp;sourceid=mozilla-search&amp;start=0&amp;start=0&amp;ie=utf-8&amp;oe=utf-8">Any OS X news</a>?
+<br /><br />
+Or are things still basically in the "You can compile &amp; run Hello World, barely, but don't expect access to any of the standard framework classes or GUI building" stage?  Or are they in an even less developed stage that would make my non-compiler-building branes melt out my ears?
+<!--more-->
+shortname=oooccg

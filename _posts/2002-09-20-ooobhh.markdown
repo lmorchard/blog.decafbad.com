@@ -1,0 +1,9 @@
+--- 
+wordpress_id: 263
+layout: post
+title: FOAF me, FOAF you, FOAF everyone
+wordpress_url: http://www.decafbad.com/blog/?p=263
+---
+For the hell of it, I have a <a href="http://www.decafbad.com/twiki/bin/view/Main/FOAF">FOAF</a> document now: <a href="http://www.decafbad.com/gems/lmo-foaf.rdf">lmo-foaf.rdf</a>.  I don't yet completely understand the spec, but via a referrer left by <a href="http://www.pixelcharmer.com/fieldnotes/">Tanya Rabourn</a>, I found Leigh Dodds'  <a href="http://www.ldodds.com/foaf/foaf-a-matic.html">FOAF-a-matic</a> and gave it a shot.  Need to do more research.
+<!--more-->
+shortname=ooobhh

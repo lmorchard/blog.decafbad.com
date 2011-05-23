@@ -1,0 +1,15 @@
+--- 
+wordpress_id: 239
+layout: post
+title: LiveJournal largely ignored, but why?
+wordpress_url: http://www.decafbad.com/blog/?p=239
+---
+<p>Caught this snippet on <a href="http://www.tweney.com/writing.php?display=322">tweeney.com</a> via <a href="http://www.hyperorg.com/blogger/index.html#85393106">JOHO</a>: "...LiveJournal.com (which most weblog news stories overlook for some reason) boasts more than 650,000 [users]..."</p>
+<p>Why does everyone seem to ignore <a href="http://www.decafbad.com/twiki/bin/view/Main/LiveJournal">LiveJournal</a>?  It's very, very, very rare that I see a <a href="http://www.decafbad.com/twiki/bin/view/Main/LiveJournaller">LiveJournaller</a>'s posts linked into the Blogosphere at large.  Granted, I know that the median user was a 15 year old female who complains about Mom and her boyfriend, when last I checked.  But, as the adage goes: 90% of anything is crap.  There are, nevertheless, a good number of worthwhile streams of narrative in that space.</p>
+<p>On the other hand, I don't see many of the people behind LJ stepping out and making noise in the Outer Blogosphere either.  I think many of them are just plain busy keeping the site afloat, or having lives, and LJ is world enough for them.</p>
+<p>But 650,000 users... that's a lot.  More than Radio and rivalling Blogger.com.  Is there a real qualitative difference in writing between the groups?  I would still imagine there's a lot of crap to be found via Blogger.com.  I'm not sure about Radio, though, since I get the impression that the 15 year olds have yet to flood into the userbase and its following seems more tilted toward professionals.</p>
+<p>But as for the software &amp; service itself...  As far as I can see, LJ is one of the easiest paths out there to starting a weblog/journal online.  And it was one of the first sites I ever encountered that had a desktop-based client app for posting to it.  And, though not prominently placed, they have <a href="http://www.decafbad.com/twiki/bin/view/Main/RSS">RSS</a> feeds for every single journal on the site.  They're even working <a href="http://www.decafbad.com/twiki/bin/view/Main/RSS">RSS</a> aggregation features into the place by gatewaying external <a href="http://www.decafbad.com/twiki/bin/view/Main/RSS">RSS</a> feeds in as special LJ users to be added like any other LJ "friend".</p>
+<p>So, to me, LJ sounds like a top competitor to every other blog/news aggregation product or service out there - yet I rarely hear about it.  Hrm.</p>
+<p>Anyone have a theory why?</p>
+<!--more-->
+shortname=ooobfb

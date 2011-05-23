@@ -1,0 +1,15 @@
+--- 
+wordpress_id: 346
+layout: post
+title: Python RDF repository wanted for web proxy metadata harvester
+wordpress_url: http://www.decafbad.com/blog/?p=346
+---
+Okay, this is getting close to outstripping my enthusiasm and invoking my laziness:  Does anyone happen to have RDFLib and ZODB working under Mac OS X 10.2.3?  Have also tried compiling Redland and its Python and Java APIs, but that's not been a 100% success.  Or can someone recommend another decent <a href="http://www.decafbad.com/twiki/bin/view/Main/RDF">RDF</a> repository to play with under Python?  I've had fun with Jena under Java, love using RDQL, and dig switching between <a href="http://www.decafbad.com/twiki/bin/view/Main/MySQL">MySQL</a> and BDB stores.
+<br /><br />
+I want an <a href="http://www.decafbad.com/twiki/bin/view/Main/RDF">RDF</a> repository I can integrate into my proxy experiments, currently implemented in Python.  I've been very tempted to switch to Java, which I know better and have a better sense of tools available.  But I'm still pulling for Python.  I suppose I <strong>could</strong> just go with an in-memory repository at first, but I don't want to stick with that.
+<br /><br />
+I'm still finishing up the <a href="http://www.decafbad.com/twiki/bin/view/Main/PersonalWebProxy">PersonalWebProxy</a> notes and plan I've been working on, but I've still got an itch to play in code.  The next major thing I want to do is extract as much metadata as I can from every HTML page I visit and load the <a href="http://www.decafbad.com/twiki/bin/view/Main/RDF">RDF</a> repository up with statements based on what I harvest.  Examples would include things like HTML title, visitation date, referring url, any meta tags, any autodiscovered <a href="http://www.decafbad.com/twiki/bin/view/Main/RSS">RSS</a> and <a href="http://www.decafbad.com/twiki/bin/view/Main/FOAF">FOAF</a> URLs, and anything else I could eventually dig out.  Then, I want to amass some data and play with it.  I'm thinking this could give me a kind of uber-history with which to work.
+<br /><br />
+<strong>Update:</strong> Seems like I managed to get Python, RDFLib, and ZODB working, but I started completely from scratch and compiled everything from clean source.  I guess Apple's build of Python has more hiccups in it than just the Makefile thing.
+<!--more-->
+shortname=ooocgc

@@ -1,0 +1,9 @@
+--- 
+wordpress_id: 4
+layout: post
+title: Yay,it all works.
+wordpress_url: http://www.decafbad.com/blog/?p=4
+---
+Now, to remove the front page place holder, get the wiki working, and wrap it all in my sparkly nav.
+<!--more-->
+shortname=ooooad

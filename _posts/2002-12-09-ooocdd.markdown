@@ -1,0 +1,14 @@
+--- 
+wordpress_id: 318
+layout: post
+title: Of arrogance, bluster, and this village idiot
+wordpress_url: http://www.decafbad.com/blog/?p=318
+---
+<p>Tonight, I was perplexed about a comment claiming to be from <a href="http://www.decafbad.com/twiki/bin/view/Main/DaveWiner">DaveWiner</a> - though it could just as easily be from an impostor - on the <a href="http://www.decafbad.com/news_archives/000342.phtml">final installment</a> of my extended <a href="http://www.decafbad.com/twiki/bin/view/Main/XmlRpc">XmlRpc</a> ramblings:<blockquote><i>Pretty arrogant if you ask me. What has LM Orchard contributed to the world? Add more value, less bluster and bullshit.</i></blockquote>I suppose I should have stopped while I was ahead, refraining from rambling on about my case study to begin with, let alone responding to this comment.  But, nonetheless I was bothered tonight, and responded:<blockquote><i>Your comment confuses me.</p>
+<p>I've written that your work has helped me and given me food for thought - despite other disagreements I may have with you. And I've written that a tool of yours I've come to consider imperfect has, nonetheless, worked perfectly for me. These things remind me that I don't know it all and have much to learn and hash out. If this is bluster and bullshit, I certainly didn't intend it as such.</p>
+<p>As for my contributions and value - I'd like to think I'm doing something right in this field, given that I still have a well-paying job and a non-zero readership of my weblog.</i></blockquote>I <strong>was</strong> trying to give a compliment and a positive testimonial, while addressing some of the standard criticisms I'd seen before.  And I wanted to back it up with my own experiences while tempering it with my admitted inexperience.</p>
+<p>But, after having had a decent dinner and a measure of time watching soap operas with my girlfriend on the couch, I've decided that this is what tweaks me about the comment:  What's a weblog for, if it doesn't make room for arrogant bluster and bullshit?  My assumption in writing here is that I know enough or can figure enough out to write things valuable to <strong>someone</strong> - or at least, if I'm wrong, I can still provide myself as a foil of ignorance to someone else's enlightenment.  </p>
+<p>Attacking the process, or the village idiot himself, is not constructive.</p>
+<p>Hope that helps.  Have a nice day.  Please drive through.</p>
+<!--more-->
+shortname=ooocdd

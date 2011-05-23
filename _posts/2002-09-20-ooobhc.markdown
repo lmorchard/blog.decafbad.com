@@ -1,0 +1,10 @@
+--- 
+wordpress_id: 259
+layout: post
+title: Personal contact data aggregators?
+wordpress_url: http://www.decafbad.com/blog/?p=259
+---
+<p>John Robb <a href="http://jrobb.userland.com/2002/09/19.html#a2542">writes</a>: "Wouldn't it be interesting to have an <a href="http://www.decafbad.com/twiki/bin/view/Main/RSS">RSS</a> variant (new name obviously) for subscribing to personal contact data off of weblogs?"</p>
+<p>I read that DJ Adams <a href="http://www.pipetree.com/qmacro/2002/Jul/15#foaf">was just playing</a> with <a href="http://xmlns.com/foaf/0.1/">FOAF</a> not too long ago, and at the time it made me want to dig into <a href="http://www.decafbad.com/twiki/bin/view/Main/RDF">RDF</a> more.  But, work got busy and I promptly got distracted away.  If anything, though, I could see something like <a href="http://www.decafbad.com/twiki/bin/view/Main/FOAF">FOAF</a> being really nice as a start for this purpose.  Of course, there's <a href="http://www.imc.org/pdi/">vCard</a>, but I think it wouldn't be very hard to convert to it from <a href="http://www.decafbad.com/twiki/bin/view/Main/FOAF">FOAF</a>.  The universality and connectivity that <a href="http://www.decafbad.com/twiki/bin/view/Main/RDF">RDF</a> could bring to this seem terribly nice.  Throw in periodic auto-refresh, either literally by scheduled re-query, or by pub/sub notification, and you've got a neat auto-updating address book just for starters.</p>
+<!--more-->
+shortname=ooobhc

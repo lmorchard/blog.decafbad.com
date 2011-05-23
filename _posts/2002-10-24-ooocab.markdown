@@ -1,0 +1,11 @@
+--- 
+wordpress_id: 287
+layout: post
+title: Not dead yet.
+wordpress_url: http://www.decafbad.com/blog/?p=287
+---
+Still alive...  I think.  Have worked about 40 or 50 hours in the past 3 days.  First release of work project happens tomorrow, after which I hope to take a 4 day vacation to celebrate my and my girlfriend's birthday (Oct 24, same day).
+<br /><br />
+Some revelations over the last few days:<ul><li>October is not 31 days long - it is 31 days and one hour long.</li><li>Java has a class to handle date manipulations that I forgot to use, for some reason - but now that I know about it, there's some major rearchitecting in store to use it.</li><li>I'm tired of bar graphs, web server logs, and explaining how the tea leaves are read.</li><li>I like my new Treo Communicator - it is great for playing <a href="http://roguelike-palm.sourceforge.net/kMoria/index.php">kMoria</a> (but not <a href="http://www.nethack.org">NetHack</a>) and quickly SSH'ing into a server from bed to restart a process about whose death I was paged on the same device.  (ooh, what if the pager message could contain a button to connect to the server crying wolf?)</li><li>I've come to realize that I enjoy playing <a href="http://www.decafbad.com/twiki/bin/view/Main/NetHack">NetHack</a> and kMoria between compile-and-test cycles at 3AM better than I ever enjoyed Everquest in quieter times.</li><li>On the drive home, as the sun was rising, I was trying to think of just what aspects of Everquest (beyond graphics and besides multiplayer) are better than the family of Rogue-like games.  And...  could someone hack together a Rogue-like UI with which one could play Everquest?</li><li>Also on the drive home, I was thinking that I'd like to take a break from being a geek and a software architect altogether, and maybe raise sheep and make sweaters for awhile.  What do you think?</li><li>Hernias suck, and impending surgery is stress-inducing.</li></ul>Hopefully I'll be recovered and returned to the world after next week.  I've been vaguely poking my head in and around the neighborhood, but with my iBook suffering from seizures and my brain feeling like an alien abduction aftermath, I'll have a lot of catching up to do.
+<!--more-->
+shortname=ooocab

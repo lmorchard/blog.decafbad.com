@@ -1,0 +1,35 @@
+--- 
+wordpress_id: 580
+layout: post
+title: Building an Address Book as a Modern Web App
+excerpt: So, in the spirit of pico-projects, I've started building that address book application I mentioned awhile ago and I want to start writing about it as I go.
+wordpress_url: http://www.decafbad.com/blog/?p=580
+---
+<img src="http://www.decafbad.com/2004/12/abook-architecture.jpg" align="right" />
+
+So, in the spirit of [pico-projects][pp], I've started building [that address book application][ab] I mentioned awhile ago and I want to start writing about it as I go.
+
+[pp]: http://www.decafbad.com/blog/2004/11/30/picoprojects_and_trepanation
+[ab]: http://www.decafbad.com/blog/2004/11/30/nextgenwebapps
+
+First off, hopefully you'll notice the quick diagram I threw together in OmniGraffle.  This is a sort of rough sketch of the loosely-joined architecture I want to explore with this thing.  
+
+* *Data*: This is where address book entries live.
+* *Model*: A set of objects encapsulating the data, this is how address book entries will be accessed.
+* *REST API*: Model objects exposed as resources identified by URI, serialized and deserialized as XML, and manipulated by GET / PUT / POST / DELETE methods.
+* *XSLT Filter*: XML data produced by REST API calls can be first passed through XSL at a given URL before being served up as a response.  
+* *HTML, CSS, JavaScript*: Thanks to the XSLT filter layer, the XML vocabulary used to describe address book entries can be transformed into user interface presentation.
+* *HTTP*: Everything happens via HTTP...
+* *Web Browser Client*: ...and everything is viewed in a web browser.
+
+Now, I call this a loosely-joined architecture because I want to stress that you should be able to swap out just about any part of this whenever you want.  
+
+Want the *Data* to be in MySQL?  Fine.  Want it to be in flat files?  Fine.  Just make sure the *Model* can cope while maintaining a consistent interface for the *REST API*.  Want to change the user interface in the browser?  Great-- ideally, all you have to do is change some XSLT files.  I'm writing everything from the *XSLT Filter* down to the *Model* in Python.  Don't like that?  Fine.  Rewrite it all in Perl, and hopefully everything from the XSLT up to the browser will still be useful to you.
+
+At some point, you might even want to ditch the browser for a native desktop client.  Fabulous! Just ignore everything past the *REST API* and *HTTP*, don't use any XSLT in the *Filter*, and use the API and XML directly.
+
+I don't think any of this is particularly revolutionary-- although I thought it was when I first saw Amazon Web Services doing some of this, and I hope to throw a little GMail in as well.  I hope that this will all be useful as I muddle through explaining what I'm doing.  In the meantime, you can see me getting the stage set as I start checking things into my Subversion repository over here:
+
+* [http://www.decafbad.com/svn/trunk/hacks/abook/](http://www.decafbad.com/svn/trunk/hacks/abook/)
+<!--more-->
+shortname=abook1

@@ -1,0 +1,21 @@
+--- 
+wordpress_id: 335
+layout: post
+title: PersonalWebProxy as personal Google and Wayback machine
+wordpress_url: http://www.decafbad.com/blog/?p=335
+---
+Matt Griffith <a href="http://matt.griffith.com/weblog/stories/2002/12/22/jogMyPersonalGoogleampWaybackMachine.html">proposes a virtual project</a>: Jog.  For the most part, what he wants is what I want from my <a href="http://www.decafbad.com/twiki/bin/view/Main/PersonalWebProxy">PersonalWebProxy</a>, and more.  
+<br /><br />
+The big difference in the writing, though, is that Matt writes from features and what he wants, where I'm already describing things in terms of implementation.  That is, I started talking about "proxy" where he's talking about "my personal Google and Wayback machine".  I think looking at it that way makes a more compelling case for this thing being generally useful, rather than just some nerdy toy.
+<br /><br />
+Another way I'm looking at this <a href="http://www.decafbad.com/twiki/bin/view/Main/PersonalWebProxy">PersonalWebProxy</a> is as an assistant in a sidecar attached to my browser.  I want this assistant to watch me, learn, and pipe up from time to time with suggestions.  I also want to be able to ask questions and to remind me of things I vaguely remember.  Eventually, I'd like this assistant to be able to drive for me from time to time, doing some info hunter-gatherer work for me while I do other things.
+<br /><br />
+I'm still working on this thing.  So far I've got a proxy in Python and a simple-minded plugin framework.  Two plugins so far: one is a cookie jar separated from any browser - that is, cookies are managed in the proxy, not in the browser; the other is a little thing based on Mark Pilgrim's <a href="http://diveintomark.org/archives/2002/08/15.html">rssfinder.py</a> that quietly seeks out and gathers <a href="http://www.decafbad.com/twiki/bin/view/Main/RSS">RSS</a> links from every text/* resource I view.  It seems to be standing up fairly well.
+<br /><br />
+My next steps are something along these lines:  Should I continue in Python?  To do so means delving deeper into Twisted, using their web app framework for the management UI and staying within their event-driven paradigm in lieu of threading.  The reason I first chose Python is because I wanted something that was quickly and easily hackable and fun to contribute plugins for.  Does this still apply, if things are deep in the Twisted mindset which is not <strong>quite</strong> straightforward?
+<br /><br />
+On the other hand, I took a peek at <a href="http://jetty.mortbay.org/jetty/">Jetty</a> in Java, which also comes with a simple and hackable HTTP proxy implementation.  I could easily cobble together in Java what I have in Python using this.  I would also say that I could easily make it compatible with whatever plugins were written for the Python version, using Jython, but there's also a paradigmatic difference were I to go with Java:  Threads in lieu of event-driven design.
+<br /><br />
+Maybe I'm thinking too much about this and should just keep doing what I'm doing.  I'm trying to think and second guess a lot about what anyone who might care to play with this thing would actually care about.   As for myself, I seem to be having fun with things as is.
+<!--more-->
+shortname=ooocfb

@@ -1,0 +1,9 @@
+--- 
+wordpress_id: 226
+layout: post
+title: And I didn't even know 0xDECAFBAD had soul!
+wordpress_url: http://www.decafbad.com/blog/?p=226
+---
+<p>Well, imagine that!  <a href="http://www.furrygoat.com/">Someone</a> <a href="http://www.furrygoat.com/Misc/Thanks.html">doing something</a> <a href="http://www.decafbad.com/thanks-for-feeding-me.phtml">in the spirit of</a> <a href="http://www.decafbad.com">my site</a>!  <strong>Neat!</strong>  :)</p>
+<!--more-->
+shortname=ooobdh

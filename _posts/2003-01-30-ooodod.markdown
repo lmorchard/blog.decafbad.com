@@ -1,0 +1,14 @@
+--- 
+wordpress_id: 373
+layout: post
+title: INN + blagg + plugin = News Aggregation via NNTP
+wordpress_url: http://www.decafbad.com/blog/?p=373
+---
+<blockquote cite="http://www.pipetree.com/qmacro/2003/01/29#nntp">I couldn't resist a bit of tinkering with NNTP, partly to follow up a little bit myself on <a href="http://www.decafbad.com/twiki/bin/view/Main/RSS">RSS</a> to/via NNTP, but mostly in fact to re-acquaint myself with the wonderfully arcane configuration of the  majestic beast that is inn . In addition, there's been talk recently of aggregators moving out of the realms of satellite applications and into the browser itself. The Blagg and Blosxom powered Morning Reading page - my personal (but open) news aggregator - is already web-based, so I thought I'd have a look in the other direction. </blockquote><div class="credit" align="right"><small>Source:<cite><a href="http://www.pipetree.com/qmacro/2003/01/29#nntp">DJ's Weblog: Tinkering with RSS and NNTP </a></cite>.</small></div>
+<p>I've been toying around with doing this with <a href="http://www.isc.org/products/INN/" target="_top">inn</a> for quite some time now, so I'm happy to see someone else actually follow through and give it a whirl.  And, using <a href="http://www.oreillynet.com/~rael/lang/perl/blagg" target="_top">blagg</a> with a <a href="http://www.pipetree.com/~dj/2003/01/nntp.pl" target="_top">plugin</a> to do the posting seems just the right twist of clever.</p>
+<p>Yeah, inn's a beast and meant for Usenet-scale beating, but it's Just There on many Linux installations.  And blagg seems to do a decent job of prying content out of <a href="http://www.decafbad.com/twiki/bin/view/Main/RSS">RSS</a> feeds, with just a few regular expression incantations.  DJ didn't have to reinvent an NNTP server, or create a brand new aggregator - just a few tweaks and glue, and two existing apps are joined in a completely new and interestingly complementary way.</p>
+<p>Though one thing he says:  "As I saw it, there are two approaches to newsgroup article creation ... Send items from all weblogs to the same newsgroup ... Send items from each weblog to a separate newsgroup."  First thing I was wondering is:  Why not cross-post the articles and have both?</p>
+<p>And then there're the ideas for experimentation that come first to mind: "... Combining the various weblog trackbacking mechanisms with NNTP article IDs to link  articles together in a thread; replying (to the newsgroup) to an  article might send a comment to the post at the source weblog."</p>
+<p>Kinda retro, kinda nouveau, joining the new distributed <a href="http://www.decafbad.com/twiki/bin/view/Main/RSS">RSS</a> net up with the semi-distributed NNTP net.</p>
+<!--more-->
+shortname=ooodod

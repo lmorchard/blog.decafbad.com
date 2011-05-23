@@ -1,0 +1,10 @@
+--- 
+wordpress_id: 192
+layout: post
+title: LiveJournal adds news aggregation
+wordpress_url: http://www.decafbad.com/blog/?p=192
+---
+<p>So last month, the crew at <a href="http://www.livejournal.com">LiveJournal</a> finally <a href="http://www.decafbad.com/news_archives/000178.phtml">fixed <a href="http://www.decafbad.com/twiki/bin/view/Main/RSS">RSS</a> feeds on all journals</a>.  This month, <a href="http://www.livejournal.com/talkread.bml?journal=news&amp;itemid=58000&amp;view=2371984#t2371984">LiveJournal becomes a centrallized news aggregator</a>.  Plenty of paths in and out of the LJ "gated community" now to wire everyone up into blogspace at large.  This kind of tweak-by-tweak improvement is one reason why I stick around <a href="http://www.livejournal.com">LiveJournal</a>.  (I just hope that they're polite about it and periodically poll <a href="http://www.decafbad.com/twiki/bin/view/Main/RSS">RSS</a> feeds sparsely for the entire userbase. :)  I assume they're smart enough to figure that out.)  </p>
+<p>Need to get back to that <a href="http://www.decafbad.com/news_archives/000203.phtml">LJ for K-Logs</a> project...</p>
+<!--more-->
+shortname=ooobac

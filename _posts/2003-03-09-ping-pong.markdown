@@ -1,0 +1,17 @@
+--- 
+wordpress_id: 391
+layout: post
+title: Ping Pong to Weblogs Dot Com
+wordpress_url: http://www.decafbad.com/blog/?p=391
+---
+<a href="http://simon.incutio.com/archive/2003/03/09/aPleaForPings" target="_top">Simon Willison writes</a>
+that he'd read my blog more if I
+<a href="http://newhome.weblogs.com/faq#howCanMyWeblogParticipateInWeblogscom" target="_top">pinged weblogs.com</a>
+more often.  I used to, via <a href="http://www.decafbad.com/twiki/bin/view/Main/MovableType">MovableType</a>, but my new blog doesn't.  Enter
+<a href="http://www.raelity.org/apps/blosxom/plugins/notification/ping_weblogs_com.individual" target="_top">ping_weblogs_com</a>,
+a <a href="http://www.raelity.org/apps/blosxom/" target="_top">Blosxom</a> plugin to ping weblogs.com.  I've
+just installed it.
+<br /><br />
+Let's see if he notices.  :)
+<!--more-->
+shortname=ping_pong

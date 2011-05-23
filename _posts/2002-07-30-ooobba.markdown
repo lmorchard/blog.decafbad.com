@@ -1,0 +1,11 @@
+--- 
+wordpress_id: 200
+layout: post
+title: Throwing out babies with bathwater
+wordpress_url: http://www.decafbad.com/blog/?p=200
+---
+<p>From <a href="http://www.theshiftedlibrarian.com/2002/07/29.html#a2690">The Shifted Librarian</a>:<blockquote><i>I am a media company's dream. I get the whole digital cable package, I love music and own hundreds of CDs, I frequently go to movie theaters, my study is lined with books, I like DVDs because of the extras and the quality of the picture, I attend plays, I like going to concerts, I take my media with me, and I've always wanted my MTV.</i></blockquote>Ditto, on everything but the plays.  (I really need to start getting out to the great performances in my area.)  Here I am looking at ways to more effectively consume just the media I like, even to the point of building my own somewhat pricey entertainment-center PC to take care of DVR and radio recording functions.  I really would pay someone to help me with this, and not screw with me after.  And I really would rather pay for TV and radio, in return for zero-advertising (including product placement).</p>
+<p>/me jumps and waves at the satellites.  Hi up there.  I'm one of your best customers.  I have money.  /me waves money.  But you're not getting it unless you do what I want.  Hmm.</p>
+<p>Between Hollywood and my lovely government...  were this back in the days of eyepatches and parrots, they'd've had the Seven Seas drained to catch the scurvy bastards and then wondered where all the spices went at dinner time.</p>
+<!--more-->
+shortname=ooobba

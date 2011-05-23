@@ -1,0 +1,9 @@
+--- 
+wordpress_id: 276
+layout: post
+title: Dangerous BlogWalking
+wordpress_url: http://www.decafbad.com/blog/?p=276
+---
+Seen at <a href="http://www.hiptop.com">HipTop.com</a>:<blockquote><i>Hiplogs Online Journals—It's your chance to be a star! You and your trusty T-Mobile Sidekick, that is. Share your deepest thoughts or wildest whims online with a public journal you can update on the go!</i></blockquote>See?  <a href="http://www.decafbad.com/twiki/bin/view/Main/BlogWalking">BlogWalking</a> is a nascent meme!  Or something.  Yeah!
+<!--more-->
+shortname=ooocoa

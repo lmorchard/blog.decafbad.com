@@ -1,0 +1,40 @@
+--- 
+wordpress_id: 374
+layout: post
+title: An end to my referrer abuse
+wordpress_url: http://www.decafbad.com/blog/?p=374
+---
+<blockquote cite="http://kalsey.com/blog/2003/01/referral_abuse/index.html">Amen. I&#8217;ve always found it irritating that news aggregators insert their URL into the referrer field. ... It would be nice if there was some sort of browser header the aggregator could send to identify itself instead of using the referrer field. Oh, that&#8217;s right, there is. It&#8217;s called User-Agent. 
+<p>The user agent field is designed for browsers, robots, and other user agents to identify themselves to the Web server. You can even add additional information, like a contact URL or email address. I&#8217;d like to see aggregators start using it. <br />
+</blockquote><div class="credit" align="right"><small>Source:<cite><a href="http://kalsey.com/blog/2003/01/referral_abuse/index.html">Kalsey Consulting Group: Referral Abuse</a></cite>.</small></div></p>
+<p>Hmm, being mostly a standards neophyte, I <a href="http://www.decafbad.com/news_archives/000185.phtml#000185" target="_top">thought this was a great idea</a>, you know, <a href="http://www.decafbad.com/twiki/bin/view/Main/NeatLikeDigitalWatches">NeatLikeDigitalWatches</a>.  I thought this was more a semi-clever <strong>overloading</strong> of the referer, rather than outright abuse.  And this, I thought, was reasonably okay since there wasn't, I thought, anywhere else to stick a backlink to myself while consuming <a href="http://www.decafbad.com/twiki/bin/view/Main/RSS">RSS</a> feeds.</p>
+<p>Well, yeah, now that I read some of the complaints against this use of referers, I agree.  And, yes, now that I read the fine RFC, I see that the User-Agent string is more appropriate for this purpose.</p>
+<p>So!  From now on, hits from my copy of <a href="http://www.decafbad.com/twiki/bin/view/Main/AmphetaDesk">AmphetaDesk</a> will leave behind a User-Agent string similar to this:</p>
+<p><code>"AmphetaDesk/0.93 (darwin; http: //www.disobey.com/amphetadesk/; http: //www.decafbad.com/thanks-for-feeding-me.phtml)"</code></p>
+<p>I tack my own personal thanks URL onto the end of the list within the parenthesis.  In addition, I no longer send a referrer string when I download <a href="http://www.decafbad.com/twiki/bin/view/Main/RSS">RSS</a> feeds.  How did I do it?  Very simply.</p>
+<p>First, I modify my <code>AmphetaDesk/data/mySettings.xml</code> file by hand to supply a blank referer and a new user URL (having some angle-bracket problems, bear with me):<blockquote><code><br />
+[user]<br />
+&nbsp;&nbsp;&nbsp;&nbsp;... <br />
+&nbsp;&nbsp;&nbsp;&nbsp;[http_referer][/http_referer]<br />
+&nbsp;&nbsp;&nbsp;&nbsp;[user_url]http://www.decafbad.com/thanks-for-feeding-me.phtml[/user_url]<br />
+&nbsp;&nbsp;&nbsp;&nbsp;...<br />
+[/user]<br />
+</verbatim><br />
+</code></blockquote>Second, I modified <code>AmphetaDesk/lib/AmphetaDesk/Settings.pm</code> to account for the new setting:<blockquote><code>...<br />
+   $SETTINGS{user_http_referer}               = "http://www.disobey.com/amphetadesk/";<br />
+   $SETTINGS{user_user_url}                   = "http://www.disobey.com/amphetadesk/";<br />
+   $SETTINGS{user_link_target}                = "_blank";<br />
+...</code></blockquote>Third, I modified the <code>create_ua()</code> subroutine in <code>AmphetaDesk/lib/AmphetaDesk/WWW.pm</code> to actually use the new setting:<blockquote><code><br />
+sub create_ua {<br />
+...<br />
+&nbsp;&nbsp;&nbsp;&nbsp;my $ua = new LWP::UserAgent; $ua->env_proxy();<br />
+&nbsp;&nbsp;&nbsp;&nbsp;$ua->timeout(get_setting("user_request_timeout"));<br />
+&nbsp;&nbsp;&nbsp;&nbsp;my ($app_v, $app_u, $app_o, $user_u) = (get_setting("app_version"),<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;get_setting("app_url"), get_setting("app_os"), get_setting("user_user_url"));<br />
+&nbsp;&nbsp;&nbsp;&nbsp;$ua->agent("AmphetaDesk/$app_v ($app_o; $app_u; $user_u)");<br />
+...<br />
+}<br />
+</code></blockquote>And voila - no more referer abuse.  If you want to discover my thank-you message, examine the User-Agent string.  Seems like this would be a good idea for all news aggregators to pick up.  And if I get ambitious and have spare time today, I'll be sending off a patch to <a href="http://www.disobey.com/about/morbus.shtml" target="_top">Morbus</a> &amp; friends later today.</p>
+<p><b>Update</b>: Gagh!  This has been the hardest post to try to format correctly within the fancy schmancy auto-formatting widgets I have piped together.  All apologies for content resembling garbage.  I think I'll use this excuse in the future whenever I write something completely daft.  (Which means I'll be using it a lot, most likely.)</p>
+<!--more-->
+shortname=ooodoe

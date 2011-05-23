@@ -1,0 +1,21 @@
+--- 
+wordpress_id: 345
+layout: post
+title: Stumbling through compiling Standalone ZODB for Mac OS X
+wordpress_url: http://www.decafbad.com/blog/?p=345
+---
+Just in case this wasn't common knowledge, it seems there's a bit of a boo-boo in Jaguar's installation of Python that sticks it head up when one tries to compile extentions (like, oh say, the <a href="http://www.zope.org/Products/StandaloneZODB" target="_top">Standalone ZODB</a>).
+<br /><br />
+Line 62 of <code>/usr/lib/python2.2/config/Makefile</code> reads:
+<br /><br />
+<code>LDFLAGS=        -arch i386 -arch ppc</code>
+<br /><br />
+But, I <strong>think</strong> should read:
+<br /><br />
+<code>LDFLAGS=        -arch ppc</code>
+<br /><br />
+Making this change appears to have gotten the thing compiling, though it may also cause my iBook to eventually self-format since I barely understand everything involved.
+<br /><br />
+Ugh, though now that everything's compiled without hitch, the test script goes belly up with a bus error.  Time to go back googling to find a solution or somewhere to whine.  I may also swap back into Java, since I like Jena better than anything I've found in Python for <a href="http://www.decafbad.com/twiki/bin/view/Main/RDF">RDF</a> support.
+<!--more-->
+shortname=ooocgb

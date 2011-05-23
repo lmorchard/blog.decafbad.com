@@ -1,0 +1,23 @@
+--- 
+wordpress_id: 270
+layout: post
+title: Automated Pingback vs Human Talkback - Which is more humane?
+wordpress_url: http://www.decafbad.com/blog/?p=270
+---
+I completely disagree with <a href="http://www.ozzie.net/blog/2002/09/25.html#a65">Ray Ozzie</a> ("I'm thinking right now that I'd prefer to stick with human talkback rather than automated pingback"), <a href="http://jrobb.userland.com/2002/09/25.html#a2597">John Robb</a> ("I don't want pingback, trackback, or refererback."), and <a href="http://radio.weblogs.com/0105852/2002/09/25.html#a1192">Sam Gentile</a> ("Amen to that.").
+<br /><br />
+I want as much automated and intervention-free invitation to participation in my blog as I can provide.  I want <a href="http://radio.weblogs.com/0101679/stories/2002/03/13/manufacturedSerendipity.html">manufactured serendipty</a> to operate here while I'm away or asleep.  I want this site to help me discover connections and uncover links, whether by automated agent or by friendly visitor.  I want to lower the thresholds to interaction as far as I can.  I love it when I've seen a few visitors to my site talk amongst themselves while I was on my drive to work.
+<br /><br />
+Of course, I've never been cracked or assaulted by an exploit of my systems.  I don't have unwanted stalkers or abusive anti-fans or malicious kids or babbling spammers after me in this space.  Perhaps if I did, my systems might not tend toward such openness.  I think this is a statement on many things beyond blogs, but that's a post for other days.  Maybe some day I'll have these negative elements facing me, and I'll have to revise my systems and their direction to account for them.
+<br /><br />
+On the other hand, I've got a naive notion that the openness itself can counteract much of the reason to become closed in the first place.  Should the need arise, I think I can come up with some measures to deflect inane and juvenile attacks.  As for spammers, I tend to think that their days are numbered anyway - but if they do arrive on my weblog I think I can leverage many of the technologies I use right now with great effectiveness on my email inbox.  But, to defuse real frustration behind attacks, I tend to think that <strong>more</strong> communication, not less, is what's needed.
+<br /><br />
+But I'm not sure at all, though, whether or not the threat of abuse is what motivates Ray and John to leave automated discussion channels closed.  It's just one motive I've seen discussed before.  I think they want more "human" and personal contact.
+<br /><br />
+With regards to that:  The irony in my life is that, with my lack of much free time,  automated agents, aggregators, and weblogs have given me more personal contact with human beings than I might have been able to achieve without them.  I'm trying to remember the thread a few months ago between <a href="http://www.decafbad.com/twiki/bin/view/Main/DaveWiner">DaveWiner</a>, <a href="http://www.decafbad.com/twiki/bin/view/Main/JonUdell">JonUdell</a>, and others concerning humans with the uncanny ability to connect other people together.  This very thing was supposed:  That aggregators and weblogs could augment one's ability to act as such a superconnector.  In that regard, I consider my agents, aggregators, and weblogs as integral to me as the new and improved pair of glasses I picked up last week.  Just as I can't see road signs without my glasses, I can't keep track of people without my agents.
+<br /><br />
+<a href="http://www.decafbad.com/twiki/bin/view/Main/ShareAndEnjoy">ShareAndEnjoy</a>.
+<br /><br />
+<strong>Update:</strong> And happily, Greg Graham, someone I've not met before, sends me an <a href="http://theologynotes.org/archives/000013.html#000013">unexpected <a href="http://www.decafbad.com/twiki/bin/view/Main/TrackBack">TrackBack</a> ping</a> and invites me to another blog I've never visited.
+<!--more-->
+shortname=ooobie

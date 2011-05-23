@@ -1,0 +1,17 @@
+--- 
+wordpress_id: 381
+layout: post
+title: Agent Frank's first download?
+wordpress_url: http://www.decafbad.com/blog/?p=381
+---
+<blockquote cite="http://beattie.info/notebook/20030215.html#131352">Les has been very quiet lately, but that's because he's been heads down working on his Personal Proxy he's dubbed "Agent Frank" (it's got a little logo and everything). He just set up an Agent Frank <span style='background : #FFFFCE;'><a href="http://www.decafbad.com/twiki/bin/edit/Main/WikiPage?topicparent=Main.FilterData"><b>?</b></a><font color="#0000FF">WikiPage</font></span> with download and install instructions. 
+<p>I'm downloading now (it's pretty huge - like 11 megs), but the Wiki page has lots of good info, including Les' new acronym, PIIC. ... Very cool. I'm going to start playing right now. <br />
+...<br />
+Later... Urgh! It's GPLed! Bleh! </blockquote><div class="credit" align="right"><small>Source:<cite><a href="http://beattie.info/notebook/20030215.html#131352">The UPP Lives: OxDECAFBAD Launches Agent Frank </a></cite>.</small></div></p>
+<p>So Russell noticed my late night release of <a href="http://www.decafbad.com/twiki/bin/view/Main/AgentFrank">AgentFrank</a>.  Cool!  Hope it actually works for him.</p>
+<p>Currently it's very big, because it's got everything in it, all the JARs and the kitchen sink from everything I thought I'd start using at some point.  My actual original code is likely less than 100k so far, if that.  Suggestions are <strong>more</strong> than welcome.  </p>
+<p>The same goes for the license - all I want out of this thing is to share it and get interested tinkerers tinkering.  It'd be nice if anyone who tinkers with it gets credit for said tinkering, but that's about all I care about.  Hell, if it gets incorporated into a commercial product, I'd like some credit, and some cash would be nice, but otherwise I'd just be flattered.  Is there a license to cover that?  Maybe I should research a <a href="http://www.decafbad.com/twiki/bin/view/Main/ShareAndEnjoy">ShareAndEnjoy</a> license.</p>
+<p>This first code dump is very much premature - I'm not even pretending that this deserves a version number.  It's more a conversation piece and an a tangible starting point to play with things I've been thinking.  It's 99% crap code that apparently works, at this point.  I fully expect it to get rewritten before it rates a version number.</p>
+<p>So... have at it.  Play with it, make fun of it, send me patches and abuse.</p>
+<!--more-->
+shortname=ooodab

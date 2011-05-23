@@ -1,0 +1,9 @@
+--- 
+wordpress_id: 15
+layout: post
+title: Second verse, same as the
+wordpress_url: http://www.decafbad.com/blog/?p=15
+---
+Second verse, same as the first.  Everybody sing!
+<!--more-->
+shortname=ooooco

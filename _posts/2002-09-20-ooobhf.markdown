@@ -1,0 +1,15 @@
+--- 
+wordpress_id: 261
+layout: post
+title: The line between man and machine
+wordpress_url: http://www.decafbad.com/blog/?p=261
+---
+Saw this on <a href="http://weblog.infoworld.com/udell/2002/09/19.html#a415">Jon Udell's blog</a> via the <a href="http://rdfig.xmlhack.com/2002/09/20/2002-09-20.html#1032491227.386827">#RDFIG chump feed</a>, <a href="http://weblog.infoworld.com/udell/2002/09/19.html#a415">from Sergey Brin</a>: "I'd rather make progress by having computers understand what humans write, than by forcing humans to write in ways computers can understand."
+<br /><br />
+Well, sandro on #rdfig writes "Why am I arguing with a sound-bite?"  Why not? :)  Here's a counter-sound-bite:  Use Newton handwriting recognition, then try Palm's Graffiti and come back and tell me which seemed more worth while.
+<br /><br />
+The way I look at it, people have muscle memory and can form habitual patterns  and can adapt around interfaces that can become transparent and second nature.  That is, if the interface doesn't go <em>too</em> far away from usability.  I think Graffiti was a good compromise between machine and human understanding.  Let the machine focus with its autistic intensity on the task at hand, and let the human fill in the gaps.  This is why I fully expect to see Intelligence Amplification arrive many, many moons before Artificial Intelligence arrives, if ever.
+<br /><br />
+I doubt that machines will ever come up far enough to meet man, but man and machine can meet halfway and still have an astonishing relationship.  So, one can spend enormous resources trying to make computers understand people (who barely understand themselves), or we can make understandable interfaces and mostly intelligible systems and fudge the rest.
+<!--more-->
+shortname=ooobhf

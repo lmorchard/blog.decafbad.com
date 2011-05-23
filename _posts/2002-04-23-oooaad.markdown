@@ -1,0 +1,12 @@
+--- 
+wordpress_id: 94
+layout: post
+title: You are a beautiful and unique snowflake, to me anyway.
+wordpress_url: http://www.decafbad.com/blog/?p=94
+---
+<p>Prof Avery <a href="http://kavery.ecs.fullerton.edu/index.cgi/2002/Apr/23#1019549720">writes</a>:<blockquote><i>Bad enough that the IM blog idea isn't new, the 0xDECAFBAD guy beat me to <a href="http://www.decafbad.com/news_archives/000087.shtml#000087">"404 Correction" in a Personal HTTP Proxy via Google's Cache</a>.</p>
+<p>Oh well, guess there's only one thing for me to do: quit whining and write the code...</i></blockquote>So I'm the 0xDECAFBAD guy now, eh?  Hee-hee.</p>
+<p>Well, I haven't gotten around to writing the proxy yet, so <i>you</i> can beat <i>me</i> to <i>that</i> still. :)  I've had a metric ton of good and sometimes new ideas throughout my relatively short life, but I have a habit of not getting very many of them done.  <i>That's</i> where it counts, not necessarily in the novelty of the idea.</p>
+<p>I mean...  just look at Microsoft.</p>
+<!--more-->
+shortname=oooaad

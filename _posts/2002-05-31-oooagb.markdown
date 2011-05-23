@@ -1,0 +1,13 @@
+--- 
+wordpress_id: 151
+layout: post
+title: Beyond Backlinks, LiveJournal connections, and David Brin's Earth
+wordpress_url: http://www.decafbad.com/blog/?p=151
+---
+<p>Sam Ruby wants to go <a href="http://radio.weblogs.com/0101679/stories/2002/05/31/beyondBacklinks.html">Beyond Backlinks</a>, and I'm right there with him.  He writes about the various means we've tried so far to discover connections (ie. referrers and linksback and <a href="http://radio.weblogs.com/0100887/2002/05/28.html#a268">Jon's analysis</a> of blogroll connections), and muses further.  I love the idea of further automation in surprisingly discovering connections and automatically exploring other feeds, based on discovered connections.</p>
+<p>A plug for <a href="http://www.livejournal.com">LiveJournal</a>:  I love their <a href="http://www.livejournal.com/userinfo.bml?user=deus_x">user info pages</a>.  I've been idly musing for a while now on how one might decentralize this and extend it web-wide throughout blogspace.  I love seeing the <b>friends</b> and <b>friends-of</b> lists, analogous to blogrolls and inverse-blogrolls.  And, I really love the <b>interests</b> lists, since just by entering a catalog of phrases, you can see unexpected links to other people interested in the same things.  Not quite correlations or deep analysis, but it helps.  </p>
+<p>But it's the decentralization that rubs.  I could probably start a service that provides user info page workalikes to bloggers.  I could offer it for free, but then I might get popular and have to pay more for my altruism than I can afford.  (Sometimes I worry about <a href="http://www.blogrolling.com">BlogRolling.com</a>.)  I could offer it for a small fee, but then the service would probably never see widespread use.  Were it decentrallized, I could write some software, and others could pay their own way in server resources.  More to think about this.</p>
+<p>Also, if I can get time this weekend, there are a lot of parts of <a href="http://www.amazon.com/exec/obidos/ASIN/055329024X/0xdecafbad-20">David Brin's novel, Earth,</a> that I'd like to babble about.  Reading it right now, and seeing that he wrote it just around 1990, I'm amazed at how fresh it still is.  Sci-fi and speculative fiction rarely stand the test of years and unexpected advances, but a lot of the stuff in this book - particularly about the way in which people deal with information, how they discuss and create and manage it - seems to be happening <i>right now</i>.</p>
+<p>Anyway, more soon.</p>
+<!--more-->
+shortname=oooagb

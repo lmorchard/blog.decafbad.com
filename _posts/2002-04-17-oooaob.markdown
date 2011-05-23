@@ -1,0 +1,11 @@
+--- 
+wordpress_id: 82
+layout: post
+title: REST.  What is it good for?
+wordpress_url: http://www.decafbad.com/blog/?p=82
+---
+<p>I don't get <a href="http://www.decafbad.com/twiki/bin/view/Main/REST">REST</a>, specifically in the context of it being the <a href="http://www.decafbad.com/twiki/bin/view/Main/RightThing">RightThing</a> to do web services.  I see many vagueries about how it's "more scalable" and more "right" and better in theory and there's a big dissertation on it and everything.  Eventually I will get down to reading it.  On the surface, it seems like a big dud to me.  But, it looks like a lot of smart people are into it, so I assume there's <i>something</i> to it since I don't know much yet.</p>
+<p>This is why I love <a href="http://www.google.com/search?hl=en&amp;q=busy+developer+guide">Busy Developer Guides</a>, by the way.  They're for busy developers.  Like me.</p>
+<p>I don't suppose anyone could point me to something that lays it out for me?  Like...  why is <a href="http://www.decafbad.com/twiki/bin/view/Main/XmlRpc">XmlRpc</a> <a href="http://www.google.com/search?q=considered+harmful&amp;sourceid=mozilla-search">considered harmful</a> by <a href="http://www.decafbad.com/twiki/bin/view/Main/REST">REST</a> fans?  And what's an example app I could use <a href="http://www.decafbad.com/twiki/bin/view/Main/REST">REST</a> for that will just so obviously convince me that I need to drop my XML-RPC ways?</p>
+<!--more-->
+shortname=oooaob

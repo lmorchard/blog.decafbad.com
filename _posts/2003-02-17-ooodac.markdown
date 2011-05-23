@@ -1,0 +1,10 @@
+--- 
+wordpress_id: 382
+layout: post
+title: Agent Frank isn't the only one.
+wordpress_url: http://www.decafbad.com/blog/?p=382
+---
+<p>Oh, and I completely forgot to toss a link his way, but <a href="http://www.electricanvil.com/">Kevin Smith of electricanvil.com</a> is working on a Java <a href="http://www.decafbad.com/twiki/bin/view/Main/PersonalWebProxy">PersonalWebProxy</a> project also.  With <a href="http://www.decafbad.com/twiki/bin/view/Main/AgentFrank">AgentFrank</a>, I've been leaning toward patching the core together as quickly as possible to enable the plugins and scripting I wanted to play with.  But it looks like Kevin's spending more time carefully architecting the core using <a href="http://jakarta.apache.org/avalon/phoenix">Jakarta Phoenix</a> &amp; some homebrew proxy work.  Would be nice to borrow from his work soon.</p>
+<p>Who else has code out there that could be assimilated? :)</p>
+<!--more-->
+shortname=ooodac

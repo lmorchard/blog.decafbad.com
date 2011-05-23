@@ -1,0 +1,11 @@
+--- 
+wordpress_id: 312
+layout: post
+title: Baking, funky caching, and tarballs for weblog cryo storage
+wordpress_url: http://www.decafbad.com/blog/?p=312
+---
+So, while I was catching up on T Bryce Yehl's blog since missing <a href="http://www.ntwizards.net/blog/2002/11/04/so_long_radio.html">his transition</a> to <a href="http://www.decafbad.com/twiki/bin/view/Main/MovableType">MovableType</a>, I caught an <a href="http://www.ntwizards.net/blog/2002/11/18/dynamic_vs_static.html">interesting blurb he wrote</a> with regards to <a href="http://philringnalda.com/archives/002388.php">Phil Ringnalda's ponderings</a> on <a href="http://www.decafbad.com/twiki/bin/view/Main/FriedPages">FriedPages</a> and <a href="http://www.decafbad.com/twiki/bin/view/Main/BakedPages">BakedPages</a> in weblogs:<blockquote><i>"Funky caching" could be useful for a static publishing system as well. Weblog archives can consume a great deal of space, yet those pages are infrequently requested. Why not GZip entries from previous months and use a 404 handler to extract pages as-needed?</i></blockquote>The funky caching to which he refers involves implementing a 404 (page not found) handler that, instead of just supplying condolences for a missing page, actually digs the page up out of cold storage if it can.  I think I need to look into this for my site - throw all the old blog entries away into gzipped files, or maybe a tarball per month, and have a funky 404 handler dig them out when needed.
+<br /><br />
+There are issues with this - such as what happens if I want to edit old content, or I change templates, or what not - but I think there could be decent solutions for those.  Hell, maybe this is an easier way to blog locally and publish globally - don't rsync directories of files, just publish locally and upload a new tarball.  Then, on the remote site, delete the index, <a href="http://www.decafbad.com/twiki/bin/view/Main/RSS">RSS</a> files, and other affected files and watch happy updates ensue.  If a massive site change is made, rebuild locally, re-tarball every thing, upload the new tarballs, and delete all remote content to trigger revivification.  Scary but possibly nifty.
+<!--more-->
+shortname=ooocch

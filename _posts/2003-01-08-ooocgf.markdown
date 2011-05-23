@@ -1,0 +1,22 @@
+--- 
+wordpress_id: 349
+layout: post
+title: More code toward the personal web proxy
+wordpress_url: http://www.decafbad.com/blog/?p=349
+---
+In case anyone's interested, I've been hacking like mad on my toy proxy since New Years'.  Check out <a href="http://www.decafbad.com/twiki/bin/view/Main/PersonalWebProxy">PersonalWebProxy</a> for current downloads.  It's got primitive forms of proxy filters, browser-based UI, <a href="http://www.decafbad.com/twiki/bin/view/Main/RDF">RDF</a>-based metadata management, logging, config, plugins, and some other goodies.  So far, the major plugins include:
+<br /><br />
+<ul>
+<li> a noisy logger;
+</li>
+<li> a content archiver that captures and saves all response headers and content in a directory structure loosely based on the requested URL;
+</li>
+<li> an initial metadata harvester that fills up the <a href="http://www.decafbad.com/twiki/bin/view/Main/RDF">RDF</a> database with triples based on headers and details encountered during browsing
+</li>
+</ul>
+<br /><br />
+It works, and does stuff, but I'm sure it demonstrates a complete lack of understanding of large portions of the <a href="http://www.decafbad.com/twiki/bin/view/Main/Twisted">Twisted</a> framework, <a href="http://www.decafbad.com/twiki/bin/view/Main/Python">Python</a> itself, and likely causes forest fires.  So, I hope many people will download it, snicker at it, and maybe set me straight on a few things and contribute a few patches and plugins.
+<br /><br />
+<a href="http://www.decafbad.com/twiki/bin/view/Main/ShareAndEnjoy">ShareAndEnjoy</a>!
+<!--more-->
+shortname=ooocgf

@@ -1,0 +1,13 @@
+--- 
+wordpress_id: 258
+layout: post
+title: MT-Search + Wiki for K-Logging?
+wordpress_url: http://www.decafbad.com/blog/?p=258
+---
+<p>A very interesting side-effect I hadn't thought of yesterday when I integrated MT-Search into my wiki is that every wiki page is a mini-content index to my weblog.  Even the really sparse wiki pages where I've only blurbed a sentence or so about a topic - now they have some decent content in their pointers back to the weblog where I mentioned them.</p>
+<p>One idea that immediately strikes me is that I need this at work.  I've got a barely attended-to experiment in journalling started there, using a <a href="http://www.decafbad.com/twiki/bin/view/Main/LiveJournal">LiveJournal</a> installation.  If I could get a similar search hacked into LJ, or scrap LJ and give everyone a <a href="http://www.decafbad.com/twiki/bin/view/Main/MovableType">MovableType</a> weblog...  we could very easily integrate up-to-date topic indexes into our existing company wiki.  </p>
+<p>For instance, wiki-word-ize a client's name, and create a short wiki topic page for that client.  Or, refer to the wiki words belonging to our products.  Then, be sure to include those topic strings in any weblog entries you post internally, and those wiki page will pull in your contributions.  The cross-threading of this seems great to me.  Show me all mutterings about <span style='background : #FFFFCE;'><a href="http://www.decafbad.com/twiki/bin/edit/Main/ClientAlpha?topicparent=Main.FilterData"><b>?</b></a><font color="#0000FF">ClientAlpha</font></span>, and then show me all mutterings about our <span style='background : #FFFFCE;'><a href="http://www.decafbad.com/twiki/bin/edit/Main/InstantWin?topicparent=Main.FilterData"><b>?</b></a><font color="#0000FF">InstantWin</font></span> product.  In some cases, a particular weblog post will appear in both.</p>
+<p>Wow.  That's getting very close to what I wanted.<br />
+</p>
+<!--more-->
+shortname=ooobhb

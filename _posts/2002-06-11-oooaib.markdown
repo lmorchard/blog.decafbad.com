@@ -1,0 +1,12 @@
+--- 
+wordpress_id: 171
+layout: post
+title: Whitelist / reverse-filtering spam shield
+wordpress_url: http://www.decafbad.com/blog/?p=171
+---
+<p>Another thing to think about again: <a href="http://impressive.net/people/gerald/2000/12/spam-filtering.html">Whitelist-based spam filtering</a>.  The spam is just getting heavier, raunchier, and less coherent these days.  I'd <a href="http://www.decafbad.com/news_archives/000129.shtml">mused about it</a> awhile ago, along with looking at an <a href="http://www.w3.org/2001/12/rubyrdf/util/foafwhite/intro.html">application of <a href="http://www.decafbad.com/twiki/bin/view/Main/RDF">RDF</a></a> to share whitelists between trusted people.</p>
+<p>Then I see <a href="http://www.osopinion.com/perl/story/18180.html">this article</a> up at <a href="http://www.osopinion.com">osOpinion.com</a> on the subject (calling it "reverse filtering").  I hadn't thought of it before, but I could probably set up a quick auto-responder for unknown addresses, asking politely for a response requiring human thought, or a click by a person at a URL somewhere, to get them auto-added to my whitelist.  If the laziness/rudeness factor toward friends and acquaintences, current and potential, doesn't outweight the benefits, this might be a very good solution.  I wouldn't throw mail away outright, but it would be put in a rotating bin that I might look at every day or so, and wipe every week or so.</p>
+<p>That osOpinion.com article wraps up with a little bit of a carrot / challenge to for a business plan around a whitelist / reverse-filtering scheme for mail.  I wonder how much people <i>would</i> pay for it, and whether people would be put off by an auto-response asking for proof of humanity?  If it would go over well, I'd love to see <a href="http://www.pobox.com">pobox.com</a> implement something like this.  (Oh have I ever mentioned that I love <a href="http://www.pobox.com">pobox.com</a>, and think you should all sign up there?)</p>
+<p>In the end, this seems pretty amusing to me.  Humans sending robots to mail humans.  Humans setting up robots to intercept robots.  Humans sending mail to humans again.  Oh I'm sure the spammers will try harder with their robots, but eventually the bastards just have to give up.  Maybe not.  But at least I can ignore them.</p>
+<!--more-->
+shortname=oooaib

@@ -1,0 +1,9 @@
+--- 
+wordpress_id: 34
+layout: post
+title: Testing out technology channel.
+wordpress_url: http://www.decafbad.com/blog/?p=34
+---
+Testing out technology channel.
+<!--more-->
+shortname=ooooea

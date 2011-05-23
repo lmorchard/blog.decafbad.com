@@ -1,0 +1,11 @@
+--- 
+wordpress_id: 68
+layout: post
+title: Need to turn my Subscriptions into a 'blogroll'
+wordpress_url: http://www.decafbad.com/blog/?p=68
+---
+<p>I need to turn my subscriptions list into a blogroll.  Oh, and make sure that the subscriptions <a href="http://www.decafbad.com/twiki/bin/view/Main/OPML">OPML</a> doesn't contain any of my password-protected <a href="http://www.decafbad.com/twiki/bin/view/Main/MailToRSS">MailToRSS</a> feeds.  Also pondering doing some cute things, like maybe display a random subset of my reading list (since my blog+news <a href="http://www.decafbad.com/twiki/bin/view/Main/RSS">RSS</a> list is > 100 items), and maybe use <a href="http://www.decafbad.com/twiki/bin/view/Main/RssDisplay">RSSDisplay</a> to pull in the headlines from a random <a href="http://www.decafbad.com/twiki/bin/view/Main/RSS">RSS</a> channel I subscribe to, and call it "Featured".</p>
+<p>Hmm.  <a href="http://www.blogrolling.com">blogrolling.com</a> would be hot if it accepted a URL to an <a href="http://www.decafbad.com/twiki/bin/view/Main/OPML">OPML</a> file.</p>
+<p>Maybe that's what I should do with my subscriptions-to-blogroll thing, kinda like I did with <a href="http://www.decafbad.com/twiki/bin/view/Main/RssDisplay">RSSDisplay</a>.  Yeah, I know <a href="http://www.decafbad.com/twiki/bin/view/Main/RadioUserLand">RadioUserLand</a> does or can do all of this, but I'm kind of in a mood to make a pile of small pieces to loosely join out here on decafbad.com.</p>
+<!--more-->
+shortname=oooohh

@@ -1,0 +1,11 @@
+--- 
+wordpress_id: 361
+layout: post
+title: RSS as a more generalized message queue for people
+wordpress_url: http://www.decafbad.com/blog/?p=361
+---
+<blockquote cite="http://www.pipetree.com/qmacro/2003/01/21#ucapi">It seems that beyond carrying syndication information, RSS is a very useful and flexible way to get all sorts of application data pushed to a user over time. In the same way that a web browser is a universal canvas upon which limitless services and information can be painted, so (in an  albeit much smaller way) an RSS reader/aggregator might also find its  place as an inbox for time-related delivery of all sorts of information. </blockquote><div class="credit" align="right"><small>Source:<cite><a href="http://www.pipetree.com/qmacro/2003/01/21#ucapi">DJ's Weblog: The universal canvas and RSS apps </a></cite>.</small></div>
+<p>My thoughts exactly.  Not sure if I've posted here about it, but I know during the whole <a href="http://www.decafbad.com/twiki/bin/view/Main/RSS">RSS</a> hubbub this fall, I'd babbled something about <a href="http://www.decafbad.com/twiki/bin/view/Main/RSS">RSS</a> being a messaging queue from machines to humans.  Or a transport for timely ephemera to people.  Or something like that.  Basically, I'd like to see <a href="http://www.decafbad.com/twiki/bin/view/Main/RSS">RSS</a>, or something like it, used beyond just headlines.  This is why I've leaned toward the <a href="http://www.decafbad.com/twiki/bin/view/Main/RDF">RDF</a>-in-RSS camp - I want to see lots of things besides titles and excerpts hung off the individual message events, and <a href="http://www.decafbad.com/twiki/bin/view/Main/RDF">RDF</a> seems downright nifty to me for this.</p>
+<p>But either way, I like the expanded notion of <a href="http://www.decafbad.com/twiki/bin/view/Main/RSS">RSS</a> usage as a timestream-oriented stream of messages targeted at subscribed people.</p>
+<!--more-->
+shortname=ooocib

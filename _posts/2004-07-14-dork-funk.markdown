@@ -1,0 +1,39 @@
+--- 
+wordpress_id: 533
+layout: post
+title: Dork Funk
+excerpt: Mostly I think I'm just in a funk.
+wordpress_url: http://www.decafbad.com/blog/?p=533
+---
+I've been feeling a strange tangle of writer's block and identity crisis lately, not to dramatize overmuch.  I'm not really all that sure I'm a blogger anymore, if I ever was.
+
+As I've written before, I slurp down a large amount of reading from sources various and sundry, but it seems like it's been a long time since last I felt like tapping out a few paragraphs and hitting the post button.  Maybe this is [blogger burnout][burnout], but I haven't been [burning all that bright][rafe] here for quite some time. 
+
+Pretty much all of the micro-blogging I might do--you know, your basic "_Hey, check this out!_"--has been channeled into del.icio.us and the link blog.  So that leaves me trying to think of _Grander Things_ about which to write.  I feel like there're a lot of neat ideas floating around in my head, and I could probably be writing about them, but it often seems like someone somewhere else is writing so much more interestingly about things than I ever could.
+
+Maybe this is a paralysis brought on by just plain reading too damn many feeds.  I know the comparison is not quite apt, but I was reminded of Matt Webb's excellent ["Extelligence"][extelligence]:  All my thoughts can pretty much already be found out there in the ether, so it feels like I'm already spread out in the web's distributed intelligence.  Who needs me to rewrite it or rethink with this particular head?
+
+And, you know, I occasionally feel the urge to toss in with some rant on politics (because you may have [noticed][politics] my top link blog category) or the latest flamewar happening somewhere--but I've been restraining myself because, again, someone somewhere else has mostly written up opinions extremely close to my own and 'nuff said.
+
+That, and I just don't get any jollies out of being a flame warrior.  In a fight, I'd rather drown out the screaming with jokes and the mental equivalent of random balloon animals.  In the end, if there's nothing really at stake other than a few microns of ego and a census of pinhead-dancing angels, I'd rather [move along][infofreako].
+
+So then, what the hell's a blog for anyway, if not for [ant trails][trails] and flamewars?
+
+Well, I wrote about [what I really want to do here][wanttodo].  Mostly I think I'm just in a funk.  I'm in a job with which I'm not entirely enthused or enamored--but hey it pays the bills pretty well and sticks neither cathode nor anode into my soul to power its potato-clock science projects.  (Which *can* be fun, given the right potato clock.)  Still, though, I've got this heavy urge to *do things* and *make stuff*, and I've intended to make this the place to channel these urges.  Because, to the extent that I'm not learning new things and tinkering and building and being productive, I start feeling useless and unworthy.
+
+Again, not trying to dramatize overmuch.  I'm not quite sure why, but I've dropped into this vicious circle wherein I don't get much done and don't start much of anything--and so feel further incapable of doing or starting much in the future.  
+
+Yeah, it's a funk, I think.  And the only reason I'm writing here at length about it is because I want to write *something*, even it it's only concerning about how I've not been writing about anything.  I do this a lot in my moleskine, when I can't really think of anything grand about which to make a journal entry, but I feel like *something* might float up if I just keep myself writing in it on a regular basis.  And usually, things do float up eventually.
+
+Of course, the other thing is that I don't much intend to fill this space with the sort of inane personal material I used to write on my LiveJournal--but hell, I don't even write that stuff there anymore either.  I guess what I need to do is just lay off myself: it's really not a condemnation of my worth as a dork that I don't churn out entries here and elsewhere at a high daily rate.  
+
+So anyway, I guess that's somewhat off my chest and about to be posted.  Thanks to all 2.5 of my readers who waded through all this.  :)
+
+[wanttodo]: http://www.decafbad.com/blog/2004/05/25/i_was_a_preteen_transactor_author_wannabe_and_still_am
+[politics]: http://del.icio.us/deusx/politics
+[map]: http://kevan.org/extispicious.cgi?name=deusx 
+[trails]: http://www.decafbad.com/blog/2002/05/07/oooadb
+[infofreako]: http://www.decafbad.com/blog/2004/06/14/info_freako_or_whos_already_past_arguing_about_syndication_formats
+[extelligence]: http://upsideclown.com/2003_05_29.shtml
+[burnout]: http://www.wired.com/news/culture/0,1284,64088,00.html
+[rafe]: http://rc3.org/cgi-bin/less.pl?arg=6366

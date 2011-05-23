@@ -1,0 +1,10 @@
+--- 
+wordpress_id: 91
+layout: post
+title: Going bananas with the referers
+wordpress_url: http://www.decafbad.com/blog/?p=91
+---
+<p><a href="http://webseitz.fluxent.com/wiki/z2002-04-17-a">Bill Seitz says</a> I've gone bananas with <a href="http://www.decafbad.com/twiki/bin/view/Main/ShowReferers">this referers thing</a>.  And, well... yup I guess sticking it everywhere on my site qualifies.  :)  But, it was quick to write, and even quicker to rework since I just broke it away from using DBM files and switched to a <a href="http://www.decafbad.com/twiki/bin/view/Main/MySQL">MySQL</a> table.  (Wow, DBM files.  One of those ideas that seemed cool at the time.  A full-on Berkeley DB would have been better.)</p>
+<p>I'm pretty much going bananas all over the place lately with all these fun things going on around the net.  I'm like a kid in a candy shop, or is that a bull in a china shop?  Well, I'm far too skinny to be a bull.  Sooner or later I'll settle down, but it's fun having a working website and mad scientist laboratory to play with after the past few years of being too much of a perfectionist.</p>
+<!--more-->
+shortname=oooaaa

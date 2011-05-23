@@ -1,0 +1,15 @@
+--- 
+wordpress_id: 341
+layout: post
+title: Motivation toward making proxy whatsits
+wordpress_url: http://www.decafbad.com/blog/?p=341
+---
+Continuing along with the <a href="http://www.decafbad.com/twiki/bin/view/Main/PersonalWebProxy">PersonalWebProxy</a> meme, <a href="http://www.russellbeattie.com/notebook/index.jsp?date=20021229#213649"><cite>Russell Beattie</cite> writes</a>:<blockquote><i>I have a lot of trouble with motivation on something like this. I get excited then I flip out because of how much something like this could entail and I find other stuff to do for a while to calm down. This has been going on for months. ;-)</i></blockquote>Yeah, and then there's that.  Seeing what people are wishing for out of this class of app, we could wish it into the outer reaches of tinkerer feasibility and then get fed up and go home.  That's what I'd like to avoid, personally.  
+<br /><br />
+I'm puttering around with a bit of a spec for myself today, laying out a limited wishlist drawn from mine and others' ponderings and rationing it out into chunks.  There's no way anyone could handle creating the perfect proxy/agent for the next millennia without descending into insanity and obscurity some 1% into the process.  But, if things can be worked out to where it's being cobbled together in a process of loosely structured madness, there just might be hope.
+<br /><br />
+The crucial thing is that it move forward in tinkerer-sized steps, remain understood and tested at each point, and do some reasonably useful new thing after each lurch in order to remain interesting.  The process should give tinkerers a chance to spend just a little bit of their non-copious free time to come up with something clever and nifty.  This is how the lazyweb works.
+<br /><br />
+Okay, before I start getting too pretentious here, I'd better get back to work.
+<!--more-->
+shortname=ooocfh

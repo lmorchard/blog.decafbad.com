@@ -1,0 +1,9 @@
+--- 
+wordpress_id: 132
+layout: post
+title: IFRAME vs JavaScript-include - FIGHT!
+wordpress_url: http://www.decafbad.com/blog/?p=132
+---
+<p>Starting to think about this, too:  What's better to use?  an IFRAME, or a <span style='background : #FFFFCE;'><a href="http://www.decafbad.com/twiki/bin/edit/Main/JavaScript?topicparent=Main.FilterData"><b>?</b></a><font color="#0000FF">JavaScript</font></span>-powered include?  I can see elegance and hackishness in both.</p>
+<!--more-->
+shortname=oooaec

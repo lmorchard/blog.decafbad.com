@@ -1,0 +1,9 @@
+--- 
+wordpress_id: 279
+layout: post
+title: Testing Net::Blogger
+wordpress_url: http://www.decafbad.com/blog/?p=279
+---
+Testing Net::Blogger
+<!--more-->
+shortname=ooocod

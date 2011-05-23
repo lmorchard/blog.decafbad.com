@@ -1,0 +1,9 @@
+--- 
+wordpress_id: 49
+layout: post
+title: DecafbadWiki RecentChanges in OPML
+wordpress_url: http://www.decafbad.com/blog/?p=49
+---
+<ul>   <li><a href="http://www.decafbad.com/twiki/bin/recent.opml">Here's my attempt at <a href="http://www.decafbad.com/twiki/bin/view/Main/DecafbadWiki">DecafbadWiki</a> <span style='background : #FFFFCE;'><a href="http://www.decafbad.com/twiki/bin/edit/Main/RecentChanges?topicparent=Main.FilterData"><b>?</b></a><font color="#0000FF">RecentChanges</font></span> in <a href="http://www.decafbad.com/twiki/bin/view/Main/OPML">OPML</a></a></li>   <li>Dave wanted to see some <a href="http://www.decafbad.com/twiki/bin/view/Main/OPML">OPML</a> coming out of Wikis.  This could be a start.  It's a bit dirty right now, too, since I doubt that all the dates it outputs are kosher.  Radio seems to consume it happily though.</li>   <li>Next thing is that I want to <a href="http://www.decafbad.com/twiki/bin/view/Main/OPML">OPML</a>-ize a wiki page, using the headings (H1-H6) as cues for structure and each paragraph as child headings</li>   <li>One hiccup though:  My script had to be *.opml, just claiming to provide text/x-opml wasn't good enough to be transcluded here.</li>   <li>I wonder: If I subscribe to this as a buddy, will Radio embolden it on new wiki pages?</li>   <li><i>It does, indeed.</i>  But, of course, although it is transcluded into my instant outline, wiki recent changes do not embolden <i>my</i> outline.</li>   </ul>
+<!--more-->
+shortname=oooofg

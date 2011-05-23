@@ -1,0 +1,12 @@
+--- 
+wordpress_id: 372
+layout: post
+title: How to make a multi-platform monster
+wordpress_url: http://www.decafbad.com/blog/?p=372
+---
+<p>So I'm thinking that I might prematurely release some code before the week is out, so anyone who's interested can point and laugh at my <a href="http://www.decafbad.com/twiki/bin/view/Main/PersonalWebProxy">PersonalWebProxy</a> exploits - this time in Java.</p>
+<p>One thing that disturbs me a bit about this thing so far is that, for what I have in mind, I'll have built a mini-OS when all is said and done.  It'll have a web server, a web proxy, telnet-able shell, scripting languages, scheduler, full text search and index engine, persistence &amp; metadata storage, and whatever else I can eventually think to toss in.  There are just so many nice toys for Java, and most are a snap to glue together.  But, I can't really use any of the toys that come with the OS itself.</p>
+<p>It's something <a href="http://www.decafbad.com/news_archives/000092.phtml#000092" target="_top">I've rambled on about before</a>, as has <a href="http://udell.roninhouse.com/" target="_top">Jon Udell</a> in his old Byte column: <a href="http://udell.roninhouse.com/bytecols/2002-04-10.html" target="_top">Zope Lessons Learned</a>.  If this thing is to run on more than one platform, it can't rely on the facilities of any particular platform.  So, all these lovely things I like OS X for are somewhat off limits.</p>
+<p>On the other hand, if I get tired of doing this thing in Java, I could always just finally embrace the platform and go straight for Cocoa.  :)  Yes, that would make for 3 environments tried, but hey - it's still fun for me!</p>
+<!--more-->
+shortname=ooodoc

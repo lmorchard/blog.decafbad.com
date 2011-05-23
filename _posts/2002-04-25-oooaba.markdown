@@ -1,0 +1,12 @@
+--- 
+wordpress_id: 101
+layout: post
+title: Tearing down fences around DecafbadWiki
+wordpress_url: http://www.decafbad.com/blog/?p=101
+---
+<p>Oh, and I bit the bullet and turned off the authentication requirement on the wiki.  I've decided that ultimately I agree that <a href="http://www.usemod.com/cgi-bin/mb.pl?LoginsAreEvil">LoginsAreEvil</a>.  I didn't <i>really</i> want to put up fences, or raise the laziness threshold.  I mostly wanted to identify people, but I was mistaken.  Now, I'd rather <a href="http://www.usemod.com/cgi-bin/mb.pl?AvoidIllusion">AvoidIllusion</a>.</p>
+<p>There still are a <i>few</i> fences, however.  My reasoning is that my use of this wiki slides into the realm of cheap content management, and I don't prefer public input on certain things.  A few pages are access controlled, such as the wiki's front page and my home page.  For this purpose, there's an alternate password-protected set of wiki commands.  The non-authenticated are under /twiki/bin whereas the authenticated set are at /twiki/sbin.  Just as easy as putting an 's' in the URL.</p>
+<p>Access to the authenticated commands doesn't necessarily mean you get to edit everything though. :)  That's access control for you.</p>
+<p>Eventually, maybe I'll drop the access controls too.  I was also thinking of moving out of TWiki for another wiki implementation like <a href="http://www.decafbad.com/twiki/bin/view/Main/MoinMoin">MoinMoin</a>, too.  Still tinkering.</p>
+<!--more-->
+shortname=oooaba

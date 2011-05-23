@@ -1,0 +1,19 @@
+--- 
+wordpress_id: 302
+layout: post
+title: Cool URIs don't change
+wordpress_url: http://www.decafbad.com/blog/?p=302
+---
+Okay, so I'm probably the only one who didn't know this, but I've been wondering why it seems that every website owned by someone within a few degrees of separation from <a href="http://www.decafbad.com/twiki/bin/view/Main/TimBL">TimBL</a> tend to use URLs of the form:
+<br /><br />
+<code>http://www.example.org/2002/11/nifty-thing</code>
+<br /><br />
+Just one of those things I figured kinda made sense, but was never sure why for.  Then, today after a bit of wandering while researching things <a href="http://www.decafbad.com/twiki/bin/view/Main/RDF">RDF</a> and <a href="http://www.decafbad.com/twiki/bin/view/Main/SemanticWeb">SemanticWeb</a>, I found a link from <a href="http://infomesh.net/sbp/" target="_top">Sean B. Palmer</a> pointing to <a href="http://www.w3.org/Provider/Style/URI.html" target="_top">Hypertext Style: Cool URIs don't change</a> by <a href="http://www.decafbad.com/twiki/bin/view/Main/TimBL">TimBL</a> himself.  Seems the example of this pattern is layed out there by the man himself.
+<br /><br />
+Seems like it would work like a limited sort of concurrent versioning scheme, but it just looked wonky the first time I saw it.  I mean - date-based website layout?  I'd been raised on the high falutin' directory trees made by very well (overly?) paid Information Architect types.  <code>/2000/10/stuff</code>?  What about <code>/about-us/corporate/ceo.html</code>?
+<br /><br />
+Of course, this is ignoring the fact that some webservers need not directly tie physical disk layout to URL layout.  Or that site architecture is best presented via links in the documents themselves.  It's just that plain vanilla Apache uses a 1:1 match between file path and URL path, and that's what most everyone uses.
+<br /><br />
+Hmm..  Might play with it a bit around here.
+<!--more-->
+shortname=ooocbg

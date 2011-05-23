@@ -1,0 +1,13 @@
+--- 
+wordpress_id: 271
+layout: post
+title: MTCleanHTMLPlugin - borrowing a page from LJ, literally.
+wordpress_url: http://www.decafbad.com/blog/?p=271
+---
+Tonight, I borrowed <a href="http://www.decafbad.com/twiki/bin/view/Main/LiveJournal">LiveJournal</a>'s comment filtering code and made it into a <a href="http://www.decafbad.com/twiki/bin/view/Main/MovableType">MovableType</a> plugin: <a href="http://www.decafbad.com/twiki/bin/view/Main/MTCleanHTMLPlugin">MTCleanHTMLPlugin</a>
+<br /><br />
+After all that ramble about having open system and not having been the victim of an exploit, <a href="http://www.decafbad.com/twiki/bin/view/Main/SamRuby">SamRuby</a> inadvertently revealed one gapingly wide hole for me.  Not that he did anything to exploit it - I just realized that a bug he tripped over could be used for more nefarious purposes.  So, I closed the hole, and after a bit of quick research went a bit further and made a new <a href="http://www.decafbad.com/twiki/bin/view/Main/MovableType">MovableType</a> plugin.  Borrowing <a href="http://www.decafbad.com/twiki/bin/view/Main/LiveJournal">LiveJournal</a>'s code yields a filter which strips out most nasty <span style='background : #FFFFCE;'><a href="http://www.decafbad.com/twiki/bin/edit/Main/JavaScript?topicparent=Main.FilterData"><b>?</b></a><font color="#0000FF">JavaScript</font></span> exploits, and attempts to close tags left lazily open.
+<br /><br />
+Hope someone finds a use for it.
+<!--more-->
+shortname=ooobif

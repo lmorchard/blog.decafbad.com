@@ -1,0 +1,11 @@
+--- 
+wordpress_id: 67
+layout: post
+title: More Google API musing -- "404 Correction" in a personal HTTP proxy via Google's cache
+wordpress_url: http://www.decafbad.com/blog/?p=67
+---
+<p>Hmm... now that I finally stopped babbling and read the docs, I just noticed that the <a href="http://www.google.com/apis">Google APIs</a> has methods to access their cache.</p>
+<p>Sounds like I need to write a personal HTTP proxy that includes "404 Correction" by consulting Google's cache whenever one encounters a 404.  Could be a new project, too, since someone I was talking to wanted searchable personal web browsing history and I think a personal HTTP proxy could help with that.<br />
+</p>
+<!--more-->
+shortname=oooohg

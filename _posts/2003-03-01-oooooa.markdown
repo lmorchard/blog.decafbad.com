@@ -1,0 +1,30 @@
+--- 
+wordpress_id: 385
+layout: post
+title: Welcome to 0xDECAFBAD v2.0
+wordpress_url: http://www.decafbad.com/blog/?p=385
+---
+Not much to see here yet, but I've burnt down my old weblog and
+replaced it with this.  Planning to start out simple and gradually
+re-introduce features from the previous incarnation very slowly and
+carefully.  I've enjoyed many of the toys I've piled on top of this
+blog, but its time to revise and simplify.
+<br /><br />
+I've also been thinking of expanding the focus around here a bit: Up
+until now, this place has just been the home of my nerdy brane dumps.
+But, I'd like to entertain the notion of opening the place up to more
+of my writing.  Assuming, that is, that I can reacquaint myself with
+certain muses and notions of free time and management thereof.
+<br /><br />
+I really appreciate every reader of this site, though, so I've tried
+to minimize the impact of changes.  Broken links are bad.  Links to
+individual blog entries from the old site should redirect themselves
+to their newly converted counterparts.  And, no matter what new trash
+I start publishing here, the old <a href="http://www.decafbad.com/twiki/bin/view/Main/RSS">RSS</a> feed will continue to show mostly
+nerdy brane dumps.  Should you want to follow any expanded content I
+start to spew here, you'll need to update your links and
+subscriptions.  It's up to you.
+<br /><br />
+Anyway, thanks for reading, bear with me, and wish me luck.
+<!--more-->
+shortname=oooooa

@@ -1,0 +1,50 @@
+--- 
+wordpress_id: 221
+layout: post
+title: Working on a Wiki format MT plugin
+wordpress_url: http://www.decafbad.com/blog/?p=221
+---
+<MTWikiFormat prefix="http://www.decafbad.com/twiki/bin/view/Main/" extended="1">
+Please excuse the noise and dust - I'm working on a few new MT plugins to support Wiki formatting and <a href="http://www.decafbad.com/twiki/bin/view/Main/XmlRpcFilteringPipe">XmlRpcFilteringPipe</a>.  Are these wiki words working? <a href="http://www.decafbad.com/twiki/bin/view/Main/PipeFilters">PipeFilters</a>, <a href="http://www.decafbad.com/twiki/bin/view/Main/MovableType">MovableType</a>, <a href="http://www.decafbad.com/twiki/bin/view/Main/ShareAndEnjoy">ShareAndEnjoy</a>, etc.
+<br /><br />
+How about unordered lists?
+    * One
+    * Two
+    * Three
+How about ordered lists?
+    1. One
+    2. Two
+    3. Three
+And ''how'' '''about''' '''''this'''''?
+</MTWikiFormat>
+<br /><br />
+This is another test.  <a href="http://www.decafbad.com/twiki/bin/view/Main/PipeFilters">PipeFilters</a>, <a href="http://www.decafbad.com/twiki/bin/view/Main/ShareAndEnjoy">ShareAndEnjoy</a>.
+<br /><br />
+<ul>
+<li> One
+</li>
+<li> One a
+<ul>
+<li> two
+<ul>
+<li> three
+<ul>
+<li> four
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li> two a
+</li>
+</ul>
+</li>
+</ul>
+<br /><br />
+How about a table?
+<br /><br />
+<table border="1" cellspacing="0" cellpadding="4"> <tr><td>  this  </td><td>  is  </td><td>  a  </td></tr>
+<tr><td>  test  </td><td>  table  </td><td>  format  </td></tr>
+</table>
+<!--more-->
+shortname=ooobdc

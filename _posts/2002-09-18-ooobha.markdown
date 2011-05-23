@@ -1,0 +1,15 @@
+--- 
+wordpress_id: 257
+layout: post
+title: AmphetaOutlines doomsday prevention update
+wordpress_url: http://www.decafbad.com/blog/?p=257
+---
+<p>One more thing, before I go to bed:  An <a href="http://www.decafbad.com/twiki/bin/view/Main/AmphetaOutlines">AmphetaOutlines</a> update.</p>
+<p>I'm not sure how many of you are still using the thing, but I've been using it hourly since I embarked upon the experiment.  And then, very recently, the thing became insatiable with desire for my CPU and memory.</p>
+<p>Turns out, in my spiffy new XML channel/item metadata files, I wasn't deleting data associated with old and no longer available items.  This resulted in multi-megabyte XML files which <a href="http://www.decafbad.com/twiki/bin/view/Main/AmphetaOutlines">AmphetaOutlines</a> happily munched through for each channel to which I'm subscribed.  Well, this update now regularly cleanses those files, leaving metadata stored only for those items that appeared in the current update of the channel.</p>
+<p>So, if <a href="http://www.decafbad.com/twiki/bin/view/Main/AmphetaOutlines">AmphetaOutlines</a> has been becoming a dog for you, you might want to give this a shot.  Upon the first run, the new code will wipe old data from the files.  If your poor, battered machine can't survive another run in the current circumstances, then wipe the contents of <code>data/channels_meta</code> and start again.  (But don't wipe your subscriptions or channel data!  Just the <code>channels_meta</code> data.)</p>
+<p>Let me know if this does good things for you.  In the meantime, I'm thinking about what I could do by applying these <span style='background : #FFFFCE;'><a href="http://www.decafbad.com/twiki/bin/edit/Main/BayesianAlgorithms?topicparent=Main.FilterData"><b>?</b></a><font color="#0000FF">BayesianAlgorithms</font></span> (and those not-quite-so-BayesianAlgorithms) people have been tinkering with for use against spam.  What if I could have <a href="http://www.decafbad.com/twiki/bin/view/Main/AmphetaDesk">AmphetaDesk</a> initially sort my news items into ordered buckets of interest, according to my past viewing and scoring behavior?  I really need to do some machine learning research.</p>
+<p>Hell, what if I could go further and have a spider crawl blogrolls, looking for weblogs that seem to match other things I find interesting?  Seems promising, though I think I'm still too naive about the subject.</p>
+<p>Okay.  Time for bed.</p>
+<!--more-->
+shortname=ooobha

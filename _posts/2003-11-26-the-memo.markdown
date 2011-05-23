@@ -1,0 +1,9 @@
+--- 
+wordpress_id: 510
+layout: post
+title: Didja get that memo?
+wordpress_url: http://www.decafbad.com/blog/?p=510
+---
+<a href="http://ars.userfriendly.org/cartoons/?id=20031126"><img width="475" height="181" src="http://www.userfriendly.org/cartoons/archives/03nov/uf006166.gif" border="0" /></a>
+<!--more-->
+shortname=the_memo

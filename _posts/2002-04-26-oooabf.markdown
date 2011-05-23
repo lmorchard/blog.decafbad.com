@@ -1,0 +1,12 @@
+--- 
+wordpress_id: 106
+layout: post
+title: Hot patching, Radio UserLand, and not Microsoft
+wordpress_url: http://www.decafbad.com/blog/?p=106
+---
+<p>When I talk about Radio and my love/hate with it, this is one of the things I absolutely positively adore, fawn over, and plan to mimic in as many of my projects as I can where I can.  Back when the Mozilla source code was first released, and I happened to be at a Q&amp;A with some Netscape guys, this was the #1 feature I pestered them to spend time looking into.</p>
+<p>John Robb of <a href="http://www.decafbad.com/twiki/bin/view/Main/UserLand">UserLand</a> <a href="http://jrobb.userland.com/2002/04/26.html#a1633">points it out</a>, in relation to .NET:<blockquote><i>[<a href="http://www.eweek.com/article/0,3658,s=701&amp;a=25799,00.asp">Alchin said</a>, "]The hot patching technology will not find its way into the upcoming .Net Server family, but we have made progress on reducing reboots.["]</p>
+<p>Radio already does this.</i></blockquote>Yes, yes it does, and this is dead sexy.  I love that the system is put together in such a way that this is possible.  My monitoring of the <a href="http://static.userland.com/updatelogs/radio.xml">Radio.root Updates <a href="http://www.decafbad.com/twiki/bin/view/Main/RSS">RSS</a> feed</a> reminds me daily of where my $40/year is going.</p>
+<p>Now, can we have Instant Outlines do this? :)  Heehee.</p>
+<!--more-->
+shortname=oooabf

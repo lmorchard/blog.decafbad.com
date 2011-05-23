@@ -1,0 +1,11 @@
+--- 
+wordpress_id: 145
+layout: post
+title: Of metalinks, linkbacks, and Cocoa AmphetaDesk
+wordpress_url: http://www.decafbad.com/blog/?p=145
+---
+<p>Still busy busy, but had to drop in for a minute to try out the <a href="http://www.thinkblank.com/metalinker/">Metalinker</a> code here.  Two wishlist items: 1) Maybe use a micro-icon for the metalink, and 2) some indication of the number of links to the link on Blogdex would be hot, maybe even a green-through-red series of micro-icons for the link.  Could maybe count the links on the blogdex page via some sort of scraping, but that would require some server-side stuff since I doubt the client-side can do it.  (Or I just don't know enough modern browser scripting lately.)</p>
+<p>Because of the obvious connections, this makes me want to get back to my <a href="http://www.decafbad.com/twiki/bin/view/Main/ShowReferersNextGen">new-and-improved linkback implementation</a> very soon.  That'll be next after I tie up this Cocoa <a href="http://www.disobey.com/amphetadesk">AmphetaDesk</a> wrapper.  (Actually got it 2/3 done last night, yay!)</p>
+<p>Back to work.</p>
+<!--more-->
+shortname=oooaff

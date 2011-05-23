@@ -1,0 +1,10 @@
+--- 
+wordpress_id: 244
+layout: post
+title: RSS "2.0" - What's the catch?
+wordpress_url: http://www.decafbad.com/blog/?p=244
+---
+<p>On the hypothetical <a href="http://www.decafbad.com/twiki/bin/view/Main/RSS">RSS</a> 2.0, <a href="http://diveintomark.org/archives/2002/09/05.html#rss_20">Mark Pilgrim says:</a><blockquote><i>A basic <a href="http://www.decafbad.com/twiki/bin/view/Main/RSS">RSS</a> 2.0 document is no more complicated to learn (or type by hand) than a basic <a href="http://www.decafbad.com/twiki/bin/view/Main/RSS">RSS</a> 0.9x document, and a complex <a href="http://www.decafbad.com/twiki/bin/view/Main/RSS">RSS</a> 2.0 document can be just as metadata-rich as a complex <a href="http://www.decafbad.com/twiki/bin/view/Main/RSS">RSS</a> 1.0 document.</i></blockquote>Great - I love it - let's go!  If Rael <a href="http://www.oreillynet.com/~rael/data/xml/rss/modular/demo/">already mocked this up</a> many moons ago, why hasn't it been adopted?</p>
+<p>What's the catch?  I just snatched Mark's <a href="http://diveintomark.org/public/rss2_draft.tmpl">RSS 2.0 draft template for MT</a> and tossed it into my config.  Try out my <a href="http://www.decafbad.com/newslog-rss2.xml">0xDECAFBAD feed</a> in the <a href="http://www.decafbad.com/twiki/bin/view/Main/RSS">RSS</a> 2.0 draft format and tell me what part of it burns down your house or frightens the children.</p>
+<!--more-->
+shortname=ooobfg

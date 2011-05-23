@@ -1,0 +1,7 @@
+--- 
+wordpress_id: 930
+layout: post
+title: Library Camp 2006
+wordpress_url: http://decafbad.com/blog/library-camp-2006/
+---
+!OPMLRender:http://hosting.opml.org/decafbad/library-camp-20060414.opml,5,page

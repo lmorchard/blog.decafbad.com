@@ -1,0 +1,11 @@
+--- 
+wordpress_id: 277
+layout: post
+title: MTCleanHTMLPlugin has a competitor
+wordpress_url: http://www.decafbad.com/blog/?p=277
+---
+Like the <a href="http://www.decafbad.com/twiki/bin/view/Main/MTCleanHTMLPlugin">MTCleanHTMLPlugin</a> I <a href="http://www.decafbad.com/news_archives/000296.phtml#000296">released a little while ago</a>, Brad Choate's new <a href="http://www.bradchoate.com/past/mtsanitize.php">MT Sanitize Plugin</a> appears to do the same job.  I haven't tried it yet, but since I'm using a pile of Brad's plugins and have based all of mine upon his examples, I'm assuming it's good stuff.  I'll likely check it out and see if I like mine or his better for my own use. :)
+<br /><br />
+(Oh, and in case anyone wonders, I mean "competitor" in the "there's no competition because his code-fu's likely better than mine here" sense. :) )
+<!--more-->
+shortname=ooocob

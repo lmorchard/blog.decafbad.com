@@ -1,0 +1,16 @@
+--- 
+wordpress_id: 358
+layout: post
+title: On OS X, searches are a mere finger twitch away
+wordpress_url: http://www.decafbad.com/blog/?p=358
+---
+<p>Oh yeah, and further along the lines of <a href="http://www.decafbad.com/news_archives/000387.phtml" target="_top">filesystem sacrilege</a>, my most used OS X apps are:<br />
+<ul>
+<li> <a href="http://web.ics.purdue.edu/~mthole/searchling/" target="_top">Searchling</a><br />
+</li>
+<li> <a href="http://www.obdev.at/products/launchbar/" target="_top">LaunchBar</a><br />
+</li>
+</ul>
+Both of these give me lightning fast access with keyboard-shortcut finger twitches to what's on my mind and what I want to do.  I want to find more things like this.</p>
+<!--more-->
+shortname=ooochi
