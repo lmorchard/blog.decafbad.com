@@ -4,7 +4,7 @@ layout: post
 title: Week 3 at Mozilla
 wordpress_url: http://decafbad.com/blog/?p=1130
 ---
-So, it's getting to the end of my third week at Mozilla, and [I'm a part][part] of [the Planet now][planet]â€”hooray!  Having gotten a membership into that club, I feel like I should start making some noise about what I'm doing at work.  Having stayed mostly quiet about day job affairs thus far in my career, it's going to take a bit to get used to a place as open as Mozilla.
+So, it's getting to the end of my third week at Mozilla, and [I'm a part][part] of [the Planet now][planet]—hooray!  Having gotten a membership into that club, I feel like I should start making some noise about what I'm doing at work.  Having stayed mostly quiet about day job affairs thus far in my career, it's going to take a bit to get used to a place as open as Mozilla.
 
 Being a noob, I haven't started anything earthshaking yet.  But, I have gotten a couple of starter bugs thrown my way:
 
@@ -29,7 +29,7 @@ Being a noob, I haven't started anything earthshaking yet.  But, I have gotten a
 
 I'm really working on squashing my nerd fanboy tendencies.  Because, I remember downloading the original Mozilla Open Source release, staying home from work to compile it on Windows with Visual Studio, and getting just one or two page views out of it before it fell over and caught on fire.  And of course, long before that, I remember using the original lizard in monochrome on a Sun workstation, freaking out over everything and looking up [Earth 2][e2] episode guides.
 
-So, although I'm kinda subdued in general right nowâ€”subdued as in beat about the head and shouldersâ€”I've got a serious amount of breathlessness going on while trying hard to just kinda be nonchalant.  :)
+So, although I'm kinda subdued in general right now—subdued as in beat about the head and shoulders—I've got a serious amount of breathlessness going on while trying hard to just kinda be nonchalant.  :)
 
 [e2]: http://umsa7.ums.edu/~anniebw/earth2/
 [amo]: http://wiki.mozilla.org/Update:Remora

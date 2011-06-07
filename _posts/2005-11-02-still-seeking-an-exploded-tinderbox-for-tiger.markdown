@@ -4,7 +4,7 @@ layout: post
 title: Still Seeking an Exploded Tinderbox for Tiger
 wordpress_url: http://decafbad.com/blog/?p=763
 ---
-This is a recurring thought: I still really, really want [an exploded Tinderbox on Tiger][exp].  It could *so* become an *Ã¼ber* Spotlight/Finder replacement.  I just don't seem to have time or ambition to write it.
+This is a recurring thought: I still really, really want [an exploded Tinderbox on Tiger][exp].  It could *so* become an *über* Spotlight/Finder replacement.  I just don't seem to have time or ambition to write it.
 
 I don't mention [Tinderbox][tb] very often, but I've got a few Tinderbox documents set as Login Items on my PowerBook.  So, this app has become ubiquitous on my machine for [idea capture, sorting, and exploration][id].  In fact, I used it to capture, shape, and structure everything I put into [Hacking RSS and Atom][book].
 
@@ -12,11 +12,11 @@ However, I haven't ever gotten far into some of the more advanced features like 
 
 Really, my main reason for not delving into Tinderbox's advanced features is that learning and using them effectively would burrow me further into the app's own pocket universe of conventions and technology.
 
-Since Tinderbox saves to XML, I *can* bridge to a larger information space via [XSLT and XPath based tools][tools].  But, all the conversion and roundtrip can get kludgey and awkwardâ€”and I lose the ease of [life inside text files][txt] augmented by grep, awk, sed, vim, perl, python, [QuickSilver][qs], and [Markdown][md].
+Since Tinderbox saves to XML, I *can* bridge to a larger information space via [XSLT and XPath based tools][tools].  But, all the conversion and roundtrip can get kludgey and awkward—and I lose the ease of [life inside text files][txt] augmented by grep, awk, sed, vim, perl, python, [QuickSilver][qs], and [Markdown][md].
 
-This is the point where I think opportunities presented by Tiger and the advent of Spotlight can come into playâ€”especially with the availability of [SpotMeta][sm].  SpotMeta weds Spotlight with HFS Extended Attributes in order to enable the management of arbitrary user-specified metadata on files in addition to Spotlight Importer metadata.  
+This is the point where I think opportunities presented by Tiger and the advent of Spotlight can come into play—especially with the availability of [SpotMeta][sm].  SpotMeta weds Spotlight with HFS Extended Attributes in order to enable the management of arbitrary user-specified metadata on files in addition to Spotlight Importer metadata.  
 
-See, the main magic of Tinderboxâ€”at least to meâ€”is visualization and management of relationships between notions and microcontent.  At present, Tinderbox needs to swallow the universe to accomplish everything it wants to accomplish.  It needs to include word processor features and metadata handling and graphics and all.  
+See, the main magic of Tinderbox—at least to me—is visualization and management of relationships between notions and microcontent.  At present, Tinderbox needs to swallow the universe to accomplish everything it wants to accomplish.  It needs to include word processor features and metadata handling and graphics and all.  
 
 But, what if Tinderbox could surrender all of those functions up to TextEdit and MS Word and other desktop apps?  What if all of the "notes" in a Tinderbox document were just documents and files, and all of the relationships managed by Tinderbox (ie. spatial, links, aliased) were just encoded as extended attributes?
 

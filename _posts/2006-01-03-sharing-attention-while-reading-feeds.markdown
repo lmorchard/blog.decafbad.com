@@ -5,7 +5,7 @@ title: Sharing attention while reading feeds
 wordpress_url: http://decafbad.com/blog/?p=814
 ---
 <blockquote cite="http://blogs.zdnet.com/SAAS/?p=82">Instead of reading their individual selections of RSS feeds privately, everyone should be encouraged to publish those aggregated feeds on the Web. ... the simple act of publishing those aggregations then makes them available to others, and thus makes them amenable to network effects in a way that they never can be if they're kept private.</blockquote>
-<small style="text-align:right; display:block">Source: <a href="http://blogs.zdnet.com/SAAS/?p=82">Â» It's time to bury RSS | Software as services | ZDNet.com</a></small>
+<small style="text-align:right; display:block">Source: <a href="http://blogs.zdnet.com/SAAS/?p=82">» It's time to bury RSS | Software as services | ZDNet.com</a></small>
 
 My current two responses to the above:
 
@@ -20,15 +20,15 @@ Basically, this script scans all the current entries of all my subscribed feeds 
 
 At the end, I see a new feed entry displaying the most linked-to things of the moment.  Think of this as a kind of real-time PageRank.  How's that for network effects?
 
-I think this is *sort of* how [Memeorandum][meme] works, only this is constrained to the feeds in my subscription list.  I've been considering making this script a full-on service:  Upload an OPML export from your aggregator, get your own Popular Links feed.  I've got all the parts laying around but I haven't yet had time to put them togetherâ€”**but if it sounds like something useful, and possibly worth clicking a Paypal donation button, let me know!**
+I think this is *sort of* how [Memeorandum][meme] works, only this is constrained to the feeds in my subscription list.  I've been considering making this script a full-on service:  Upload an OPML export from your aggregator, get your own Popular Links feed.  I've got all the parts laying around but I haven't yet had time to put them together—**but if it sounds like something useful, and possibly worth clicking a Paypal donation button, let me know!**
 
 Secondly:  [Attention.xml][att] makes a lot of sense with regard to the above-quoted article.  When I first heard about [Attention.xml][att], I merely cocked my head at it and made a confused sound.  This was before I caught the microformats bug, and before I realized that I [started reinventing it][blogroll] a bit in my own ramblings.
 
-Basically, [Attention.xml][att] is a feedroll enriched with data about the entries you've lately read from each feed.  It's in an XHTML-based format whichâ€”albeit ugly in my opinion and in need of more elegant microformat influenceâ€”is indeed viewable in a browser.  In a sense, this format is an auto-blog of my feed consumption.  I was looking for hacks for my NetNewsWire in AppleScript, when I found [this Attention.xml generator][gen].  Seeing the output of that, it all clicked.
+Basically, [Attention.xml][att] is a feedroll enriched with data about the entries you've lately read from each feed.  It's in an XHTML-based format which—albeit ugly in my opinion and in need of more elegant microformat influence—is indeed viewable in a browser.  In a sense, this format is an auto-blog of my feed consumption.  I was looking for hacks for my NetNewsWire in AppleScript, when I found [this Attention.xml generator][gen].  Seeing the output of that, it all clicked.
 
 Combining [Attention.xml][att] with my Popular Links algorithm could be a very powerful thing, methinks.  Rather than waiting for my friends to tip over the laziness point to blogging about something, I could digest their shared [Attention.xml][att] files and collate the links they've merely *read*.  In this way, I could build an *AttentionRank* for various things, and cause the cream to rise to the top in my feed reader.
 
-I'm pretty sure that I'm playing catch-up here, but this all suddenly seems hot to me.  And not to mention, it seems neat that I have all the pieces laying around to build it.  The only bad thing is that I just don't have the time to spareâ€”I've already spent too much time writing this blog post!
+I'm pretty sure that I'm playing catch-up here, but this all suddenly seems hot to me.  And not to mention, it seems neat that I have all the pieces laying around to build it.  The only bad thing is that I just don't have the time to spare—I've already spent too much time writing this blog post!
 
 Anyway, maybe you'll hear more from me about this soon.
 

@@ -8,9 +8,9 @@ Since the [recent demise of my iPod][ded], I've returned to poking around at pre
 
 The closest I've come to anything usable is burning MP3 CD's from iTunes playlists, in combination with [some applescript][script] to make [paper CD cases][pcdc] that list all the podcasts on the disc.  
 
-Not *too* shabby, other than the fact that this approach would eventually leave me with a large pile of paper-encased CDR's to either archive or toss.  But, even considering archival, it's a bit wasteful since I never really have 650MB worth of new podcasts accumulated at convenient timesâ€”and even if I did, that'd be quite a lot to listen to.
+Not *too* shabby, other than the fact that this approach would eventually leave me with a large pile of paper-encased CDR's to either archive or toss.  But, even considering archival, it's a bit wasteful since I never really have 650MB worth of new podcasts accumulated at convenient times—and even if I did, that'd be quite a lot to listen to.
 
-I've tried burning multi-session CDs so as to use up all the space before moving onto the next blank.  However, that just results in the MP3 CD player recognizing only the first session.  I really would like to reuse a handful of CDRW's for a temporary sneakernet.  But alas, it seems my Blaupunkt MP3 CD unit won't read from CDRW'sâ€”at least, not the ones I have on hand.
+I've tried burning multi-session CDs so as to use up all the space before moving onto the next blank.  However, that just results in the MP3 CD player recognizing only the first session.  I really would like to reuse a handful of CDRW's for a temporary sneakernet.  But alas, it seems my Blaupunkt MP3 CD unit won't read from CDRW's—at least, not the ones I have on hand.
 
 But, I do have to say that these MP3 CD's sound a hell of a lot better than my old Griffin iTrip FM transmitter sounded.  :)
 

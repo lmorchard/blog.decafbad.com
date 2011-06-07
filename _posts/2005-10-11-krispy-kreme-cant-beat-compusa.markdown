@@ -9,6 +9,6 @@ wordpress_url: http://decafbad.com/blog/?p=729
 
 Am I the only one who, immediately after opening the box of any electronic gadget, gives it a nice and thorough sniffing?  Ahh, fresh plastic and electronical stuff.  It's better than donuts.
 
-Oh wait, I'm not the only oneâ€”there's at least one other, and [I'm marrying her][en].
+Oh wait, I'm not the only one—there's at least one other, and [I'm marrying her][en].
 
 [en]: http://www.decafbad.com/blog/2005/06/17/were_engaged

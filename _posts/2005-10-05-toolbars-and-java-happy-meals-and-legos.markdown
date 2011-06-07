@@ -13,4 +13,4 @@ And, since when was OpenOffice based on Java?  Last I heard, [WordPerfect for Ja
 (*Update:*  [It's Lego, not Legos](http://www.multicon.de/fun/legofaq.html#a7).  Also: [LEGO Gets Pissy About Brand Name][lego])
 
 
-[lego]: http://www.adrants.com/2005/09/lego-gets-pissy-about-brand-name.php "Adrants Â» LEGO Gets Pissy About Brand Name"
+[lego]: http://www.adrants.com/2005/09/lego-gets-pissy-about-brand-name.php "Adrants » LEGO Gets Pissy About Brand Name"

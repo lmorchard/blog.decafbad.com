@@ -6,7 +6,7 @@ wordpress_url: http://decafbad.com/blog/?p=1167
 ---
 *Update, 30 Sep 2008*: 
 
-**You don't want to follow the directions on this pageâ€”instead, leave this page and read this:**  
+**You don't want to follow the directions on this page—instead, leave this page and read this:**  
 
 [http://laconi.ca/darcs/README](http://laconi.ca/darcs/README)
 
@@ -27,7 +27,7 @@ Having started and neglected two Twitter cloning attempts of my own, [Cuckoo](ht
 * [decafbad.com/laconica](http://decafbad.com/laconica)
 * [lmorchard.com/laconica](http://lmorchard.com/laconica)
 
-See, the interesting thing promised by [Laconica][]â€”and something I wanted in my own clonesâ€”is the ability to federate instances of the software.  That is, users on one [Laconica][]-based site should be able to subscribe to the updates from users on another site, by way of the [OpenMicroblogging specification][openmu].  Although federation isn't a silver bullet to a web-scale Twitter clone, I do think it's one of the most important bootstrap stepsâ€”but that's another blog post entirely.
+See, the interesting thing promised by [Laconica][]—and something I wanted in my own clones—is the ability to federate instances of the software.  That is, users on one [Laconica][]-based site should be able to subscribe to the updates from users on another site, by way of the [OpenMicroblogging specification][openmu].  Although federation isn't a silver bullet to a web-scale Twitter clone, I do think it's one of the most important bootstrap steps—but that's another blog post entirely.
 
 Thus, since I'd like to see *you* run a Laconica site (or something like it) for mine to talk to, I figured I'd document how I got the thing running.  My server is running Ubuntu Gutsy, so your mileage may vary.  This is a long one, so check out the how-to after the jump...
 
@@ -89,7 +89,7 @@ I'll assume you already have MySQL installed.  To set up a database for Laconica
 
 ## Configure Laconica
 
-So far, I've found at least two config files that need tweakingâ€”namely `config.php` and `dataobject.ini`.
+So far, I've found at least two config files that need tweaking—namely `config.php` and `dataobject.ini`.
 
 The first thing I did to `config.php` was to add the following at around line 6 to account for my `extlib/` directory:
 
@@ -126,7 +126,7 @@ Be sure to substitute your own web server paths and passwords in all the above. 
 
 ## Configure Web Server
 
-There isn't really much to configure if you're using Apache.  There's a file `htaccess.sample` that needs to be copied to `.htaccess`â€”this will put in place all the `mod_rewrite` rules necessary to support "fancy" URLs.
+There isn't really much to configure if you're using Apache.  There's a file `htaccess.sample` that needs to be copied to `.htaccess`—this will put in place all the `mod_rewrite` rules necessary to support "fancy" URLs.
 
 On the other hand, if you're okay with uglier URLs with query parameters and whatnot, leave `.htaccess` alone and use `$config['site']['fancy'] = false` in your `config.php`.  
 
@@ -135,7 +135,7 @@ For comparison, here are examples of non-fancy and fancy profile URLs:
 * http://decafbad.com/laconica/index.php?action=showstream&nickname=lmorchard
 * http://decafbad.com/laconica/lmorchard
 
-One catch to the non-fancy and fancy thing, thoughâ€”if you start off with non-fancy URLs and later switch to fancy, all of the profiles registered before that switch will appear with non-fancy URLs in the timeline.  This is because the `profile` table stores the original URLs at registration in the `profileurl` column.  You could change these if you like, but there be dragons.
+One catch to the non-fancy and fancy thing, though—if you start off with non-fancy URLs and later switch to fancy, all of the profiles registered before that switch will appear with non-fancy URLs in the timeline.  This is because the `profile` table stores the original URLs at registration in the `profileurl` column.  You could change these if you like, but there be dragons.
 
 ### Configure Lighttpd for "fancy" URLs (optional)
 

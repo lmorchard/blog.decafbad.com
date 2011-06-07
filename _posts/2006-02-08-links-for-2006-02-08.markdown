@@ -11,7 +11,7 @@ wordpress_url: http://decafbad.com/blog/2006/02/08/links-for-2006-02-08
 		<div class="delicious-tags">(tags: <a href="http://del.icio.us/deusx/javascript">javascript</a> <a href="http://del.icio.us/deusx/bookmarklets">bookmarklets</a>)</div>
 	</li>
 	<li>
-		<div class="delicious-link"><a href="http://www.badastronomy.com/bablog/2006/02/04/outrage-at-attacks-on-nasa-science/">Bad Astronomy Blog Â» Blog Archive Â» Outrage at attacks on NASA science</a></div>
+		<div class="delicious-link"><a href="http://www.badastronomy.com/bablog/2006/02/04/outrage-at-attacks-on-nasa-science/">Bad Astronomy Blog » Blog Archive » Outrage at attacks on NASA science</a></div>
 		<div class="delicious-extended">"NASA is not in the business of teaching religion. They should be teaching science, and the Big Bang is definitely science."</div>
 		<div class="delicious-tags">(tags: <a href="http://del.icio.us/deusx/astronomy">astronomy</a> <a href="http://del.icio.us/deusx/nasa">nasa</a> <a href="http://del.icio.us/deusx/religion">religion</a> <a href="http://del.icio.us/deusx/bush">bush</a> <a href="http://del.icio.us/deusx/politics">politics</a>)</div>
 	</li>

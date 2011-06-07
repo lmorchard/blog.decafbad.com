@@ -8,7 +8,7 @@ Weirdest search referrer of the year so far:
 
 > [ocd thoughts that i want to kill someone][srch]
 
-The last hit on the first page of results goes to my blog entry, "[Info Freako, or whoâ€™s already past arguing about syndication formats?][ent]"  
+The last hit on the first page of results goes to my blog entry, "[Info Freako, or who’s already past arguing about syndication formats?][ent]"  
 
 To whomever you are: If this was a call for help, stay far away from syndication feeds.  (*"3000 TEST CASES!!!"*)
 

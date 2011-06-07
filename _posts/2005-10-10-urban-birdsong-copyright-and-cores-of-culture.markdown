@@ -12,7 +12,7 @@ I've got this idea that sticks with me:  All music started from birdsong and oth
 
 You make music, you tell a story, you spawn an icon with big ears.  If you're successful, it makes its way out of your hands and becomes adopted by others.  But after awhile, it stops being yours so much as it becomes a shared focus for others.  Whatever you meant for it in the beginning, it's become the seed of a hailstone.  If you're really good or lucky, the hailstone grows into a comet. 
 
-All of the experiences and memories and feelings of all of the people who have taken in your creation accrete around it, eventually becoming more than your creation ever was.  But, you can't ever own that, it's not yoursâ€”and the only way you can have any say in the matter is through artificial means supported by the barrel of a gun.  The core of it may have once come from you, but that's all.  The rest is culture.
+All of the experiences and memories and feelings of all of the people who have taken in your creation accrete around it, eventually becoming more than your creation ever was.  But, you can't ever own that, it's not yours—and the only way you can have any say in the matter is through artificial means supported by the barrel of a gun.  The core of it may have once come from you, but that's all.  The rest is culture.
 
 Artists deserve compensation and need it to keep releasing cores of culture, but we all need to agree that these things are indeed *released*.  There needs to be an realization that, after time, compensation turns into parasitic thievery of the source from which they drew to begin with.  
 
@@ -20,6 +20,6 @@ And besides, where's the incentive to keep creating, if you can just ride along 
 
 Anyway, in the end, with all this DRM crap and treating the audience as a gang of criminals, I just want to know that I can opt out.  You want to copy protect your refried crap to the point where it'll be illegible in 10 years and lost forever when your business model goes under?  Fine.  Just leave the rest of us out of it and get your hands off my computer.  
 
-Whenever I get around to writing and releasing the stories in my head, they'll be *released*.  And in the meantime, I'll continue paying more and more attention to the people who get itâ€”it'll be their birdsong that I'll be repeating.
+Whenever I get around to writing and releasing the stories in my head, they'll be *released*.  And in the meantime, I'll continue paying more and more attention to the people who get it—it'll be their birdsong that I'll be repeating.
 
 <!-- tags: music copyright culture drm copyfight -->

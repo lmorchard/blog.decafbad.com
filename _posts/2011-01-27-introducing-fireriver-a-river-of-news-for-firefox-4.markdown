@@ -14,7 +14,7 @@ This is Fireriver, [an **experimental** add-on for Firefox 4](https://addons.moz
 
 Fireriver uses Live Bookmarks to build a [River of News][] in your browser. No unread counts, no 3-pane view like an email client. Just paddle down the page with the space bar or your scroll wheel. 
 
-Organize the Live Bookmarks into folders to split things up into multiple riversâ€”which is not a strict River of News, per se. But, I like using them to focus on particular topics or priorities I happen to have time for.
+Organize the Live Bookmarks into folders to split things up into multiple rivers—which is not a strict River of News, per se. But, I like using them to focus on particular topics or priorities I happen to have time for.
 
 <img src="http://decafbad.com/blog/wp-content/uploads/2011/01/Screen-shot-2011-01-26-at-8.55.46-PM.png" alt="Screen shot 2011-01-26 at 8.55.46 PM.png" border="0" width="600" height="475" />
 

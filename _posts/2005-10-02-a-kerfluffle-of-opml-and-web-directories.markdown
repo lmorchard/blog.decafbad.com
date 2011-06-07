@@ -4,9 +4,9 @@ layout: post
 title: A kerfluffle of OPML and web directories
 wordpress_url: http://decafbad.com/blog/?p=711
 ---
-So, I guess there was a bit of an extended kerfluffle over the weekend.  And as these things usually do, it started out from a very cool idea: You can build a web directory as an outline of links, with some nodes "farmed out" to outlines hosted elsewhereâ€”all through the magic of [transclusion][trans].  
+So, I guess there was a bit of an extended kerfluffle over the weekend.  And as these things usually do, it started out from a very cool idea: You can build a web directory as an outline of links, with some nodes "farmed out" to outlines hosted elsewhere—all through the magic of [transclusion][trans].  
 
-For example, say you want to host a directory of resources on web development.  But, you might like to let me maintain the section on web syndication feeds.  Well, I can toss you a URL to my outline of RSS and Atom links, and you can just pull it into a branch of your "superset" outlineâ€”kind of like an RSS subscription, really.  Whenever I change my outline, yours will automatically get updated with my work.
+For example, say you want to host a directory of resources on web development.  But, you might like to let me maintain the section on web syndication feeds.  Well, I can toss you a URL to my outline of RSS and Atom links, and you can just pull it into a branch of your "superset" outline—kind of like an RSS subscription, really.  Whenever I change my outline, yours will automatically get updated with my work.
 
 Now, imagine this going off into infinity in both directions:  Outlines including outlines including outlines.  Outlines included by outlines included by outlines.  It's a world-wide outline.
 
@@ -28,7 +28,7 @@ Personally, [I sympathize with the dirty ways of group #2][dirt].  But, I've bec
 
 So...  What to do?  Bah, I don't know.  But, against my better judgement, I feel like [I have an idea or two to "put up"][idea].  
 
-In the meantime: Members of group #1, stop arguing with members of group #2â€”you're not speaking in quite the same languages, and you're not going to convert anyone.  Just nod & smile, walk away and come up with a better idea, come back and show why it's better.
+In the meantime: Members of group #1, stop arguing with members of group #2—you're not speaking in quite the same languages, and you're not going to convert anyone.  Just nod & smile, walk away and come up with a better idea, come back and show why it's better.
 
 (Oh yeah, and whatever happened to [OML replacing OPML][oml]?)
 

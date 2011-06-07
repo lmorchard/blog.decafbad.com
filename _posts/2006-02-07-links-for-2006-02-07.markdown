@@ -60,8 +60,8 @@ wordpress_url: http://decafbad.com/blog/2006/02/07/links-for-2006-02-07
 		<div class="delicious-tags">(tags: <a href="http://del.icio.us/deusx/irc">irc</a> <a href="http://del.icio.us/deusx/quotes">quotes</a> <a href="http://del.icio.us/deusx/funny">funny</a> <a href="http://del.icio.us/deusx/gaming">gaming</a> <a href="http://del.icio.us/deusx/nintendo">nintendo</a> <a href="http://del.icio.us/deusx/mario">mario</a> <a href="http://del.icio.us/deusx/metroid">metroid</a>)</div>
 	</li>
 	<li>
-		<div class="delicious-link"><a href="http://www.russellbeattie.com/notebook/1008787.html">Russell Beattie Notebook Â» Back to Old School Blogging</a></div>
-		<div class="delicious-extended">"I subscribe to several Ego feeds from Technorati, Google, IceRocket, etc. so I should see the response if itâ€™s out there. See you in the blogosphere!"</div>
+		<div class="delicious-link"><a href="http://www.russellbeattie.com/notebook/1008787.html">Russell Beattie Notebook » Back to Old School Blogging</a></div>
+		<div class="delicious-extended">"I subscribe to several Ego feeds from Technorati, Google, IceRocket, etc. so I should see the response if it’s out there. See you in the blogosphere!"</div>
 		<div class="delicious-tags">(tags: <a href="http://del.icio.us/deusx/metablogging">metablogging</a>)</div>
 	</li>
 	<li>

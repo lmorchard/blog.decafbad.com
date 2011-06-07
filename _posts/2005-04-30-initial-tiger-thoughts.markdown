@@ -12,7 +12,7 @@ wordpress_url: http://www.decafbad.com/blog/?p=633
 
 [pf]: http://www.cocoatech.com/
 
-* For ExposÃ© and Dashboard, I wish the row of F'Keys at the top of the keyboard were actually at the bottom.  
+* For Exposé and Dashboard, I wish the row of F'Keys at the top of the keyboard were actually at the bottom.  
 
   It sounds pitiful, but after getting used to slamming fingers down on CMD-Space for Quicksilver (and now Spotlight), reaching *all the way up there* seems like a waste--especially when I have to get my *arm* involved to move my hand, versus just some fingers.  And, no, moving a mouse pointer *way over* into a corner doesn't help.  Nor does tapping a corner of the trackpad, ala [SideTrack][st].
 
@@ -26,7 +26,7 @@ wordpress_url: http://www.decafbad.com/blog/?p=633
 
 [m2]: http://arstechnica.com/reviews/os/macosx-10.4.ars/3
 
-* I'm reading about things like [file system metadata in Tiger][fsm]--*BeFS Ã¼ber alles!*--and seeing the author express suspicions and point to signs of various decisions divined from hints half-buried in semi-obscure documentation.  
+* I'm reading about things like [file system metadata in Tiger][fsm]--*BeFS über alles!*--and seeing the author express suspicions and point to signs of various decisions divined from hints half-buried in semi-obscure documentation.  
 
   It makes me wonder what it'd be like reading this as an in-house Apple developer, or as someone behind the wall of an NDA.  That is, having been *in* the real group huddles and meetings, writing code and committing changes, seeing the actual whiteboards at work.
   

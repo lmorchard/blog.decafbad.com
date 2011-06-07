@@ -6,7 +6,7 @@ wordpress_url: http://decafbad.com/blog/?p=1496
 ---
 It's been a busy 3 years or so.  
 
-Yes, this promises to be one of *those* posts I seem to keep writing.  It's not *quite* LiveJournal material, but it'll be completely devoid of code or any notable geekeryâ€”so feel free to move along.
+Yes, this promises to be one of *those* posts I seem to keep writing.  It's not *quite* LiveJournal material, but it'll be completely devoid of code or any notable geekery—so feel free to move along.
 
 In late 2005 to early 2006, after [a busy and stressful Autoshow season working at Organic][autoshow], I finished [a book on del.icio.us][delbook]. Meanwhile, the girl and I prepared for a wedding and a [honeymoon in San Francisco][honeymoon]. Unexpectedly, I got offered a job at Yahoo! a month or so before getting married. [We got married on June 9, 2006][wedding]. We had a honeymoon in San Francisco. Then, less than a month after that, [we moved to Santa Clara and I started at Yahoo! working on del.icio.us][gowest].
 
@@ -32,7 +32,7 @@ Three months [after moving to Santa Clara][santaclara], I [got injured and lived
 [jsbook]: http://www.wiley.com/WileyCDA/WileyTitle/productCd-047038459X.html
 [dad]: http://decafbad.com/blog/2007/09/25/dad
 [delfall]: http://blog.delicious.com/blog/2007/09/taste-test.html
-[delwinter]: http://blog.delicious.com/blog/2008/01/using-delicious-on-your-iphone.html "the team has been heads down working on the next version of Delicious Weâ€™ll have an update to share with you guys next week."
+[delwinter]: http://blog.delicious.com/blog/2008/01/using-delicious-on-your-iphone.html "the team has been heads down working on the next version of Delicious We’ll have an update to share with you guys next week."
 
 Around that point, my wife and I got fed up with our state of affairs in the Bay Area and decided it was time for things to change. Having gotten injured and couch-bound right at the beginning probably didn't help, but we never quite felt at home in California. I still have a lot of [starry-eyed regard][starry] for [the birthplace of Silicon Valley][valley] and all, but for us it's maybe a better place to visit than to live.
 
@@ -48,7 +48,7 @@ In early 2008, [my wife found us a wonderful house in Michigan][house]. Work on 
 [atmozilla]: http://decafbad.com/blog/2008/05/22/week-3-at-mozilla
 [envmozilla]: http://www.flickr.com/photos/deusx/2867692971/
 
-Finally, more than half a year later, I'm still at Mozilla and they seem to like me there so far. Also, [part of my work on the JavaScript book has made it to the shelves][concisedojo] in the form of the [Concise Guide to Dojo][concisedojobook]. This past summer, [Delicious 2 finally launched][del2launch]â€”and though I'm sad not to have been there when the finish line was crossed, I still think leaving was the best decision for me and mine. We've settled into the new house, and I've been gradually trying to leave the hermitage to get into the happenings in the Ann Arbor / Detroit area, of which there seem to be an interestingly growing number.
+Finally, more than half a year later, I'm still at Mozilla and they seem to like me there so far. Also, [part of my work on the JavaScript book has made it to the shelves][concisedojo] in the form of the [Concise Guide to Dojo][concisedojobook]. This past summer, [Delicious 2 finally launched][del2launch]—and though I'm sad not to have been there when the finish line was crossed, I still think leaving was the best decision for me and mine. We've settled into the new house, and I've been gradually trying to leave the hermitage to get into the happenings in the Ann Arbor / Detroit area, of which there seem to be an interestingly growing number.
 
 [del2launch]: http://decafbad.com/blog/2008/08/04/delicious-20-is-more-than-a-pretty-new-face
 [concisedojo]: http://decafbad.com/blog/2008/12/19/the-concise-guide-to-dojo-is-a-real-book

@@ -27,6 +27,6 @@ So, I've started hacking my `userChrome.css` again:
         opacity: 1 !important;
     }
 
-Unfortunately, that last bit with the opacity doesn't work.  I want to disable the dimming of unselected tabs, so that all tab previews are 100% opaque at all times and not just when selected.  See, I don't need the current tab to be fully clearâ€”it's what I'm looking at right now.  I need all the other tab previews to be as clear as possible.
+Unfortunately, that last bit with the opacity doesn't work.  I want to disable the dimming of unselected tabs, so that all tab previews are 100% opaque at all times and not just when selected.  See, I don't need the current tab to be fully clear—it's what I'm looking at right now.  I need all the other tab previews to be as clear as possible.
 
 [ts]: http://users.blueprintit.co.uk/~dave/web/firefox/tabsidebar/index.html

@@ -8,7 +8,7 @@ I'm no longer at Yahoo! and I no longer work on [Delicious](http://delicious.com
 
 So, off the top of my head, I thought I might point out **just a few** of the easily-missed improvements the new site offers beyond the great new love-it-or-hate-it visual redesign that seems to have occupied most of the discussion I've seen so far:
 
-**Search works and is incredibly fast.**  In fact, search may really be the real star of the redesign show hereâ€”especially since del.icio.us often took 30 seconds or more for a simple search, rendering it all but useless.  Today, though, it's at ludicrous speed in comparisonâ€”and so finally, the real power of search applied to social bookmarking might start to shine with the critical mass of content found by real people using Delicious.
+**Search works and is incredibly fast.**  In fact, search may really be the real star of the redesign show here—especially since del.icio.us often took 30 seconds or more for a simple search, rendering it all but useless.  Today, though, it's at ludicrous speed in comparison—and so finally, the real power of search applied to social bookmarking might start to shine with the critical mass of content found by real people using Delicious.
 
 To scratch my own itch, I've created [an unofficial OpenSearch search engine plugin for Delicious](http://mycroft.mozdev.org/developer/devlist.html?email=l.m.orchard%40pobox.com) on Mycroft.  Though I think it comes along with [the browser extensions](http://delicious.com/help/tools), I've yet to find this for [autodiscovery](http://mycroft.mozdev.org/developer/hosting.html) from the site itself.
 
@@ -16,7 +16,7 @@ To scratch my own itch, I've created [an unofficial OpenSearch search engine plu
 
 **[The feeds have all been overhauled and reorganized](http://delicious.com/help/feeds).**  An attempt at backward compatibility was made, but the old feed URLs are all deprecated.  Replacing these, there's now [a common and consistent URL namespace for feeds across formats](http://delicious.com/help/feeds).  
 
-Almost all RSS feeds have [JSONP](http://bob.pythonmac.org/archives/2005/12/05/remote-json-jsonp/) counterparts, and further feed formats could be considered.  Additionally, the old mix of RSS 1.0 and 2.0 has been dropped in favor of RSS 2.0 format across the board to support podcast and media enclosure elements consistently.  The [linkrolls, tagrolls, network badges, and tagometers](http://delicious.com/help/tools) now all use the new JSONP feedsâ€”and the widgets can be examined as example code in using the feeds.
+Almost all RSS feeds have [JSONP](http://bob.pythonmac.org/archives/2005/12/05/remote-json-jsonp/) counterparts, and further feed formats could be considered.  Additionally, the old mix of RSS 1.0 and 2.0 has been dropped in favor of RSS 2.0 format across the board to support podcast and media enclosure elements consistently.  The [linkrolls, tagrolls, network badges, and tagometers](http://delicious.com/help/tools) now all use the new JSONP feeds—and the widgets can be examined as example code in using the feeds.
 
 **Tag bundles can now be viewed as combined bookmark views, complete with feeds.**  This augments bundles from a simple visual organization tool to a more powerful content aggregation function.  Personally, I never had much use for tag bundles until now, but since they can actually be used to partition tags and bookmarks I might actually take the time to use them.  Check out these example URLs:
 

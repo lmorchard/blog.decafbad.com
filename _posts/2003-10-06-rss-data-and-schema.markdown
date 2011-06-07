@@ -28,13 +28,13 @@ But are we talking about the same "same"?  The appeal of RSS-Data is that I don'
 </i></blockquote>
 <div class="credit" align="right"><small>Source:<cite><a href="http://journurl.com/support/index.cfm?fa=skin.read&message=664&group=9&thread=444&date=all&mrow=3&trow=1">Roger Benningfield in a comment on his "RSS-Data: A Working Demo"</a></cite></small></div> 
 
-<blockquote cite="http://blogs.it/0100198/2003/10/05.html#a1807"><i>Yes - we know that RDF can do many of the things RSS-Data was designed for.Ê But (believe it or not) it really has nothing to do with RSS 1.0 at all.Ê RSS-Data is about extending RSS 2.0.Ê OK?Ê Not RSS 1.0.
+<blockquote cite="http://blogs.it/0100198/2003/10/05.html#a1807"><i>Yes - we know that RDF can do many of the things RSS-Data was designed for.? But (believe it or not) it really has nothing to do with RSS 1.0 at all.? RSS-Data is about extending RSS 2.0.? OK?? Not RSS 1.0.
 <br /><br />
-The point here being that the world is bi-forcated and what do we do?Ê Can't we all live together?Ê Can't we put our heads together and come up with solutions that BRIDGE between these two standards - which just happen to have almost the same dam name?
+The point here being that the world is bi-forcated and what do we do?? Can't we all live together?? Can't we put our heads together and come up with solutions that BRIDGE between these two standards - which just happen to have almost the same dam name?
 <br /><br />
-I gotta believe there's a way that once we "structure" something - like a Calendar Events, Resumes, Recipes or Reviews - we SHOULD be able to express and subscribe to these micro-contentÊformats - via EITHER RSS 1.0 or RSS 2.0.
+I gotta believe there's a way that once we "structure" something - like a Calendar Events, Resumes, Recipes or Reviews - we SHOULD be able to express and subscribe to these micro-content?formats - via EITHER RSS 1.0 or RSS 2.0.
 <br /><br />
-OK - get it?Ê BRIDGE BETWEEN BOTH RSS 1.0 & RSS 2.0.Ê That's what we want.Ê BOTH!</i></blockquote>
+OK - get it?? BRIDGE BETWEEN BOTH RSS 1.0 & RSS 2.0.? That's what we want.? BOTH!</i></blockquote>
 <div class="credit" align="right"><small>Source:<cite><a href="http://blogs.it/0100198/2003/10/05.html#a1807">Marc's Voice: We want BOTH RSS 1.0 & RSS 2.0!</a></cite></small></div>
 <br /><br />
 So, it looks like this RSS-Data thing is gaining momentum and <a href="http://journurl.com/support/users/admin/index.cfm?mode=article&entry=662">demos</a>, so I'm guessing that it's going to become one of the thing us <a href="http://www.decafbad.com/blog/tech/old/oooaee.html">rock-bangers</a> will have to contend with at some point or another in tinkering with things in syndication and interoperability.  I have my misgivings about it, which mostly center around the issue of schema.
@@ -68,7 +68,7 @@ of the bargain, you won't even need to see my application's code or documentatio
 <br /><br />
 The problem, of course, is that this business with schema carries with it a bit of overhead, as well as a demand that you do some homework.  You'll need to know more than your immediate programming environment.  You'll need to think about XML and XML schemas, and you can't just stay in your comfortable favorite environment of programing language idiom.  This is off-putting to some, to say the least.
 <br /><br />
-So...  how about Marc's question?  "Can't we all live together?Ê Can't we put our heads together and come up with solutions that BRIDGE between these two standards - which just happen to have almost the same dam name?"  On the one side, I see hackers who want to get down and code, and who consider themselves and each other thoughtful and disciplined enough to do the right thing and prevent trainwrecks.  On the other side, I see hackers who want to put discipline and thoughtfulness upfront and <i>in writing (or typing?)</i> before they code, because they don't really trust themselves or others to keep from wrecking the trains all the time.
+So...  how about Marc's question?  "Can't we all live together?? Can't we put our heads together and come up with solutions that BRIDGE between these two standards - which just happen to have almost the same dam name?"  On the one side, I see hackers who want to get down and code, and who consider themselves and each other thoughtful and disciplined enough to do the right thing and prevent trainwrecks.  On the other side, I see hackers who want to put discipline and thoughtfulness upfront and <i>in writing (or typing?)</i> before they code, because they don't really trust themselves or others to keep from wrecking the trains all the time.
 <br /><br />
 Personally, I want to live somewhere in the middle.  Just enough distrust of myself and others to discourage sloppy problems, but not too much so that I have to trudge through careful molasses to get anywhere.
 <br /><br />

@@ -36,7 +36,7 @@ What happened? Other channels became rewarding, and my sharing habits fragmented
 
 But now that I think about it, I'm missing out. All these sharing services I've started using are one-click, lazy affairs with no particular drive toward tagging. My only intentional input into the process is to point and nod. Consequently, they facilitate *sharing* much more than *search* or *recall*, in that the richness of metadata extracted from me is reduced. Delicious kind of tricked me into doing all three at once, but newer services are more focused on me as a social entity.
 
-The thing about Delicious is that it wasn't meant for socializing. Ratherâ€”as I understood it, at leastâ€”it was built to exploit both selfish and social mechanics to extract useful work. In this particular case, the goal was producing interesting collections of things on the web. Compare it to Amazon's [Mechanical Turk][mturk], only with a non-monetary incentive. Since [Joshua Schachter][joshua] and friends have started [Tasty Labs][tasty], I expect we'll see them take a shot at applying this notion to other problems.
+The thing about Delicious is that it wasn't meant for socializing. Rather—as I understood it, at least—it was built to exploit both selfish and social mechanics to extract useful work. In this particular case, the goal was producing interesting collections of things on the web. Compare it to Amazon's [Mechanical Turk][mturk], only with a non-monetary incentive. Since [Joshua Schachter][joshua] and friends have started [Tasty Labs][tasty], I expect we'll see them take a shot at applying this notion to other problems.
 
 [joshua]: http://joshua.schachter.org/
 [mturk]: https://www.mturk.com/mturk/welcome

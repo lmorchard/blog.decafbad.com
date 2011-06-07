@@ -8,9 +8,9 @@ Hmm, so the video-playing iPod has arrived.  And [they're selling current episod
 
   * We subscribe to basic analog cable at about $50 a month.  If we instead put all that money into iTMS, that'd be 25 episodes a month.
   * Weekly shows only manage around 4 episodes per month, so that'd be about 6 shows we could keep up with.
-  * Come to think of it, that's probably about the maximum number of on-air shows we care about anywayâ€”everything else comes from Netflix.
+  * Come to think of it, that's probably about the maximum number of on-air shows we care about anyway—everything else comes from Netflix.
   * A season of a show seems to run about 24 episodes, which would cost about $48 through iTMS.  The first season of Lost on DVD retails for $59.99, [sells for $38.99 on Amazon][lost], as of this writing.
-  * The price difference here comes out much more favorably than I thought it would.  This would obviously trade immediacy for qualityâ€”but that's what you're doing with music through iTMS versus CDs, anyway.
+  * The price difference here comes out much more favorably than I thought it would.  This would obviously trade immediacy for quality—but that's what you're doing with music through iTMS versus CDs, anyway.
 
 Forgetting for the moment about the tiny screen and low resolutions even on the desktop, it seems somewhat crazy and counter-intuitive to give up several dozen channels of cable television for less than a couple-dozen hours of programming.  But I'd bet we give a crap about less than a couple-dozen hours of content on cable anyway.
 

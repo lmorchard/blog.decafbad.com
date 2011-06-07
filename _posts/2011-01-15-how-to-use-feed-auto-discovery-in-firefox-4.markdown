@@ -6,7 +6,7 @@ wordpress_url: http://decafbad.com/blog/?p=1970
 ---
 **TL;DR**: <em>The feed button is not dead; it's just been sent to sing backup in Firefox 4 because it's not pulling its weight up front. This post discusses how you can still use feed auto-discovery, even restoring the icon to the toolbar with a few clicks and a drag.</em>
 
-There's [a brouhaha](http://camendesign.com/rss_a_reply) about [Bug 578967](https://bugzilla.mozilla.org/show_bug.cgi?id=578967), wherein the feed auto-discover icon in [the Firefox 4 Beta](http://www.mozilla.com/en-US/firefox/beta/) has been hidden by default. Being a feed nerd, the author of a book on the stuff, *and* a Mozilla employeeâ€”I've got at least a few opinions.
+There's [a brouhaha](http://camendesign.com/rss_a_reply) about [Bug 578967](https://bugzilla.mozilla.org/show_bug.cgi?id=578967), wherein the feed auto-discover icon in [the Firefox 4 Beta](http://www.mozilla.com/en-US/firefox/beta/) has been hidden by default. Being a feed nerd, the author of a book on the stuff, *and* a Mozilla employee—I've got at least a few opinions.
 
 This post is one of [several on this subject](http://decafbad.com/blog/tag/bug578967).
 
@@ -16,9 +16,9 @@ Feeds are so successful and ubiquitous that it's simpler to assume every site ha
 
 <img src="http://decafbad.com/blog/wp-content/uploads/2011/01/feed-sub-002.png" alt="feed-sub-00.png" border="0" width="600" height="242" />
 
-The only indicator of a missing feed is that the menu item greys out. Since feeds are everywhere, you should feel comfortable reaching for that subscription menu whenever you like. Of course, this assumes that subscribing to a page falls into the same thought process as bookmarking itâ€”but I don't think that's an unreasonable notion.
+The only indicator of a missing feed is that the menu item greys out. Since feeds are everywhere, you should feel comfortable reaching for that subscription menu whenever you like. Of course, this assumes that subscribing to a page falls into the same thought process as bookmarking it—but I don't think that's an unreasonable notion.
 
-On the other hand, if you didn't know that subscribing to a page was possibleâ€”or if you worry there might be people (ie. the potential readers of your feeds) who are in that positionâ€”this change may seem problematic. 
+On the other hand, if you didn't know that subscribing to a page was possible—or if you worry there might be people (ie. the potential readers of your feeds) who are in that position—this change may seem problematic. 
 
 I don't think that's an unreasonable notion, either. But, I'll get back to that in a future post.
 
@@ -46,4 +46,4 @@ I took my browser screenshots with [Dave Winer's screenshot of the old Firefox f
 
 <img src="http://decafbad.com/blog/wp-content/uploads/2011/01/feed-sub-04.png" alt="feed-sub-04.png" border="0" width="600" height="271" />
 
-The main difference is that Dave's screenshot is the default in Firefox 3.6, whereas mine is the result of the last few screenshots of toolbar customization in Firefox 4 beta 9. That customization is easy, if you know it's possibleâ€”but the worry is, as they say: out of sight, out of mind. 
+The main difference is that Dave's screenshot is the default in Firefox 3.6, whereas mine is the result of the last few screenshots of toolbar customization in Firefox 4 beta 9. That customization is easy, if you know it's possible—but the worry is, as they say: out of sight, out of mind. 

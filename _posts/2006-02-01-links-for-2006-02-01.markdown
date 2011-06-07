@@ -51,8 +51,8 @@ wordpress_url: http://decafbad.com/blog/2006/02/01/links-for-2006-02-01
 		<div class="delicious-tags">(tags: <a href="http://del.icio.us/deusx/webdev">webdev</a> <a href="http://del.icio.us/deusx/programming">programming</a> <a href="http://del.icio.us/deusx/python">python</a> <a href="http://del.icio.us/deusx/twisted">twisted</a> <a href="http://del.icio.us/deusx/zope">zope</a>)</div>
 	</li>
 	<li>
-		<div class="delicious-link"><a href="http://www.brewedfreshdaily.com/2006/01/29/my-netnewswire-delicious-applescript/">Brewed Fresh Daily Â» My NetNewsWire -> del.icio.us applescript Â» Opinions, news and events from Cleveland, Ohio</a></div>
-		<div class="delicious-extended">"Hereâ€™s what Iâ€™m using to send stuff from NNW to my del.icio.us account"</div>
+		<div class="delicious-link"><a href="http://www.brewedfreshdaily.com/2006/01/29/my-netnewswire-delicious-applescript/">Brewed Fresh Daily » My NetNewsWire -> del.icio.us applescript » Opinions, news and events from Cleveland, Ohio</a></div>
+		<div class="delicious-extended">"Here’s what I’m using to send stuff from NNW to my del.icio.us account"</div>
 		<div class="delicious-tags">(tags: <a href="http://del.icio.us/deusx/delicious">delicious</a> <a href="http://del.icio.us/deusx/nnw">nnw</a> <a href="http://del.icio.us/deusx/mac">mac</a> <a href="http://del.icio.us/deusx/applescript">applescript</a>)</div>
 	</li>
 	<li>
@@ -66,7 +66,7 @@ wordpress_url: http://decafbad.com/blog/2006/02/01/links-for-2006-02-01
 		<div class="delicious-tags">(tags: <a href="http://del.icio.us/deusx/funny">funny</a> <a href="http://del.icio.us/deusx/jwz">jwz</a> <a href="http://del.icio.us/deusx/freedom">freedom</a> <a href="http://del.icio.us/deusx/comics">comics</a>)</div>
 	</li>
 	<li>
-		<div class="delicious-link"><a href="http://www.geekculture.com/joyoftech/joyarchives/692flash.html">â˜… The Joy of Tech! â˜… - Steve Jobs Dress-Up</a></div>
+		<div class="delicious-link"><a href="http://www.geekculture.com/joyoftech/joyarchives/692flash.html">? The Joy of Tech! ? - Steve Jobs Dress-Up</a></div>
 		<div class="delicious-tags">(tags: <a href="http://del.icio.us/deusx/stevejobs">stevejobs</a> <a href="http://del.icio.us/deusx/apple">apple</a> <a href="http://del.icio.us/deusx/dressup">dressup</a> <a href="http://del.icio.us/deusx/flash">flash</a> <a href="http://del.icio.us/deusx/comics">comics</a>)</div>
 	</li>
 	<li>

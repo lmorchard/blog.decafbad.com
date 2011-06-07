@@ -8,7 +8,7 @@ Say hello to [Google Reader][gr], the newest addition to the world of web syndic
 
 It's slow as hell at the moment, but I'm guessing that's due to it just having been introduced and maybe not fully deployed throughout the Googleverse.  We'll see how fast it is once they've had a chance to actually get it stabilized.  On the bright side, it accepted my metric ton of feeds in an OPML export from NetNewsWire without complaint.
 
-Seems pretty neat and whizbang so farâ€”ooh, ahhâ€”but it's just too  clunky, chunky, and cute for me.  It's got big, fat, blue toy borders around everything.  And, despite having nice keyboard accellerators, it spends an awful lot of time animating the scrolling strip under the "book magnifier".  
+Seems pretty neat and whizbang so far—ooh, ahh—but it's just too  clunky, chunky, and cute for me.  It's got big, fat, blue toy borders around everything.  And, despite having nice keyboard accellerators, it spends an awful lot of time animating the scrolling strip under the "book magnifier".  
 
 (You know, [those things][mag] they sell to people who want the Large Print edition of Readers' Digest?  I'll probably need one someday.)
 

@@ -4,11 +4,11 @@ layout: post
 title: Reading lists for Auto Shows
 wordpress_url: http://decafbad.com/blog/?p=854
 ---
-Since I've been [playing][nr] with [reading lists][rl] latelyâ€”if you happen to be interested in auto shows and/or cars in general, check these out:
+Since I've been [playing][nr] with [reading lists][rl] lately—if you happen to be interested in auto shows and/or cars in general, check these out:
 
-* [ ![opml][] ][jo] â€” [Jeep Auto Show News][j]
-* [ ![opml][] ][do] â€” [Dodge Auto Show News][d]
-* [ ![opml][] ][co] â€” [Chrysler Auto Show News][c]
+* [ ![opml][] ][jo] — [Jeep Auto Show News][j]
+* [ ![opml][] ][do] — [Dodge Auto Show News][d]
+* [ ![opml][] ][co] — [Chrysler Auto Show News][c]
 
 Each of the above reading lists contain various RSS feeds being produced for topic areas under each of these brand Auto Show news sites.  And, each of the HTML links lead to a branded, AJAX-based mini-newsreader that uses these reading lists to find feeds.
 

@@ -14,7 +14,7 @@ The main new feature is a status bar item reporting bookmarks for the current pa
 
 As you can see above, the command now comes with a status bar panel powered by the [Delicious URL info JSON feed][urlinfo], providing bookmarking info on every page visited.  It shows a bookmark count, a tooltip with further information, and sends the user to the URL info page on Delicious when clicked.  It mostly works, but it could use some looking at.  This is my first time really cracking open the hood on Firefox and XUL, and so I'm feeling around in the dark.
 
-Specifically, I'm using Ubiquity's page load hookâ€”but I'm also trying to augment that by tracking tab selection events, in order to keep the status bar info updated for the active tab.  But then, that leads me to trying to track new windows, to attach the tab selection event handler for every newly opened window.  Or I could just be barking up the wrong tree entirely.  At any rate, the code is probably brain-dead dumb, so I hope someone can clue me into a better way.
+Specifically, I'm using Ubiquity's page load hook—but I'm also trying to augment that by tracking tab selection events, in order to keep the status bar info updated for the active tab.  But then, that leads me to trying to track new windows, to attach the tab selection event handler for every newly opened window.  Or I could just be barking up the wrong tree entirely.  At any rate, the code is probably brain-dead dumb, so I hope someone can clue me into a better way.
 
 [urlinfo]: http://delicious.com/help/feeds
 [cmd]: http://decafbad.com/hgwebdir.cgi/UbiquityCommands/file/tip/delicious.ubiq.js

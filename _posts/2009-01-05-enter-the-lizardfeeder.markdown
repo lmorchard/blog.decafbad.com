@@ -6,15 +6,15 @@ wordpress_url: http://decafbad.com/blog/?p=1533
 ---
 [caption id="attachment_1582" align="alignright" width="247" caption="The Mozilla Tree"]<a href="http://blog.lizardwrangler.com/2008/07/29/the-mozilla-tree/"><img src="http://decafbad.com/blog/wp-content/uploads/2009/01/moz-tree.jpg" alt="The Mozilla Tree" title="moz-tree" width="247" height="191" class="size-full wp-image-1582" /></a>[/caption]
 
-Behind Firefox is Mozilla, and behind Mozilla is a community.  And the Mozilla community acts a lot like an ecosystem, which can be visualized [as a kind of living tree][tree]â€”not to confused with the [mozilla-central tree][mctree].  Oh yeah, and Mozilla is the name of [both a Foundation and a Corporation][mocofo].
+Behind Firefox is Mozilla, and behind Mozilla is a community.  And the Mozilla community acts a lot like an ecosystem, which can be visualized [as a kind of living tree][tree]—not to confused with the [mozilla-central tree][mctree].  Oh yeah, and Mozilla is the name of [both a Foundation and a Corporation][mocofo].
 
 Confused yet?  If not, then we should talk so you can explain it to me, because it all looks pretty tangly and [intertwingled][inter] to me.  Nonetheless, it seems to work, and produces a good chunk of my favorite software and technologies.
 
-There are many efforts to track what's going onâ€”including [planets][planet] and [newsletters][about] and [bugzillas][bugzilla] and [wikis][wikis] and [repositories][repos] and [tinderboxen][tinderbox].  Some of these resources report on, or are driven by, the activity occurring in the others.  Some are automated, and others are carefully stitched together by hand.  None offer a full picture of what's going on in the [Mozilla galaxy][galaxy] in a way that's casually comprehensible by a sane human being.
+There are many efforts to track what's going on—including [planets][planet] and [newsletters][about] and [bugzillas][bugzilla] and [wikis][wikis] and [repositories][repos] and [tinderboxen][tinderbox].  Some of these resources report on, or are driven by, the activity occurring in the others.  Some are automated, and others are carefully stitched together by hand.  None offer a full picture of what's going on in the [Mozilla galaxy][galaxy] in a way that's casually comprehensible by a sane human being.
 
-Of course, that's not a slight against any of these sites or the people maintaining themâ€”extracting an overview from such an organic phenomenon is neither easy nor straightforward.  But, it might be fun to try.
+Of course, that's not a slight against any of these sites or the people maintaining them—extracting an overview from such an organic phenomenon is neither easy nor straightforward.  But, it might be fun to try.
 
-As an infovore and avid practitioner of [continuous partial attention][firehose], my first impulse is to reach for a firehose and stick my head into the stream.  Relax, defocus, and try to let my pattern recognizers do their thingâ€”sometimes those pattern recognizers are in my head, and [sometimes they're written in Python][popularlinks].
+As an infovore and avid practitioner of [continuous partial attention][firehose], my first impulse is to reach for a firehose and stick my head into the stream.  Relax, defocus, and try to let my pattern recognizers do their thing—sometimes those pattern recognizers are in my head, and [sometimes they're written in Python][popularlinks].
 
 [caption id="attachment_1585" align="alignright" width="225" caption="Firefox Victory!"]<a href="http://www.flickr.com/photos/intothefuzz/2571283860/in/set-72157605179678562/"><img src="http://decafbad.com/blog/wp-content/uploads/2009/01/robo-225x300.jpg" alt="Firefox Victory Robot" title="firefox-victory" width="225" height="300" class="size-medium wp-image-1585" /></a>[/caption]
 

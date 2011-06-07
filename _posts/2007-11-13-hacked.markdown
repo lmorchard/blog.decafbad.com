@@ -4,6 +4,6 @@ layout: post
 title: hacked?
 wordpress_url: http://decafbad.com/blog/2007/11/13/hacked
 ---
-Crap.  Somehow, someone's gotten access to edit my posts on this blog and have crapped in loads of viagra linkspam.  I've probably destroyed the evidence already by deleting the spam as soon as I saw it â€” and as soon as some friendly readers emailed me pointing at more.  I've done the obvious, changed my password and tried to lock down the admin pages a bit.  But, I don't know who, how, or why.  Ugh.
+Crap.  Somehow, someone's gotten access to edit my posts on this blog and have crapped in loads of viagra linkspam.  I've probably destroyed the evidence already by deleting the spam as soon as I saw it — and as soon as some friendly readers emailed me pointing at more.  I've done the obvious, changed my password and tried to lock down the admin pages a bit.  But, I don't know who, how, or why.  Ugh.
 
 So, my apologies if anyone sees any offers for penis pills around these parts.  A heads up would be kindly appreciated as I scour my records and grumble.

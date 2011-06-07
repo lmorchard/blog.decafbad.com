@@ -14,7 +14,7 @@ So, I figure this might be a good time to mention them:
 
 * [First Meetings in the Enderverse][fm], by **Orson Scott Card**
 
-  I'm always a sucker for an Ender story, and Orson Scott Card is one of my all-time favorite authorsâ€”even if I do think he voices [some ornery political opinions][pol] from time to time and has a [pretty unpleasant reputation][rep].  Some great origin material here, as well as the original Ender's Game.
+  I'm always a sucker for an Ender story, and Orson Scott Card is one of my all-time favorite authors—even if I do think he voices [some ornery political opinions][pol] from time to time and has a [pretty unpleasant reputation][rep].  Some great origin material here, as well as the original Ender's Game.
 
 * [The Crystal City][city], by **Orson Scott Card**
 
@@ -24,7 +24,7 @@ I'm also starting on:
 
 * [A Mind So Rare][mind], by **Merlin Donald**
 
-  Just about 30 pages into this one, but so far I'm enjoying it.  As opposed to a lot of the deterministic stuff about consciousness I've read in school and on my ownâ€”"You are simply a machine!"â€”this book would appear to use the same research to present a picture of the mind which in fact supports awareness and free will.  
+  Just about 30 pages into this one, but so far I'm enjoying it.  As opposed to a lot of the deterministic stuff about consciousness I've read in school and on my own—"You are simply a machine!"—this book would appear to use the same research to present a picture of the mind which in fact supports awareness and free will.  
 
 <!-- tags: books orsonscottcard ender cogsci makers scifi reviews -->
 

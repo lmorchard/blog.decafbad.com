@@ -6,7 +6,7 @@ wordpress_url: http://decafbad.com/blog/?p=777
 ---
 [More hubbub about OPML][op].  More people getting excited about a way to express things being pushed by [a guy][ag] with a lot of enthusiasm and a following.  But, [XOXO][] offers all the expressive bang for your buck that OPML offers, but with less crud.  There are more tools using XOXO than OPML, *right now*.  
 
-The pervasive deployment of this format is so widespread that it's boringâ€”and sometimes I think that's why OPML gets interest:  That is, because it presents as novel and is presented by a guy with the energy and interest to evangelize.  HTML's what we're all already soaking in, so why talk about that?
+The pervasive deployment of this format is so widespread that it's boring—and sometimes I think that's why OPML gets interest:  That is, because it presents as novel and is presented by a guy with the energy and interest to evangelize.  HTML's what we're all already soaking in, so why talk about that?
 
 I'd seriously be working on an [XOXO-based outliner][xout] of my own, if I wasn't wholly tied up with a dayjob and writing.  On the other end of things, I think some very cool things could happen if we had a Google or a Technorati start harvesting `<ul>` and `<ol>` tags from the general HTML population in order to give some sort of tangible reward for all those sidebar link lists people have been using in their blog templates for years.
 

@@ -16,17 +16,17 @@ To celebrate [Independence Day][july4], I figured I might take a shot at liberat
 
 Thus, over the past few days, I've [built a sync server][impl] using the [1.0 Sync API][api10], hosted on [Google App Engine][appengine].
 
-I lied about the *tyranny* thing, thoughâ€”I just wanted to say something clever about the holiday. In reality, with respect to [Firefox Sync][sync], Mozilla has done all of the following:
+I lied about the *tyranny* thing, though—I just wanted to say something clever about the holiday. In reality, with respect to [Firefox Sync][sync], Mozilla has done all of the following:
 
 1. Published [the Sync API spec][api10];
 2. Released [the source code for the server used in-house][sync-server];
 3. Explicitly included the option to use a custom server when setting up sync in the browser.
 
-This means that, although Mozilla offers servers to go along with [Firefox Sync][sync], you're totally free to take your data elsewhere. Since your sync data is encrypted and practically opaque to the server, there's no direct profit for Mozilla in offering free sync hostingâ€”not even through any clandestine data mining for devious purposes. It's just that sync makes Firefox a better browser, and *somebody* has to run some servers to make it work.
+This means that, although Mozilla offers servers to go along with [Firefox Sync][sync], you're totally free to take your data elsewhere. Since your sync data is encrypted and practically opaque to the server, there's no direct profit for Mozilla in offering free sync hosting—not even through any clandestine data mining for devious purposes. It's just that sync makes Firefox a better browser, and *somebody* has to run some servers to make it work.
 
 So, there's every incentive to make it easy for you to switch sync providers and *stop freeloading* on Mozilla's servers. Building a server on [Google App Engine][appengine] means I can freeload on *Google's* servers!
 
-I kid, of course. No one's really complaining about freeloaders, and App Engine has quotas in place to head off any serious moochingâ€”which is why I'm not telling you where to find *my* sync server deployed on Google App Engine, by the way. 
+I kid, of course. No one's really complaining about freeloaders, and App Engine has quotas in place to head off any serious mooching—which is why I'm not telling you where to find *my* sync server deployed on Google App Engine, by the way. 
 
 No, I did this because:
 
@@ -34,11 +34,11 @@ No, I did this because:
 * I've already done a bit of work on the PHP-based Firefox Sync server at Mozilla;
 * I really wanted to take a break from PHP and spend some time with my old friend Python.
 
-There are, of course, a number of bugs in this server. But, it seems to be working between a number of machines and browser profiles I have at home. Things are really in need of optimization, it suffers from my inexperience with App Engine, and I keep running into those aforementioned App Engine resource limitsâ€”especially when updating or deleting large numbers of items (ie. 1000's to 10000's of items).
+There are, of course, a number of bugs in this server. But, it seems to be working between a number of machines and browser profiles I have at home. Things are really in need of optimization, it suffers from my inexperience with App Engine, and I keep running into those aforementioned App Engine resource limits—especially when updating or deleting large numbers of items (ie. 1000's to 10000's of items).
 
 [*Pull requests and issue reports on GitHub are welcome!*][impl]
 
-A next step I'd like to take with this thing is to revisit another old friend, the [desktop web app server][desktopserver]. (Also known as the [desktop website][dw].) It seems to me that it would be interesting to scale this server down to a household applianceâ€”say, just for use by my wife and I.
+A next step I'd like to take with this thing is to revisit another old friend, the [desktop web app server][desktopserver]. (Also known as the [desktop website][dw].) It seems to me that it would be interesting to scale this server down to a household appliance—say, just for use by my wife and I.
 
 I'd be especially happy if the work I'm doing for a Google-hosted app could be self-hosted at home. Seeing as the development environment for App Engine runs on my laptop, I'm willing to bet I can hack the whole shebang into a simple, special-purpose app to download and double-click on a home desktop PC for use as your sync hub.
 

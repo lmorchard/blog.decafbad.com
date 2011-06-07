@@ -7,7 +7,7 @@ wordpress_url: http://www.decafbad.com/blog/?p=636
 <blockquote>Obviously, it would be difficult to find a stronger [Tinderbox][tb] advocate than I am, and it's the tool I reach for first and most often for my information management needs. But the OS itself is offering more and better tools to help with these sorts of tasks all the time, and it would be great if there was closer cooperation between the application and the OS.</blockquote>
   <div align="right"><small>Source: <cite><a href="http://www.doug-miller.net/blog/archive/tinderboxandtiger.html">Doing Something Different: Tinderbox and Tiger</a></cite></small></div>
 
-Could [Tinderbox][tb] become an Ã¼ber-interface for Spotlight?  With all the indexed metadata available to on files in Tiger, it makes me wonder how feasible it would be to explode [Tinderbox][tb]:  
+Could [Tinderbox][tb] become an über-interface for Spotlight?  With all the indexed metadata available to on files in Tiger, it makes me wonder how feasible it would be to explode [Tinderbox][tb]:  
 
 Make it a relationship manager and visualizer for files on disk, based on their metadata, rather than maintaining its own private single-file database of notes and their attributes.  Plain old notes could be turned into RTF and text files, and all sorts of other media types could be included.  Links could be represented in metadata, and parent-child relationships come for free as folder/file.  
 

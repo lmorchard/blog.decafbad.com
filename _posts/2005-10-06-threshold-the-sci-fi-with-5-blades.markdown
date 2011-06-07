@@ -6,7 +6,7 @@ wordpress_url: http://decafbad.com/blog/?p=720
 ---
 I'm starting to get into [CBS' Threshold][th] tonight, having gotten 4 episodes of it.  Seems like network TV goes through sci-fi cycles, and this must be the latest.  This particular show looks like it might shape up to be combination sci-fi slasher and forensic drama.  But, still, [I find myself comparing it to a podcast][ss].
 
-Also, what's up with "triple-helix DNA"?  Is this a concept that's popped up somewhereâ€”other than [being an early guess at our own DNA's structure][dna]â€”like, on UFO conspiracy boards and whatnot?  Or is it just double-helix-plus-one so as to be extra spooky alien?  ([Kinda like a 5-bladed razor][razor]?)  
+Also, what's up with "triple-helix DNA"?  Is this a concept that's popped up somewhere—other than [being an early guess at our own DNA's structure][dna]—like, on UFO conspiracy boards and whatnot?  Or is it just double-helix-plus-one so as to be extra spooky alien?  ([Kinda like a 5-bladed razor][razor]?)  
 
 Double helix DNA, I *think* I understand:  It's very convenient in copying.  Unzip it, dunk it in a soup of free-floating spare parts, agitate, and you end up with two self-assembled copies.  But how the hell would a triple-helix work?
 

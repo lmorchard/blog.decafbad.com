@@ -6,7 +6,7 @@ wordpress_url: http://decafbad.com/blog/?p=712
 ---
 Now, in my [previous post][prev], I'd mentioned that I might have some ideas to "put up" in response to this recent OPML and web directories kerfluffle.  Here's my general idea:
 
-How about trying [XOXO][], [the `rel` attribute on HTML links][rel], and [the `subsection` link type][subsection]â€”all with a bit of XSL to make it work?
+How about trying [XOXO][], [the `rel` attribute on HTML links][rel], and [the `subsection` link type][subsection]—all with a bit of XSL to make it work?
 
 Here's some working data and code:
 
@@ -18,7 +18,7 @@ Here are some clues as to what the above does:
   * Applying [this XSL][xsl] using [this web service][xsltproc] is where the work gets done.  This consists of dereferencing each link with a `rel="subsection"` and transcluding the innards of the page at the end of the URL.
   * Notice that [the URL of "Syndication Feeds"][ex2] comes from a domain other than `decafbad.com`.  If I wanted to, the [third level of transclusion][ex3] could've come from yet another domain, too.
   
-I think this solution is better than using OPML for web directories.  Although it could use some refinementâ€”using a bit of `<iframe>` or AJAX magic to include in a page, perhapsâ€”it's not only *already supported* by more applications than OPML, it *also* leverages a lot of prior art and consensus work.  
+I think this solution is better than using OPML for web directories.  Although it could use some refinement—using a bit of `<iframe>` or AJAX magic to include in a page, perhaps—it's not only *already supported* by more applications than OPML, it *also* leverages a lot of prior art and consensus work.  
 
 So, am I wrong here?  If so, please tell me how, where, and why.
 

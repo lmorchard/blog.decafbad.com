@@ -9,7 +9,7 @@ wordpress_url: http://decafbad.com/blog/?p=799
 
 It took me awhile to [say much at all][real] about my first book.  I was so excited to have been given the opportunity that I didn't want to jinx it with a stray mouth-aimed foot.  But, it looks like there's already a page over at Wiley for this second book of mine and I've already gotten a few questions about it.  
 
-So, yeah, it looks like I'm back to work on a book againâ€”slaving away at my basement desk over a hot Microsoft Word document.  It's a hard life, being asked to do [what I've always wanted to do][trans].  (Of course, now my problem is making sure I manage to do it all **on time**!)
+So, yeah, it looks like I'm back to work on a book again—slaving away at my basement desk over a hot Microsoft Word document.  It's a hard life, being asked to do [what I've always wanted to do][trans].  (Of course, now my problem is making sure I manage to do it all **on time**!)
 
 One interesting thing about the projected release date for the book, though, is that the girl and I will likely be [just getting married][married] or off enjoying our honeymoon when it hits the shelves...
 

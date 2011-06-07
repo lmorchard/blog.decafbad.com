@@ -4,7 +4,7 @@ layout: post
 title: Writing a Delicious command for Ubiquity
 wordpress_url: http://decafbad.com/blog/?p=1310
 ---
-In my [last post][last], I got all fluffy about how cool [Ubiquity][] is but didn't share any code to prove the point.  As it happens, I have come up with at least one useful command that I'm starting to use habitually in posting bookmarks to Delicious.  You can [subscribe to my command][subs] or [check out the full source][source]â€”this post will serve as a dissection of the thing.  Since this will be fairly lengthy, follow along after the jump.
+In my [last post][last], I got all fluffy about how cool [Ubiquity][] is but didn't share any code to prove the point.  As it happens, I have come up with at least one useful command that I'm starting to use habitually in posting bookmarks to Delicious.  You can [subscribe to my command][subs] or [check out the full source][source]—this post will serve as a dissection of the thing.  Since this will be fairly lengthy, follow along after the jump.
 
 Oh, and it's been awhile since I posted something this in-depth around here, so feel free to let me know how this first draft works.  And, bug reports and patches are of course welcome.
 
@@ -71,7 +71,7 @@ Whereas Greasemonkey scripts support metadata in the header comment, the Ubiquit
 
 The [`CmdUtils` module][cmdutils] provided by Ubiquity offers a `CreateCommand` function, which expects an object as a parameter.  The object literal whose construction is begun in the code above serves as a self-contained package for the command, bearing metadata describing the command as well as containing all the code necessary to implement it.
 
-So, in the above code block, you can see the machine-readable description of the commandâ€”including a command name, display icon, home page URL, author information, and license.  The command name (`share-on-delicious`) will be used by the Ubiquity command parser, but the rest of the description will also be used in the list of commands available to the user, invoked by the `command-list` command, like so:
+So, in the above code block, you can see the machine-readable description of the command—including a command name, display icon, home page URL, author information, and license.  The command name (`share-on-delicious`) will be used by the Ubiquity command parser, but the rest of the description will also be used in the list of commands available to the user, invoked by the `command-list` command, like so:
 
 <img src="/2008/ubiq-share-on-delicious-list.jpg" style="border: 1px solid #333; margin: 0.25em; padding: 0.25em" />
 
@@ -87,7 +87,7 @@ Moving along, this next chunk of code introduces the first functional bits of th
     },
 </pre>
 
-Like smart keyword shortcut bookmarks, Ubiquity commands accept user-supplied input.  But, what's unique to Ubiquity is that it employs a parser whose goal is to support something approximating natural language.  At present, this results in commands that support a single primary argumentâ€”declared above with the `takes` propertyâ€”and any number of additional keyword modifiersâ€”declared above by the `modifiers` property.
+Like smart keyword shortcut bookmarks, Ubiquity commands accept user-supplied input.  But, what's unique to Ubiquity is that it employs a parser whose goal is to support something approximating natural language.  At present, this results in commands that support a single primary argument—declared above with the `takes` property—and any number of additional keyword modifiers—declared above by the `modifiers` property.
 
 For the command under construction here, this establishes a pattern something like the following:
 
@@ -95,7 +95,7 @@ For the command under construction here, this establishes a pattern something li
 
 Content for the `{notes}` argument can either be typed directly by hand, or it can be supplied by text highlighted on the page.  To use highlighted text, you can either issue the command alone, or use the word `this` for the `{notes}` argument before including further modifiers.
 
-The modifiers `tagged` and `entitled` are optional, and can be used in any order.  Each of these keywords signifies the start of a different argumentâ€”which unfortunately can collide with the literal data supplied for notes, which will hopefully be a rare occurrence.
+The modifiers `tagged` and `entitled` are optional, and can be used in any order.  Each of these keywords signifies the start of a different argument—which unfortunately can collide with the literal data supplied for notes, which will hopefully be a rare occurrence.
 
 All of this adds up command invocations including the following:
 
@@ -104,7 +104,7 @@ All of this adds up command invocations including the following:
     share-on-delicious this entitled This bookmark has no tags
     sh this tagged osx software apple entitled This is good OS X software
 
-That last example is importantâ€”since I have no other commands starting with "`sh`", I can abbreviate the full command.  Ubiquity only requires enough of a command name to disambiguate it within your collection of commands.
+That last example is important—since I have no other commands starting with "`sh`", I can abbreviate the full command.  Ubiquity only requires enough of a command name to disambiguate it within your collection of commands.
 
 Another thing to note is the use of the constant value `noun_arb_text`, which declares that these arguments should expect any arbitrary text as input.  
 
@@ -131,7 +131,7 @@ Next up is a quick bit of command-specific configuration:
 
 Since this command will be posting to Delicious via the V1 API, it's handy to declare the base URL for the API in an easily changed spot.  That way, you could change this value later on to point the command at another implementation of the API.
 
-Additionally, this command will employ a little-known authentication trick supported by the Delicious API that accepts the user's login cookie set by the Delicious websiteâ€”this "cookie god" auth is used by the official Delicious addon for Firefox.  It's handy for piggybacking on the website login and removing the need to ask the user for their username and password again and possibly storing it in an insecure manner.
+Additionally, this command will employ a little-known authentication trick supported by the Delicious API that accepts the user's login cookie set by the Delicious website—this "cookie god" auth is used by the official Delicious addon for Firefox.  It's handy for piggybacking on the website login and removing the need to ask the user for their username and password again and possibly storing it in an insecure manner.
 
 In fact, this next chunk of code defines a utility method to rummage through the cookie jar:
 
@@ -152,7 +152,7 @@ In fact, this next chunk of code defines a utility method to rummage through the
     },
 </pre>
 
-The method defined above, `._getUserCookie()`, uses the browser's cookie manager and the values defined in the previous configuration section to find the login session cookie set for Delicious.  Take note that this is far beyond the allowed capabilities of bookmarklets and Greasemoney user scriptsâ€”this is digging straight into the browser itself, skipping past the usual content-space security restrictions.  
+The method defined above, `._getUserCookie()`, uses the browser's cookie manager and the values defined in the previous configuration section to find the login session cookie set for Delicious.  Take note that this is far beyond the allowed capabilities of bookmarklets and Greasemoney user scripts—this is digging straight into the browser itself, skipping past the usual content-space security restrictions.  
 
 In other words: In Ubiquity, *the gun is loaded* and you should be careful.  
 
@@ -245,9 +245,9 @@ Continuing on, consider this next chunk of code checking the validity of command
             ].join('');
 </pre>
 
-This chunk of code first checks for a user name, which can be extracted from a valid Delicious login cookie, if one was found.  If not found, the command will failâ€”so the preview built here will instruct the user to login at Delicious before going further.
+This chunk of code first checks for a user name, which can be extracted from a valid Delicious login cookie, if one was found.  If not found, the command will fail—so the preview built here will instruct the user to login at Delicious before going further.
 
-The second precondition for using the command is that the bookmark has been given a title.  By default, this is the title of the current pageâ€”but, some pages don't offer titles.  So, an error needs to be flagged if the user hasn't manually supplied a title in this case.
+The second precondition for using the command is that the bookmark has been given a title.  By default, this is the title of the current page—but, some pages don't offer titles.  So, an error needs to be flagged if the user hasn't manually supplied a title in this case.
 
 Finally, notice in both of these error cases, a string of HTML is composed in the variable `tmpl`.  This will be used at the end of the method to populate the DOM node passed in as `pblock`.
 
@@ -287,11 +287,11 @@ Now, assuming that all the command's prerequisites have been met, it's time to t
     },
 </pre>
 
-Building on the notion that previews are built in a DOM node, the code above uses both CSS and HTML to assemble a quick-and-dirty facsimile of a Delicious bookmarkâ€”which will be rendered like this:
+Building on the notion that previews are built in a DOM node, the code above uses both CSS and HTML to assemble a quick-and-dirty facsimile of a Delicious bookmark—which will be rendered like this:
 
 <img src="/2008/ubiq-share-on-delicious-preview.jpg" style="border: 1px solid #333; margin: 0.25em; padding: 0.25em" />
 
-Also note that Ubiquity provides a template engine for use in generating contentâ€”namely the [JavaScript Templates][jst] engine from the [TrimPath][] project.  This engine may eventually be replaced with another, but the notion is that Ubiquity will provide tools to more easily generate previews and more.
+Also note that Ubiquity provides a template engine for use in generating content—namely the [JavaScript Templates][jst] engine from the [TrimPath][] project.  This engine may eventually be replaced with another, but the notion is that Ubiquity will provide tools to more easily generate previews and more.
 
 The conclusion of the `.preview()` method uses the template engine with a call to `CmdUtils.renderTemplate()` to inject content into the preview element by way of the `.innerHTML` property.
 
@@ -374,8 +374,8 @@ The login cookie authentication supported by the Delicious V1 API is triggered b
 
 Another bit here that shows more access of browser resources is the construction of a unique User-Agent header for this API call based on the browser's own User-Agent string, something that's suggested in the guidelines for using the Delicious API.
 
-Finally, the `.execute()` methodâ€”and the command itselfâ€”is wrapped up with by sending off the bookmark data encoded as POST form variables with the `._buildQueryString()` utility method.
+Finally, the `.execute()` method—and the command itself—is wrapped up with by sending off the bookmark data encoded as POST form variables with the `._buildQueryString()` utility method.
 
-And, that's itâ€”a command-driven Delicious browser extension in a little over 200 lines of code.  There's still more to be done to really make this thing full-featured, but I think this shows off the basic features of Ubiquity.  I'm hoping to dig in deeper and explore further, taking a look at running Greasemonkey-style code at [browser startup and page load][load], as well as playing with some more browser chrome features.  
+And, that's it—a command-driven Delicious browser extension in a little over 200 lines of code.  There's still more to be done to really make this thing full-featured, but I think this shows off the basic features of Ubiquity.  I'm hoping to dig in deeper and explore further, taking a look at running Greasemonkey-style code at [browser startup and page load][load], as well as playing with some more browser chrome features.  
 
 [load]: https://wiki.mozilla.org/Labs/Ubiquity/Ubiquity_0.1_Author_Tutorial#Running_on_page_load_and_startup

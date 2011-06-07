@@ -4,12 +4,12 @@ layout: post
 title: Subscriptions are attention, but what about blogrolls?
 wordpress_url: http://decafbad.com/blog/?p=782
 ---
-<blockquote cite="http://www.dltq.org/?p=763">But today, for my rss feeds importing and exporting needs, OPML far outshines xoxo.<br /><br />Yes, there are 6 XOXO outlines on my front page. There are six lists. But I donâ€™t have an easy way to import one of those XOXO outlines in my FeedDemon application in order to receive the latest blog items from those blogs that I link to. If there IS an easy way to do it, please enlighten me.</blockquote>
+<blockquote cite="http://www.dltq.org/?p=763">But today, for my rss feeds importing and exporting needs, OPML far outshines xoxo.<br /><br />Yes, there are 6 XOXO outlines on my front page. There are six lists. But I don’t have an easy way to import one of those XOXO outlines in my FeedDemon application in order to receive the latest blog items from those blogs that I link to. If there IS an easy way to do it, please enlighten me.</blockquote>
 <small style="text-align:right; display:block">Source: <a href="http://www.dltq.org/?p=763#comment-1131">XOXO vs. OPML at DLTQ.org</a></small>
 
 Ah hah.  Here's a use case where I agree OPML has undeniably become king: Exporting and importing feed aggregator subscriptions.
 
-Because [Radio UserLand][radio] was the first aggregator to really take offâ€”and because OPML is Radio's lingua franca, any new aggregators have needed to speak OPML to facilitate migration.  It grew from there, with nearly every aggregator supporting some basic form of OPML import/export for subscription lists.  OPML has won the "feed subscription list format war" before there was ever a notion that there might be such a war.
+Because [Radio UserLand][radio] was the first aggregator to really take off—and because OPML is Radio's lingua franca, any new aggregators have needed to speak OPML to facilitate migration.  It grew from there, with nearly every aggregator supporting some basic form of OPML import/export for subscription lists.  OPML has won the "feed subscription list format war" before there was ever a notion that there might be such a war.
 
 Now, I'm woefully behind on all the buzz connecting OPML with attention.  But, my impression so far is that people want to share their subscription list, exported from their aggregator of choice.  That comes out as OPML.  So then, the reasoning is that because aggregators produce OPML, and aggregators are powerful attention managers, OPML is the lingua franca of attention.  Is this about right?
 
@@ -23,9 +23,9 @@ Since revamping this blog, I haven't yet gotten around to throwing a proper blog
 
 I guess I don't have a clear picture here yet, but directly shipping around exports from my aggregator subscriptions gives me the willies.  And further, basing anything big on OPML gives me the willies too.  
 
-Nowadays, sharing things on the web feels like XHTML and [microformats][] to me.  OPML for interchange between aggregators is one thingâ€”but on the web at large, sinking deeper roots into OPML and the whole Rube Goldberg array of machinery following behind it feels like a backward step to me.  
+Nowadays, sharing things on the web feels like XHTML and [microformats][] to me.  OPML for interchange between aggregators is one thing—but on the web at large, sinking deeper roots into OPML and the whole Rube Goldberg array of machinery following behind it feels like a backward step to me.  
 
-Maybe [microformats][] are the new XML-geekery, but I don't want a new, "cleaner" XML formatâ€”I just want to more cleverly use the format that everyone's been using to share outlines and declarations of attention in blogs.
+Maybe [microformats][] are the new XML-geekery, but I don't want a new, "cleaner" XML format—I just want to more cleverly use the format that everyone's been using to share outlines and declarations of attention in blogs.
 
 [qif]: http://web.intuit.com/support/quicken/2002/win/1177.html
 [radio]: http://radio.userland.com/

@@ -8,4 +8,4 @@ Hey, look!  It's another glowing review of my book, this time from [Thomas Duff'
 
 <blockquote>Excellent idea and application book...  If you're interested in going beyond simple feed readers and building stuff for yourself, this is a definite purchase you want to check out...</blockquote>
 
-Thanks Thomas!  It's really cool to start seeing feedback on this thing, and it's interesting when comments match up with thing about which I had a few concerns when writing the bookâ€”such as doing all the code in Python versus, say, PHP.
+Thanks Thomas!  It's really cool to start seeing feedback on this thing, and it's interesting when comments match up with thing about which I had a few concerns when writing the book—such as doing all the code in Python versus, say, PHP.

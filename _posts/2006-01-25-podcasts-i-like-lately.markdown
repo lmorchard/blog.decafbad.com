@@ -31,13 +31,13 @@ While being crazy busy, I've been thoroughly enjoying these podcasts:
 
   "*What If John Hughes Wrote Comic Books? 'Brave Men Run' is the story of Nate Charters. Born different, unsure of his origins, he's an outcast at Abbeque Valley High School, a self-proclaimed "boy freak" with few friends and low self-esteem.*"
 
-  This really is like X-Men crossed with Pretty in Pinkâ€”and it works for me.  I got the e-book, but I just can't bring myself to read it and spoil the rest of the reading.
+  This really is like X-Men crossed with Pretty in Pink—and it works for me.  I got the e-book, but I just can't bring myself to read it and spoil the rest of the reading.
 
 * [The Radio Adventures of Doctor Floyd][drf] by Grant Baciocco & Doug Price.  
 
   "*If Jay Ward, creator of Rocky & Bullwinkle, had created Mystery Science Theater 3000 mixed in a little Time Bandits and gave it an educational spin, the result would have been...*"
   
-  Short, tight, fast paced, and incredible punny radio adventures of time travelling absentminded scientists.  They're back from an end-of-year hiatus and going super strong.  In particular, check out the fight scene (*to the end!*) in the middle of [Episode #402][e402]â€”and wear headphones.
+  Short, tight, fast paced, and incredible punny radio adventures of time travelling absentminded scientists.  They're back from an end-of-year hiatus and going super strong.  In particular, check out the fight scene (*to the end!*) in the middle of [Episode #402][e402]—and wear headphones.
   
   "*Combo attack! Body blow! Body blow! Boot to the head! Trip!*"
 

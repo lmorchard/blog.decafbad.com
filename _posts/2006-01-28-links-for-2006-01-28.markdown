@@ -6,7 +6,7 @@ wordpress_url: http://decafbad.com/blog/2006/01/28/links-for-2006-01-28
 ---
 <ul class="delicious">
 	<li>
-		<div class="delicious-link"><a href="http://matt.west.co.tt/spectrum/csi-miami/">matt.west.co.tt Â» Blog Archive Â» Forensic criminology, the ZX Spectrum way</a></div>
+		<div class="delicious-link"><a href="http://matt.west.co.tt/spectrum/csi-miami/">matt.west.co.tt » Blog Archive » Forensic criminology, the ZX Spectrum way</a></div>
 		<div class="delicious-extended">"Kevin Reilly on comp.sys.sinclair uncovered some unintentional humour in season 1, episode 13 of CSI: Miami which UK-based geeks of a certain age will appreciate."</div>
 		<div class="delicious-tags">(tags: <a href="http://del.icio.us/deusx/nifty">nifty</a> <a href="http://del.icio.us/deusx/sinclair">sinclair</a> <a href="http://del.icio.us/deusx/retro">retro</a> <a href="http://del.icio.us/deusx/oldschool">oldschool</a> <a href="http://del.icio.us/deusx/sounds">sounds</a>)</div>
 	</li>
@@ -17,7 +17,7 @@ wordpress_url: http://decafbad.com/blog/2006/01/28/links-for-2006-01-28
 	</li>
 	<li>
 		<div class="delicious-link"><a href="http://www.scifi.com/scifiwire/index.php?id=34364">Sci Fi Wire -- Schneider Talks Smallville's 100th</a></div>
-		<div class="delicious-extended">Ouch.  "John Schneiderâ€”whose character of Jonathan Kent played a key role in Smallville's 100th episode, which aired Jan. 26â€”told SCI FI Wire that he knew what was coming, but used his mixed emotions to fuel his performance."</div>
+		<div class="delicious-extended">Ouch.  "John Schneider—whose character of Jonathan Kent played a key role in Smallville's 100th episode, which aired Jan. 26—told SCI FI Wire that he knew what was coming, but used his mixed emotions to fuel his performance."</div>
 		<div class="delicious-tags">(tags: <a href="http://del.icio.us/deusx/smallville">smallville</a> <a href="http://del.icio.us/deusx/television">television</a>)</div>
 	</li>
 	<li>
@@ -41,7 +41,7 @@ wordpress_url: http://decafbad.com/blog/2006/01/28/links-for-2006-01-28
 		<div class="delicious-tags">(tags: <a href="http://del.icio.us/deusx/recycling">recycling</a> <a href="http://del.icio.us/deusx/trash">trash</a> <a href="http://del.icio.us/deusx/future">future</a> <a href="http://del.icio.us/deusx/environment">environment</a>)</div>
 	</li>
 	<li>
-		<div class="delicious-link"><a href="http://www.escapepod.org/2006/01/25/ep038-lalchimista/">Escape Pod Â» EP038: Lâ€™Alchimista</a></div>
+		<div class="delicious-link"><a href="http://www.escapepod.org/2006/01/25/ep038-lalchimista/">Escape Pod » EP038: L’Alchimista</a></div>
 		<div class="delicious-extended">"You are willing to follow a recipe? So many chefs of your caliber think themselves above the direction of others."  Awesome story of cooking as alchemy.</div>
 		<div class="delicious-tags">(tags: <a href="http://del.icio.us/deusx/podcasts">podcasts</a> <a href="http://del.icio.us/deusx/fiction">fiction</a> <a href="http://del.icio.us/deusx/scifi">scifi</a>)</div>
 	</li>
@@ -56,12 +56,12 @@ wordpress_url: http://decafbad.com/blog/2006/01/28/links-for-2006-01-28
 		<div class="delicious-tags">(tags: <a href="http://del.icio.us/deusx/mp3">mp3</a> <a href="http://del.icio.us/deusx/audio">audio</a> <a href="http://del.icio.us/deusx/singularity">singularity</a> <a href="http://del.icio.us/deusx/transhumanism">transhumanism</a> <a href="http://del.icio.us/deusx/future">future</a> <a href="http://del.icio.us/deusx/kurzweil">kurzweil</a>)</div>
 	</li>
 	<li>
-		<div class="delicious-link"><a href="http://scottsigler.podshow.com/2006/01/25/ancestor-claymation-movie/">Ancestor Â» Ancestor Claymation Movie!</a></div>
+		<div class="delicious-link"><a href="http://scottsigler.podshow.com/2006/01/25/ancestor-claymation-movie/">Ancestor » Ancestor Claymation Movie!</a></div>
 		<div class="delicious-extended">"Oh my goodness, people, look at this amazing piece of work."  Hah, this kid did a clamation animation of a scene from Ancestor.  Totally Airwolf.</div>
 		<div class="delicious-tags">(tags: <a href="http://del.icio.us/deusx/podcasts">podcasts</a> <a href="http://del.icio.us/deusx/ancestor">ancestor</a> <a href="http://del.icio.us/deusx/scottsigler">scottsigler</a> <a href="http://del.icio.us/deusx/claymation">claymation</a>)</div>
 	</li>
 	<li>
-		<div class="delicious-link"><a href="http://www.neatorama.com/2005/12/27/poor-mans-air-conditioning/">Neatorama Â» Blog Archive Â» Poor Manâ€™s Air Conditioning.</a></div>
+		<div class="delicious-link"><a href="http://www.neatorama.com/2005/12/27/poor-mans-air-conditioning/">Neatorama » Blog Archive » Poor Man’s Air Conditioning.</a></div>
 		<div class="delicious-extended">Window air conditioner + generator + beater car = hott</div>
 		<div class="delicious-tags">(tags: <a href="http://del.icio.us/deusx/hacks">hacks</a> <a href="http://del.icio.us/deusx/hardware">hardware</a> <a href="http://del.icio.us/deusx/notwishlist">notwishlist</a>)</div>
 	</li>

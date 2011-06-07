@@ -4,7 +4,7 @@ layout: post
 title: Ajaxitagging
 wordpress_url: http://decafbad.com/blog/2006/08/16/ajaxitagging
 ---
-<blockquote cite="http://adactio.com/journal/1162">Ever since I switched over to a new CMS back in February, Iâ€™ve been tagging all my journal entries. Until now, I havenâ€™t been doing anything with those tags apart from exposing them in category elements in my RSS feed. Now that Iâ€™ve got a good head of steam going with my tags, Iâ€™ve decided to play around with them a bit.</blockquote><div class="quotesource">Source: <a href="http://adactio.com/journal/1162">Adactio: Journal - Ajaxitagging</a></div>
+<blockquote cite="http://adactio.com/journal/1162">Ever since I switched over to a new CMS back in February, I’ve been tagging all my journal entries. Until now, I haven’t been doing anything with those tags apart from exposing them in category elements in my RSS feed. Now that I’ve got a good head of steam going with my tags, I’ve decided to play around with them a bit.</blockquote><div class="quotesource">Source: <a href="http://adactio.com/journal/1162">Adactio: Journal - Ajaxitagging</a></div>
 
 [Book][book] pimping time:  In [Hacking del.icio.us][book], I've got something not entirely unlike the above-linked hack.  (Which, by the way, is good work!)  Mine is much more basic, though - with less microformat, progress bar, and yellow fadey goodness.  And, instead of AJAX, my hack uses [JSONP][].  The Related Links hack in Chapter 9 of [the book][book] shows you how to include lists of the last few bookmarks you've posted under each tag / category / keyword used in a blog post.
 

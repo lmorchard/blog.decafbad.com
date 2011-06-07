@@ -15,7 +15,7 @@ So, I couldn't resist poking around with Dave Winer's [newsRiver][] in the [OPML
 
 In this is a tool to be dropped into your OPML Editor install's Guest Databases / apps / Tools directory, right alongside `newsRiver.root` itself.  You may need to restart the OPML Editor.  Once installed, you should see a new "DecafbadNewsRiver" menu item under the Tools menu, allowing you to view your news in this new UI.  Expect *lots* of bugs, though.
 
-Basically, this provides an alternate DHTML outline rendering of the news items gathered by newsRiverâ€”quite similar to [what I did back in October for FeedSpool][fs].  I'm not sure how far I'll take this, if I take it any farther.  I've got a bit of a notion to tackle some REST/AJAX interaction with newsRiver for on-the-spot item deletion, and maybe on-demand item content retrieval.
+Basically, this provides an alternate DHTML outline rendering of the news items gathered by newsRiver—quite similar to [what I did back in October for FeedSpool][fs].  I'm not sure how far I'll take this, if I take it any farther.  I've got a bit of a notion to tackle some REST/AJAX interaction with newsRiver for on-the-spot item deletion, and maybe on-demand item content retrieval.
 
 But, for newsRiver hackers:  You might like what I've done with the `viewNewsItems` script under `decafbadNewsRiverSuite`.  I've made an attempt to pull all of the HTML out of the midst of the processing code.  That's was icky, and I hated it back when I first ran into it in Radio UserLand.  
 

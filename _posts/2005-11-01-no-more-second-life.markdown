@@ -8,7 +8,7 @@ Over the past few months or so, I've given [Second Life][sl] about 6 hours of my
 
 Anyway, although I wouldn't call mine a dedicated attempt at living an alternate life, I think I've seen enough.  Between the awkward controls for navigating space which make me yearn for [Quake 2][q2], and the 90% crud which comes from all ecosystems of "[Consumer Generated Media][cgm]", I don't think I'm going to get it.  
 
-So, like the people who say mostly these same things about podcasting, I think this is a signal that Second Life is not meant for me.  It might obsolete sliced bread for some peopleâ€”but all it does for me is make me want to waste time with Everquest, wash my brain out with [Zork][zork], or script something in a [MOO][lm].  
+So, like the people who say mostly these same things about podcasting, I think this is a signal that Second Life is not meant for me.  It might obsolete sliced bread for some people—but all it does for me is make me want to waste time with Everquest, wash my brain out with [Zork][zork], or script something in a [MOO][lm].  
 
 Of course, I've never *really* bought into the whole Cyberspace / Metaverse thing past recognizing it as a neat device in [William Gibson novels][wg].  I mean, why would you *ever* want to limit [info freako][if] space to a shoddy simulation of meatspace's meager 3 dimensions?
 

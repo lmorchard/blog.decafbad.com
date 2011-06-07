@@ -41,12 +41,12 @@ wordpress_url: http://decafbad.com/blog/2006/01/21/links-for-2006-01-21
 		<div class="delicious-tags">(tags: <a href="http://del.icio.us/deusx/webdev">webdev</a> <a href="http://del.icio.us/deusx/frontier">frontier</a> <a href="http://del.icio.us/deusx/usertalk">usertalk</a>)</div>
 	</li>
 	<li>
-		<div class="delicious-link"><a href="http://alex.dojotoolkit.org/?p=535">Continuing Intermittent Incoherency Â» JavaScript Idioms Every Webdev Should Grok</a></div>
+		<div class="delicious-link"><a href="http://alex.dojotoolkit.org/?p=535">Continuing Intermittent Incoherency » JavaScript Idioms Every Webdev Should Grok</a></div>
 		<div class="delicious-extended">"JavaScript (the language, not the browser bindings for the DOM, etc.) can be either brutally hard or refreshingly flexible."</div>
 		<div class="delicious-tags">(tags: <a href="http://del.icio.us/deusx/webdev">webdev</a> <a href="http://del.icio.us/deusx/javascript">javascript</a> <a href="http://del.icio.us/deusx/ajax">ajax</a>)</div>
 	</li>
 	<li>
-		<div class="delicious-link"><a href="http://surfmind.com/muzings/index.php?p=78">Surf*Mind*Musings Â» Defunking the NewsRiver HTML</a></div>
+		<div class="delicious-link"><a href="http://surfmind.com/muzings/index.php?p=78">Surf*Mind*Musings » Defunking the NewsRiver HTML</a></div>
 		<div class="delicious-extended">"It took a fair amount of wrangling to strip extraneous markup and nest the stories in appropriately classed divs and spans."</div>
 		<div class="delicious-tags">(tags: <a href="http://del.icio.us/deusx/newsriver">newsriver</a> <a href="http://del.icio.us/deusx/aggregators">aggregators</a> <a href="http://del.icio.us/deusx/rss">rss</a> <a href="http://del.icio.us/deusx/syndication">syndication</a> <a href="http://del.icio.us/deusx/frontier">frontier</a> <a href="http://del.icio.us/deusx/usertalk">usertalk</a> <a href="http://del.icio.us/deusx/webdev">webdev</a>)</div>
 	</li>

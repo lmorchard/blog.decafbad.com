@@ -5,7 +5,7 @@ title: HTML5 drag and drop in Firefox 3.5
 wordpress_url: http://decafbad.com/blog/?p=1793
 ---
 <p><i>
-Oh hey, look! It's another blog postâ€”and this one
+Oh hey, look! It's another blog post—and this one
 <a href="http://hacks.mozilla.org/2009/07/html5-drag-and-drop/">is cross-posted on hacks.mozilla.com</a>.
 I won't say this is the start of a renewed blogging habit, but let's see what happens.
 </i></p>
@@ -52,14 +52,14 @@ dd { margin-left: 2em; margin-bottom: 0.25em; }
 
         I've even scratched an itch of my own and
         built <a target="_new" target="_new" target="_new" href="http://decafbad.com/2009/07/drag-and-drop/outline.html">the beginnings of an outline editor</a>,
-        where every draggable element is also a drop targetâ€”of which
+        where every draggable element is also a drop target—of which
         there could be dozens to hundreds in a complex document, something
         that gave me some minor hair-tearing moments in the past
         while trying to make do with plain old mouse events.
     </p><p>
         And, all the above can be downloaded or cloned from 
         <a href="http://github.com/lmorchard/fx35-drag-and-drop">a GitHub repository</a>
-        I've created especially for this articleâ€”which continues after the jump.
+        I've created especially for this article—which continues after the jump.
     </p>
 </div>
 
@@ -164,7 +164,7 @@ dd { margin-left: 2em; margin-bottom: 0.25em; }
     </pre>
     <p>
         Thanks to the new events and jQuery, this example is both short
-        and simpleâ€”but it packs in a lot of functionality, as the rest
+        and simple—but it packs in a lot of functionality, as the rest
         of this article will explain.  
     </p><p>
         Before moving on, there are at least three things about the above
@@ -202,7 +202,7 @@ dd { margin-left: 2em; margin-bottom: 0.25em; }
                 <a target="_new" href="http://icant.co.uk/sandbox/eventdelegation/">the technique of Event Delegation</a>.
             </p><p>
                 What's that?  Well, imagine you have a list of 1000
-                list itemsâ€”as part of a deeply-nested outline document,
+                list items—as part of a deeply-nested outline document,
                 for instance.  Rather than needing to attach listeners
                 or otherwise fiddle with all 1000 items, simply attach
                 a listener to the parent node (eg. the

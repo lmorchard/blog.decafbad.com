@@ -4,7 +4,7 @@ layout: post
 title: An unnecessary Template Attribute Language
 wordpress_url: http://decafbad.com/blog/?p=1450
 ---
-A funny thing happened on the way to building [a delayed real-time feed display][lizardfeeder]:  I got temporarily obsessed with implementing [a template language in JavaScript][jqtal] that, as it turned out later, I didn't need.  About [the feed project itself][lizardfeeder], I hope to write more soonâ€”but for now I want to get this extra template language thing out of my system and see if anyone else might have a use for it.
+A funny thing happened on the way to building [a delayed real-time feed display][lizardfeeder]:  I got temporarily obsessed with implementing [a template language in JavaScript][jqtal] that, as it turned out later, I didn't need.  About [the feed project itself][lizardfeeder], I hope to write more soon—but for now I want to get this extra template language thing out of my system and see if anyone else might have a use for it.
 
 See, I had a notion it would be keen if I had access to the same template language on the client as on the server.  I needed to render a number of list items statically on the server with feed entries, then update that list with new entries on the client as they became available through JSON feed polling.  It'd be a pain in the butt to maintain two separate list item templates for client and server, so I reached for a shared template language.
 
@@ -12,11 +12,11 @@ Never mind that I'd just gotten done writing [a small book on Dojo][book], and w
 
 But, let's be honest here:  I've always been a fan of Zope's [Template Attribute Language][tal] for their [Page Templates][pt], and have long wondered how hard it would be to implement.  The concept seems so much cleaner to me than most string-formatting template languages, and the workflow from mockup-to-template and back again has always been appealing to me when it works.  So, when my first few experimental steps in trying my hand at it actually started working, I couldn't stop coding.  
 
-And now, [the thing][thing] is mostly done.  It has no tests, has features left undone, and probably yields plenty of bugsâ€”but I finished it enough to use it practically, and that was long enough to convince me it wasn't the right tool for the job.  
+And now, [the thing][thing] is mostly done.  It has no tests, has features left undone, and probably yields plenty of bugs—but I finished it enough to use it practically, and that was long enough to convince me it wasn't the right tool for the job.  
 
 Still, though, I can't help thinking it might be the right tool for *some* job.  That could be because I spent a lot of time on it, or that I'm unreasonably fond of [TAL][tal], but it still feels like a decent little plugin to have on hand.  Maybe someone reading this will have a similar conclusion.
 
-Oh and by the way, plain [jQuery][] turned out to be a better tool for [the job in question][lizardfeeder].  This seems to nicely balance the duplicate effort between server and client, demanding only that I stick with semantically significant CSS class names in the server templateâ€”something I should be doing anyway:
+Oh and by the way, plain [jQuery][] turned out to be a better tool for [the job in question][lizardfeeder].  This seems to nicely balance the duplicate effort between server and client, demanding only that I stick with semantically significant CSS class names in the server template—something I should be doing anyway:
 
             // Clone and populate a new entry.
             var new_item = $('#feed-items .entry:last')

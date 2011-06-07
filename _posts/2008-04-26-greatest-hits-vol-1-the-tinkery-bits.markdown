@@ -12,7 +12,7 @@ But anyway, I'm also having [another bout][navel1] of [periodic existential doub
 
 So, for my own reference more than anything, here's 0xDECAFBAD Greatest Hits Vol 1, the Tinkery Bits.  
 
-It may be presumptuous to ask, but if anyone actually reads through this list and thinks of something worth surfacing that I missedâ€”by all means, let me know.  I'm trying to remind myself what I started this thing for.
+It may be presumptuous to ask, but if anyone actually reads through this list and thinks of something worth surfacing that I missed—by all means, let me know.  I'm trying to remind myself what I started this thing for.
 
 <style type="text/css">
 .entry-content ul li { 
@@ -44,7 +44,7 @@ It may be presumptuous to ask, but if anyone actually reads through this list an
     - Building a wiki based on Amazon S3 and client-side code.
 - 2006 Mar 25: [About XoxoOutliner](http://decafbad.com/blog/2006/03/25/about-xoxooutliner)
     - Building a browser-based outliner that deals in XHTML and XOXO.
-- 2005 Dec 13: [FeedMagick, the feed filter that doesnâ€™t know much about feeds](http://decafbad.com/blog/2005/12/13/feedmagick-the-feed-filter-that-doesnt-know-much-about-feeds)
+- 2005 Dec 13: [FeedMagick, the feed filter that doesn’t know much about feeds](http://decafbad.com/blog/2005/12/13/feedmagick-the-feed-filter-that-doesnt-know-much-about-feeds)
     - Munging, converting, and merging feeds without destroying content.
 - 2005 Oct 05: [FeedSpool is progressing nicely](http://decafbad.com/blog/2005/10/05/feedspool-is-progressing-nicely)
     - Fetching, caching, and spooling up feed updates without destroying content.
@@ -78,7 +78,7 @@ It may be presumptuous to ask, but if anyone actually reads through this list an
     - Wherein I talk about how XML-RPC has worked for me.
 - 2002 May 31: [RSS autodiscovery via the HTML LINK element](http://decafbad.com/blog/2002/05/31
 /oooago)
-    - It's the orange feed button everywhere nowâ€”here's how it started.
+    - It's the orange feed button everywhere now—here's how it started.
 - 2002 Apr 18: [Auto-backlinks from blog entries via referral logs](http://decafbad.com/blog/2002/04/18/oooaoe)
     - Building backlinks from referer logs to help weave the blogosphere.  It was great until the spammers ruined it, though [Sam Ruby has a neat implementation](http://www.intertwingly.net/blog/2005/05/08/Sincerest-Form-Of-Flattery).
 - 2002 Apr 18: [Pipelining the web makes for messy URLs](http://decafbad.com/blog/2002/04/18/oooaod)

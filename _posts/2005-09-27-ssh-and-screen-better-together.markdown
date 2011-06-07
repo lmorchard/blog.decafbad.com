@@ -17,6 +17,6 @@ Behind the scenes, here's what's up:
 * The `-t` option for `ssh` is key for making `screen` work;
 * I have several forwarded ports set up to enable things like IRC and sometimes HTTP proxied through a home machine;
 * I have ssh-agent running in order to ensure I never have to enter a password; 
-* The `while` loop runs forever, so that whenever my `ssh` connection dropsâ€”say when I go from home to work or vice versaâ€”it gets reestablished as soon as possible.
+* The `while` loop runs forever, so that whenever my `ssh` connection drops—say when I go from home to work or vice versa—it gets reestablished as soon as possible.
 
 The end result is that I always have a window with a few shells open on a machine at home, as well as a slew of ports tunneled to machines back home to provide a rough sort of VPN.  The connection is usually reestablished and waiting by the time I've gotten settled and get around to visiting that window.

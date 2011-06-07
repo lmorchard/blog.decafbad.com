@@ -16,7 +16,7 @@ wordpress_url: http://decafbad.com/blog/2006/01/20/links-for-2006-01-20
 		<div class="delicious-tags">(tags: <a href="http://del.icio.us/deusx/rss">rss</a> <a href="http://del.icio.us/deusx/hackingfeeds">hackingfeeds</a> <a href="http://del.icio.us/deusx/syndication">syndication</a> <a href="http://del.icio.us/deusx/chrysler">chrysler</a> <a href="http://del.icio.us/deusx/jeep">jeep</a> <a href="http://del.icio.us/deusx/dodge">dodge</a>)</div>
 	</li>
 	<li>
-		<div class="delicious-link"><a href="http://vrypan.net/log/archives/2006/01/19/delicious-as-fedd-manager/">vrypan|net|log Â» del.icio.us as feed manager</a></div>
+		<div class="delicious-link"><a href="http://vrypan.net/log/archives/2006/01/19/delicious-as-fedd-manager/">vrypan|net|log » del.icio.us as feed manager</a></div>
 		<div class="delicious-extended">This sounds like a really good way to build Reading Lists for newsRiver</div>
 		<div class="delicious-tags">(tags: <a href="http://del.icio.us/deusx/rss">rss</a> <a href="http://del.icio.us/deusx/opml">opml</a> <a href="http://del.icio.us/deusx/syndication">syndication</a> <a href="http://del.icio.us/deusx/readinglists">readinglists</a>)</div>
 	</li>

@@ -53,7 +53,7 @@ from Amazon and got the following:
     &lt;Catalog&gt;Book&lt;/Catalog&gt;
     &lt;Authors&gt;
       &lt;Author&gt;J. K. Rowling&lt;/Author&gt;
-      &lt;Author&gt;Mary GrandPrŽ&lt;/Author&gt;
+      &lt;Author&gt;Mary GrandPr?&lt;/Author&gt;
     &lt;/Authors&gt;
     &lt;ReleaseDate&gt;08 July, 2000&lt;/ReleaseDate&gt;
     &lt;Manufacturer&gt;Scholastic&lt;/Manufacturer&gt;
@@ -88,7 +88,7 @@ schema shoehorned in as a namespace:
           &lt;az:Catalog&gt;Book&lt;/az:Catalog&gt;
           &lt;az:Authors&gt;
             &lt;az:Author&gt;J. K. Rowling&lt;/az:Author&gt;
-            &lt;az:Author&gt;Mary GrandPrŽ&lt;/az:Author&gt;
+            &lt;az:Author&gt;Mary GrandPr?&lt;/az:Author&gt;
           &lt;/az:Authors&gt;
           &lt;az:ReleaseDate&gt;08 July, 2000&lt;/az:ReleaseDate&gt;
           &lt;az:Manufacturer&gt;Scholastic&lt;/az:Manufacturer&gt;

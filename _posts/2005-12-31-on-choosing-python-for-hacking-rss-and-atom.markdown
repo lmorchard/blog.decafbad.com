@@ -16,11 +16,11 @@ Some reasons for choosing Python for the book, in no particular order, were:
 
 * Python is one of the cleanest languages I've ever used that still retains a degree of meta-magic.  I'd hoped that this might even help in carrying the notions in the book to other languages, thanks to the clarity of the code.  (Regardless of how clear it actually turned out! :))
 
-* Python is cross-platform enough to work on every machine I use on a regular basisâ€”Windows, Mac, or Linux.  While not omnipresent, it's at least fairly easy to get up and running.
+* Python is cross-platform enough to work on every machine I use on a regular basis—Windows, Mac, or Linux.  While not omnipresent, it's at least fairly easy to get up and running.
 
 * Python is my current favorite go-to tool.  I'm hoping that this doesn't mean that I've fallen mindlessly into it.  [I'd already forcibly abandoned Perl][perl] to get out of this sort of rut and maintain my flexibility.  (ie. "*Programmers seem to get used to the language they use a lot and then find others difficult or poorly designed.*")
  
-Although [my next book][nb] will contain examples in a variety of programming languages, I wonder what language I should lean toward in the future for public-facing purposes?  Lately, I've been [warming up to PHP][php]â€”how might it have worked for [Hacking RSS and Atom][bo]?
+Although [my next book][nb] will contain examples in a variety of programming languages, I wonder what language I should lean toward in the future for public-facing purposes?  Lately, I've been [warming up to PHP][php]—how might it have worked for [Hacking RSS and Atom][bo]?
 
 * [MagpieRSS][mp] exists.
 

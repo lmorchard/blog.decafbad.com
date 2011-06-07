@@ -46,7 +46,7 @@ Following right on the heels of [Greatest Hits Vol. 1](http://decafbad.com/blog/
     - Wherein I celebrate my first book hitting the shelves.
 - 2005 Jun 17: [We're engaged!](http://decafbad.com/blog/2005/06/17/were-engaged)
     - An announcement of intention of becoming the luckiest man on the planet.
-- 2005 Jan 07: [Beginnerâ€™s Mind versus Teacherâ€™s Mind](http://decafbad.com/blog/2005/01/07/beginners-mind-versus-teachers-mind)
+- 2005 Jan 07: [Beginner’s Mind versus Teacher’s Mind](http://decafbad.com/blog/2005/01/07/beginners-mind-versus-teachers-mind)
     - Cultivating an open mind and an attenuated ego.
 - 2004 Dec 03: [If you snore, get tested for sleep apnea. Now.](http://decafbad.com/blog/2004/12/03/if-you-snore-get-tested-for-sleep-apnea-now)
     - Sleep apnea sucks.  If you snore, get checked out.
@@ -60,7 +60,7 @@ Following right on the heels of [Greatest Hits Vol. 1](http://decafbad.com/blog/
     - Another periodic navel-gaze into my life as a blogger and a dork.
 - 2004 May 25: [I was a pre-teen Transactor author wannabe (and still am!)](http://decafbad.com/blog/2004/05/25/i-was-a-pre-teen-transactor-author-wannabe-and-still-am)
     - A declaration of what my perfect blog might look like.
-- 2003 Jul 23: [This eveningâ€™s sleep brought to me by science](http://decafbad.com/blog/2003/07/23/sleep-apnea)
+- 2003 Jul 23: [This evening’s sleep brought to me by science](http://decafbad.com/blog/2003/07/23/sleep-apnea)
     - Wherein I first start using a CPAP machine and treat my sleep apnea.  Go get tested if you snore.
 - 2003 Oct 16: [Seeking Out Opposites](http://decafbad.com/blog/2003/10/16/seeing-out-opposites)
     - Another way to keep forcing brain expansion.

@@ -8,7 +8,7 @@ wordpress_url: http://www.decafbad.com/blog/?p=637
 
 [rc]: http://www.adultswim.com/shows/robotchicken/
 
-* Considering the `mdls` and `mdfind` commands on Tiger gives me an idea toward making an Ã¼ber-Blosxom.  (I'm really abusing [Ã¼ber][ub] lately.)
+* Considering the `mdls` and `mdfind` commands on Tiger gives me an idea toward making an über-Blosxom.  (I'm really abusing [über][ub] lately.)
 
 [ub]: http://en.wikipedia.org/wiki/Uber
 

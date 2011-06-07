@@ -4,9 +4,9 @@ layout: post
 title: Ficlets enhanced author feed, an XSL scraper hack
 wordpress_url: http://decafbad.com/blog/2007/04/05/ficlets-enhanced-author-feed-an-xsl-scraper-hack
 ---
-I've been trying to get myself serious about writing and even set up a [personal slush pile for my output](http://decafbad.com/skein/).  Then, I found [Ficlets][], and spewed a few quick starter stories there.  And then... I stopped.  I'm hoping to pick it up again very soon, but I guess that's the nature of my [serial enthusiasm](http://decafbad.com/blog/2006/05/26/confessions-of-a-serial-enthusiast)â€”it doesn't just apply to hacking.
+I've been trying to get myself serious about writing and even set up a [personal slush pile for my output](http://decafbad.com/skein/).  Then, I found [Ficlets][], and spewed a few quick starter stories there.  And then... I stopped.  I'm hoping to pick it up again very soon, but I guess that's the nature of my [serial enthusiasm](http://decafbad.com/blog/2006/05/26/confessions-of-a-serial-enthusiast)—it doesn't just apply to hacking.
 
-So, here's something ironic:  I just spent a few hours tonight throwing together a hack for [Ficlets][].  See, [Ficlets][] runs on original stories, comments, ratings, and sequels and prequels to stories.  You can get an Atom feed of an author's stories and a feed of commentsâ€”but it seems like there's no way to get notified of prequels and sequels, which are a very gratifying part of the whole shebang.
+So, here's something ironic:  I just spent a few hours tonight throwing together a hack for [Ficlets][].  See, [Ficlets][] runs on original stories, comments, ratings, and sequels and prequels to stories.  You can get an Atom feed of an author's stories and a feed of comments—but it seems like there's no way to get notified of prequels and sequels, which are a very gratifying part of the whole shebang.
 
 With that in mind, check out this RSS feed:
 

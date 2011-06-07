@@ -30,7 +30,7 @@ Anyway, that's enough for now.  Time to post this and get to thinking about what
 [kottke]: http://www.kottke.org/03/11/kottke-redesign
 [asides]: http://codex.wordpress.org/Adding_Asides
 [hackingfeeds]: http://www.hackingfeeds.com/blog/
-[book]: http://decafbad.com/blog/2005/09/13/hacking-rss-and-atom-is-out "Hacking RSS and Atom is out! Â» Archive Â» Blog Â» 0xDECAFBAD"
-[redesign]: http://decafbad.com/blog/2005/09/12/redesigninprogress "Redesign in progress (or, no need to adjust your set) Â» Archive Â» Blog Â» 0xDECAFBAD"
+[book]: http://decafbad.com/blog/2005/09/13/hacking-rss-and-atom-is-out "Hacking RSS and Atom is out! » Archive » Blog » 0xDECAFBAD"
+[redesign]: http://decafbad.com/blog/2005/09/12/redesigninprogress "Redesign in progress (or, no need to adjust your set) » Archive » Blog » 0xDECAFBAD"
 [yak]: http://www.catb.org/~esr/jargon/html/Y/yak-shaving.html "yak shaving"
 [hulk]: http://www.hulkgames.com/us/ "THE INCREDIBLE HULK: ULTIMATE DESTRUCTION"

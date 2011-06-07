@@ -6,7 +6,7 @@ wordpress_url: http://decafbad.com/blog/?p=815
 ---
 Time consumed with late work nights.  Brain replaced by cotton.  A few thoughts leaking out ear:
 
-* `svn durr` is not, in fact, a valid invocationâ€”no matter how many times I retry it or how much I swear.
+* `svn durr` is not, in fact, a valid invocation—no matter how many times I retry it or how much I swear.
 
 * A caching HTTP client won't help speed up response time on two PHP pages which fetch each other via circular references.
 

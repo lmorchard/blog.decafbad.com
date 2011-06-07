@@ -22,7 +22,7 @@ Much of Delicious now depends on home-grown technology that is shared by many ot
 
 [sellyahoo]: http://mashable.com/2005/12/09/yahoo-acquires-delicious/
 
-In short, any buyers of Delicious will have their hands fullâ€”probably more so than Yahoo! did when they first bought it. Don't hold your breath for a bright future.
+In short, any buyers of Delicious will have their hands full—probably more so than Yahoo! did when they first bought it. Don't hold your breath for a bright future.
 
 [they]: http://blog.delicious.com/
 
@@ -33,9 +33,9 @@ What it comes down to this:
 1. If you use Delicious regularly, you care about your bookmarks. 
 1. If you're part of an interest group, you care about their bookmarks and they about yours.
 1. If you're a random web surfer, you care about finding things relevant to your interests.
-1. If you're Yahoo!â€”well, I would have thought you cared about building a human-powered index of the web, but who knows where your collective heads are at these days.
+1. If you're Yahoo!—well, I would have thought you cared about building a human-powered index of the web, but who knows where your collective heads are at these days.
 
-The important thing is that no owners of Delicious will care in particular about #1 and #2â€”that is, your bookmarks and those of your colleagues. If they care about anything, it's the overall value of a well-indexed set of web resources to #3 and how they can monetize that.
+The important thing is that no owners of Delicious will care in particular about #1 and #2—that is, your bookmarks and those of your colleagues. If they care about anything, it's the overall value of a well-indexed set of web resources to #3 and how they can monetize that.
 
 In other words: If they can't figure out how to monetize the aggregate index, [don't expect them to start caring about your data][backup]. See also: [If you're not paying for it; you're the product][productyou].
 
@@ -44,13 +44,13 @@ In other words: If they can't figure out how to monetize the aggregate index, [d
 
 ## What now?
 
-Find someone else to host your bookmarks, maybe you yourself. Think about helping move and/or hosting your colleagues' collections. In particular, look for someone whose motivations are aligned with your ownâ€”by way of either money or common interest.
+Find someone else to host your bookmarks, maybe you yourself. Think about helping move and/or hosting your colleagues' collections. In particular, look for someone whose motivations are aligned with your own—by way of either money or common interest.
 
 There are plenty of services stepping in to take over from Delicious. [I like pinboard.in][pinboard], because it's very close to the original Delicious, will capture links from other modern services, and it charges *you* money for valuable features.
 
 [pinboard]: http://pinboard.in/
 
-There are also a few self-hosted substitutes, and there will more in the weeks to come. Some take these weekend projects as fodder to discount Delicious in general, but they're missing the point: The basic features of Delicious were never particularly complexâ€”[it's scaling those features up][queue] to web scale [that's hard in a single service][24hrs].
+There are also a few self-hosted substitutes, and there will more in the weeks to come. Some take these weekend projects as fodder to discount Delicious in general, but they're missing the point: The basic features of Delicious were never particularly complex—[it's scaling those features up][queue] to web scale [that's hard in a single service][24hrs].
 
 [queue]: http://decafbad.com/blog/2008/07/04/queue-everything-and-delight-everyone
 [24hrs]: http://notes.torrez.org/2010/12/learn-to-program-in-24-hours.html

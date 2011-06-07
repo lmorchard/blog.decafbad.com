@@ -15,4 +15,4 @@ When did God tell you to give up your mind and stop naming things?  Intelligent 
 
 **Update 2:** Also, because I thought it was so apropos:
 
-<blockquote cite="http://fishbowl.pastiche.org/2005/09/30/intelligent_design_and_me">And Heâ€™s not going to create a Universe based on rational laws, then not want us to practice our rationality.</blockquote><small style="text-align:right; display:block">Source: <a href="http://fishbowl.pastiche.org/2005/09/30/intelligent_design_and_me">The Fishbowl: Intelligent Design and Me</a></small><br />
+<blockquote cite="http://fishbowl.pastiche.org/2005/09/30/intelligent_design_and_me">And He’s not going to create a Universe based on rational laws, then not want us to practice our rationality.</blockquote><small style="text-align:right; display:block">Source: <a href="http://fishbowl.pastiche.org/2005/09/30/intelligent_design_and_me">The Fishbowl: Intelligent Design and Me</a></small><br />

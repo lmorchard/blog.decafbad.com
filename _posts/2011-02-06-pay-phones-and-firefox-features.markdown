@@ -13,7 +13,7 @@ wordpress_url: http://decafbad.com/blog/?p=2032
 <a href="http://www.flickr.com/photos/thomashawk/4925985819/">Phone Don't Work No More</a> by <a href="http://www.flickr.com/photos/thomashawk/">Thomas Hawk</a>
 </p>
 
-When's the last time you used a pay phone? For me, it's been over a decadeâ€”which is about how long I've had a cell phone.
+When's the last time you used a pay phone? For me, it's been over a decade—which is about how long I've had a cell phone.
 
 As it turns out, [pay phones have been disappearing][pay phones disappear] for awhile now. Why? Because pay phones are expensive to keep in working order. If more and more people have wireless phones, it's less likely that any particular pay phone will result in value for the phone company.
 
@@ -56,11 +56,11 @@ Seems like it might be a good feature to jettison into an add-on, like a pay pho
 
 ### Tagging Bookmarks
 
-This is a no-brainer for me: [I like tagging my bookmarks](http://www.amazon.com/gp/product/0470037857?ie=UTF8&tag=0xdecafbad01-20&linkCode=as2&camp=1789&%0D%0Acreative=9325&creativeASIN=0470037857). The problem is that I've exceeded 16,000 bookmarks. It's been years since any browser coped well with my corpus of bookmarksâ€”that's one of the reasons I started really liking Delicious.
+This is a no-brainer for me: [I like tagging my bookmarks](http://www.amazon.com/gp/product/0470037857?ie=UTF8&tag=0xdecafbad01-20&linkCode=as2&camp=1789&%0D%0Acreative=9325&creativeASIN=0470037857). The problem is that I've exceeded 16,000 bookmarks. It's been years since any browser coped well with my corpus of bookmarks—that's one of the reasons I started really liking Delicious.
 
 However, tagging bookmarks in Firefox is kind of rough. The UI isn't awesome, and the database supporting it could use some work. Rather than improve things, though, [bug 622047](https://bugzilla.mozilla.org/show_bug.cgi?id=622047) proposes removing the functionality altogether.
 
-Here, I'm conflicted: I don't use tags in Firefox, because I don't use bookmarks in Firefox. If they worked better, I might use them. Instead, I use [pinboard.in](http://pinboard.in/u:deusx) or a private Delicious clone of my own that copes with my scaleâ€”in fact, I got to this scale because those services handle it. So, usage data from me would support the feature's removal despite what I think I'd like to see.
+Here, I'm conflicted: I don't use tags in Firefox, because I don't use bookmarks in Firefox. If they worked better, I might use them. Instead, I use [pinboard.in](http://pinboard.in/u:deusx) or a private Delicious clone of my own that copes with my scale—in fact, I got to this scale because those services handle it. So, usage data from me would support the feature's removal despite what I think I'd like to see.
 
 But, does my *suspicion* that I would use a feature justify someone else's time in making it better? I don't think I can ask for that with a straight face. 
 
@@ -87,7 +87,7 @@ In the end, if livemarks go away [I'd still have Google Reader][mygr]. I'll have
 [mygr]: http://www.google.com/reader/shared/l.m.orchard
 [rssbook]: http://www.amazon.com/gp/product/0764597582?ie=UTF8&tag=0xdecafbad01-20&linkCode=as2&camp=1789&c%0D%0Areative=9325&creativeASIN=0764597582
 
-Still, this one bothers me the most, in terms of what I want to see for the web itself. [This is better explored in another blog post][browserfeeds], but I want my browser to do more of the surfing for me. I think of bookmarks as long-term relationships to web resourcesâ€”and livemarks turn those static links into live updates. I can think of a lot of uses for this functionality built into the browser, rather than delegated to [lobster traps][] and content silos.
+Still, this one bothers me the most, in terms of what I want to see for the web itself. [This is better explored in another blog post][browserfeeds], but I want my browser to do more of the surfing for me. I think of bookmarks as long-term relationships to web resources—and livemarks turn those static links into live updates. I can think of a lot of uses for this functionality built into the browser, rather than delegated to [lobster traps][] and content silos.
 
 [browserfeeds]: http://decafbad.com/blog/2011/01/27/what-should-be-done-about-feeds-in-browsers
 [lobster traps]: http://ascii.textfiles.com/archives/2848

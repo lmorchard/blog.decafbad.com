@@ -14,7 +14,7 @@ So, maybe I won't ever have a blogroll.  Instead, my feedroll will just morph in
 
 It could be linked into my home page and every blog entry with an autodiscovery method similar to my Atom and RSS feeds.  Parse that, and you've got my declarations of attention.  Spider it periodically into the future, and you've got constant updates.  If I get ambitious, maybe I'll look into SSE extensions in an RSS feed behind it.
 
-Of course, I realize that OPML could be handled this way tooâ€”but my microformatted feedroll will be [a human-browsable dessert topping and machine-parseable floor wax][snl], all in one!
+Of course, I realize that OPML could be handled this way too—but my microformatted feedroll will be [a human-browsable dessert topping and machine-parseable floor wax][snl], all in one!
 
 [dr]: http://weblog.burningbird.net/archives/2005/05/06/lets-keep-the-blogroll-and-throw-away-the-writing/
 [att]: http://decafbad.com/blog/2005/11/27/subscriptions-are-attention-but-what-about-blogrolls

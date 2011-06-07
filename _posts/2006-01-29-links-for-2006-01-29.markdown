@@ -6,8 +6,8 @@ wordpress_url: http://decafbad.com/blog/2006/01/29/links-for-2006-01-29
 ---
 <ul class="delicious">
 	<li>
-		<div class="delicious-link"><a href="http://scripting.wordpress.com/2006/01/28/what-is-friendship/">Daveâ€™s Wordpress Blog Â» What is friendship?</a></div>
-		<div class="delicious-extended">"There are approx 80,000 people who will think this post is about them. Itâ€™s not. Thatâ€™s the point."</div>
+		<div class="delicious-link"><a href="http://scripting.wordpress.com/2006/01/28/what-is-friendship/">Dave’s Wordpress Blog » What is friendship?</a></div>
+		<div class="delicious-extended">"There are approx 80,000 people who will think this post is about them. It’s not. That’s the point."</div>
 		<div class="delicious-tags">(tags: <a href="http://del.icio.us/deusx/friends">friends</a> <a href="http://del.icio.us/deusx/metablogging">metablogging</a> <a href="http://del.icio.us/deusx/winer">winer</a>)</div>
 	</li>
 	<li>

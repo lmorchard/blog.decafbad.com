@@ -4,7 +4,7 @@ layout: post
 title: Reviews in RSS feeds
 wordpress_url: http://www.decafbad.com/blog/?p=501
 ---
-<blockquote cite="http://www.corante.com/amateur/archives20031101.html#58442">The RVW specification is a module extension to the RSS 2.0 syndication format. RVW is intended to allow machine-readable reviews to be integrated into an RSS feed, thus allowing reviews to be automatically compiled from distributed sources.Â  In other words,Â you can write book, restaurant, movie, product, etc.Â reviews inside your ownÂ website, while allowing them to be used by Amazon or other review aggregators.</blockquote>
+<blockquote cite="http://www.corante.com/amateur/archives20031101.html#58442">The RVW specification is a module extension to the RSS 2.0 syndication format. RVW is intended to allow machine-readable reviews to be integrated into an RSS feed, thus allowing reviews to be automatically compiled from distributed sources.  In other words, you can write book, restaurant, movie, product, etc. reviews inside your own website, while allowing them to be used by Amazon or other review aggregators.</blockquote>
 <div class="credit" align="right"><small>Source:<cite><a href="http://www.corante.com/amateur/archives20031101.html#58442">Blogware Implements Distributed Reviews</a></cite></small></div>
 
 <p>

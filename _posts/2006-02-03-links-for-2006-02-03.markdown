@@ -52,7 +52,7 @@ wordpress_url: http://decafbad.com/blog/2006/02/03/links-for-2006-02-03
 	</li>
 	<li>
 		<div class="delicious-link"><a href="http://rentzsch.com/suck/stopStopStopHurtingTheInternet">rentzsch.com: Stop Stop Stop Hurting the Internet</a></div>
-		<div class="delicious-extended">"My God, theyâ€™ve made metal look good." ...and with a bonus quote and link to my link to the IE7 demo.</div>
+		<div class="delicious-extended">"My God, they’ve made metal look good." ...and with a bonus quote and link to my link to the IE7 demo.</div>
 		<div class="delicious-tags">(tags: <a href="http://del.icio.us/deusx/msft">msft</a> <a href="http://del.icio.us/deusx/msie">msie</a> <a href="http://del.icio.us/deusx/vista">vista</a> <a href="http://del.icio.us/deusx/gui">gui</a> <a href="http://del.icio.us/deusx/safari">safari</a> <a href="http://del.icio.us/deusx/apple">apple</a> <a href="http://del.icio.us/deusx/webdev">webdev</a>)</div>
 	</li>
 	<li>
@@ -71,7 +71,7 @@ wordpress_url: http://decafbad.com/blog/2006/02/03/links-for-2006-02-03
 		<div class="delicious-tags">(tags: <a href="http://del.icio.us/deusx/http">http</a> <a href="http://del.icio.us/deusx/python">python</a>)</div>
 	</li>
 	<li>
-		<div class="delicious-link"><a href="http://scottsigler.podshow.com/2006/02/01/infection-t-minus-5-weeks/">Scott Siglerâ€™s Podcast Novels - The Bloodcast Â» Infection, T-minus 5 weeks</a></div>
+		<div class="delicious-link"><a href="http://scottsigler.podshow.com/2006/02/01/infection-t-minus-5-weeks/">Scott Sigler’s Podcast Novels - The Bloodcast » Infection, T-minus 5 weeks</a></div>
 		<div class="delicious-extended">Massively slick production values on this podcast trailer for Scott Sigler's next upcoming run...</div>
 		<div class="delicious-tags">(tags: <a href="http://del.icio.us/deusx/podcasts">podcasts</a> <a href="http://del.icio.us/deusx/scifi">scifi</a> <a href="http://del.icio.us/deusx/horror">horror</a> <a href="http://del.icio.us/deusx/scottsigler">scottsigler</a>)</div>
 	</li>

@@ -1,7 +1,7 @@
 --- 
 wordpress_id: 706
 layout: post
-title: "LiveJournal, \xC3\x83\xC2\xBCber social software"
+title: "LiveJournal, \xC3\xBCber social software"
 wordpress_url: http://decafbad.com/blog/?p=706
 ---
 I've just noticed that [LiveJournal added a School Directory](http://www.livejournal.com/schools/), where you can search for schools you've attended and add them and the years you were there to your user info.  Here's where I was between the years of 1989 and 1997:
@@ -13,4 +13,4 @@ Goodbye, [Classmates.com](http://www.classmates.com)?  I've told people for year
 
 I'll never do it, but ever since I realized that LJ was Open Source, I've wanted to launch my own LJ-based social software site.  The only difference would be that your [User Info](http://www.livejournal.com/userinfo.bml?user=deus_x) is what would appear as the main page under your personal URL, and the Journal would just be a secondary tab in the sidebar.
 
-Because, after all, wouldn't that pretty much match 90-99% of the features offered by things like Friendster, Orkut, Tribe, and friends?  (Oh, and if you use this idea, and make lots of moneyâ€”hire me or something, will ya?)
+Because, after all, wouldn't that pretty much match 90-99% of the features offered by things like Friendster, Orkut, Tribe, and friends?  (Oh, and if you use this idea, and make lots of money—hire me or something, will ya?)

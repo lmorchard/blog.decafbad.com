@@ -6,11 +6,11 @@ wordpress_url: http://decafbad.com/blog/?p=709
 ---
 <blockquote cite="http://www.nelson.monkey.org/~nelson/weblog/tech/good/firefoxTabs.html">Overlooked Firefox keyboard shortcuts. Ctrl-PageUp and Ctrl-PageDown cycle between tabs in a window. So do Ctrl-Tab and Ctrl-Shift-Tab.</blockquote><small style="text-align:right; display:block">Source: <a href="http://www.nelson.monkey.org/~nelson/weblog/tech/good/firefoxTabs.html">Nelson's Weblog: tech / good / firefoxTabs</a></small><br />
 
-Remember when I started [singing the praises of OmniWeb's Tab Drawer][bb]?  Well, I eventually got snared back into the clutches of Firefoxâ€”I blame the [monkey][gm]â€”and have since wandered away from the drawer of tabs.  
+Remember when I started [singing the praises of OmniWeb's Tab Drawer][bb]?  Well, I eventually got snared back into the clutches of Firefox—I blame the [monkey][gm]—and have since wandered away from the drawer of tabs.  
 
 [SessionSaver][ss] gave me what I needed to weather the occasional crash with my reading queue in open tabs intact.  And a month or so after that, I discovered a hack to [switch Firefox tabs to vertical][vert].  Now, all I need is for someone (maybe me?) to get [thumbnails of pages][thumb] drawing in this vertical tab strip, and I'll be golden.
 
-What does all this have to do with the above quote?  Well, just that it reminded me of all this, and that now the Ctrl-PgUp and Ctrl-PgDn tab navigation shortcuts make perfect intuitive senseâ€”because they walk up and down in my tab strip.
+What does all this have to do with the above quote?  Well, just that it reminded me of all this, and that now the Ctrl-PgUp and Ctrl-PgDn tab navigation shortcuts make perfect intuitive sense—because they walk up and down in my tab strip.
 
 Oh yeah, and here's what it looks like:
 
