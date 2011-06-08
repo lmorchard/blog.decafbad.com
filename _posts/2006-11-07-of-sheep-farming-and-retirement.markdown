@@ -2,6 +2,16 @@
 wordpress_id: 1016
 layout: post
 title: of sheep farming and retirement
+tags: 
+- asides
+- sheep
+- retirement
+- cats
+- pets
+- stress
+- mom
+wordpress_slug: of-sheep-farming-and-retirement
+wordpress_date: "2006-11-07T20:41:25-05:00"
 wordpress_url: http://decafbad.com/blog/2006/11/07/of-sheep-farming-and-retirement
 ---
 Hmm.  A [comment by Joe Grossberg][jg] leads me to consider that perhaps referring to "[sheep farming][sf]" as my eventual stressed-out programmer out-to-pasture phase is as insulting to [those who herd sheep][who] as [using "Mom" to stand in for "naive user"][mom] is to [actual mothers][actual].  Maybe what I'm really after is to [*become* a sheep][become] - though that's a bit scary.  Or better yet, I'd like to be [one of our own pampered cats][cats].  

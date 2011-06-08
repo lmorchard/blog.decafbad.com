@@ -2,6 +2,13 @@
 wordpress_id: 1047
 layout: post
 title: i (heart) ficlets, microformats, and feed scrapers
+tags: 
+- asides
+- xsl
+- microformats
+- scrapers
+wordpress_slug: i-heart-ficlets-microformats-and-feed-scrapers
+wordpress_date: "2007-04-05T02:00:05-04:00"
 wordpress_url: http://decafbad.com/blog/2007/04/05/i-heart-ficlets-microformats-and-feed-scrapers
 ---
 I've really got to reiterate / call out a few points from [that last entry][tle]:

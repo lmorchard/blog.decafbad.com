@@ -2,6 +2,8 @@
 wordpress_id: 441
 layout: post
 title: On tag uniqueness and versioning in Pie/Echo feeds
+wordpress_slug: echo-unique-namespaces
+wordpress_date: "2003-07-12T13:36:50-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=441
 ---
 <blockquote cite="http://radio.userland.com/stories/storyReader$26234">

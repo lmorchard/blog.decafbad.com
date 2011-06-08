@@ -2,6 +2,10 @@
 wordpress_id: 796
 layout: post
 title: FeedMagick, the show-me-don't-tell-me edition
+tags: 
+- asides
+wordpress_slug: feedmagick-the-show-me-dont-tell-me-edition
+wordpress_date: "2005-12-13T01:23:44-05:00"
 wordpress_url: http://decafbad.com/blog/?p=796
 ---
 So, after that [long-winded explanation of things][long]... Here are a few working bullet points for you:

@@ -2,6 +2,8 @@
 wordpress_id: 661
 layout: post
 title: Safari RSS databases in Mac OS X Tiger - or Monkeys and Ninjas and Pirates and Robots, oh my!
+wordpress_slug: safarirssdb
+wordpress_date: "2005-06-28T11:53:35-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=661
 ---
 Hey, what do you know?  The database used by `Syndication.framework` on OS X is accessible with [SQLite 3][sl3], assumedly by virtue of [Core Data][cd].  Check out this barely presentable capture of what I just did in a shell window:

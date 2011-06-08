@@ -2,6 +2,8 @@
 wordpress_id: 501
 layout: post
 title: Reviews in RSS feeds
+wordpress_slug: reviews-in-rdf
+wordpress_date: "2003-11-03T10:07:43-05:00"
 wordpress_url: http://www.decafbad.com/blog/?p=501
 ---
 <blockquote cite="http://www.corante.com/amateur/archives20031101.html#58442">The RVW specification is a module extension to the RSS 2.0 syndication format. RVW is intended to allow machine-readable reviews to be integrated into an RSS feed, thus allowing reviews to be automatically compiled from distributed sources.  In other words, you can write book, restaurant, movie, product, etc. reviews inside your own website, while allowing them to be used by Amazon or other review aggregators.</blockquote>

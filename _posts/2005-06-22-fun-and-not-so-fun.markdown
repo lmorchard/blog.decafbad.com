@@ -2,6 +2,8 @@
 wordpress_id: 655
 layout: post
 title: Fun and not-so-fun
+wordpress_slug: fun-and-not-so-fun
+wordpress_date: "2005-06-22T18:23:47-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=655
 ---
 * Last night's fun trick?  Say hello to <a href="aim:goim?Screenname=decafbot&Message=help">decafbot</a>!  

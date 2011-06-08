@@ -2,6 +2,8 @@
 wordpress_id: 324
 layout: post
 title: FOAF and LiveJournal user info pages
+wordpress_slug: oooceo
+wordpress_date: "2002-12-11T18:42:35-05:00"
 wordpress_url: http://www.decafbad.com/blog/?p=324
 ---
 <p>Along with tweaking my <a href="http://www.decafbad.com/twiki/bin/view/Main/RSS">RSS</a> template today, I've been tweaking <a href="http://www.decafbad.com/downloads/lmo-foaf.rdf">my <a href="http://www.decafbad.com/twiki/bin/view/Main/FOAF">FOAF</a> file</a> after perusing the <a href="http://xmlns.com/foaf/0.1/">FOAF vocabulary</a> again and having spied on the <a href="http://www.decafbad.com/twiki/bin/view/Main/FOAF">FOAF</a> files belonging to some of the bloggers in my neighborhood.  </p>

@@ -2,6 +2,16 @@
 wordpress_id: 1046
 layout: post
 title: Ficlets enhanced author feed, an XSL scraper hack
+tags: 
+- hacks
+- rss
+- atom
+- xsl
+- ficlets
+- scrapers
+- scraping
+wordpress_slug: ficlets-enhanced-author-feed-an-xsl-scraper-hack
+wordpress_date: "2007-04-05T01:37:00-04:00"
 wordpress_url: http://decafbad.com/blog/2007/04/05/ficlets-enhanced-author-feed-an-xsl-scraper-hack
 ---
 I've been trying to get myself serious about writing and even set up a [personal slush pile for my output](http://decafbad.com/skein/).  Then, I found [Ficlets][], and spewed a few quick starter stories there.  And then... I stopped.  I'm hoping to pick it up again very soon, but I guess that's the nature of my [serial enthusiasm](http://decafbad.com/blog/2006/05/26/confessions-of-a-serial-enthusiast)—it doesn't just apply to hacking.

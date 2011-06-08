@@ -2,6 +2,8 @@
 wordpress_id: 269
 layout: post
 title: Exodus to JohnCompanies in progress
+wordpress_slug: ooobid
+wordpress_date: "2002-09-25T02:57:10-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=269
 ---
 Okay.  Enough's enough - the phpwebhosting server's disk filled up again, and my <a href="http://www.decafbad.com/twiki/bin/view/Main/JohnCompanies">JohnCompanies</a> server has been idle all this time.  I've moved everything over, made a cursory set of tests to see if everything's okay, and flipped the DNS switch.

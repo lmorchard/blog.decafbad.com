@@ -3,6 +3,10 @@ wordpress_id: 524
 layout: post
 title: Use Atom for a Universal Blog Transfer Protocol
 excerpt: You could use some mashup of RSS and XML-RPC for a Universal Blog Transfer Protocol, but I&#8217;d suggest using Atom. It&#8217;s a data model and an API, where the data model represents blog content quite well and the API complements it for the purposes of shuffling things around. With a mix of XML-RPC and RSS, I could only imagine lots of fiddling going on to transliterate between RSS and metaWeblog API structs or whatnot.
+tags: 
+- syndication
+wordpress_slug: use-atom-for-a-universal-blog-transfer-protocol
+wordpress_date: "2004-05-17T19:28:48-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=524
 ---
 > One of the options in Tinderbox is to download your most recent posts from your current MT/Radio/Blogger blog into a Tinderbox document, which in turn could be easily turned into a Tinderbox weblog.

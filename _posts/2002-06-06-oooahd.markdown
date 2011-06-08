@@ -2,6 +2,8 @@
 wordpress_id: 163
 layout: post
 title: No .NET for you
+wordpress_slug: oooahd
+wordpress_date: "2002-06-06T17:56:38-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=163
 ---
 <p>With regard to some new things in <a href="http://bitworking.org/Aggie.html">Aggie</a>, <a href="http://chris.wiw.org/2002/06/05#200206051930">Chris Heschong writes</a>: "<i>If only Microsoft (or Mono would get a .NET runtime out for <a href="http://www.decafbad.com/twiki/bin/view/Main/MacOSX">MacOSX</a>.</i>"  I say, "Ditto."  I'd like to play with Aggie, and .NET for that matter (evil empire notwithstanding), but I don't really use Windows on a daily basis anymore (evil empire withstanding).  I have a box at home running <a href="http://www.decafbad.com/twiki/bin/view/Main/WinXP">WinXP</a>, but I only really use it for games (less often these days), and for recording my shows.  The rest of my daily use machines are either Linux or OS X.  Hmph.</p>

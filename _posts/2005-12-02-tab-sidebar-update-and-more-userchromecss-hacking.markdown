@@ -2,6 +2,10 @@
 wordpress_id: 789
 layout: post
 title: Tab Sidebar update and more userChrome.css hacking
+tags: 
+- asides
+wordpress_slug: tab-sidebar-update-and-more-userchromecss-hacking
+wordpress_date: "2005-12-02T00:52:51-05:00"
 wordpress_url: http://decafbad.com/blog/?p=789
 ---
 Hmm, looks like there's been another update to my new favorite Firefox extension, [Tab Sidebar][ts].  Nice changes on balance: It seems a bit more polished now, and among other things, the thumbnails have some mini-navigation controls.  But, now there's too much crammed in there for my 12" screen.  

@@ -2,6 +2,8 @@
 wordpress_id: 203
 layout: post
 title: The Natives are Growing Restless.
+wordpress_slug: ooobbd
+wordpress_date: "2002-07-31T14:36:21-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=203
 ---
 <p>Everyone else is linking to it, but this is beautiful:</p>

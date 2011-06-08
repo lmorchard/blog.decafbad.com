@@ -2,6 +2,8 @@
 wordpress_id: 512
 layout: post
 title: Trying to imagine hackers of cognition and the infinite
+wordpress_slug: hacking-infinite-and-cognition
+wordpress_date: "2003-12-05T12:40:00-05:00"
 wordpress_url: http://www.decafbad.com/blog/?p=512
 ---
 <p>

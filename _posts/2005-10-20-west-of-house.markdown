@@ -2,6 +2,18 @@
 wordpress_id: 739
 layout: post
 title: West of House
+tags: 
+- asides
+- gaming
+- bbs
+- oldschool
+- if
+- interactivefiction
+- games
+- ifiction
+- zork
+wordpress_slug: west-of-house
+wordpress_date: "2005-10-20T23:09:49-04:00"
 wordpress_url: http://decafbad.com/blog/?p=739
 ---
 <blockquote cite="http://ascii.textfiles.com/archives/000168.html">The next documentary I am working on is about Text Adventures, or Interactive Fiction. It is called "Get Lamp".</blockquote>

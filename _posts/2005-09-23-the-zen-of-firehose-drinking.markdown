@@ -2,6 +2,13 @@
 wordpress_id: 685
 layout: post
 title: The zen of firehose drinking
+tags: 
+- syndication
+- feeds
+- aggregation
+- hackingfeeds
+wordpress_slug: the-zen-of-firehose-drinking
+wordpress_date: "2005-09-23T12:03:12-04:00"
 wordpress_url: http://decafbad.com/blog/?p=685
 ---
 So in the last few days, I've read two blog posts lamenting symptoms of information overload, one about [a backlog of aggregator items][1] and another about [unread mailing list threads][2].  The common thread I've seen between both of these--and other bloggers expressing similar sentiments--is a vague sort of guilt over "missing something".  

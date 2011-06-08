@@ -3,6 +3,8 @@ wordpress_id: 575
 layout: post
 title: Security and the State of the Computer
 excerpt: I don't see a bright future for any brand of general-purpose PC, at least not continuing as the main consumer computing product.
+wordpress_slug: security-and-the-state-of-the-computer
+wordpress_date: "2004-12-13T13:23:46-05:00"
 wordpress_url: http://www.decafbad.com/blog/?p=575
 ---
 <blockquote>The majority of people have been disenfranchised by their computer for a long time now. While they've gained capabilities and features, they've come at the cost of the computer becoming even more obtuse rather than more transparent.</blockquote>

@@ -2,6 +2,8 @@
 wordpress_id: 182
 layout: post
 title: LiveJournal for K-Logs?!
+wordpress_slug: oooboc
+wordpress_date: "2002-06-21T20:11:08-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=182
 ---
 <p>Here's a crazy idea I'm considering:  Deploy the <a href="http://cvs.livejournal.org">LiveJournal source</a> as our company-wide k-logging service.  Definitely make some cosmetic tweaks, possibly make some backend tweaks, but it might just be crazy enough to work.  This just struck me today, remembering back when <a href="http://www.decafbad.com/news_archives/000148.phtml">I'd last thought about this</a>.</p>

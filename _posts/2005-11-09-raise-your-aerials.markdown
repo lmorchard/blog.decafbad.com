@@ -2,6 +2,10 @@
 wordpress_id: 770
 layout: post
 title: Raise your Aerials
+tags: 
+- asides
+wordpress_slug: raise-your-aerials
+wordpress_date: "2005-11-09T08:39:28-05:00"
 wordpress_url: http://decafbad.com/blog/?p=770
 ---
 <img src="http://images.amazon.com/images/P/B000AU1NZQ.01._SCMZZZZZZZ_.jpg" style="float:right; margin: 10px;" />[There's a new Kate Bush album.][kb]

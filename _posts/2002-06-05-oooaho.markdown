@@ -2,6 +2,8 @@
 wordpress_id: 159
 layout: post
 title: This infovore leaves vapor trails
+wordpress_slug: oooaho
+wordpress_date: "2002-06-05T16:26:04-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=159
 ---
 <p>I've (not so) secretly replaced my <code>aggregatorData.prefs.appSignatureUrl</code> in Radio <a href="http://www.decafbad.com/twiki/bin/view/Main/UserLand">UserLand</a> with <a href="http://www.decafbad.com/thanks-for-feeding-me.phtml">this URL</a>.  Let's see if anyone notices.  Watch your referrer logs for visits from my invisible (s)elves.</p>

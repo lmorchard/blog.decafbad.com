@@ -2,6 +2,8 @@
 wordpress_id: 448
 layout: post
 title: HTTP/1.1 From header and FOAF use in RSS aggregators
+wordpress_slug: from-foaf-rss
+wordpress_date: "2003-07-23T17:00:37-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=448
 ---
 <blockquote cite="http://diveintomark.org/archives/2003/07/21/atom_aggregator_behavior_http_level.html#c003152"><i>Privacy issues aside (for the moment), there is a request header called "FROM", RFC 2616 s14.22 describes it. 

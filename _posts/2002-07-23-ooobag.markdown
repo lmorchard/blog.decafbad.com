@@ -2,6 +2,8 @@
 wordpress_id: 196
 layout: post
 title: The Snake Oil wagon rolls through my referral logs
+wordpress_slug: ooobag
+wordpress_date: "2002-07-23T16:26:57-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=196
 ---
 <p>Okay, so I've seen my first spam via my referrers.  Checked my referrers <a href="http://www.decafbad.com/twiki/bin/view/Main/RSS">RSS</a> feed this morning to see the following pages in the list:</p>

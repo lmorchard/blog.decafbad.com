@@ -2,6 +2,8 @@
 wordpress_id: 82
 layout: post
 title: REST.  What is it good for?
+wordpress_slug: oooaob
+wordpress_date: "2002-04-17T20:58:41-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=82
 ---
 <p>I don't get <a href="http://www.decafbad.com/twiki/bin/view/Main/REST">REST</a>, specifically in the context of it being the <a href="http://www.decafbad.com/twiki/bin/view/Main/RightThing">RightThing</a> to do web services.  I see many vagueries about how it's "more scalable" and more "right" and better in theory and there's a big dissertation on it and everything.  Eventually I will get down to reading it.  On the surface, it seems like a big dud to me.  But, it looks like a lot of smart people are into it, so I assume there's <i>something</i> to it since I don't know much yet.</p>

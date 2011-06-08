@@ -2,6 +2,11 @@
 wordpress_id: 1068
 layout: post
 title: Twitter's Mojo Bubble
+tags: 
+- web20
+- twitter
+wordpress_slug: twitters-mojo-bubble
+wordpress_date: "2007-10-17T22:36:55-04:00"
 wordpress_url: http://decafbad.com/blog/2007/10/17/twitters-mojo-bubble
 ---
 <p><a href="http://weblogs.jupiterresearch.com/analysts/gartenberg/archives/2007/10/still_not_twitt.html">Michael Gartenberg</a>: "<i>First, it's another queue to check. ... It looks like I could add Twitter into the flow of RSS feeds but do I really want to do that?</i>"</p>

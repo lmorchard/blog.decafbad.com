@@ -2,6 +2,8 @@
 wordpress_id: 325
 layout: post
 title: Working on an RDF-based task tracking proof of concept
+wordpress_slug: ooocea
+wordpress_date: "2002-12-12T20:37:57-05:00"
 wordpress_url: http://www.decafbad.com/blog/?p=325
 ---
 <p>So I'm singing the <a href="http://www.decafbad.com/twiki/bin/view/Main/RDF">RDF</a> praises at work today.  I've gone through creating a very small proof-of-concept task tracking vocabulary in <a href="http://www.decafbad.com/twiki/bin/view/Main/RDF">RDF</a>.  Initially, it covers things such as clients, projects, tasks, workers, time card entries.  So far, I just have a vocabulary in RDFS and a sample load of data - both built by hand - but thanks to <a href="http://brownsauce.sourceforge.net" target="_top">the BrownSauce RDF browser</a>, I've been able to show off some nifty things.  I know I've linked to that project two days in a row now, but I think it was seeing things through that browser that finally turned the last tumbler in my mental lock on <a href="http://www.decafbad.com/twiki/bin/view/Main/RDF">RDF</a>.</p>

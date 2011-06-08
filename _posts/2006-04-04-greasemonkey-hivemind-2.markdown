@@ -2,6 +2,10 @@
 wordpress_id: 922
 layout: post
 title: Greasemonkey Hivemind
+tags: 
+- asides
+wordpress_slug: greasemonkey-hivemind-2
+wordpress_date: "2006-04-04T15:32:52-04:00"
 wordpress_url: http://decafbad.com/blog/2006/04/04/greasemonkey-hivemind-2
 ---
  <p>Here's an evil concept I threw together at work:  A Greasemonkey script that uses GM_xmlhttpRequest to load up and eval further GM scripts from a central behind-firewall intranet repository managed via Subversion.</p>

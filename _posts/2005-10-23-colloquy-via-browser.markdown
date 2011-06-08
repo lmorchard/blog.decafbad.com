@@ -2,6 +2,14 @@
 wordpress_id: 744
 layout: post
 title: Colloquy via Browser
+tags: 
+- asides
+- osx
+- irc
+- mac
+- colloquy
+wordpress_slug: colloquy-via-browser
+wordpress_date: "2005-10-23T15:02:36-04:00"
 wordpress_url: http://decafbad.com/blog/?p=744
 ---
 Am I the only one who's a little scared by the fact that [Colloquy][col]'s getting <del>[a built-in web server][www]</del> <ins>[web server plugin][www2]</ins>?  I suppose it only completes the circle, since [it uses a web browser for displaying chat messages][cw].

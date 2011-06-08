@@ -2,6 +2,8 @@
 wordpress_id: 70
 layout: post
 title: A personal server & Multi-threaded vs Async / Event-driven programming
+wordpress_slug: ooooio
+wordpress_date: "2002-04-15T14:54:03-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=70
 ---
 <p>Okay after the <a href="http://radio.weblogs.com/0101679/2002/04/14.html#a351">vote of confidence from Sam Ruby</a> about my thinking out loud about a <a href="http://www.decafbad.com/news_archives/000087.shtml#000087">"404 correction" proxy server</a>, I've been thinking more about writing a Radio-like desktop app server.  I want to do more than make a <a href="http://www.decafbad.com/twiki/bin/view/Main/DesktopWebsite">DesktopWebsite</a>, though.  I want to make a full-blown <a href="http://www.decafbad.com/twiki/bin/view/Main/PersonalServer">PersonalServer</a> app, capable of hosting things like a <a href="http://www.decafbad.com/twiki/bin/view/Main/PersonalMailServer">PersonalMailServer</a> and a slew of other little local web services &amp; etc.  I may end up giving up and working more within Radio, but <a href="http://www.decafbad.com/news_archives/000080.shtml#000080">as I noted before</a> I have some issues with Radio's performance and stability, which though balanced by my appreciation of the elegance of the system, is being gradually outweighed by my fears of lock-in and pre-existing experience with other technologies.  </p>

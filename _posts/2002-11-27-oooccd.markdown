@@ -2,6 +2,8 @@
 wordpress_id: 309
 layout: post
 title: "XML-RPC case study redux, Part II: REST and I"
+wordpress_slug: oooccd
+wordpress_date: "2002-11-27T16:05:02-05:00"
 wordpress_url: http://www.decafbad.com/blog/?p=309
 ---
 So, from my <a href="http://www.decafbad.com/news_archives/000333.phtml">last installment</a>, I left off with this:  My daily situation with regards to integrating the web-based services of various parties boils down to what I can explain in 30 minutes to a developer of unknown competence to whom I'm barely a priority.  So far, I've been able to apply <a href="http://www.decafbad.com/twiki/bin/view/Main/XmlRpc">XmlRpc</a> as a solution to this problem with a great degree of success.

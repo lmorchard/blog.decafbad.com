@@ -2,6 +2,8 @@
 wordpress_id: 147
 layout: post
 title: A query on scheduling WinXP programs, and Radio resource demands
+wordpress_slug: oooafh
+wordpress_date: "2002-05-30T19:52:24-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=147
 ---
 <p>Does anyone out there know of a workable, preferably free app for <a href="http://www.decafbad.com/twiki/bin/view/Main/WinXP">WinXP</a> with which I can launch and quit a program on a scheduled basis?  Starting to work my mad Google skillz to find this, but having a hard time coming up with search terms that give me good results.  See, Radio <a href="http://www.decafbad.com/twiki/bin/view/Main/UserLand">UserLand</a> demands too much CPU from any of the machines I currently own.  The desktop where I want to park it also serves as my PVR, and when it starts up to record a show, Radio keeps stealing CPU from the video encoding, and I end up with choppy and sometimes dead video.  I even tried screwing with priorities, and that only seems to help moderately.</p>

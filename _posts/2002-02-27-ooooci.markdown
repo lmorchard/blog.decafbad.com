@@ -2,6 +2,8 @@
 wordpress_id: 23
 layout: post
 title: More sites like this...
+wordpress_slug: ooooci
+wordpress_date: "2002-02-27T20:11:21-05:00"
 wordpress_url: http://www.decafbad.com/blog/?p=23
 ---
 Hmm, looks like there's a site over here at <a href="http://software.tangent.org/">TangentOrg</a> that's doing a lot of what I keep thinking I want to do with 0xDECAFBAD.  Looking for rolemodels.  If you're out there (<strong>knocks on your screen</strong>), can you point me to any other weblog-ish sites that are kinda about software, kinda about some dude (or dudette), and kinda about the <i>stuff</i> that goes on out there?

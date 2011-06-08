@@ -2,6 +2,10 @@
 wordpress_id: 813
 layout: post
 title: Look, Mom, I'm on the radio!
+tags: 
+- asides
+wordpress_slug: look-mom-im-on-the-radio
+wordpress_date: "2006-01-01T20:37:18-05:00"
 wordpress_url: http://decafbad.com/blog/?p=813
 ---
 This past Thursday night, I was asked to dial in as a guest on [Computer Outlook][co], a radio talk show hosted by John Iasiuolo out of Las Vegas, Nevada.  We rambled on a bit about [Hacking RSS and Atom][book] and my experiences in writing it.  

@@ -2,6 +2,8 @@
 wordpress_id: 960
 layout: post
 title: xml-stylesheet and the World of Warcraft home page
+wordpress_slug: xml-stylesheet-and-the-world-of-warcraft-home-page
+wordpress_date: "2006-07-30T14:59:38-04:00"
 wordpress_url: http://decafbad.com/blog/2006/07/30/xml-stylesheet-and-the-world-of-warcraft-home-page
 ---
 <p>The day before we left Michigan, my best friend and Best Man presented me with a copy of World of Warcraft.  He and his girlfriend have been playing the game for quite some time now, and it's how they keep in touch with a few family members - and now, it looks like it'll be a way that they can keep in touch with me.  I can only hope that I don't get <em>too </em>sucked into the game.  :)</p>

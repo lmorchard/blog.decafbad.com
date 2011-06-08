@@ -2,6 +2,8 @@
 wordpress_id: 462
 layout: post
 title: Issues in using SpamBayes to filter news items
+wordpress_slug: bayes-agg-one
+wordpress_date: "2003-08-16T00:28:41-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=462
 ---
 <p>Despite a reading <a href="http://www.srijith.net/trinetre/archives/2003/08/11/index.shtml#000373">an entry by Srijith</a>

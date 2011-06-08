@@ -2,6 +2,8 @@
 wordpress_id: 488
 layout: post
 title: An example of an RSS 2.0 namespace versus RSS-Data usage
+wordpress_slug: rss-data-versus-namespace
+wordpress_date: "2003-10-02T11:52:00-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=488
 ---
 <p>

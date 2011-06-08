@@ -2,6 +2,10 @@
 wordpress_id: 784
 layout: post
 title: How I spent my burn-in period
+tags: 
+- asides
+wordpress_slug: how-i-spent-my-burn-in-period
+wordpress_date: "2005-11-29T21:54:24-05:00"
 wordpress_url: http://decafbad.com/blog/?p=784
 ---
 <blockquote cite="http://radar.oreilly.com/archives/2005/11/burn_in_0_how_i_got_into_compu.html">I don't want to produce a book (I was an editor for four years, and one should never learn how sausage is made :-), but I do have a blog. So I asked some of my friends and I'll be posting the results, several per day, so long as they keep coming in.</blockquote>

@@ -3,6 +3,8 @@ wordpress_id: 518
 layout: post
 title: Feed validation confusion
 excerpt: Feed validators are confusing me, but it looks like there's been a fix.
+wordpress_slug: feed-validation-confusion
+wordpress_date: "2004-05-02T19:27:23-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=518
 ---
 <strike>A bit of feed confusion here:</strike>

@@ -2,6 +2,14 @@
 wordpress_id: 726
 layout: post
 title: DOM Scripting sounds like a fine book
+tags: 
+- asides
+- webdev
+- writing
+- javascript
+- books
+wordpress_slug: dom-scripting-sounds-like-a-fine-book
+wordpress_date: "2005-10-08T13:21:30-04:00"
 wordpress_url: http://decafbad.com/blog/?p=726
 ---
 <blockquote cite="http://domscripting.com/blog/display.php/21">Flicking through the book, it does give the impression of being full of code. I hope that doesn’t scare off any potential buyers.</blockquote>

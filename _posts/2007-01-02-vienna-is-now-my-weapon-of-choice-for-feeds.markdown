@@ -2,6 +2,15 @@
 wordpress_id: 1031
 layout: post
 title: Vienna is now my weapon of choice for feeds
+tags: 
+- metablogging
+- webdev
+- aggregators
+- rss
+- software
+- osx
+wordpress_slug: vienna-is-now-my-weapon-of-choice-for-feeds
+wordpress_date: "2007-01-02T16:37:48-05:00"
 wordpress_url: http://decafbad.com/blog/2007/01/02/vienna-is-now-my-weapon-of-choice-for-feeds
 ---
 In the last few days, I've switched news aggregators again - this time to [Vienna][].

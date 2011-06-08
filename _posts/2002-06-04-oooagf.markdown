@@ -2,6 +2,8 @@
 wordpress_id: 155
 layout: post
 title: Blogchat's on and no one
+wordpress_slug: oooagf
+wordpress_date: "2002-06-04T12:37:05-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=155
 ---
 <p>Ack.  Must remember to close my blogchat window when I leave for the day, so that I don't come back to find people having been looking for me, seeing me in the room, and wondering why I'm so rude. :)</p>

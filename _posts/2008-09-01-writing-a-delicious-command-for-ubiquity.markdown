@@ -2,6 +2,16 @@
 wordpress_id: 1310
 layout: post
 title: Writing a Delicious command for Ubiquity
+tags: 
+- delicious
+- webdev
+- javascript
+- greasemonkey
+- entries
+- mozilla
+- ubiquity
+wordpress_slug: writing-a-delicious-command-for-ubiquity
+wordpress_date: "2008-09-01T00:37:03-04:00"
 wordpress_url: http://decafbad.com/blog/?p=1310
 ---
 In my [last post][last], I got all fluffy about how cool [Ubiquity][] is but didn't share any code to prove the point.  As it happens, I have come up with at least one useful command that I'm starting to use habitually in posting bookmarks to Delicious.  You can [subscribe to my command][subs] or [check out the full source][source]—this post will serve as a dissection of the thing.  Since this will be fairly lengthy, follow along after the jump.

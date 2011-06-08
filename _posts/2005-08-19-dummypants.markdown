@@ -2,6 +2,8 @@
 wordpress_id: 676
 layout: post
 title: Super-fast DummyPants Addressbarlet for del.icio.us
+wordpress_slug: dummypants
+wordpress_date: "2005-08-19T17:32:12-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=676
 ---
 Okay, so lately I've switched to using "[addressbarlets][addr]" for my [del.icio.us][] posting needs.  In particular, I've been using the [Super-Fast variety][superfast].  I cannot stress how much better these are than clicking links in the bookmark toolbar.  My [del.icio.us][] posting has converged that much closer to command-line / QuickSilver perfection.  

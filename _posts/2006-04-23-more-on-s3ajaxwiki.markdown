@@ -2,6 +2,8 @@
 wordpress_id: 935
 layout: post
 title: More on S3AjaxWiki
+wordpress_slug: more-on-s3ajaxwiki
+wordpress_date: "2006-04-23T13:14:54-04:00"
 wordpress_url: http://decafbad.com/blog/2006/04/23/more-on-s3ajaxwiki
 ---
  <p>So, I've put some more work into <a href="http://s3.amazonaws.com/s3wiki/wiki/StartPage">my S3 AJAX wiki</a>, first mentioned <a href="http://decafbad.com/blog/2006/04/21/an-s3-ajax-wiki">Friday night</a>.  After some Virtual PC sessions, editing seems to be working on Firefox and MSIE on Win.  Safari and any other browsers not amenable to PUT and DELETE in XmlHTTPRequests will not find joy in editing - but the wiki should at least still be navigable and readable since it's plain HTML on the server.</p>

@@ -2,6 +2,8 @@
 wordpress_id: 357
 layout: post
 title: Russell Beattie is a sneaky, mobile guy.
+wordpress_slug: ooochh
+wordpress_date: "2003-01-19T19:29:18-05:00"
 wordpress_url: http://www.decafbad.com/blog/?p=357
 ---
 <blockquote cite="http://www.russellbeattie.com/notebook/index.jsp?date=20030119#134019">Gosh, I've been quiet lately. What could be the reason? 

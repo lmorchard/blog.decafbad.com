@@ -2,6 +2,18 @@
 wordpress_id: 1450
 layout: post
 title: An unnecessary Template Attribute Language
+tags: 
+- webdev
+- js
+- javascript
+- entries
+- jquery
+- zope
+- zpt
+- tal
+- templates
+wordpress_slug: an-unnecessary-template-attribute-language
+wordpress_date: "2008-11-01T15:23:23-04:00"
 wordpress_url: http://decafbad.com/blog/?p=1450
 ---
 A funny thing happened on the way to building [a delayed real-time feed display][lizardfeeder]:  I got temporarily obsessed with implementing [a template language in JavaScript][jqtal] that, as it turned out later, I didn't need.  About [the feed project itself][lizardfeeder], I hope to write more soon—but for now I want to get this extra template language thing out of my system and see if anyone else might have a use for it.

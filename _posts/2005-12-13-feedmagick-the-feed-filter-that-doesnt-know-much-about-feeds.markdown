@@ -2,6 +2,8 @@
 wordpress_id: 795
 layout: post
 title: FeedMagick, the feed filter that doesn't know much about feeds
+wordpress_slug: feedmagick-the-feed-filter-that-doesnt-know-much-about-feeds
+wordpress_date: "2005-12-13T01:26:42-05:00"
 wordpress_url: http://decafbad.com/blog/?p=795
 ---
 <blockquote cite="http://decafbad.com/trac/wiki/FeedMagick">FeedMagick is a set of PHP tools used in filtering, converting, and otherwise munging XML syndication feeds in RSS and Atom formats.</blockquote>

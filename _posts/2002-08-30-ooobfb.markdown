@@ -2,6 +2,8 @@
 wordpress_id: 239
 layout: post
 title: LiveJournal largely ignored, but why?
+wordpress_slug: ooobfb
+wordpress_date: "2002-08-30T13:40:33-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=239
 ---
 <p>Caught this snippet on <a href="http://www.tweney.com/writing.php?display=322">tweeney.com</a> via <a href="http://www.hyperorg.com/blogger/index.html#85393106">JOHO</a>: "...LiveJournal.com (which most weblog news stories overlook for some reason) boasts more than 650,000 [users]..."</p>

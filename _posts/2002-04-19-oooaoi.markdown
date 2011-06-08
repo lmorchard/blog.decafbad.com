@@ -2,6 +2,8 @@
 wordpress_id: 89
 layout: post
 title: New and Improved! Now with nearly ubiquitous referral links
+wordpress_slug: oooaoi
+wordpress_date: "2002-04-19T14:08:14-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=89
 ---
 <p>Well, I bit the bullet and pitched in the extra bucks to upgrade my hosting which, among other things, finally gave me an <code>access_log</code>.  The first thing I did was install <a href="http://www.mrunix.net/webalizer/">Webalizer</a> <a href="http://www.decafbad.com/stats/">over here</a>.  Should my access log reports not be public?  Hmm.  Well they are for now, if that becomes a problem, I'll put a password on it.</p>

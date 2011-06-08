@@ -2,6 +2,8 @@
 wordpress_id: 327
 layout: post
 title: A lesson in promoting recombinant growth by refusing to reinvent wheels
+wordpress_slug: ooocec
+wordpress_date: "2002-12-13T03:17:16-05:00"
 wordpress_url: http://www.decafbad.com/blog/?p=327
 ---
 <p>Another little train of thought, whose conclusion will probably be obvious to anyone:</p>

@@ -2,6 +2,8 @@
 wordpress_id: 84
 layout: post
 title: Pipelining the web makes for messy URLs
+wordpress_slug: oooaod
+wordpress_date: "2002-04-18T03:20:48-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=84
 ---
 <p>

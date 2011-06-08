@@ -2,6 +2,10 @@
 wordpress_id: 767
 layout: post
 title: dooce "sells out", feeds family, pays bills
+tags: 
+- asides
+wordpress_slug: dooce-sells-out-feeds-family-pays-bills
+wordpress_date: "2005-11-03T13:29:23-05:00"
 wordpress_url: http://decafbad.com/blog/?p=767
 ---
 <blockquote cite="http://www.dooce.com/archives/daily/11_01_2005.html">First, I want to say that no one should apologize for their gut reaction to the redesign. All of this feedback is valid. You, my readers, have seen me and supported me through some of the roughest times in my life and the last thing I want to do is alienate you. I understand why some of you are upset about the ads.</blockquote>

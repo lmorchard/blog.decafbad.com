@@ -2,6 +2,8 @@
 wordpress_id: 37
 layout: post
 title: DecafbadWiki is an OS X service on my iBook now
+wordpress_slug: ooooee
+wordpress_date: "2002-03-11T05:20:51-05:00"
 wordpress_url: http://www.decafbad.com/blog/?p=37
 ---
 This was easier than I thought it would be:  <a href="http://www.decafbad.com/twiki/bin/view/Main/XmlRpcFilterService">XmlRpcFilterService</a>

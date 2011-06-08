@@ -2,6 +2,15 @@
 wordpress_id: 1039
 layout: post
 title: Thoughts on Pipes on the Web - Part II
+tags: 
+- webdev
+- rss
+- mashups
+- atom
+- yahoo
+- feedmagick
+wordpress_slug: thoughts-on-pipes-on-the-web-part-ii
+wordpress_date: "2007-02-15T03:49:56-05:00"
 wordpress_url: http://decafbad.com/blog/2007/02/15/thoughts-on-pipes-on-the-web-part-ii
 ---
 In [the last post][part1], I expressed concern for my own well-being over a lack of head-over-heels love for [Yahoo! Pipes][pipes].  On the surface, I think it's because it's not a freshly discovered concept for me, and also probably because I'm tired and a bit hacked out right now.  But, I think there's a bit more to it.

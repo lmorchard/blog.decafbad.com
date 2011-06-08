@@ -2,6 +2,8 @@
 wordpress_id: 32
 layout: post
 title: The mind bomb of XmlRpcFilteringPipes and a web command line
+wordpress_slug: oooodh
+wordpress_date: "2002-03-06T18:10:48-05:00"
 wordpress_url: http://www.decafbad.com/blog/?p=32
 ---
 <a href="http://www.amazon.com/exec/obidos/ASIN/B0000026U0"><img src="http://images.amazon.com/images/P/B0000026U0.01.MZZZZZZZ.jpg" align="right"></a>To steal a page from <a href="http://www.scriptingnews.com">Dave</a>, I think that this could be a potential mind bomb:  The <a href="http://www.decafbad.com/twiki/bin/view/Main/XmlRpcFilteringPipe">XmlRpcFilteringPipe</a>.

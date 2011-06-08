@@ -2,6 +2,8 @@
 wordpress_id: 451
 layout: post
 title: Google ads getting monotonous?
+wordpress_slug: google-ads-monotony
+wordpress_date: "2003-07-29T10:33:36-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=451
 ---
 Well, I forgot to mention it, but I emailed Google awhile back about their

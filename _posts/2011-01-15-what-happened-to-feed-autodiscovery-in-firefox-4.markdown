@@ -2,6 +2,16 @@
 wordpress_id: 1976
 layout: post
 title: What happened to feed auto-discovery in Firefox 4?
+tags: 
+- rss
+- firefox
+- feeds
+- entries
+- mozilla
+- autodiscovery
+- bug578967
+wordpress_slug: what-happened-to-feed-autodiscovery-in-firefox-4
+wordpress_date: "2011-01-15T23:18:56-05:00"
 wordpress_url: http://decafbad.com/blog/?p=1976
 ---
 **TL;DR**: <em>The feed button is not dead; it's just been sent to sing backup in Firefox 4 because it's not pulling its weight. This post talks about why things have changed.</em>

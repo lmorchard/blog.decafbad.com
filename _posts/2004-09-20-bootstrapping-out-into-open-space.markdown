@@ -6,6 +6,8 @@ excerpt: |-
   So all I'm left with is that I *think* I have the occasional good idea, but with no way of know how to run with it.  And all these internet entrepreneurs apparently bootstrapping out into open space don't make sense to me either.
   
   Anyway...  It all seems like magic to me.  Maybe one day I'll figure it out.
+wordpress_slug: bootstrapping-out-into-open-space
+wordpress_date: "2004-09-20T16:19:30-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=555
 ---
 <blockquote>Russell's Unproven Yet Seemingly Obvious Number One Rule For Web Based Services: Don't launch without a way of making money.

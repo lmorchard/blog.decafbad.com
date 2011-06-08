@@ -2,6 +2,8 @@
 wordpress_id: 670
 layout: post
 title: Discovering WSGI and XSLT as middleware
+wordpress_slug: discovering-wsgi-and-xslt-as-middleware
+wordpress_date: "2005-07-18T15:10:44-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=670
 ---
 As I [mentioned in a previous post][prev], I was a bit busy this weekend while being sick on the couch.  In this post, I'll ramble a bit about my server-side dabbling.  Cutting to the chase, here's an XSLT filter implemented as WSGI middleware:

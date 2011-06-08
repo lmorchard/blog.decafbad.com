@@ -2,6 +2,10 @@
 wordpress_id: 882
 layout: post
 title: The OPML Editor is Open Source
+tags: 
+- asides
+wordpress_slug: the-opml-editor-is-open-source
+wordpress_date: "2006-02-16T10:29:32-05:00"
 wordpress_url: http://decafbad.com/blog/2006/02/16/the-opml-editor-is-open-source
 ---
  <p><a href="http://www.scripting.com/2006/02/16.html#When:9:27:52AM">Dave says</a>: "I'm starting to get a new release of the OPML Editor together, as part of the release I asked Andre Radke to prepare a download for the kernel source. The OPML Editor is an open source app, licensed under the GPL."</p>

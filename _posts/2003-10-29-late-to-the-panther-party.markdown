@@ -2,6 +2,8 @@
 wordpress_id: 499
 layout: post
 title: Late to the Panther party
+wordpress_slug: late-to-the-panther-party
+wordpress_date: "2003-10-29T08:38:46-05:00"
 wordpress_url: http://www.decafbad.com/blog/?p=499
 ---
 <p>

@@ -2,6 +2,10 @@
 wordpress_id: 697
 layout: post
 title: Chewbacca's a pervert
+tags: 
+- asides
+wordpress_slug: chewbaccas-a-pervert
+wordpress_date: "2005-09-27T07:43:56-04:00"
 wordpress_url: http://decafbad.com/blog/?p=697
 ---
 This Boing Boing post where [Chewbacca gropes Leia](http://www.boingboing.net/2005/09/26/chewbacca_gropes_lei.html) reminds me of one of the things which bugs me about aliens in some scifi:  

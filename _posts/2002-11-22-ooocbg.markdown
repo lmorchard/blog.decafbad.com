@@ -2,6 +2,8 @@
 wordpress_id: 302
 layout: post
 title: Cool URIs don't change
+wordpress_slug: ooocbg
+wordpress_date: "2002-11-22T02:18:54-05:00"
 wordpress_url: http://www.decafbad.com/blog/?p=302
 ---
 Okay, so I'm probably the only one who didn't know this, but I've been wondering why it seems that every website owned by someone within a few degrees of separation from <a href="http://www.decafbad.com/twiki/bin/view/Main/TimBL">TimBL</a> tend to use URLs of the form:

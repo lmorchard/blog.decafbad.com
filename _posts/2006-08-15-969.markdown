@@ -1,6 +1,13 @@
 --- 
 wordpress_id: 969
 layout: post
+tags: 
+- asides
+- wordpress
+- widgets
+- metablogging
+wordpress_slug: "969"
+wordpress_date: "2006-08-15T18:33:43-04:00"
 wordpress_url: http://decafbad.com/blog/2006/08/15/969
 ---
 Huh.  Generally, I scoff at the idea of hand-holding widgets for blogs.  But, having peeked at the new [WordPress Widgets](http://automattic.com/code/widgets/), I actually get the sense that they will actually make tweaking things for this blog easier and more theme-agnostic.  I can roll my own widgets, and not need to rejigger the main theme and associated templates every time I drop in an update.  Swanky.

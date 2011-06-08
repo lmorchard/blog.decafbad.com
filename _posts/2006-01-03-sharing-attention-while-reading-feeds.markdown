@@ -2,6 +2,14 @@
 wordpress_id: 814
 layout: post
 title: Sharing attention while reading feeds
+tags: 
+- aggregators
+- rss
+- syndication
+- atom
+- attention
+wordpress_slug: sharing-attention-while-reading-feeds
+wordpress_date: "2006-01-03T09:45:01-05:00"
 wordpress_url: http://decafbad.com/blog/?p=814
 ---
 <blockquote cite="http://blogs.zdnet.com/SAAS/?p=82">Instead of reading their individual selections of RSS feeds privately, everyone should be encouraged to publish those aggregated feeds on the Web. ... the simple act of publishing those aggregations then makes them available to others, and thus makes them amenable to network effects in a way that they never can be if they're kept private.</blockquote>

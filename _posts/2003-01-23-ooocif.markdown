@@ -2,6 +2,8 @@
 wordpress_id: 365
 layout: post
 title: Vellum and coffee rings
+wordpress_slug: ooocif
+wordpress_date: "2003-01-23T18:49:41-05:00"
 wordpress_url: http://www.decafbad.com/blog/?p=365
 ---
 <blockquote cite="http://www.kryogenix.org/code/vellum/">Vellum is a server-hosted application to run weblogs for you. It's like <a href="http://www.decafbad.com/twiki/bin/view/Main/MovableType">MovableType</a> or b2, in that it's hosted on your web server. And it's written in Python. </blockquote><div class="credit" align="right"><small>Source:<cite><a href="http://www.kryogenix.org/code/vellum/">Vellum: a weblogging system in Python </a></cite>.</small></div>

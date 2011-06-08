@@ -12,11 +12,31 @@ require 'yaml'
 module Jekyll
   module WordPress
 
+    table_prefix = "wp_decafbad_"
+
     # Reads a MySQL database via Sequel and creates a post file for each
     # post in wp_decafbad_posts that has post_status = 'publish'.
     # This restriction is made because 'draft' posts are not guaranteed to
     # have valid dates.
-    QUERY = "select post_title, post_name, post_date, post_content, post_excerpt, ID, guid from wp_decafbad_posts where post_status = 'publish' and post_type = 'post'"
+    QUERY = <<-EOS
+        SELECT 
+            GROUP_CONCAT(#{table_prefix}terms.name SEPARATOR ",") as post_tags,
+            post_title, post_name, post_date, post_content, post_excerpt, ID, guid
+        FROM 
+            #{table_prefix}posts
+        LEFT JOIN
+            (#{table_prefix}term_relationships, #{table_prefix}term_taxonomy, #{table_prefix}terms)
+            ON 
+            #{table_prefix}term_relationships.object_id=#{table_prefix}posts.id
+            AND
+            #{table_prefix}term_taxonomy.term_taxonomy_id=#{table_prefix}term_relationships.term_taxonomy_id
+            AND
+            #{table_prefix}terms.term_id=#{table_prefix}term_taxonomy.term_id
+        WHERE 
+            post_status = 'publish' AND 
+            post_type = 'post'
+        GROUP BY #{table_prefix}posts.id
+    EOS
 
     def self.process(dbname, user, pass, host = 'localhost')
       db = Sequel.mysql(dbname, :user => user, :password => pass, :host => host, :encoding => 'utf8')
@@ -38,6 +58,9 @@ module Jekyll
            'layout' => 'post',
            'title' => title.to_s,
            'excerpt' => post[:post_excerpt].to_s,
+           'tags' => post[:post_tags].nil? ? nil : post[:post_tags].split(','),
+           'wordpress_date' => post[:post_date].iso8601,
+           'wordpress_slug' => post[:post_name],
            'wordpress_id' => post[:ID],
            'wordpress_url' => post[:guid]
          }.delete_if { |k,v| v.nil? || v == ''}.to_yaml

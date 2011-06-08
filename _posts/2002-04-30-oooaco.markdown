@@ -2,6 +2,8 @@
 wordpress_id: 110
 layout: post
 title: Wil Wheaton vs Soul Coughing - FIGHT!
+wordpress_slug: oooaco
+wordpress_date: "2002-04-30T13:13:14-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=110
 ---
 <p>I &amp;heart; the Internet and weblogs.</p>

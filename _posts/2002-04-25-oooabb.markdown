@@ -2,6 +2,8 @@
 wordpress_id: 102
 layout: post
 title: Playing with ZOE, some assembly required
+wordpress_slug: oooabb
+wordpress_date: "2002-04-25T17:04:46-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=102
 ---
 <p>Hmm.  Okay, so <a href="http://homepage.mac.com/zoe_info/Resume3.html">Zoe</a> looks promising, but.. umm.. I can't figure it out.  </p>

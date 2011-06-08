@@ -2,6 +2,14 @@
 wordpress_id: 1044
 layout: post
 title: Frustrations in using iTunes and iPod to capture podcast listening behavior
+tags: 
+- apple
+- rant
+- ipod
+- podcasts
+- podcasting
+wordpress_slug: frustrations-in-using-itunes-and-ipod-to-capture-podcast-listening-behavior
+wordpress_date: "2007-03-09T15:13:04-05:00"
 wordpress_url: http://decafbad.com/blog/2007/03/09/frustrations-in-using-itunes-and-ipod-to-capture-podcast-listening-behavior
 ---
 **Update (15 Mar 2007):** <i>So, long rant, but I may have found my problem - I had set podcasts in iTunes to sync only "unplayed episodes" to the iPod, which also seems to imply that they never sync / record data about having been played.  Or ratings from the iPod, for that matter.  I just changed that setting to "all episodes", and podcasts seem to be showing up in my Recently Played smart playlist again.  Hopefully this gets me back to where I want to be.</i>

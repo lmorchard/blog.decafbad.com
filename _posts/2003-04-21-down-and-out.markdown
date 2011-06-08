@@ -2,6 +2,8 @@
 wordpress_id: 405
 layout: post
 title: Further Bitchun Reading...
+wordpress_slug: down-and-out
+wordpress_date: "2003-04-21T14:30:20-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=405
 ---
 Finally got around to reading Cory Doctorow's <a href="http://www.craphound.com/down/" target="_top">Down &amp; Out in the Magic Kingdom</a>,

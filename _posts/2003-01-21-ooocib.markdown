@@ -2,6 +2,8 @@
 wordpress_id: 361
 layout: post
 title: RSS as a more generalized message queue for people
+wordpress_slug: ooocib
+wordpress_date: "2003-01-21T12:23:01-05:00"
 wordpress_url: http://www.decafbad.com/blog/?p=361
 ---
 <blockquote cite="http://www.pipetree.com/qmacro/2003/01/21#ucapi">It seems that beyond carrying syndication information, RSS is a very useful and flexible way to get all sorts of application data pushed to a user over time. In the same way that a web browser is a universal canvas upon which limitless services and information can be painted, so (in an  albeit much smaller way) an RSS reader/aggregator might also find its  place as an inbox for time-related delivery of all sorts of information. </blockquote><div class="credit" align="right"><small>Source:<cite><a href="http://www.pipetree.com/qmacro/2003/01/21#ucapi">DJ's Weblog: The universal canvas and RSS apps </a></cite>.</small></div>

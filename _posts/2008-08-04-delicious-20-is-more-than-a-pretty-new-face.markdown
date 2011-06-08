@@ -2,6 +2,15 @@
 wordpress_id: 1239
 layout: post
 title: Delicious 2.0 is more than a pretty new face
+tags: 
+- metablogging
+- delicious
+- yahoo
+- bookmarking
+- entries
+- delicious20
+wordpress_slug: delicious-20-is-more-than-a-pretty-new-face
+wordpress_date: "2008-08-04T13:21:55-04:00"
 wordpress_url: http://decafbad.com/blog/?p=1239
 ---
 I'm no longer at Yahoo! and I no longer work on [Delicious](http://delicious.com), but I'm still a huge supporter.  And, since I'm pretty sure everyone over there is either burnt out or still insanely busy at the moment, it might be awhile before anyone tells the full story of what this relaunch offers.  As it is, even I only know a bit of what all went into this effort.

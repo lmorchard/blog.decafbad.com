@@ -2,6 +2,8 @@
 wordpress_id: 413
 layout: post
 title: Getting a Strange "Component Manager" Message Under OS X?
+wordpress_slug: strange-component-error
+wordpress_date: "2003-04-30T14:22:57-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=413
 ---
 Posting this just in case anyone needs it.  I've been getting the

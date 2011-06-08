@@ -2,6 +2,8 @@
 wordpress_id: 246
 layout: post
 title: Idle horsepower leads to insanity
+wordpress_slug: ooobfi
+wordpress_date: "2002-09-06T00:05:23-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=246
 ---
 <p>John Robb <a href="http://jrobb.userland.com/2002/09/05.html#a2464">says</a>:<blockquote><i>Damn.  I have 95% of my PC's processer available at any given moment.  In a year that will probably be 98%, in three years it will be 99%.  This model of the Internet is so messed up.  The fact that over 90% of the computing horsepower on the Internet sits idle at any given moment is insane (in fact, 98% of my DSL connection is dead too).  It is going to change.  It has to change....</i></blockquote>Exactly.  This one of the main reasons I don't think I want to run a "LiveJournal done right, according to me" site.  I'd rather help build a decentralized mutant spawn of LJ, Radio, Gnutella, JXTA, and other things I've yet to realize I should be looking at.  I really need to get some time this Winter to research, think, write, and tinker.</p>

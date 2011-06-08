@@ -2,6 +2,20 @@
 wordpress_id: 1793
 layout: post
 title: HTML5 drag and drop in Firefox 3.5
+tags: 
+- webdev
+- firefox
+- js
+- outliners
+- outlining
+- javascript
+- dhtml
+- eventdelegation
+- entries
+- mozilla
+- draganddrop
+wordpress_slug: html5-drag-and-drop
+wordpress_date: "2009-07-15T21:26:40-04:00"
 wordpress_url: http://decafbad.com/blog/?p=1793
 ---
 <p><i>

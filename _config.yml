@@ -1,0 +1,9 @@
+meta:
+    site_title: "0xDECAFBAD"
+    domain: decafbad.com
+    author:
+        full_name: Leslie Michael Orchartd
+        short_name: lmorchard
+
+markdown: rdiscount
+pygments: true

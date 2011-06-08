@@ -2,6 +2,8 @@
 wordpress_id: 125
 layout: post
 title: "Simple, neat elegance: Wiki, weblog, and design"
+wordpress_slug: oooadf
+wordpress_date: "2002-05-10T13:17:58-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=125
 ---
 <p>Noticed two things from <a href="http://radio.weblogs.com/0100629/">Mike James</a> this morning:</p>

@@ -2,6 +2,8 @@
 wordpress_id: 430
 layout: post
 title: Why is my Monaco Borken?
+wordpress_slug: font-borken
+wordpress_date: "2003-06-25T17:30:10-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=430
 ---
 Okay, what's wrong with this picture?

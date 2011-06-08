@@ -2,6 +2,8 @@
 wordpress_id: 217
 layout: post
 title: ChoiceMail, the ultimate anti-spam weapon?
+wordpress_slug: ooobch
+wordpress_date: "2002-08-15T13:54:35-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=217
 ---
 <p>I just read about <a href="http://www.sfgate.com/cgi-bin/article.cgi?file=/gate/archive/2002/07/30/choicem.DTL">ChoiceMail</a>, a whitelist-based email service that "turns your inbox into the equivalent of your front door" where people have to knock and identify themselves as human via a quick web form (hello, <a href="http://www.cluetrain.com">Cluetrain</a>) before their message is allowed in.  This is exactly the idea I've been <a href="http://www.decafbad.com/news_archives/000192.phtml">tossing around in my head</a> and <a href="http://impressive.net/people/gerald/2000/12/spam-filtering.html">reading about</a> for some time now.</p>

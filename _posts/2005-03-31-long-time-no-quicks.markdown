@@ -2,6 +2,8 @@
 wordpress_id: 624
 layout: post
 title: Long time no quicks
+wordpress_slug: long-time-no-quicks
+wordpress_date: "2005-03-31T06:47:14-05:00"
 wordpress_url: http://www.decafbad.com/blog/?p=624
 ---
 * I'm at once repulsed and attracted by all these one-cup coffee machines, with their pods and buttons and [false promises of crema][false].  But, there's the waste, and the fact that I *never* just drink one cup.  And the little filter-pucks of coffee just seem like they'd be impossible to be anything but stale.

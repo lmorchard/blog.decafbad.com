@@ -6,6 +6,10 @@ excerpt: |-
   When I was in high school, around about the time Ross Perot was getting into the presidential race, I remember putting a little item on my to-do list in my brand new day planner:
   
   * Read the newspaper, watch the news.
+tags: 
+- syndication
+wordpress_slug: allgrowedup
+wordpress_date: "2004-10-11T10:22:51-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=562
 ---
 <blockquote>

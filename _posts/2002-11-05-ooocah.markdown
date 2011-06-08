@@ -2,6 +2,8 @@
 wordpress_id: 293
 layout: post
 title: When I grow up...
+wordpress_slug: ooocah
+wordpress_date: "2002-11-05T01:55:19-05:00"
 wordpress_url: http://www.decafbad.com/blog/?p=293
 ---
 Even though I've been in a whiny, self-pitying mood, there <i>is</i> a reason I got into all of this to begin with:

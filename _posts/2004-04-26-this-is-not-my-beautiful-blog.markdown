@@ -3,6 +3,10 @@ wordpress_id: 514
 layout: post
 title: This is not my beautiful blog
 excerpt: There've been numerous reasons for my semi-disappearance, but I think I'd finally like to come back now.
+tags: 
+- colophon
+wordpress_slug: this-is-not-my-beautiful-blog
+wordpress_date: "2004-04-26T01:28:13-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=514
 ---
 So.  It's been awhile since I spent much time here actually writing.  The [quick links][links] have been fun, but they're just not the same as really posting something of my own.  There've been numerous reasons for my semi-disappearance, but I think I'd finally like to come back now.  Maybe I'll even spend a few entries writing about what's happened over the past year or so.  It's been a bit of a trip.

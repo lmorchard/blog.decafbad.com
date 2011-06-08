@@ -2,6 +2,8 @@
 wordpress_id: 172
 layout: post
 title: IRC quotes database sucking my productivity
+wordpress_slug: oooaic
+wordpress_date: "2002-06-12T16:05:28-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=172
 ---
 <p>Just wasted a good 20-30 minutes having been sucked into the <a href="http://www.geekissues.org/quotes/">IRC Quotes Database</a> that <a href="http://ipwebdev.com/radio/2002/06/11.php#a192">Adam mentioned</a>.  It made me spray coffee out my nose.  So, rather than visit it everyday, I made <a href="http://www.decafbad.com/twiki/bin/view/Main/RSS">RSS</a> feeds from it, scraped by <a href="http://radiotools.evectors.it/itstories/story$num=13&amp;sec=3&amp;data=stories">RssDistiller</a>'s enclosePat (need to implement that in Perl sometime).  You can find a feed for the <a href="http://www.decafbad.com/deus_x/radio/RssDistillerChannels/irc-qdb.xml">top 25</a>, <a href="http://www.decafbad.com/deus_x/radio/RssDistillerChannels/irc-qdb-latest.xml">25 latest</a>, or just get a <a href="http://www.decafbad.com/deus_x/radio/RssDistillerChannels/irc-qdb-random.xml">random grab bag</a> of fun.</p>

@@ -3,6 +3,10 @@ wordpress_id: 564
 layout: post
 title: My iPod experience is all about tickling myself.
 excerpt: What occurred to me as I rounded the last stretch of I-75 into Detroit this morning is that this metadata and these Smart Playlists on shuffle amount to an attempt to tickle myself.
+tags: 
+- apple
+wordpress_slug: ipodtickles
+wordpress_date: "2004-10-27T17:18:19-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=564
 ---
 I've had an iPod for a little over a week now, and I've been working pretty diligently to rate every song I hear and trying to make sure all the metadata is correct.  I've even started tinkering with tagging songs using things like `:dreamy`, `:goofy`, `:energy`, `:calm` in the comments field for use with Smart Playlists.  (Yeah, I know about [TuneTags][tunetags], but the psuedo-XML in song comments bugs me, as does the somewhat buggy behavior of the last version of the program I tried.)

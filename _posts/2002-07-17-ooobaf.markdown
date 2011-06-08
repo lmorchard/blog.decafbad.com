@@ -2,6 +2,8 @@
 wordpress_id: 195
 layout: post
 title: Making a return to the fields of Java
+wordpress_slug: ooobaf
+wordpress_date: "2002-07-17T16:56:06-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=195
 ---
 <p>So we've managed to get the go ahead at work on what seems like it should be a nightmare project:  We're going to re-examine, re-design, and re-implement our in-house web app platform, the Toybox.  Not only that, but we're going to switch languages, from Perl to Java.  It's got me immensely excited, though this may be naive of me.</p>

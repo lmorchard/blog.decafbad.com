@@ -2,6 +2,15 @@
 wordpress_id: 768
 layout: post
 title: Yahoo for stalking iPods in the hands of couriers
+tags: 
+- asides
+- hacks
+- yahoo
+- ipod
+- programming
+- maps
+wordpress_slug: yahoo-for-stalking-ipods-in-the-hands-of-couriers
+wordpress_date: "2005-11-03T13:29:12-05:00"
 wordpress_url: http://decafbad.com/blog/?p=768
 ---
 If the new [Yahoo! Maps][ym] were *really* cool, they'd've already done a mashup with [DHL][] to let me obsessively stalk the courier in whose truck my returning iPod repair currently rests.  

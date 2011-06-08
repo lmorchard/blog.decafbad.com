@@ -2,6 +2,8 @@
 wordpress_id: 258
 layout: post
 title: MT-Search + Wiki for K-Logging?
+wordpress_slug: ooobhb
+wordpress_date: "2002-09-18T13:34:41-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=258
 ---
 <p>A very interesting side-effect I hadn't thought of yesterday when I integrated MT-Search into my wiki is that every wiki page is a mini-content index to my weblog.  Even the really sparse wiki pages where I've only blurbed a sentence or so about a topic - now they have some decent content in their pointers back to the weblog where I mentioned them.</p>

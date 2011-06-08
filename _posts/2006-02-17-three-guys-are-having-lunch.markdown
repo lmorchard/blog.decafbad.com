@@ -2,6 +2,10 @@
 wordpress_id: 885
 layout: post
 title: Three guys are having lunch
+tags: 
+- asides
+wordpress_slug: three-guys-are-having-lunch
+wordpress_date: "2006-02-17T08:06:35-05:00"
 wordpress_url: http://decafbad.com/blog/2006/02/17/three-guys-are-having-lunch
 ---
  <p><i>This is a really rough draft of a scene that popped into my head this morning...  No offense intended to any Opie's, Randolf's, or Xavier's out there - and all apologies in case I've misrepresented your respective lunchtime positions.  Laugh, it's funny.</i></p>

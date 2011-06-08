@@ -2,6 +2,8 @@
 wordpress_id: 1012
 layout: post
 title: Firefox 2.0 breaks client-side XSL for RSS and Atom feeds
+wordpress_slug: firefox-20-breaks-client-side-xsl-for-rss-and-atom-feeds
+wordpress_date: "2006-11-02T10:31:05-05:00"
 wordpress_url: http://decafbad.com/blog/2006/11/02/firefox-20-breaks-client-side-xsl-for-rss-and-atom-feeds
 ---
 This seems like a small thing, but it bothers me:  For RSS and Atom feeds, Firefox ignores client-side XSL transformations in favor of its own new enhanced rendering.  The only way to work around this issue is to stuff 512 bytes or more of XML comment text before the initial feed tag.  [It's been marked as a bug][bug] for some months now - but after reading the discussion therein, I don't have much hope of this being fixed.  The gist of the discussion appears to boil down to this: "Firefox knows best, consistency is good, and anyone using client-side XSL on feeds is really after what we're doing anyway.  Thus, WONTFIX."

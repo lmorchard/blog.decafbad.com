@@ -2,6 +2,8 @@
 wordpress_id: 461
 layout: post
 title: Tree files too (the prequel)
+wordpress_slug: tree-files-too
+wordpress_date: "2003-08-14T15:53:02-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=461
 ---
 <i><pre>

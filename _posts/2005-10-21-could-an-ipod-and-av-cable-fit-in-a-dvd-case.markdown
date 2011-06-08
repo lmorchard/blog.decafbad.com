@@ -2,6 +2,20 @@
 wordpress_id: 742
 layout: post
 title: Could an iPod and AV cable fit in a DVD case?
+tags: 
+- asides
+- hacks
+- rss
+- syndication
+- atom
+- apple
+- ipod
+- podcasting
+- xbox
+- video
+- vidcasting
+wordpress_slug: could-an-ipod-and-av-cable-fit-in-a-dvd-case
+wordpress_date: "2005-10-21T14:05:54-04:00"
 wordpress_url: http://decafbad.com/blog/?p=742
 ---
 <blockquote cite="http://www.russellbeattie.com/notebook/1008657.html">Being able to listen to audio while in the “natural” places you listen to audio (in the car, while walking/running, on the couch, etc.) is what accelerated audio Podcasts to the phenomenon it is today.  Now that there is a way to view video the same way ... that’s going to accelerate that new type of user generated content as well. I’m positive. It’s a no brainer.</blockquote>

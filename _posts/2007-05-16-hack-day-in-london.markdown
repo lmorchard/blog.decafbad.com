@@ -2,6 +2,10 @@
 wordpress_id: 1056
 layout: post
 title: hack day in london!
+tags: 
+- asides
+wordpress_slug: hack-day-in-london
+wordpress_date: "2007-05-16T12:52:56-04:00"
 wordpress_url: http://decafbad.com/blog/2007/05/16/hack-day-in-london
 ---
 <p><!-- Hack Day button 180px wide by 105px tall --><a href="http://www.hackday.org" style="border: none; padding: 0px 15px 15px 0; margin: 0px; float: left"><img src="http://l.yimg.com/us.yimg.com/i/us/ydn/hackday/hack_day_pattern_eleven.gif" alt="Hack Day: London, June 16/17 2007" width="180" height="105" style="border: none; margin: 0; padding: 0;"></a><!-- Hack Day button ends --></p>

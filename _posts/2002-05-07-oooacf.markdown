@@ -2,6 +2,8 @@
 wordpress_id: 116
 layout: post
 title: Bathroom breaks and golden geese
+wordpress_slug: oooacf
+wordpress_date: "2002-05-07T03:29:57-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=116
 ---
 <p>Earlier last week, I'd <a href="http://www.livejournal.com/talkread.bml?journal=deus_x&amp;itemid=166931">ranted in my <a href="http://www.decafbad.com/twiki/bin/view/Main/LiveJournal">LiveJournal</a></a> about the head of Turner calling me a thief.  Now, I'm reading what <a href="http://radio.weblogs.com/0100629/2002/05/06.html#a108">Mike James has to say</a> about what <a href="http://www.templetons.com/brad/tvfuture.html">Brad Templeton has to say</a> about the <span style='background : #FFFFCE;'><a href="http://www.decafbad.com/twiki/bin/edit/Main/TiVO?topicparent=Main.FilterData"><b>?</b></a><font color="#0000FF">TiVO</font></span>, PVR's, and what <i>they</i> are gonna do.  </p>

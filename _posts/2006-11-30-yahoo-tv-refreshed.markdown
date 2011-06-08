@@ -2,6 +2,13 @@
 wordpress_id: 1024
 layout: post
 title: yahoo TV refreshed
+tags: 
+- asides
+- tv
+- entertainment
+- yahoo
+wordpress_slug: yahoo-tv-refreshed
+wordpress_date: "2006-11-30T18:02:20-05:00"
 wordpress_url: http://decafbad.com/blog/2006/11/30/yahoo-tv-refreshed
 ---
 I'm a little annoyed that the [Yahoo! TV refresh last night][tc] broke my bookmarks.  We're luddites who've rejected Digital Cable and On-Screen Guides for the last few years - and Yahoo! TV has been our solution for that.  But, oh well.  I've got [a new TV guide bookmark][tv] now, and all better.

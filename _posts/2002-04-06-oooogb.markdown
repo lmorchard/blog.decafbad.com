@@ -2,6 +2,8 @@
 wordpress_id: 53
 layout: post
 title: coding opensource for profit
+wordpress_slug: oooogb
+wordpress_date: "2002-04-06T20:57:53-05:00"
 wordpress_url: http://www.decafbad.com/blog/?p=53
 ---
 <p><a href="http://weblog.masukomi.org/2002/04/06.html#a713">Over at weblog.masukomi.org</a>, she's musing about how one would share the spoils of a software project, say one that was built in an Open-Source-ish way.  Maybe a metered Web Service.</p>

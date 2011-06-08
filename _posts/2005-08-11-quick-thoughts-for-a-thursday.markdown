@@ -2,6 +2,8 @@
 wordpress_id: 674
 layout: post
 title: Quick Thoughts for a Thursday
+wordpress_slug: quick-thoughts-for-a-thursday
+wordpress_date: "2005-08-11T11:37:26-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=674
 ---
 * I think that one of the greatest compliments I can give to [Eastgate][eastgate], [Mark Bernstein][mark], and [Tinderbox][tinderbox] is this:  

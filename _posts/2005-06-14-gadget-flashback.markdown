@@ -2,6 +2,8 @@
 wordpress_id: 651
 layout: post
 title: Gadget Flashback
+wordpress_slug: gadget-flashback
+wordpress_date: "2005-06-14T14:27:00-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=651
 ---
 I'm feeling a bit retro in terms of gadgets right now.  And I don't know if it's a matter of reduced expectations or what, but I'm finding myself strangely happier with this situation.  

@@ -2,6 +2,8 @@
 wordpress_id: 505
 layout: post
 title: Building the Recipe Web?
+wordpress_slug: the-recipe-web
+wordpress_date: "2003-11-14T18:51:23-05:00"
 wordpress_url: http://www.decafbad.com/blog/?p=505
 ---
 <blockquote cite="http://www.formatdata.com/recipeml/index.html"><i>RecipeML is a format for representing recipes on computer. It is written in the increasingly popularExtensible Markup Language - XML.

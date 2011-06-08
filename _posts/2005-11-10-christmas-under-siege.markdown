@@ -2,6 +2,10 @@
 wordpress_id: 771
 layout: post
 title: Christmas Under Siege
+tags: 
+- asides
+wordpress_slug: christmas-under-siege
+wordpress_date: "2005-11-10T00:49:29-05:00"
 wordpress_url: http://decafbad.com/blog/?p=771
 ---
 <blockquote cite="http://q.queso.com/archives/001800">I mean, seriously, is the first weekend of November really time to start assaulting your customers with silver bells and dreams of white Christmases? Might this be a bit premature?</blockquote>

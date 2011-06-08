@@ -2,6 +2,8 @@
 wordpress_id: 963
 layout: post
 title: On being talked about
+wordpress_slug: on-being-talked-about
+wordpress_date: "2006-08-04T12:18:15-04:00"
 wordpress_url: http://decafbad.com/blog/2006/08/04/on-being-talked-about
 ---
 <blockquote>

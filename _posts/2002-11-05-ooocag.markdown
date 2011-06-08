@@ -2,6 +2,8 @@
 wordpress_id: 292
 layout: post
 title: Note to self & things to do
+wordpress_slug: ooocag
+wordpress_date: "2002-11-05T01:47:19-05:00"
 wordpress_url: http://www.decafbad.com/blog/?p=292
 ---
 Mental/public note, things to catch up on soon as the Death March and surgery is cleared:

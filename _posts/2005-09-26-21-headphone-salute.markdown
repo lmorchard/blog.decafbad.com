@@ -2,6 +2,10 @@
 wordpress_id: 695
 layout: post
 title: 21 Headphone Salute
+tags: 
+- asides
+wordpress_slug: 21-headphone-salute
+wordpress_date: "2005-09-26T16:37:42-04:00"
 wordpress_url: http://decafbad.com/blog/?p=695
 ---
 This is too good to pass up sharing:  At my new job, we sit in an open floor plan with head-height walls behind bench-like workspaces.  Since we don't all sit in offices, the preferred mode of privacy is the use of headphones.  

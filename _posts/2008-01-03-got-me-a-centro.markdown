@@ -2,6 +2,10 @@
 wordpress_id: 1076
 layout: post
 title: Got me a Centro
+tags: 
+- moblog
+wordpress_slug: got-me-a-centro
+wordpress_date: "2008-01-03T15:37:00-05:00"
 wordpress_url: http://decafbad.com/blog/2008/01/03/got-me-a-centro
 ---
 So after taking a lazy look at a variety of smartphones and whatnot for my next upgrade, I figured that I just couldn't beat this cheap Centro, and so far I've not been disappointed.

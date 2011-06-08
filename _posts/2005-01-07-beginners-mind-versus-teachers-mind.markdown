@@ -3,6 +3,8 @@ wordpress_id: 583
 layout: post
 title: Beginner's Mind versus Teacher's Mind
 excerpt: I've been wondering lately whether I've gone too far in cultivating what I understand as a "beginner's mind" in myself.
+wordpress_slug: beginners-mind-versus-teachers-mind
+wordpress_date: "2005-01-07T16:53:49-05:00"
 wordpress_url: http://www.decafbad.com/blog/?p=583
 ---
 <blockquote>To me, in its simplest form, the beginner's mind is a state of eager anticipation of learning something new, but without preconceptions about what is to be learned.  For me, the great challenge -- and the great rewards -- of cultivating the beginner's mind lie in maintaining it in the face of actual learning.  Learning means building a knowledge base and conceptual framework.  Maintaining a beginner's mind means actively welcoming information and ideas that may require me to abandon what I've already built and to start building anew -- and to find joy in the task. </blockquote>

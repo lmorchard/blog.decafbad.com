@@ -2,6 +2,8 @@
 wordpress_id: 233
 layout: post
 title: Comments rise from the ashes
+wordpress_slug: ooobef
+wordpress_date: "2002-08-24T02:55:33-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=233
 ---
 <p>Well, that sucked.  I managed to get an all but complete dump of my <code>comments.db</code> file with <code>db_dump</code> on my server, but then nothing would parse or load that file after that.  Banged around with it for awhile until I finally realized how to parse the dump file myself with a perl one-liner and rebuilt the comments DBM file that way.</p>

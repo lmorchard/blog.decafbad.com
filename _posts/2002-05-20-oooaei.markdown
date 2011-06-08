@@ -2,6 +2,8 @@
 wordpress_id: 138
 layout: post
 title: Improved linkback scripts, and finalizing the site move
+wordpress_slug: oooaei
+wordpress_date: "2002-05-20T16:01:00-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=138
 ---
 <p>Still working on getting all the bits of this site working again on the new host.  One thing in particular that's broken are my beloved referer scripts.</p>

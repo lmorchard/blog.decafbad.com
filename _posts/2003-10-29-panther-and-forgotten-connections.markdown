@@ -2,6 +2,8 @@
 wordpress_id: 500
 layout: post
 title: Panther, forgotten connections, and no more lockups
+wordpress_slug: panther-and-forgotten-connections
+wordpress_date: "2003-10-29T09:14:03-05:00"
 wordpress_url: http://www.decafbad.com/blog/?p=500
 ---
 <div align="center"><img src="http://www.decafbad.com/blog-images/server-disconnect.gif" /></div>

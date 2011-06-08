@@ -3,6 +3,8 @@ wordpress_id: 582
 layout: post
 title: Mind bombs with delayed fuses
 excerpt: Sometimes this blog thing surprises me, like when someone digs up something I tinkered with briefly a few years ago and finds that it was just the puzzle piece needed.  And it also surprises me when someone else gets some of the same enthusiasm I had for one of my ideas.
+wordpress_slug: mind-bombs-with-delayed-fuses
+wordpress_date: "2005-01-07T14:16:08-05:00"
 wordpress_url: http://www.decafbad.com/blog/?p=582
 ---
 <a href="http://www.amazon.com/exec/obidos/ASIN/B0000026U0"><img src="http://images.amazon.com/images/P/B0000026U0.01.MZZZZZZZ.jpg" align="right" hspace="5" vspace="5" /></a>Sometimes this blog thing surprises me, like [when someone digs up][lion] [something I tinkered with][pipe] briefly a few years ago and finds that it was just the puzzle piece needed.  And it also surprises me when someone else gets some of the same [enthusiasm I had][bomb] for one of my ideas.

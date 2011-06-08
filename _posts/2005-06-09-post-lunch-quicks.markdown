@@ -2,6 +2,8 @@
 wordpress_id: 648
 layout: post
 title: Post-Lunch Quicks
+wordpress_slug: post-lunch-quicks
+wordpress_date: "2005-06-09T14:06:08-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=648
 ---
 * The [BBS Documentary][bbs] rocks, and it needs to be running on something like PBS.  Although I can understand many people will balk at the $50, it's really rather under-priced.

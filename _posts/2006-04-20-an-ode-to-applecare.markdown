@@ -2,6 +2,10 @@
 wordpress_id: 933
 layout: post
 title: An Ode to AppleCare
+tags: 
+- asides
+wordpress_slug: an-ode-to-applecare
+wordpress_date: "2006-04-20T17:41:35-04:00"
 wordpress_url: http://decafbad.com/blog/2006/04/20/an-ode-to-applecare
 ---
  <p>I'm on my third 4G iPod 20GB, as of 10 minutes ago.  The second one, <a href="http://decafbad.com/blog/2005/10/25/ipod-go-thud-then-click-click-click">I got back in October when I dropped the first one on a marble floor</a>.  But, last night, it died when it took a header out of my pocket and bounced off the parking lot pavement.  Last time I used a mailer and sent it back to Apple for replacement - but this time, I just drove straight to the Apple store.  The Genius Bar denizen took one look at it, held it to his ear, and said "I'll be right back."  A few minutes later, he returned from the back room and handed me my third iPod.  It's syncing podcasts now and reloading music from my home server.</p>

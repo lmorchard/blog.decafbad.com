@@ -2,6 +2,10 @@
 wordpress_id: 1030
 layout: post
 title: My semi-annual blogger navel gazing post
+tags: 
+- metablogging
+wordpress_slug: my-semi-annual-blogger-navel-gazing-post
+wordpress_date: "2006-12-21T12:33:48-05:00"
 wordpress_url: http://decafbad.com/blog/2006/12/21/my-semi-annual-blogger-navel-gazing-post
 ---
 I guess the nicest thing, at least with respect to this blog, about [yesterday's new feature release][tg] and the [JSON/XML debate][debate] it tangentially inspired is that it gave me something to blog about.  I've got an impulse to just keep flapping my gums about it, but there's nothing else I've really got to say about it.  Continuing to babble for the sake of it will only get me in trouble.

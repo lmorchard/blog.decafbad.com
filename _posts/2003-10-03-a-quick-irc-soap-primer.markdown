@@ -2,6 +2,8 @@
 wordpress_id: 491
 layout: post
 title: A quick SOAP primer via IRC (but not SOAP via IRC)
+wordpress_slug: a-quick-irc-soap-primer
+wordpress_date: "2003-10-03T09:28:17-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=491
 ---
 <p>

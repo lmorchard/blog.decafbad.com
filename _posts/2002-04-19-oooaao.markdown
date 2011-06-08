@@ -2,6 +2,8 @@
 wordpress_id: 90
 layout: post
 title: Mach-O Mach-O Moz!  I wanna use a Mach-O Moz!
+wordpress_slug: oooaao
+wordpress_date: "2002-04-19T14:20:34-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=90
 ---
 <p>Oh, and I have to say: <a href="http://homepage.mac.com/risc_abacus/">This Mach-O build of Mozilla</a> for Mac OS X rocks.  It actually makes my little iBook feel zippy.  Makes me wonder why they even bother with the other builds.  Turn on the Quartz font rendering, and this will be the world's best, prettiest browser.  </p>

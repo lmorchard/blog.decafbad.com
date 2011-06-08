@@ -2,6 +2,12 @@
 wordpress_id: 843
 layout: post
 title: Don't Pee in the Potato Chips
+tags: 
+- opml
+- winer
+- newsriver
+wordpress_slug: dont-pee-in-the-potato-chips
+wordpress_date: "2006-01-28T02:02:15-05:00"
 wordpress_url: http://decafbad.com/blog/?p=843
 ---
 So, I've [expressed some renewed interest][interest] in tinkering around with the code behind the [OPML Editor][opml] and [NewsRiver][news].  Well, it needs to be said that there are some strings attached to playing in this field:  That is, these are Dave Winer's potato chips I'm enjoying.  

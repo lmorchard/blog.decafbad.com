@@ -2,6 +2,16 @@
 wordpress_id: 858
 layout: post
 title: Pulling the Linkmobile back into the garage
+tags: 
+- links
+- asides
+- metablogging
+- delicious
+- ajax
+- feedmagick
+- geegaws
+wordpress_slug: pulling-the-linkmobile-back-into-the-garage
+wordpress_date: "2006-02-09T10:49:42-05:00"
 wordpress_url: http://decafbad.com/blog/?p=858
 ---
 As a follow-up to [Tuesday's post][tp], I've disabled the nightly link post as of now and turned off the links category on the main page template.  

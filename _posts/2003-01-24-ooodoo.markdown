@@ -2,6 +2,8 @@
 wordpress_id: 369
 layout: post
 title: Dive into Premium!
+wordpress_slug: ooodoo
+wordpress_date: "2003-01-24T04:11:43-05:00"
 wordpress_url: http://www.decafbad.com/blog/?p=369
 ---
 <blockquote cite="http://diveintomark.org/premium/">A new and better way to experience the "Dive Into" empire!  For only a few cents a day, you get fast, uncluttered access to your favorite "Dive Into" sites, with premium features available only to subscribers. </blockquote><div class="credit" align="right"><small>Source:<cite><a href="http://diveintomark.org/premium/">Dive Into Premium </a></cite>.</small></div>

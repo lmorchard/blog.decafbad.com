@@ -2,6 +2,8 @@
 wordpress_id: 129
 layout: post
 title: Mr. Downes' Javascript-based referrers
+wordpress_slug: oooaeo
+wordpress_date: "2002-05-13T03:07:48-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=129
 ---
 <p>

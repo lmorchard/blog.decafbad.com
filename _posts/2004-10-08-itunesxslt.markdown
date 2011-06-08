@@ -3,6 +3,11 @@ wordpress_id: 561
 layout: post
 title: Using iTunes as a podcast aggregator, with a little help from XSLT
 excerpt: So I had an idea for a quick podcasting listening hack on the way into work this morning.
+tags: 
+- syndication
+- xml
+wordpress_slug: itunesxslt
+wordpress_date: "2004-10-08T13:07:49-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=561
 ---
 So I had an idea for a quick podcasting listening hack on the way into work this morning. Check it out:

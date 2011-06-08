@@ -2,6 +2,8 @@
 wordpress_id: 414
 layout: post
 title: iTunes Music Store RSS Feeds
+wordpress_slug: itunes-rss
+wordpress_date: "2003-05-07T17:21:10-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=414
 ---
 Yeah, I know I <a href="http://www.decafbad.com/blog/geek/itunes_does_drm.html" target="_top">gave the iTMS a 'bah'</a>

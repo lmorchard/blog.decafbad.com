@@ -2,6 +2,11 @@
 wordpress_id: 1092
 layout: post
 title: Go Midwest, Young Man!
+tags: 
+- entries
+- mozilla
+wordpress_slug: go-midwest-young-man
+wordpress_date: "2008-05-14T17:01:37-04:00"
 wordpress_url: http://decafbad.com/blog/?p=1092
 ---
 Reminiscent of this time [almost two years ago](http://decafbad.com/blog/2006/06/24/go-west-young-man), it's been a busy period so far.  I've been working on another book, entitled [Professional JavaScript Frameworks][book], and have changed jobs twice [since leaving Yahoo! in early April][leavey].  

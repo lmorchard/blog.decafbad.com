@@ -2,6 +2,10 @@
 wordpress_id: 941
 layout: post
 title: Monkeying with Scifipedia
+tags: 
+- asides
+wordpress_slug: redesigning-scifipedia
+wordpress_date: "2006-04-28T10:35:04-04:00"
 wordpress_url: http://decafbad.com/blog/2006/04/28/redesigning-scifipedia
 ---
  <p>The <a href="http://www.scifi.com">SciFi Channel</a> webmasters have launched <a href="http://scifipedia.scifi.com/index.php/Main_Page">Scifipedia</a>, based on <a href="http://www.mediawiki.org/wiki/MediaWiki">MediaWiki</a>.  Unfortunately, in my opinion, they've destroyed much of the usability offered by the out-of-box template.  Just try finding the "Recent Changes" page.</p>

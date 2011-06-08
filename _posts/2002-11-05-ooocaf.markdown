@@ -2,6 +2,8 @@
 wordpress_id: 291
 layout: post
 title: If at first you don't succeed, Zoe, Zoe again?
+wordpress_slug: ooocaf
+wordpress_date: "2002-11-05T01:06:17-05:00"
 wordpress_url: http://www.decafbad.com/blog/?p=291
 ---
 Hmm, <a href="http://www.panic.com/~stevenf/mt/archives/000108.php">stevenf gives Zoe some love</a>.  I want to like <a href="http://guests.evectors.it/zoe/">Zoe</a>, and I think I might try it again.  But ever since I <a href="http://www.decafbad.com/news_archives/000120.phtml#000120">first found</a> and <a href="http://www.decafbad.com/news_archives/000122.phtml#000122">later tried</a> Zoe, I've not had much luck with any release.  I think at one point I had a single email appear, but I'm just not getting the mojo.  I think I sorta figured out what I'm supposed to do, but mostly it just sits there munching CPU quietly.  Hrm.  Not that my setup is exotic - I use Mail.app to access an IMAP server on my iBook.  I see others manage to work it.  Trying again...

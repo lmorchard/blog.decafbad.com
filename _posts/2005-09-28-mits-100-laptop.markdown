@@ -2,6 +2,10 @@
 wordpress_id: 708
 layout: post
 title: MIT's $100 laptop
+tags: 
+- asides
+wordpress_slug: mits-100-laptop
+wordpress_date: "2005-09-28T16:44:00-04:00"
 wordpress_url: http://decafbad.com/blog/?p=708
 ---
 <blockquote cite="http://beta.news.com.com/2300-1044_3-5884639-1.html?part=rss&amp;tag=5884639&amp;subj=news">A research project at the MIT Media Lab has a plan for getting $100 laptops in the hands of millions of people around the world. One notable feature is a hand crank for providing power in places where electricity is undependable or unavailable.</blockquote><small style="text-align:right; display:block">Source: <a href="http://beta.news.com.com/2300-1044_3-5884639-1.html?part=rss&amp;tag=5884639&amp;subj=news">Images: MIT's $100 laptop | CNET News.com</a></small><br />

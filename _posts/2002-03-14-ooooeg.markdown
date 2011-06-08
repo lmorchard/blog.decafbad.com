@@ -2,6 +2,8 @@
 wordpress_id: 39
 layout: post
 title: Need to tweak up the volume
+wordpress_slug: ooooeg
+wordpress_date: "2002-03-14T17:05:02-05:00"
 wordpress_url: http://www.decafbad.com/blog/?p=39
 ---
 I need to get more active with the blog on this site.  I've been kind of holding back due to lack of a few blogging tools I wanted to work within (ie. <a href="http://www.decafbad.com/twiki/bin/view/Main/WeblogMulticaster">WeblogMulticaster</a> for one,  <a href="http://www.decafbad.com/twiki/bin/view/Main/GroupWeblogWithRadioUserLand">GroupWeblogWithRadioUserLand</a> for another), but I really need to start making this place more worth visiting.

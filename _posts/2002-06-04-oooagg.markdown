@@ -2,6 +2,8 @@
 wordpress_id: 156
 layout: post
 title: http://referers/are/easy/to/fake/
+wordpress_slug: oooagg
+wordpress_date: "2002-06-04T20:43:54-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=156
 ---
 <p>So I see this referrer on <a href="http://www.decafbad.com/news_archives/000170.phtml">one of my postings</a> today:<pre>http://referers/are/easy/to/fake/</pre>First reaction: <strong>giggle</strong>  Second reaction: "Well, duh."  No one's ever claimed that they weren't easy to fake, break, subvert, or otherwise derail.  It's just that the default, unmolested behavior of many browsers is, happily, to report from where they came to find your page.  This is fun data to play with.</p>

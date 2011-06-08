@@ -2,6 +2,10 @@
 wordpress_id: 692
 layout: post
 title: Glowing review from Geek News Central for Hacking RSS and Atom
+tags: 
+- asides
+wordpress_slug: glowing-review-from-geek-news-central-for-hacking-rss-and-atom
+wordpress_date: "2005-09-26T15:05:37-04:00"
 wordpress_url: http://decafbad.com/blog/?p=692
 ---
 Hacking RSS and Atom has gotten [an absolutely glowing and enthusiastic recommendation from Todd Cochrane of Geek News Central](http://www.geeknewscentral.com/archives/004907.html)!  I was flipping through a few pent-up podcasts I had laying around before purging the backlog, and found this mention at the tail-end of GNC #101.

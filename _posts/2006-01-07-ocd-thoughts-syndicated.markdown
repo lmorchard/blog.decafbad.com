@@ -2,6 +2,14 @@
 wordpress_id: 817
 layout: post
 title: OCD thoughts, syndicated
+tags: 
+- asides
+- metablogging
+- syndication
+- search
+- ocd
+wordpress_slug: ocd-thoughts-syndicated
+wordpress_date: "2006-01-07T16:49:04-05:00"
 wordpress_url: http://decafbad.com/blog/?p=817
 ---
 Weirdest search referrer of the year so far:

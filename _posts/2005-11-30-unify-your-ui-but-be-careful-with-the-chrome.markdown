@@ -2,6 +2,10 @@
 wordpress_id: 786
 layout: post
 title: Unify your UI, but be careful with the chrome
+tags: 
+- asides
+wordpress_slug: unify-your-ui-but-be-careful-with-the-chrome
+wordpress_date: "2005-11-30T00:39:45-05:00"
 wordpress_url: http://decafbad.com/blog/?p=786
 ---
 <blockquote cite="http://gui.interacto.net/">UNO is a theme that brings the sunken unified toolbar/titlebar look&feel to every single window on your system (metal or aqua, and already unified windows as well).</blockquote>

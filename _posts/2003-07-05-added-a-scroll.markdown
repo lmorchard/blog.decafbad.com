@@ -2,6 +2,8 @@
 wordpress_id: 436
 layout: post
 title: Added a scroller?
+wordpress_slug: added-a-scroll
+wordpress_date: "2003-07-05T21:52:40-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=436
 ---
 <blockquote cite="http://jrobb.userland.com/2003/07/05.html#a3323">Just added a small script to the bottom of my weblog to run a scroll.</blockquote>

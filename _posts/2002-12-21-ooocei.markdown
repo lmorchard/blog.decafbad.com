@@ -2,6 +2,8 @@
 wordpress_id: 333
 layout: post
 title: MovableType LDAP integration
+wordpress_slug: ooocei
+wordpress_date: "2002-12-21T16:54:49-05:00"
 wordpress_url: http://www.decafbad.com/blog/?p=333
 ---
 This week, at work, I cobbled together a hack for <a href="http://www.decafbad.com/twiki/bin/view/Main/MovableType">MovableType</a> that hooks it up with an LDAP server for author accounts: <a href="http://www.decafbad.com/twiki/bin/view/Main/MovableTypeLDAPAuthors">MovableTypeLDAPAuthors</a>.  This is an early, early, early release of the thing, and is likely to do very nasty things for all that I know.  But, I wanted to share, and it seems to be working for the proof of concept at work (that is, MT weblogs on our intranet for every employee).  Hopefully soon it'll be approved, and I'll be looking into a commercial use license for <a href="http://www.decafbad.com/twiki/bin/view/Main/MovableType">MovableType</a>.

@@ -2,6 +2,13 @@
 wordpress_id: 757
 layout: post
 title: It's back to OmniWeb for me!
+tags: 
+- asides
+- firefox
+- software
+- omniweb
+wordpress_slug: its-back-to-omniweb-for-me
+wordpress_date: "2005-10-28T12:15:07-04:00"
 wordpress_url: http://decafbad.com/blog/?p=757
 ---
 So, after a good solid several months' run with Firefox, the constant CPU drain finally got to me and I've gone back to [OmniWeb][].  

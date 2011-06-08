@@ -2,6 +2,8 @@
 wordpress_id: 669
 layout: post
 title: AJAX Testing and Logging
+wordpress_slug: ajax-testing-and-logging
+wordpress_date: "2005-07-18T14:28:19-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=669
 ---
 Okay, okay, I'll admit it: I'm an [architecture astronaut][aa].  I'd join Architecture Astronauts Anonymous--but that'd be AAA, and we already use them for our car insurance. Anyway, here's my current trip into orbit:

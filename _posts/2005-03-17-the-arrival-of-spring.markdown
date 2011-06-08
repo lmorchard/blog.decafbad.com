@@ -2,6 +2,8 @@
 wordpress_id: 616
 layout: post
 title: The Arrival of Spring
+wordpress_slug: the-arrival-of-spring
+wordpress_date: "2005-03-17T11:39:41-05:00"
 wordpress_url: http://www.decafbad.com/blog/?p=616
 ---
 About the coming spring, [via Flashes of Panic][flashes]:

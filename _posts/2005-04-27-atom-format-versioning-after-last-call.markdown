@@ -2,6 +2,8 @@
 wordpress_id: 629
 layout: post
 title: Atom Format Versioning After Last Call?
+wordpress_slug: atom-format-versioning-after-last-call
+wordpress_date: "2005-04-27T10:40:17-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=629
 ---
 <blockquote>An interesting sidebar is that the new Atom format doesn't have a version attribute and I understand it will sit in the same namespace. I tried a few rss clients with the new format and many crashed.</blockquote>

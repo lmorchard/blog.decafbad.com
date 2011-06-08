@@ -2,6 +2,8 @@
 wordpress_id: 423
 layout: post
 title: Don't Call It an Obsession
+wordpress_slug: games-stuff
+wordpress_date: "2003-05-31T15:44:45-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=423
 ---
 Just read Matt Gemmell's <a href="http://www.scotlandsoftware.com/blog/?entry=/games/games_stuff.html" target="_top">bit of a catalog</a>

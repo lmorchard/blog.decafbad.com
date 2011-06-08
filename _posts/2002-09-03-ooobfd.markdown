@@ -2,6 +2,8 @@
 wordpress_id: 241
 layout: post
 title: XML-RPC to NNTP to XML-RPC to ...
+wordpress_slug: ooobfd
+wordpress_date: "2002-09-03T14:05:07-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=241
 ---
 <p>Hmm, just read that <a href="http://radio.weblogs.com/0111823/2002/09/03.html#a39">Charles Nadeau released an XML-RPC to NNTP gateway</a>.  I still think it would be neat to have an <a href="http://www.decafbad.com/news_archives/000261.phtml#comments">NNTP to XML-RPC gateway</a> to use as a wonky, distributedish message queue.</p>

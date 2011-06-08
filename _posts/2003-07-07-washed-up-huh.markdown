@@ -2,6 +2,8 @@
 wordpress_id: 437
 layout: post
 title: Washed Up, Huh?
+wordpress_slug: washed-up-huh
+wordpress_date: "2003-07-07T11:54:14-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=437
 ---
 <blockquote cite="http://backend.userland.com/checkingInWithMrSafe">

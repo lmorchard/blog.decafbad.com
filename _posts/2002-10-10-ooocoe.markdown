@@ -2,6 +2,8 @@
 wordpress_id: 280
 layout: post
 title: A breakthrough in outline transclusion!
+wordpress_slug: ooocoe
+wordpress_date: "2002-10-10T19:48:34-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=280
 ---
 Funny, I've just been toying around the last few weeks with doing just this, for <a href="http://www.decafbad.com/twiki/bin/view/Main/AmphetaOutlines">AmphetaOutlines</a>, to cut down on the wodge of HTML it feeds the browser all at once.  Marc Barrot presents <a href="http://radio.weblogs.com/0104487/2002/10/10.html#a423">Transclusion Breakthrough: The Endless Web Page.</a>  The post reads a bit like an <a href="http://grandpasgeneral.com/seamonk.html">advert for Amazing Live Seamonkeys!</a>, but I think the enthusiasm is understandable:<blockquote><i>This is the </i><b>in-browser</b><i> version of what Dave Winer and <a href="http://www.decafbad.com/twiki/bin/view/Main/UserLand">UserLand</a> created for Radio's outliner.

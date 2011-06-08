@@ -6,6 +6,11 @@ excerpt: |-
   It's a new feed aggregator, my third attempt at such.  Everything is clunky and command-line driven at present--but I've got further plans, like a REST API for feed queries and manipulation of various things such as feed subscriptions and the read/unread state of items.  Pair this with an XSLT-driven browser UI, and the possibility of other clients (not the least of include other Atom-consuming aggregators).
   
   The goal is to make a Client/Server Aggregator.
+tags: 
+- syndication
+- python
+wordpress_slug: introducing-dbagg3-an-atom-powered-clientserver-aggregator
+wordpress_date: "2004-08-05T09:04:56-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=536
 ---
 **Update**: I've just dumped what code I have into my CVS repository.  So, go ahead and poke fun at it:

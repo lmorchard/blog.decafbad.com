@@ -2,6 +2,8 @@
 wordpress_id: 139
 layout: post
 title: Mass media & consumer culture, a mind-virus threat?
+wordpress_slug: oooafo
+wordpress_date: "2002-05-21T15:16:23-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=139
 ---
 <p>We discover all kinds of harm done to ourselves by environmental pollutants, decades or centuries after the fact.  What if someday we discover that mass media and consumer culture, as we know it, is literally detrimental to one's health?</p>

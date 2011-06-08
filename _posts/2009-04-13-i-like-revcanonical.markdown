@@ -2,6 +2,15 @@
 wordpress_id: 1735
 layout: post
 title: I (used to) like rev="canonical"
+tags: 
+- webdev
+- twitter
+- entries
+- revcanonical
+- urls
+- urlshortening
+wordpress_slug: i-like-revcanonical
+wordpress_date: "2009-04-13T01:05:50-04:00"
 wordpress_url: http://decafbad.com/blog/?p=1735
 ---
 *Update 4/14*: So, I liked `rev="canonical"`, but I like the notion of pages offering sets of alternative URLs better.  [There are enough cracks in the case](http://www.mnot.net/blog/2009/04/14/rev_canonical_bad) for `rev="canonical"` to stop caring about it and instead focus on the notion behind it.  However it's expressed—is it [`rel="shortlink"`](http://groups.google.com/group/shortlink) now?—the final remaining things I'd like to see are:

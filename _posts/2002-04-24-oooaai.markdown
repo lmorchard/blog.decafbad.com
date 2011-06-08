@@ -2,6 +2,8 @@
 wordpress_id: 99
 layout: post
 title: On the destructive/constructive nature of news aggregation
+wordpress_slug: oooaai
+wordpress_date: "2002-04-24T18:33:43-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=99
 ---
 <p>Playing with a range of news aggregators once more, since <a href="http://radio.userland.com">Radio <a href="http://www.decafbad.com/twiki/bin/view/Main/UserLand">UserLand</a></a> is making me itchy again.  Pretty much the only ones I really like are Radio, <a href="http://www.disobey.com/amphetadesk">AmphetaDesk</a>, and sometimes <a href="http://www.oreillynet.com/~rael/lang/python/peerkat/">Peerkat</a>.</p>

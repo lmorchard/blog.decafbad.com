@@ -2,6 +2,16 @@
 wordpress_id: 1011
 layout: post
 title: Event Delegation based DHTML Drag and Drop?
+tags: 
+- webdev
+- js
+- outliners
+- outlining
+- javascript
+- dhtml
+- yui
+wordpress_slug: event-delegation-based-dhtml-drag-and-drop
+wordpress_date: "2006-10-31T16:46:40-05:00"
 wordpress_url: http://decafbad.com/blog/2006/10/31/event-delegation-based-dhtml-drag-and-drop
 ---
 So, as the urge to tinker rises again, I've started playing with [YUI][] and cracked open some [XoxoOutliner][] code again.  One of the things that struck me like a bolt from the blue recently is the notion of [event delegation][ed].  For the most part, I've treated event bubbling as a nuisance, except for where it came in handy in keyboard input handling.  But avoiding the need to individually track events on every list element on the page via instantiated objects and methods is *hot* and *forehead-slappingly obvious* once you've seen it working.  Just implement one set of event handlers on the outline root element (ie. UL or OL), and do the right thing as events come in from the list child elements.

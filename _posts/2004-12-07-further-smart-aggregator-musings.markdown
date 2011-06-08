@@ -3,6 +3,10 @@ wordpress_id: 573
 layout: post
 title: Further musings toward smarter aggregators
 excerpt: It seems like the magic Bayesian pixie dust works well for spam-vs-ham in my email box, so why shouldn't the magic for interesting-vs-yawn work for my aggregator firehose?
+tags: 
+- syndication
+wordpress_slug: further-smart-aggregator-musings
+wordpress_date: "2004-12-07T16:37:08-05:00"
 wordpress_url: http://www.decafbad.com/blog/?p=573
 ---
 I'm a complete neophyte when it comes to machine learning, but I'd like to get into learning more about the field in general.  In particular, I'd like to make my news aggregator smarter.  I've [already tried using SpamBayes](http://www.decafbad.com/blog/2003/08/16/bayes_agg_one), but that didn't make me happy.  Whether it was my approach or whether it was that Bayes itself is not suited toward this task, I'm not sure, though I suspect it's a little of both.

@@ -2,6 +2,19 @@
 wordpress_id: 1019
 layout: post
 title: XoxoOutliner and further outline addressing adventures
+tags: 
+- asides
+- webdev
+- php
+- outliners
+- outlining
+- xoxooutliner
+- xsl
+- xoxo
+- xml
+- opml
+wordpress_slug: xoxooutliner-and-further-outline-addressing-adventures
+wordpress_date: "2006-11-15T03:07:12-05:00"
 wordpress_url: http://decafbad.com/blog/2006/11/15/xoxooutliner-and-further-outline-addressing-adventures
 ---
 [Revised the addressing code a bit][rev], adding a few new kinds of addresses and getting ready to support sub-outline *updates*.  That is, fetch a sub-branch of an outline and then later post a change to that sub-branch using the same address.  Needs more thought - ie. what happens if things move between fetch and update? - but here are a few more samples:

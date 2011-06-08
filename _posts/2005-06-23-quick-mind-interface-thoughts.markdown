@@ -2,6 +2,8 @@
 wordpress_id: 656
 layout: post
 title: Quick mind interface thoughts
+wordpress_slug: quick-mind-interface-thoughts
+wordpress_date: "2005-06-23T17:23:52-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=656
 ---
 I've got a few longer-length blog entries building up, but a few of my semi-usual quick thoughts:

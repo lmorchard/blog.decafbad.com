@@ -2,6 +2,8 @@
 wordpress_id: 480
 layout: post
 title: Flash MX Hates Progressive JPEGs
+wordpress_slug: flash-hates-progressive-jpeg
+wordpress_date: "2003-09-19T14:28:23-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=480
 ---
 <p>

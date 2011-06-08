@@ -3,6 +3,10 @@ wordpress_id: 560
 layout: post
 title: Falling for the Podcasting Hype
 excerpt: So, over the last day or so, I've found myself falling for the Podcasting hype.
+tags: 
+- syndication
+wordpress_slug: podcastinghype
+wordpress_date: "2004-10-07T11:02:49-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=560
 ---
 So, over the last day or so, I've found myself falling for the [Podcasting][podcasting] hype.  

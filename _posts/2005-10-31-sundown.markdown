@@ -2,6 +2,14 @@
 wordpress_id: 759
 layout: post
 title: Sundown
+tags: 
+- asides
+- sad
+- fall
+- date
+- weather
+wordpress_slug: sundown
+wordpress_date: "2005-10-31T18:34:54-05:00"
 wordpress_url: http://decafbad.com/blog/?p=759
 ---
 Man.  This time change and the sudden early arrival of evening catches me off guard every year.  I'm with [Russell Beattie][rb]:  This time of year sucks, and it only goes downhill from here.

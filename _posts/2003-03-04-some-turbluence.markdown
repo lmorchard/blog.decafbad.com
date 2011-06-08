@@ -2,6 +2,8 @@
 wordpress_id: 386
 layout: post
 title: Heading through some turbulence, folks.
+wordpress_slug: some-turbluence
+wordpress_date: "2003-03-04T10:02:00-05:00"
 wordpress_url: http://www.decafbad.com/blog/?p=386
 ---
 Thanks for bearing with me out there in the blogopshere.  This transition, though

@@ -2,6 +2,8 @@
 wordpress_id: 440
 layout: post
 title: Ultra-liberal feed parser
+wordpress_slug: ultra-liberal-feed-parser
+wordpress_date: "2003-07-11T10:14:15-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=440
 ---
 <blockquote cite="http://diveintomark.org/projects/feed_parser/">

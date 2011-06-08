@@ -2,6 +2,8 @@
 wordpress_id: 453
 layout: post
 title: My Powerbook's on TV
+wordpress_slug: powerbook-on-tv
+wordpress_date: "2003-07-30T10:23:29-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=453
 ---
 I don't gush about it very often, but I love my 12" Powerbook.  Since

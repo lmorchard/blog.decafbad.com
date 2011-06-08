@@ -2,6 +2,14 @@
 wordpress_id: 766
 layout: post
 title: D.I.Y. checkout lane
+tags: 
+- asides
+- programming
+- dev
+- geek
+- nerd
+wordpress_slug: diy-checkout-lane
+wordpress_date: "2005-11-02T16:52:40-05:00"
 wordpress_url: http://decafbad.com/blog/?p=766
 ---
 This might be a revealing admission:  Listening to the [TWiT][] podcast, and heard a bit where they were grousing about self-serve checkout lanes at stores.  Leo Laporte went so far as to say he wants a human cashier who says hello, and a bagger at the end of the lane.

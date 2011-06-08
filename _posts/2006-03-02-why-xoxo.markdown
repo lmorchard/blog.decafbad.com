@@ -2,6 +2,8 @@
 wordpress_id: 907
 layout: post
 title: Why XOXO?
+wordpress_slug: why-xoxo
+wordpress_date: "2006-03-02T11:56:46-05:00"
 wordpress_url: http://decafbad.com/blog/2006/03/02/why-xoxo
 ---
  <p><a href="http://blogs.opml.org/dwatts/2006/03/01#When:8:12:41PM">Donovan says</a>:  "<i>gotta learn more about gettin' my xoxo on. i've read your page, les but still i have no idea what xoxo is or why i'd want to convert my opml files to it.</i>"</p>

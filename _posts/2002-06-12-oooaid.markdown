@@ -2,6 +2,8 @@
 wordpress_id: 173
 layout: post
 title: "Tiffany's not here: A mystery of Google senility?"
+wordpress_slug: oooaid
+wordpress_date: "2002-06-12T19:31:12-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=173
 ---
 <p>Okay, I've lost count of how many times I've seen a referer like this:    <a href="http://google.yahoo.com/bin/query?p=Tiffany+Playboy+Pictures&amp;hc=0&amp;hs=0" target="_top">http://google.yahoo.com/bin/query?p=Tiffany+Playboy+Pictures&amp;hc=0&amp;hs=0</a>  How the hell did I become a destination for the web's nekkid Tiffany needs?  They're not here.  Seriously.  Otherwise I'd be charging, at least $14.95/month.</p>

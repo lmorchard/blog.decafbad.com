@@ -2,6 +2,13 @@
 wordpress_id: 711
 layout: post
 title: A kerfluffle of OPML and web directories
+tags: 
+- xoxo
+- microformats
+- opml
+- gopher
+wordpress_slug: a-kerfluffle-of-opml-and-web-directories
+wordpress_date: "2005-10-02T23:21:56-04:00"
 wordpress_url: http://decafbad.com/blog/?p=711
 ---
 So, I guess there was a bit of an extended kerfluffle over the weekend.  And as these things usually do, it started out from a very cool idea: You can build a web directory as an outline of links, with some nodes "farmed out" to outlines hosted elsewhere—all through the magic of [transclusion][trans].  

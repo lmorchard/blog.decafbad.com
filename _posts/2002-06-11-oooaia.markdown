@@ -2,6 +2,8 @@
 wordpress_id: 170
 layout: post
 title: (Re)defining the News Aggregator
+wordpress_slug: oooaia
+wordpress_date: "2002-06-11T14:34:05-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=170
 ---
 <p>Reading Dave's in-progress <a  href="http://radio.userland.com/whatIsANewsAggregator">What is a News Aggregator?</a>:<blockquote><i> A news aggregator is a piece of software that periodically reads a set of news sources, in one of several XML-based formats, finds the new bits, and displays them in reverse-chronological order on a single page.</i></blockquote>..and the rest leads from there.  First thing:  I think this is an unfortunately limited definition.  It specifies the particular interface by which <a href="http://radio.userland.com">Radio</a> presents information.  And, as a comment on <a href="http://www.decafbad.com/news_archives/000187.phtml">one of my first experments</a> in tweaking <a href="http://www.disobey.com/amphetadesk/">AmphetaDesk</a>'s interface attests (no author link):<blockquote><i>I've been wanting to use an aggregator since I first heard of them (RU7) but have always felt that because poor information architecture/presentation they tended to make tracking a large number of sites harder rather than easier.</i></blockquote>I didn't expect my first attempt to be called "Brilliant! Lovely! Perfect!", but I did think that I was on to something.  Simply displaying the new bits in reverse-chronological order is too limiting - it's only one attempted solution at the problem of aggregation.  My solution isn't an ultimate one either.  </p>

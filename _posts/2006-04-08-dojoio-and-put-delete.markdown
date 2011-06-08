@@ -2,6 +2,10 @@
 wordpress_id: 929
 layout: post
 title: dojo.io and PUT / DELETE
+tags: 
+- asides
+wordpress_slug: dojoio-and-put-delete
+wordpress_date: "2006-04-08T12:08:43-04:00"
 wordpress_url: http://decafbad.com/blog/2006/04/08/dojoio-and-put-delete
 ---
  <p>Just starting to delve into Dojo for S3Ajax, thanks to <a href="http://decafbad.com/blog/2006/04/06/private-client-side-cookies-for-ajax#comment-9602">the promise of `dojo.storage` for stashing security credentials locally</a>.  And, that <a href="http://dojotoolkit.org/docs/rich_text.html">Rich Text Editor</a> doesn't look shabby either.</p>

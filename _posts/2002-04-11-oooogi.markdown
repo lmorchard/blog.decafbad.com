@@ -2,6 +2,8 @@
 wordpress_id: 59
 layout: post
 title: SSI, Sibling Blogs, RssDisplay, and Grousing
+wordpress_slug: oooogi
+wordpress_date: "2002-04-11T02:39:33-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=59
 ---
 <p>I feel like I'm discovering <a href="http://www.decafbad.com/twiki/bin/view/Main/SSI">SSI</a> again, as if for the first time.  I'm using it around here to piece together a few pages with dynamic elements, among other things.  Seems like all I need most times for this, as opposed to a more general web app framework or <a href="http://www.decafbad.com/twiki/bin/view/Main/CMS">CMS</a>.  I'm sure eventually I'll get tired of it after having run into all the problems everyone else in the world has, and roll my own <a href="http://www.decafbad.com/twiki/bin/view/Main/CMS">CMS</a> again.  Maybe this time I'll stop before I get to that point and adopt someone else's before I get down to wheel re-invention work.  :)  But it's <em>so</em> fun.<br />

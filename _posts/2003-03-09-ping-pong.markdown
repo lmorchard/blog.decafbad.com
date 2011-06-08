@@ -2,6 +2,8 @@
 wordpress_id: 391
 layout: post
 title: Ping Pong to Weblogs Dot Com
+wordpress_slug: ping-pong
+wordpress_date: "2003-03-09T20:27:00-05:00"
 wordpress_url: http://www.decafbad.com/blog/?p=391
 ---
 <a href="http://simon.incutio.com/archive/2003/03/09/aPleaForPings" target="_top">Simon Willison writes</a>

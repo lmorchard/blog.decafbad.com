@@ -2,6 +2,8 @@
 wordpress_id: 54
 layout: post
 title: From My Instant Outline @ 4/7/02; 8:58:55 PM
+wordpress_slug: oooogc
+wordpress_date: "2002-04-07T23:59:44-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=54
 ---
 <ul>

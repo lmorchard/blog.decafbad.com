@@ -2,6 +2,8 @@
 wordpress_id: 459
 layout: post
 title: Wireless cams for police at Detroit Dream Cruise
+wordpress_slug: dream-cruise-spy-cams
+wordpress_date: "2003-08-13T13:12:19-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=459
 ---
 <blockquote cite="http://www.freep.com/news/metro/dreamcruise/2003/mwend13_20030813.htm"><i>Six remote-controlled surveillance cameras have been set up to transmit live video images of crowd and traffic conditions to handheld and laptop computers carried by cops. </i></blockquote><div class="credit" align="right"><small>Source: <cite><a href="http://www.freep.com/news/metro/dreamcruise/2003/mwend13_20030813.htm">freep.com: Police try spy cameras for better cruise control </a></cite></small></div>	<p>This has privacy advocates around here worried.  I&#8217;m thinking it&#8217;s a tempest in a teacup, but reading a quote like this is a bit unfortunate:</p>

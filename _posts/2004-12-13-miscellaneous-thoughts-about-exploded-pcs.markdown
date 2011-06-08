@@ -3,6 +3,8 @@ wordpress_id: 578
 layout: post
 title: Miscellaneous Thoughts about Exploded PCs
 excerpt: So, I think I'm almost out of steam for now on this weekend's thoughts.
+wordpress_slug: miscellaneous-thoughts-about-exploded-pcs
+wordpress_date: "2004-12-13T16:31:30-05:00"
 wordpress_url: http://www.decafbad.com/blog/?p=578
 ---
 So, I think I'm almost out of steam for now on this weekend's thoughts.

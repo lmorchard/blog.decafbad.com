@@ -2,6 +2,8 @@
 wordpress_id: 75
 layout: post
 title: Blogchat needs resurrection
+wordpress_slug: ooooie
+wordpress_date: "2002-04-16T19:52:30-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=75
 ---
 <p>Hmm, <a href="http://brentashley.blogchat.com/">this</a> reminds me that I need to get Blogchat up and running again.  <i>Which I'm working on right now. :)</i></p>

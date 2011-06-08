@@ -2,6 +2,8 @@
 wordpress_id: 396
 layout: post
 title: .NET Newbie
+wordpress_slug: dot-net-newbie
+wordpress_date: "2003-03-17T14:20:55-05:00"
 wordpress_url: http://www.decafbad.com/blog/?p=396
 ---
 So, while my time is mine, I've decided that I want to expand my

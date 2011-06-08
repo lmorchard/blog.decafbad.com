@@ -2,6 +2,10 @@
 wordpress_id: 805
 layout: post
 title: FeedBurner feeds give heartburn to PHP XML parsers?
+tags: 
+- asides
+wordpress_slug: feedburner-feeds-give-heartburn-to-php-xml-parsers
+wordpress_date: "2005-12-19T06:01:08-05:00"
 wordpress_url: http://decafbad.com/blog/?p=805
 ---
 **Final Update**: *Actually, it turns out that feeding raw, uncompressed gzip streams to PHP XML parsers causes heartburn.  Go figure.  [I guess that teaches me to poke the lazyweb with a stick.][poke]*

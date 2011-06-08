@@ -2,6 +2,8 @@
 wordpress_id: 208
 layout: post
 title: Summer's almost over
+wordpress_slug: ooobbi
+wordpress_date: "2002-08-08T15:39:31-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=208
 ---
 <p>So are any of you guys getting itchy?  I've had a great Summer all around, but without much hacking or progress on little projects.  And I've noticed that there's been relative quiet and little hacking amongst my reading list's authors.  Could be that I'm just not looking in the right places - I did lose a few subscriptions in my bounce from Radio to Ampheta for daily use.  But I just don't see as many daily innovations as I did toward the end of Winter and beginning of Spring.</p>

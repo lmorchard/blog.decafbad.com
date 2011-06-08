@@ -2,6 +2,8 @@
 wordpress_id: 601
 layout: post
 title: "Tales from the Future: Television"
+wordpress_slug: tales-from-the-future-television
+wordpress_date: "2005-03-03T08:48:10-05:00"
 wordpress_url: http://www.decafbad.com/blog/?p=601
 ---
 Between Netflix and other means, I think I'm already sucked into the future, at least with respect to television viewing.  These are two things that I've all but forgotten about:

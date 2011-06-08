@@ -2,6 +2,8 @@
 wordpress_id: 399
 layout: post
 title: The Singularity vs Human Nature
+wordpress_slug: singularity-vs-human-nature
+wordpress_date: "2003-03-26T12:32:49-05:00"
 wordpress_url: http://www.decafbad.com/blog/?p=399
 ---
 Apologies in advance if this post-cum-essay runs a bit long...

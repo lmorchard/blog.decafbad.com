@@ -2,6 +2,8 @@
 wordpress_id: 169
 layout: post
 title: Identifying RSS readers, and obsessively watching referrers in RSS
+wordpress_slug: oooaio
+wordpress_date: "2002-06-11T05:34:03-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=169
 ---
 <p>Okay, starting to poke at my referrer scripts again and produced two new things:  <a href="http://www.decafbad.com/recent_referers_rss.php">Recent Referrers in <a href="http://www.decafbad.com/twiki/bin/view/Main/RSS">RSS</a></a> (<a href="http://www.decafbad.com/recent_referers_rss_php.txt">src</a>) and <a href="http://www.decafbad.com/rss_readers.phtml">RSS Feed Readers</a> (<a href="http://www.decafbad.com/rss_readers_phtml.txt">src</a>).  I simplified my database a bit, collapsing multiple rows into single rows with a hit count column.  Also squashed a few stupid bugs that had cropped up in the Great Site Move a month or so ago.  Realized that the counts were insanely wrong, sometimes showing a count as high as 15 for a post that might have only 3 back links.</p>

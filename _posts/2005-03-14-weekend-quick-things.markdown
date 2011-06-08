@@ -2,6 +2,8 @@
 wordpress_id: 612
 layout: post
 title: Weekend quick things
+wordpress_slug: weekend-quick-things
+wordpress_date: "2005-03-14T10:21:53-05:00"
 wordpress_url: http://www.decafbad.com/blog/?p=612
 ---
 * The new apartment seemed strangely quiet and isolated until I got the blinking lights of a cable modem and wireless router going.  Very glad I had The Girl and pets to hang out with.

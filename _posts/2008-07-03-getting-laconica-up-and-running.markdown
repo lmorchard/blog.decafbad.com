@@ -2,6 +2,14 @@
 wordpress_id: 1167
 layout: post
 title: Getting Laconica up and running
+tags: 
+- php
+- twitter
+- entries
+- laconica
+- openmicroblogging
+wordpress_slug: getting-laconica-up-and-running
+wordpress_date: "2008-07-03T15:21:35-04:00"
 wordpress_url: http://decafbad.com/blog/?p=1167
 ---
 *Update, 30 Sep 2008*: 

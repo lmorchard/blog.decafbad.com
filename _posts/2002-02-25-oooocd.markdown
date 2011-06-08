@@ -2,6 +2,8 @@
 wordpress_id: 18
 layout: post
 title: Tweaking the Wiki, building APIs and bridges
+wordpress_slug: oooocd
+wordpress_date: "2002-02-25T04:48:29-05:00"
 wordpress_url: http://www.decafbad.com/blog/?p=18
 ---
 Even more twiddling.  Seriously thinking of moving <a href="http://www.decafbad.com/twiki/bin/view/Main/WebHome">the Wiki</a> over to <a href="http://www.decafbad.com/twiki/bin/view/Main/MoinMoin">MoinMoin</a> now that I&apos;ve had a better look.  It seems to support almost all of the features I use with TWiki, but looks to have a much cleaner design.

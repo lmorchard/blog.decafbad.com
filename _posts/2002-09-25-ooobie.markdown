@@ -2,6 +2,8 @@
 wordpress_id: 270
 layout: post
 title: Automated Pingback vs Human Talkback - Which is more humane?
+wordpress_slug: ooobie
+wordpress_date: "2002-09-25T17:23:13-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=270
 ---
 I completely disagree with <a href="http://www.ozzie.net/blog/2002/09/25.html#a65">Ray Ozzie</a> ("I'm thinking right now that I'd prefer to stick with human talkback rather than automated pingback"), <a href="http://jrobb.userland.com/2002/09/25.html#a2597">John Robb</a> ("I don't want pingback, trackback, or refererback."), and <a href="http://radio.weblogs.com/0105852/2002/09/25.html#a1192">Sam Gentile</a> ("Amen to that.").

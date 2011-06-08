@@ -2,6 +2,8 @@
 wordpress_id: 22
 layout: post
 title: How to TiVOize your PC?  Been there, done that.
+wordpress_slug: ooooch
+wordpress_date: "2002-02-27T14:50:21-05:00"
 wordpress_url: http://www.decafbad.com/blog/?p=22
 ---
 <i>Hmm, does something like this fit into the "format" of 0xDECAFBAD?  Sure, but I'll probably want to consider setting up some categories.  Like general tech rant/commentary, 0xDECAFBAD project updates, site updates, etc.</i>

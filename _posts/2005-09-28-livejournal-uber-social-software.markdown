@@ -2,6 +2,10 @@
 wordpress_id: 706
 layout: post
 title: "LiveJournal, \xC3\xBCber social software"
+tags: 
+- asides
+wordpress_slug: livejournal-uber-social-software
+wordpress_date: "2005-09-28T10:16:00-04:00"
 wordpress_url: http://decafbad.com/blog/?p=706
 ---
 I've just noticed that [LiveJournal added a School Directory](http://www.livejournal.com/schools/), where you can search for schools you've attended and add them and the years you were there to your user info.  Here's where I was between the years of 1989 and 1997:

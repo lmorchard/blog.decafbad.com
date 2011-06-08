@@ -3,6 +3,8 @@ wordpress_id: 515
 layout: post
 title: Look, it's a post about not posting!
 excerpt: Yeah, so this blog thing.  I finally switched it over to the stuff I've been fiddling with in silence for months - and then I proceeded to immediately shut back up.
+wordpress_slug: look-its-a-post-about-not-posting
+wordpress_date: "2004-04-29T01:06:57-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=515
 ---
 Yeah, so this blog thing.  I finally switched it over to the stuff I've been fiddling with in silence for months - and then I proceeded to immediately shut back up.

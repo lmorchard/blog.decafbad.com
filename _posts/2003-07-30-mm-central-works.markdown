@@ -2,6 +2,8 @@
 wordpress_id: 452
 layout: post
 title: Macromedia Central and Deja Vu?
+wordpress_slug: mm-central-works
+wordpress_date: "2003-07-30T08:26:05-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=452
 ---
 <blockquote cite="http://www.macromedia.com/devnet/central/articles/how_it_works.html"><i>Macromedia Central provides a safe environment for developers to deploy occasionally-connected applications. Using Macromedia Central, developers can create an application and give it away for free. Or they can sell it to end users using the Try/Buy framework that is part of Central.                                            </i></blockquote><div class="credit" align="right"><small>Source: <cite><a href="http://www.macromedia.com/devnet/central/articles/how_it_works.html">Macromedia - DevNet : Macromedia Central: How it Works</a></cite></small></div>	<p>I&#8217;ve had <a href="http://www.decafbad.com/blog/geek/flash_xml_magic.html">a bit</a> <a href="http://www.decafbad.com/blog/geek/flash_agg.html">of enthusiasm</a> <a href="http://www.decafbad.com/blog/links/aoehgeibgi.html">for Flash</a> lately.  So, this Macromedia Central thing that&#8217;s been on its way for a little while now looks very interesting.</p>

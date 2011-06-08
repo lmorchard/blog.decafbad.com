@@ -2,6 +2,8 @@
 wordpress_id: 620
 layout: post
 title: Busy bullets
+wordpress_slug: busy-bullets
+wordpress_date: "2005-03-20T19:48:41-05:00"
 wordpress_url: http://www.decafbad.com/blog/?p=620
 ---
 * Between moving apartments and other various things this past week, I've hit a wall and gotten just about nothing fully completed.

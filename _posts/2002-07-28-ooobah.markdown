@@ -2,6 +2,8 @@
 wordpress_id: 197
 layout: post
 title: Open Source partition juggling?
+wordpress_slug: ooobah
+wordpress_date: "2002-07-28T03:06:26-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=197
 ---
 <p>Okay, I do this in what seems like an annual cycle:  Juggle hardware and operating systems around on my home PCs.  The tool I always seem to lose and need again is something to safely allow me to resize and move hard drive partitions, whether they be Linux or Windows.  Has anyone finally made a reliable Open Source tool for this yet?</p>

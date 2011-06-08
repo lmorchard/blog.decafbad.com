@@ -2,6 +2,8 @@
 wordpress_id: 466
 layout: post
 title: Scraping HTML with web services
+wordpress_slug: rss-scrape-urls
+wordpress_date: "2003-08-23T13:57:06-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=466
 ---
 <p>After <a href="http://www.decafbad.com/blog/geek/rss_scrape_xsl.html">checking out</a> <a href="http://www.whump.com/moreLikeThis/date/21/08/2003">Bill Humphries&#8217; approach</a> to scraping yesterday, I recalled the various things <a href="http://udell.roninhouse.com/bytecols/2001-08-15.html">Jon Udell has written</a> about <span class="caps">URL</span>-as-command-line and the various places I&#8217;ve seen the <a href="http://www.w3.org/2001/05/xslt"><span class="caps">W3C XSLT </span>Servlet</a> used in <span class="caps">XSLT</span> tinkering.  I also remembered that there&#8217;s an <a href="http://cgi.w3.org/cgi-bin/tidy"><span class="caps">HTML </span>Tidy service</a> offered by <span class="caps">W3C</span> as well.</p>

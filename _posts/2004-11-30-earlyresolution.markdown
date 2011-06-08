@@ -3,6 +3,8 @@ wordpress_id: 566
 layout: post
 title: Early New Years' Resolution
 excerpt: It's the last month of 2004 tomorrow, and it's occurred to me that I haven't spent much time around here.
+wordpress_slug: earlyresolution
+wordpress_date: "2004-11-30T12:41:41-05:00"
 wordpress_url: http://www.decafbad.com/blog/?p=566
 ---
 It's the last month of 2004 tomorrow, and it's occurred to me that I haven't spent much time around here.  

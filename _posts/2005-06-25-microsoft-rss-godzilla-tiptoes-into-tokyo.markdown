@@ -2,6 +2,8 @@
 wordpress_id: 659
 layout: post
 title: "Microsoft + RSS: Godzilla tiptoes into Tokyo"
+wordpress_slug: microsoft-rss-godzilla-tiptoes-into-tokyo
+wordpress_date: "2005-06-25T12:03:22-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=659
 ---
 So, from the sounds of things, [the syndication wars][wars] have had another flare-up [after the appearance of Microsoft on the scene][scene].  

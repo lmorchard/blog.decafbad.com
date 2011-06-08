@@ -3,6 +3,11 @@ wordpress_id: 540
 layout: post
 title: More Cooks in the Feed Stew Kitchen
 excerpt: I tell ya, this is an idea that's catching.  Feeds go into a searchable stew, come back out as new synthetic feeds.  What comes out looks like what goes in, and there's a well-defined spec behind it.  Sprinkle in the elegance of loosely coupled UNIX pipelines and filters, REST interfaces, and XML tech like XSLT for munging, and you've got the makings of the next generation of syndication and XML feeds.
+tags: 
+- syndication
+- xml
+wordpress_slug: more-cooks-in-the-feed-stew-kitchen
+wordpress_date: "2004-08-23T23:14:40-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=540
 ---
 <blockquote>

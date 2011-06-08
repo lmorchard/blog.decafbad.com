@@ -2,6 +2,8 @@
 wordpress_id: 58
 layout: post
 title: "Via Eric Freeman's Radio Weblog:"
+wordpress_slug: oooogh
+wordpress_date: "2002-04-10T17:51:40-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=58
 ---
 <p>Via <a href="http://westcot.go.com/users/0000001/2002/04/10.html#a108">Eric Freeman's Radio Weblog</a>:<br />

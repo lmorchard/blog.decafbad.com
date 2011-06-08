@@ -2,6 +2,10 @@
 wordpress_id: 936
 layout: post
 title: S3AjaxWiki got noticed
+tags: 
+- asides
+wordpress_slug: s3ajaxwiki-got-noticed
+wordpress_date: "2006-04-24T13:29:32-04:00"
 wordpress_url: http://decafbad.com/blog/2006/04/24/s3ajaxwiki-got-noticed
 ---
  <p>So, it looks like a few people have noticed <a href="http://s3.amazonaws.com/s3wiki/wiki/StartPage">my S3AjaxWiki experiment</a>.  From my referrers, I caught a mention on <a href="http://weblog.burningbird.net/2006/04/23/we-interupt-your-regular-thinking/">Shelley Powers' Burningbird</a>, <a href="http://ajaxian.com/archives/s3-javascript-bindings">Ajaxian</a>, and <a href="http://tech.memeorandum.com/060424/p7#a060424p7">Memeorandum</a>.  I've since caught a few more pointers here and there.</p>

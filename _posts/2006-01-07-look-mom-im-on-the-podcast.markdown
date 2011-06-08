@@ -2,6 +2,17 @@
 wordpress_id: 816
 layout: post
 title: Look mom, I'm on the podcast!
+tags: 
+- asides
+- rss
+- writing
+- atom
+- podcasting
+- thebook
+- hackingrssandatom
+- radio
+wordpress_slug: look-mom-im-on-the-podcast
+wordpress_date: "2006-01-07T11:24:02-05:00"
 wordpress_url: http://decafbad.com/blog/?p=816
 ---
 I just caught a brief mention of [Hacking RSS and Atom][book] on [Show #45][s45] of the [Mike Tech Show][mts].

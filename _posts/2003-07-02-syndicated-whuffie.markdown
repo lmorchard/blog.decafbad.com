@@ -2,6 +2,8 @@
 wordpress_id: 435
 layout: post
 title: Syndicating Whuffie
+wordpress_slug: syndicated-whuffie
+wordpress_date: "2003-07-02T12:55:12-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=435
 ---
 <blockquote cite="http://www.teledyn.com/mt/archives/001055.html">

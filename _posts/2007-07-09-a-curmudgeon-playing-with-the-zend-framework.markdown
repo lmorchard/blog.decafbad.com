@@ -2,6 +2,17 @@
 wordpress_id: 1058
 layout: post
 title: A Curmudgeon Playing with the Zend Framework
+tags: 
+- webdev
+- php
+- zend
+- symfony
+- frameworks
+- django
+- python
+- curmudgeons
+wordpress_slug: a-curmudgeon-playing-with-the-zend-framework
+wordpress_date: "2007-07-09T16:21:41-04:00"
 wordpress_url: http://decafbad.com/blog/2007/07/09/a-curmudgeon-playing-with-the-zend-framework
 ---
 <p>Because it's been awhile since I last surveyed the landscape, I played around a bit with web frameworks this weekend.  Mainly, I tried getting something simple working with the <a href="http://framework.zend.com/">Zend Framework</a>.  After intermittent play and much studying of documentation between Saturday and Sunday, I got to "hello world."</p>

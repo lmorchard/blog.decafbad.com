@@ -2,6 +2,10 @@
 wordpress_id: 891
 layout: post
 title: Bookmarking-styles of the rich and famous
+tags: 
+- asides
+wordpress_slug: bookmarking-styles-of-the-rich-and-famous
+wordpress_date: "2006-02-20T13:58:39-05:00"
 wordpress_url: http://decafbad.com/blog/2006/02/20/bookmarking-styles-of-the-rich-and-famous
 ---
  <p>Scoping out <a href="http://ma.gnolia.com">Ma.gnolia</a> a bit today, and I've noticed a few <a href="http://ma.gnolia.com/people/IraGlass">rather</a> <a href="http://ma.gnolia.com/people/AltonBrown">famous</a> - and decidedly <a href="http://ma.gnolia.com/people/TedAllen">non-tech geek</a> - people have accounts there.  This has me scratching my head a bit:  Are these people friends of the site owners?  Spontaneous fans of this site's brand of social bookmarking?  Paid shills playing the tables?  Seeing these sorts of faces showing up at an up-till-now all-alpha-geek party seems a bit suspect to me.  It also seems rather non-<a href="http://decafbad.com/blog/2006/02/09/a-long-tailed-creative-yawp">long-tailed</a> and celeb-attached to me.  But then, I'm weird and it could be all on the up and up.  The site does look like a brave effort toward making this stuff intentionally more "humane".</p>

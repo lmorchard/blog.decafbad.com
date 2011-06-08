@@ -2,6 +2,16 @@
 wordpress_id: 991
 layout: post
 title: dialup ghost towns and amazon ec2
+tags: 
+- asides
+- amazon
+- ec2
+- bbs
+- retro
+- oldschool
+- dialup
+wordpress_slug: dialup-ghost-towns-and-amazon-ec2
+wordpress_date: "2006-08-31T23:37:54-04:00"
 wordpress_url: http://decafbad.com/blog/2006/08/31/dialup-ghost-towns-and-amazon-ec2
 ---
 <blockquote cite="http://www.vintagecomputing.com/index.php/archives/161">Most BBS enthusiasts know that the last outpost for BBSes has been, for some time now, through telnet on the Internet. There was a time, however, when when dial-up BBSes over analog phone lines were the rule, not the exception.</blockquote><div class="quotesource">Source: <a href="http://www.vintagecomputing.com/index.php/archives/161">VintageComputing.com | Vintage Computing and Gaming » Blog Archive » The Dial-Up BBS Revisited</a></div>

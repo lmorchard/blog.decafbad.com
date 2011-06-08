@@ -2,6 +2,10 @@
 wordpress_id: 879
 layout: post
 title: Got myself a new cellphone
+tags: 
+- asides
+wordpress_slug: got-myself-a-new-cellphone-2
+wordpress_date: "2006-02-14T13:34:15-05:00"
 wordpress_url: http://decafbad.com/blog/2006/02/14/got-myself-a-new-cellphone-2
 ---
  <p>Whenever I get a new gadget, no matter how low-powered, I try to <a href="http://decafbad.com/blog/2005/08/09/homebrew-productivity-via-rube-goldberg">wrap my brain around it</a> in a very real sense.  I try to explore the features and see how useful they can be as things I habitually reach for in the course of thought.  </p>

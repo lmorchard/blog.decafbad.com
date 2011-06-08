@@ -2,6 +2,13 @@
 wordpress_id: 1822
 layout: post
 title: Pondering the cobwebs
+tags: 
+- metablogging
+- writing
+- entries
+- motivation
+wordpress_slug: pondering-the-cobwebs
+wordpress_date: "2010-03-10T12:55:13-05:00"
 wordpress_url: http://decafbad.com/blog/?p=1822
 ---
 It's plain to see that I've not been a blogger for a long time.

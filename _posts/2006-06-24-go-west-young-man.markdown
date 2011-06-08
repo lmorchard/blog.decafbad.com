@@ -2,6 +2,8 @@
 wordpress_id: 957
 layout: post
 title: Go West, Young Man!
+wordpress_slug: go-west-young-man
+wordpress_date: "2006-06-24T12:00:03-04:00"
 wordpress_url: http://decafbad.com/blog/2006/06/24/go-west-young-man-2
 ---
  <p>In the first half of this year, I've been really busy.  My fits of posts and stretches of silence around here can attest to that.  In fact, I've been so busy that I managed to finish a book, get married, and go on a honeymoon - all whilst being fully engaged in a dayjob.</p>

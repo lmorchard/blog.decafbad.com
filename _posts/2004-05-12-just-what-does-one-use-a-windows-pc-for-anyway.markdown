@@ -3,6 +3,8 @@ wordpress_id: 522
 layout: post
 title: Just what does one use a Windows PC for anyway?
 excerpt: Wherein I try making a Windows box do things it's probably not supposed to do, and am frustrated when it doesn't quite do what I want it to do.
+wordpress_slug: just-what-does-one-use-a-windows-pc-for-anyway
+wordpress_date: "2004-05-12T07:52:02-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=522
 ---
 Huh.  Having just read [Jeremy Zawodny's account][account] of how easy it was for him to move everything over from one PowerBook to another, and wondering if Windows would ever offer that ease, has me wondering why I bothered to re-install WinXP on my aging desktop PC.  Not quite the same thing, but it's making me appreciate the Windows-free life we've been living at home here.

@@ -2,6 +2,11 @@
 wordpress_id: 1063
 layout: post
 title: Invites to the delicious preview
+tags: 
+- delicious
+- web20
+wordpress_slug: invites-to-the-delicious-preview
+wordpress_date: "2007-09-28T14:12:05-04:00"
 wordpress_url: http://decafbad.com/blog/2007/09/28/invites-to-the-delicious-preview
 ---
 <b>Update:</b> <i>Oh!  And since even I missed this link in the original blog post, you can <a href="http://del.icio.us/help/preview">request to be invited</a>.  Not sure if that results in an email, either, though.</i>

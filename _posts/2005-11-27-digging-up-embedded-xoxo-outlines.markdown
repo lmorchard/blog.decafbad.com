@@ -2,6 +2,10 @@
 wordpress_id: 783
 layout: post
 title: Digging up embedded XOXO outlines
+tags: 
+- asides
+wordpress_slug: digging-up-embedded-xoxo-outlines
+wordpress_date: "2005-11-27T21:19:13-05:00"
 wordpress_url: http://decafbad.com/blog/?p=783
 ---
 I've got one last XOXO post in me, and then I'll probably be done jabbering about this for awhile.  Did you know that just about all of my blog posts have several outlines embedded?  It's true.  

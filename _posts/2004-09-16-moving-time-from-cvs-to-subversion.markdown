@@ -3,6 +3,11 @@ wordpress_id: 548
 layout: post
 title: "Moving time: From CVS to Subversion"
 excerpt: So, I'm waiting for the other shoe to drop.  After making sure things seemed reasonably stable post-server-move, I migrated my CVS repository here to Subversion.
+tags: 
+- syndication
+- xml
+wordpress_slug: moving-time-from-cvs-to-subversion
+wordpress_date: "2004-09-16T11:29:04-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=548
 ---
 So, I'm waiting for the other shoe to drop.  After making sure things seemed reasonably stable post-server-move, I migrated my CVS repository here to [Subversion][subversion].  There were one or two tiny bumps in the road-- such as a default setting in Apache to deny access to anything starting with .ht (ie. .htaccess)-- but so far, so good.  [ViewCVS][viewcvs] appears to support Subversion, and I've also discovered an alternate frontend called [WebSVN][websvn].  I like ViewCVS better, but WebSVN offers RSS feeds on commits.

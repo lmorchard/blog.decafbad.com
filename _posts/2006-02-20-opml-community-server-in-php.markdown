@@ -2,6 +2,10 @@
 wordpress_id: 889
 layout: post
 title: OPML Community Server in PHP
+tags: 
+- asides
+wordpress_slug: opml-community-server-in-php
+wordpress_date: "2006-02-20T13:58:15-05:00"
 wordpress_url: http://decafbad.com/blog/2006/02/20/opml-community-server-in-php
 ---
  <p>More writing today, interspersed with bits of procrastination.  I started roughing out <a href="http://decafbad.com/trac/wiki/OpmlServer">a standalone OPML Community Server in PHP</a> this afternoon.  Who knows how far I'll get, but it has initial bare-bones support for registration, login, and upstreaming.  And when I say "support", I don't mean anything grandiose - it's really just a bunch of XML-RPC methods at this point, but it could turn into something interesting.</p>

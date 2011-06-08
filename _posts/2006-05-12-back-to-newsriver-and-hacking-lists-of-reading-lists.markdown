@@ -2,6 +2,8 @@
 wordpress_id: 949
 layout: post
 title: Back to NewsRiver, and hacking lists of Reading Lists
+wordpress_slug: back-to-newsriver-and-hacking-lists-of-reading-lists
+wordpress_date: "2006-05-12T13:15:55-04:00"
 wordpress_url: http://decafbad.com/blog/2006/05/12/back-to-newsriver-and-hacking-lists-of-reading-lists
 ---
  <p>After a bit of a hiatus from it, I'm again back to using <a href="http://www.newsriver.org">NewsRiver</a> (with <a href="http://decafbad.com/trac/wiki/DecafbadNewsRiver">my own modifications</a>) as my primary feed reader.  NetNewsWire was starting to feel stagnant to me again, and my only real gripe with NewsRiver was that it seemed to be choking on an unknown few of my feeds.</p>

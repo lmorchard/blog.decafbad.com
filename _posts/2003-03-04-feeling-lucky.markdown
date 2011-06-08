@@ -2,6 +2,8 @@
 wordpress_id: 387
 layout: post
 title: Oh, I'm feeling lucky.
+wordpress_slug: feeling-lucky
+wordpress_date: "2003-03-04T10:18:00-05:00"
 wordpress_url: http://www.decafbad.com/blog/?p=387
 ---
 <a href="/blog-images/lucky.jpg" target="_new"><img src="/blog-images/lucky-sm.jpg" align="right" border="0" /></a>

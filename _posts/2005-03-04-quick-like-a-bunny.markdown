@@ -2,6 +2,8 @@
 wordpress_id: 603
 layout: post
 title: Quick, like a bunny
+wordpress_slug: quick-like-a-bunny
+wordpress_date: "2005-03-04T14:56:44-05:00"
 wordpress_url: http://www.decafbad.com/blog/?p=603
 ---
 * I'm not supposed to [link to this column by Bill O'Reilly][bor]--[here's why.][borwhy]

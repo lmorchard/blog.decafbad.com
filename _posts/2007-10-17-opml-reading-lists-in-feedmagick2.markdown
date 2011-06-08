@@ -2,6 +2,18 @@
 wordpress_id: 1066
 layout: post
 title: OPML reading lists in FeedMagick2
+tags: 
+- webdev
+- rss
+- php
+- atom
+- xml
+- opml
+- feedmagick
+- feedmagick2
+- feeds
+wordpress_slug: opml-reading-lists-in-feedmagick2
+wordpress_date: "2007-10-17T03:22:47-04:00"
 wordpress_url: http://decafbad.com/blog/2007/10/17/opml-reading-lists-in-feedmagick2
 ---
 For anyone who's interested:  I've been hacking a little bit on [FeedMagick2](http://decafbad.com/trac/wiki/FeedMagick) again, with the latest addition being an OPML reading list feed blender.  

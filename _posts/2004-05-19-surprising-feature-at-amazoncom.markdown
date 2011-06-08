@@ -3,6 +3,8 @@ wordpress_id: 525
 layout: post
 title: Surprising "feature" at Amazon.com
 excerpt: "Here's a mini rant about Amazon.com:  Apparently, user accounts there are identified by some combination of email address and password.  That is, you can login with the same email address, give three different passwords, and get three different sets of user data.  Different wishlists, different shopping carts, the works."
+wordpress_slug: surprising-feature-at-amazoncom
+wordpress_date: "2004-05-19T18:12:51-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=525
 ---
 Here's a mini rant about Amazon.com:  Apparently, user accounts there are identified by some combination of email address and password.  That is, you can login with the same email address, give three different passwords, and get three different sets of user data.  Different wishlists, different shopping carts, the works.

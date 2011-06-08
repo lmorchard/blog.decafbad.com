@@ -2,6 +2,10 @@
 wordpress_id: 877
 layout: post
 title: Evening Whiskey Notes
+tags: 
+- asides
+wordpress_slug: evening-whiskey-notes
+wordpress_date: "2006-02-14T00:49:39-05:00"
 wordpress_url: http://decafbad.com/blog/2006/02/14/evening-whiskey-notes
 ---
  <p>One more shot with my hacked up WordPress tool, now with lists:</p>

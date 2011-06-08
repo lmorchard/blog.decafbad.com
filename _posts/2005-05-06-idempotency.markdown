@@ -2,6 +2,8 @@
 wordpress_id: 642
 layout: post
 title: "Idempotency: It's not just for APIs (or, the web is an API)"
+wordpress_slug: idempotency
+wordpress_date: "2005-05-06T19:51:54-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=642
 ---
 <blockquote>Implementors should be aware that the software represents the user in  their interactions over the Internet, and should be careful to allow  the user to be aware of any actions they might take which may have an  unexpected significance to themselves or others.<br /><br />

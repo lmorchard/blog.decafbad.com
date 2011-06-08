@@ -2,6 +2,14 @@
 wordpress_id: 1177
 layout: post
 title: Why I'm playing with Laconica
+tags: 
+- asides
+- twitter
+- laconica
+- openmicroblogging
+- microblogging
+wordpress_slug: why-im-playing-with-laconica
+wordpress_date: "2008-07-03T16:32:40-04:00"
 wordpress_url: http://decafbad.com/blog/?p=1177
 ---
 I just posted [a quick writeup][howto] on Laconica installation.  But, beyond the how, there's the why.  

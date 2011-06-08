@@ -2,6 +2,8 @@
 wordpress_id: 438
 layout: post
 title: Is the magic in RSS, or in Syndication?
+wordpress_slug: syndications-formats
+wordpress_date: "2003-07-07T12:40:13-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=438
 ---
 <blockquote cite="http://www.dynamicobjects.com/d2r/archives/002156.html">

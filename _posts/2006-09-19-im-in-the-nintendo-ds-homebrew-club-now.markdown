@@ -2,6 +2,16 @@
 wordpress_id: 996
 layout: post
 title: i'm in the nintendo ds homebrew club now
+tags: 
+- asides
+- hacks
+- gaming
+- nintendo
+- ds
+- homebrew
+- software
+wordpress_slug: im-in-the-nintendo-ds-homebrew-club-now
+wordpress_date: "2006-09-19T12:16:12-04:00"
 wordpress_url: http://decafbad.com/blog/2006/09/19/im-in-the-nintendo-ds-homebrew-club-now
 ---
 <blockquote cite="http://www.divineo.com/cgi-bin/div-us/dd-ds-pssc">Passscard is the perfect flash card boot-up solution for DS LITE & NDS .

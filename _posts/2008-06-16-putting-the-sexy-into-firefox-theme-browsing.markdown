@@ -2,6 +2,14 @@
 wordpress_id: 1159
 layout: post
 title: Putting the Sexy into Firefox Theme Browsing
+tags: 
+- asides
+- firefox
+- themes
+- mozilla
+- amo
+wordpress_slug: putting-the-sexy-into-firefox-theme-browsing
+wordpress_date: "2008-06-16T12:07:46-04:00"
 wordpress_url: http://decafbad.com/blog/?p=1159
 ---
 As mentioned back in [week 3][week3], I'd started work on [bug 419647][bug] to "add a sexy theme browser" to [addons.mozilla.org][amo].  

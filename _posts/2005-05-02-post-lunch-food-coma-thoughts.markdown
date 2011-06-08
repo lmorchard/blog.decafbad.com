@@ -2,6 +2,8 @@
 wordpress_id: 637
 layout: post
 title: Post-lunch Food Coma Thoughts
+wordpress_slug: post-lunch-food-coma-thoughts
+wordpress_date: "2005-05-02T14:55:42-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=637
 ---
 * Just finally caught an episode of [Robot Chicken][rc].  It's kinda like videos we tried making in high school, only with a budget.  I can't breathe, and coffee keeps shooting out my nose.  I can only hope that this condition isn't permanent.

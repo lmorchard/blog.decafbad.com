@@ -2,6 +2,14 @@
 wordpress_id: 984
 layout: post
 title: Amazon EC2 emerges
+tags: 
+- webdev
+- amazon
+- s3
+- ec2
+- webservices
+wordpress_slug: amazon-ec2-emerges
+wordpress_date: "2006-08-24T08:58:04-04:00"
 wordpress_url: http://decafbad.com/blog/2006/08/24/amazon-ec2-emerges
 ---
 <blockquote cite="http://www.amazon.com/b/ref=sc_fe_c_1_3435361_1/002-3833110-2752034?ie=UTF8&node=201590011&no=3435361&me=A36L942TSJ2AJA"><p>Amazon Elastic Compute Cloud (Amazon EC2) is a web service that provides resizable compute capacity in the cloud. It is designed to make web-scale computing easier for developers.

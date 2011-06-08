@@ -2,6 +2,16 @@
 wordpress_id: 1407
 layout: post
 title: Upgrades versus Antiques
+tags: 
+- apple
+- hardware
+- entries
+- laptops
+- personalcomputers
+- pcs
+- sustainability
+wordpress_slug: upgrades-versus-antiques
+wordpress_date: "2008-10-19T12:07:19-04:00"
 wordpress_url: http://decafbad.com/blog/?p=1407
 ---
 From [Greenmonk: The Blog - Cherish The AIR? Just because you can doesn’t mean you should](http://greenmonk.net/?p=111):

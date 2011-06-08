@@ -2,6 +2,8 @@
 wordpress_id: 481
 layout: post
 title: Feedback loops and syndication
+wordpress_slug: rss-feedback
+wordpress_date: "2003-09-21T15:54:42-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=481
 ---
 <blockquote cite="http://www.crn.com/weblogs/stevegillmor/2003/09/20/20.asp"><i>Enter attention.xml. Of course it monitors my attention list, noting what feeds are in what order. Then it pays attention to what items I read, in what order, or if not, then what feeds I scan, and for how long. The results are packaged up in an attention.xml file and shipped via some transport (RSS, FTP, whatever) to Technorati. Dave has some ideas about what he will provide in return: "If you liked these feeds and items, then here are some ones you don't know about that you may want to add to your list."

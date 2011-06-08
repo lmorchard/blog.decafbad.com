@@ -2,6 +2,8 @@
 wordpress_id: 94
 layout: post
 title: You are a beautiful and unique snowflake, to me anyway.
+wordpress_slug: oooaad
+wordpress_date: "2002-04-23T20:14:19-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=94
 ---
 <p>Prof Avery <a href="http://kavery.ecs.fullerton.edu/index.cgi/2002/Apr/23#1019549720">writes</a>:<blockquote><i>Bad enough that the IM blog idea isn't new, the 0xDECAFBAD guy beat me to <a href="http://www.decafbad.com/news_archives/000087.shtml#000087">"404 Correction" in a Personal HTTP Proxy via Google's Cache</a>.</p>

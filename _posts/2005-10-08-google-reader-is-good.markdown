@@ -2,6 +2,16 @@
 wordpress_id: 727
 layout: post
 title: Google Reader is good
+tags: 
+- asides
+- ajax
+- aggregators
+- rss
+- syndication
+- atom
+- google
+wordpress_slug: google-reader-is-good
+wordpress_date: "2005-10-08T13:47:15-04:00"
 wordpress_url: http://decafbad.com/blog/?p=727
 ---
 For what it's worth, I still feel like I've been unfair to the guys at Google over Reader.  

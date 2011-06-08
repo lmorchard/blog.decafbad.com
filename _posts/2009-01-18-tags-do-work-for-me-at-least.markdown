@@ -2,6 +2,15 @@
 wordpress_id: 1612
 layout: post
 title: Tags do work (for me, at least)
+tags: 
+- delicious
+- flickr
+- tags
+- tagging
+- entries
+- folksonomy
+wordpress_slug: tags-do-work-for-me-at-least
+wordpress_date: "2009-01-18T01:29:34-05:00"
 wordpress_url: http://decafbad.com/blog/?p=1612
 ---
 For the "<a href="delicious.com/tag/tl;dr">too long</a>; <a href="http://delicious.com/tag/tldr">didn't read</a>" crowd:

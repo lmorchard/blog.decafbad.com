@@ -2,6 +2,8 @@
 wordpress_id: 306
 layout: post
 title: RSS vs XHTML - FIGHT!
+wordpress_slug: ooocca
+wordpress_date: "2002-11-26T13:04:31-05:00"
 wordpress_url: http://www.decafbad.com/blog/?p=306
 ---
 In <a href="http://backend.userland.com/formatsForBlogBrowsers">Formats for Blog Browsers</a>, Dave writes:<blockquote><i>I wanted to add a facility that would automatically back up all your weblog posts... "I bet <a href="http://www.decafbad.com/twiki/bin/view/Main/RSS">RSS</a> 2.0 could do this," I said out loud. And now that the code works, the answer is clear. It can. ...  Then another lightning bolt hit me. ... What if someone made a browser that worked with this format?  Let's call them Blog Browsers, apps specially designed for reading weblogs.</i></blockquote>About syndication formats, <a href="http://www.dashes.com/anil/index.php?archives/004158.php">Anil Dash writes</a>:<blockquote><i>I have a radical proposal for a ubiqitous content syndication format, applicable for almost any purpose, but extremely well suited for weblogs. ... My new syndication format is called XHTML.</i></blockquote>In one corner, we have the syndication format taking over the document format.  In the other corner, we have the document format taking over the syndication format!  <strong>FIGHT!</strong>

@@ -2,6 +2,8 @@
 wordpress_id: 644
 layout: post
 title: Magic Microformat Forms
+wordpress_slug: magic-microformat-forms
+wordpress_date: "2005-05-17T12:38:18-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=644
 ---
 <blockquote>What I haven't seen is much discussion about a standard way to encode, upload, or manage microformats, except for Structured Blogging which defines a way to structure blog entries and has a plugin for one blogging application, WordPress. Somehow, I don't think having a plugin for each blogging application that has to implement an editor for each microformat is gonna scale well.</blockquote>

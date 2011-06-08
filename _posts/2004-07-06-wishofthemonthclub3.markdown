@@ -3,6 +3,11 @@ wordpress_id: 532
 layout: post
 title: Wish-of-the-Month Club, Part 3 of 3
 excerpt: This is the exciting conclusion of the Wish-of-the-Month Club.  Before continuing on, you may want to catch up with parts one and two.
+tags: 
+- hacks
+- xml
+wordpress_slug: wishofthemonthclub3
+wordpress_date: "2004-07-06T17:05:45-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=532
 ---
 <i>This is the exciting conclusion of the Wish-of-the-Month Club.  Before continuing on, you may want to catch up with parts [one][part1] and [two][part2].</i>

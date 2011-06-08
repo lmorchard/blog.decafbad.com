@@ -2,6 +2,8 @@
 wordpress_id: 665
 layout: post
 title: Treemaps from unordered lists and CSS
+wordpress_slug: css-treemaps
+wordpress_date: "2005-07-02T14:40:07-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=665
 ---
 Another little test, this time trying to build something like a [Treemap][treemap], using CSS and semantic HTML.

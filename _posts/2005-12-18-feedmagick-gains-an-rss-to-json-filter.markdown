@@ -2,6 +2,18 @@
 wordpress_id: 801
 layout: post
 title: FeedMagick gains an RSS-to-JSON filter
+tags: 
+- asides
+- ajax
+- json
+- webdev
+- web20
+- rss
+- syndication
+- atom
+- javascript
+wordpress_slug: feedmagick-gains-an-rss-to-json-filter
+wordpress_date: "2005-12-18T22:01:51-05:00"
 wordpress_url: http://decafbad.com/blog/?p=801
 ---
 So, I put [some more infrastructure][in] behind [FeedMagick][fm] and lifted [a RSS-to-JSON idea from John Resig][jr] to transform from [MagpieRSS][mr] parsing to JSON output.  

@@ -2,6 +2,8 @@
 wordpress_id: 261
 layout: post
 title: The line between man and machine
+wordpress_slug: ooobhf
+wordpress_date: "2002-09-20T19:04:15-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=261
 ---
 Saw this on <a href="http://weblog.infoworld.com/udell/2002/09/19.html#a415">Jon Udell's blog</a> via the <a href="http://rdfig.xmlhack.com/2002/09/20/2002-09-20.html#1032491227.386827">#RDFIG chump feed</a>, <a href="http://weblog.infoworld.com/udell/2002/09/19.html#a415">from Sergey Brin</a>: "I'd rather make progress by having computers understand what humans write, than by forcing humans to write in ways computers can understand."

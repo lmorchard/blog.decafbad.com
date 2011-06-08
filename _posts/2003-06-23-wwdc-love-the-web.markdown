@@ -2,6 +2,8 @@
 wordpress_id: 428
 layout: post
 title: WWDC (or, I love the net)
+wordpress_slug: wwdc-love-the-web
+wordpress_date: "2003-06-23T14:56:53-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=428
 ---
 At the moment, I'm working on a bit of HTML and form processing, but

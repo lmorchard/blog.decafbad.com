@@ -3,6 +3,11 @@ wordpress_id: 538
 layout: post
 title: mysql and XML output
 excerpt: So...  How many of you have ever used mysql -X?
+tags: 
+- hacks
+- xml
+wordpress_slug: mysql-and-xml-output
+wordpress_date: "2004-08-23T01:09:51-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=538
 ---
 So...  How many of you have ever used `mysql -X`?

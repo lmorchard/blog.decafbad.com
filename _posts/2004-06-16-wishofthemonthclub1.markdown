@@ -3,6 +3,11 @@ wordpress_id: 529
 layout: post
 title: Wish-of-the-Month Club, Part 1 of 3
 excerpt: For some time now, my girlfriend and I have been accumulating things we want in wishlists on Amazon.com.  Though they have come in handy with relatives at Christmas and on birthdays, neither of us really expects to see a regular flow of gifts from them.  For the most part, they've just become holding tanks for things we intend to buy for each other or ourselves.  On one particular visit, though, the notion of a Wish-of-the-Month club popped into my head.
+tags: 
+- hacks
+- xml
+wordpress_slug: wishofthemonthclub1
+wordpress_date: "2004-06-16T07:42:48-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=529
 ---
 <i>Remember that [I wrote a little while ago][lasttime] about wanting to publish some articles here that I'd want to read?  Well, I've been hard at work since then to turn out the first set and I think I've finally got something for you.  I [mentioned][lasttime2] earlier this week that I was taking this seriously, so I hope it shows.  So, with many thanks to [my girlfriend's][missadroit] kind editorial help, and with some measure of anxiety, here goes...</i>

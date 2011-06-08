@@ -2,6 +2,8 @@
 wordpress_id: 375
 layout: post
 title: Unplugging to find a clock again?
+wordpress_slug: ooodof
+wordpress_date: "2003-02-03T03:39:04-05:00"
 wordpress_url: http://www.decafbad.com/blog/?p=375
 ---
 <p><a href="http://diveintomark.org/archives/2003/01/31/unplugged.html" target="_top">Mark Pilgrim is going to unplug for awhile.</a></p>

@@ -2,6 +2,10 @@
 wordpress_id: 811
 layout: post
 title: Chatbots + RSS = Hot?
+tags: 
+- asides
+wordpress_slug: chatbots-rss-hot
+wordpress_date: "2005-12-31T15:19:18-05:00"
 wordpress_url: http://decafbad.com/blog/?p=811
 ---
 <blockquote cite="http://battellemedia.com/archives/002176.php">And the beauty is that a couple of code jockeys like Phil Torrone and his partner Sergio Zlobin can make it happen in a few days, using platforms (IM) and data structures (RSS) that already exist.</blockquote>

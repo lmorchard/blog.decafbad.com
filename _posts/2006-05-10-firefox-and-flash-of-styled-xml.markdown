@@ -2,6 +2,10 @@
 wordpress_id: 948
 layout: post
 title: Firefox and flash of styled XML
+tags: 
+- asides
+wordpress_slug: firefox-and-flash-of-styled-xml
+wordpress_date: "2006-05-10T15:23:31-04:00"
 wordpress_url: http://decafbad.com/blog/2006/05/10/firefox-and-flash-of-styled-xml
 ---
  <p>Here's another random call for support from my blog-friends out there:</p>

@@ -2,6 +2,13 @@
 wordpress_id: 1699
 layout: post
 title: 7 facts about me
+tags: 
+- entries
+- mozilla
+- 7things
+- memes
+wordpress_slug: 7-facts-about-me
+wordpress_date: "2009-01-23T11:59:54-05:00"
 wordpress_url: http://decafbad.com/blog/?p=1699
 ---
 So, it finally happened—[I've been tagged by Stephen Donner][stephend].  I've not been one to follow memes in this blog, but this one's been going around the [Mozillasphere][] for awhile now and has been kind of interesting.  I'm half-tempted to bookmark and tag all the entries I've caught so far.  Anyway, the rules:

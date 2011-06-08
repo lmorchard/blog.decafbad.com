@@ -2,6 +2,8 @@
 wordpress_id: 404
 layout: post
 title: OPML vs OML - Fork but don't fight!
+wordpress_slug: opml-vs-oml
+wordpress_date: "2003-04-16T16:40:41-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=404
 ---
 In my intermittent online presence, I've been happily watching <a href="http://www.scripting.com" target="_top">Dave Winer</a>'s

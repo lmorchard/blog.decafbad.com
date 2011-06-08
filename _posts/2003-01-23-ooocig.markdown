@@ -2,6 +2,8 @@
 wordpress_id: 366
 layout: post
 title: AppleScript and application services in the closet
+wordpress_slug: ooocig
+wordpress_date: "2003-01-23T22:40:23-05:00"
 wordpress_url: http://www.decafbad.com/blog/?p=366
 ---
 <blockquote cite="http://www.macosxhints.com/article.php?story=20030121064254140">Apple's Script Editor 2.0 for OS 10.2.3 has support for Application Services . Basically, you can hilight some valid <a href="http://www.decafbad.com/twiki/bin/view/Main/AppleScript">AppleScript</a> text in any supporting application (like Safari, for instance) and 

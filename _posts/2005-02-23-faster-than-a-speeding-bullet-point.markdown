@@ -2,6 +2,8 @@
 wordpress_id: 592
 layout: post
 title: Faster than a speeding bullet point
+wordpress_slug: faster-than-a-speeding-bullet-point
+wordpress_date: "2005-02-23T06:45:41-05:00"
 wordpress_url: http://www.decafbad.com/blog/?p=592
 ---
 * Morning is not my friend--and I have struggled with this for so long that I have become all but convinced that I'm part of an evolutionary branch of humanity who stayed up late and kept the fire going while the day shift slept.  Sometimes I think I should try making a career out of doing long-distance freelance work for another time zone whose morning starts several hours later than my own.

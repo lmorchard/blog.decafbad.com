@@ -2,6 +2,8 @@
 wordpress_id: 631
 layout: post
 title: Beer, passing time, one more chapter down
+wordpress_slug: beer-passing-time-one-more-chapter-down
+wordpress_date: "2005-04-28T22:34:24-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=631
 ---
 * [Bell's Expedition Stout][bes] is growing on me tonight.  I didn't like it much at first, but it's growing on me.

@@ -2,6 +2,8 @@
 wordpress_id: 429
 layout: post
 title: Sync My Bookmarks No Longer!
+wordpress_slug: sync-not-my-bookmarks
+wordpress_date: "2003-06-25T17:27:44-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=429
 ---
 So, I downloaded Safari 1.0 yesterday and was very pleased to notice

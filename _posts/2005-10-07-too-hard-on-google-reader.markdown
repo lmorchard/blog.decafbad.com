@@ -2,6 +2,15 @@
 wordpress_id: 725
 layout: post
 title: Too hard on Google Reader?
+tags: 
+- asides
+- rss
+- syndication
+- google
+- googlemaps
+- rants
+wordpress_slug: too-hard-on-google-reader
+wordpress_date: "2005-10-07T23:36:12-04:00"
 wordpress_url: http://decafbad.com/blog/?p=725
 ---
 You know after I posted that [semi-rant on Google Reader][gr], it occurred to me that I was maybe being a bit too hard on it.  I mean, obviously, there's evidence of hard work put into this thing.  And although I haven't bothered to view source yet, I imagine there's some cool AJAX-style magic going on under there.  And, for some (most?) users, this way of viewing feeds is nice and pleasant to use.

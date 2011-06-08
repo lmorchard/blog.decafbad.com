@@ -2,6 +2,14 @@
 wordpress_id: 1000
 layout: post
 title: firefox 2.0 ftw
+tags: 
+- asides
+- firefox
+- software
+- browsers
+- ftw
+wordpress_slug: firefox-20-ftw
+wordpress_date: "2006-10-08T17:26:04-04:00"
 wordpress_url: http://decafbad.com/blog/2006/10/08/firefox-20-ftw
 ---
 Just installed [Firefox 2.0 RC 2][ff] this week, and I've got to say that it's pretty keen.  Doesn't seem like a revolution in browsers or anything, other than what it already was.  But, everything seems tighter, quicker, slicker, and more like a polished product.  My CPU usage is flatter than ever before, and it actually looks like I've got some free memory left over after running it for a few days.  And this is speaking as an infovore who regularly has a dozen or so tabs open, with a turnover of at least a hundred a day.  All the extensions I really care about still work, a few have been forced to work using [Nightly Tester Tools][ntt].  And, one that stopped working (SessionSaver) has now been rolled into the browser itself.  Swank all around.

@@ -2,6 +2,8 @@
 wordpress_id: 345
 layout: post
 title: Stumbling through compiling Standalone ZODB for Mac OS X
+wordpress_slug: ooocgb
+wordpress_date: "2003-01-02T01:30:54-05:00"
 wordpress_url: http://www.decafbad.com/blog/?p=345
 ---
 Just in case this wasn't common knowledge, it seems there's a bit of a boo-boo in Jaguar's installation of Python that sticks it head up when one tries to compile extentions (like, oh say, the <a href="http://www.zope.org/Products/StandaloneZODB" target="_top">Standalone ZODB</a>).

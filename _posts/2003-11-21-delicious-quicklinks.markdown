@@ -2,6 +2,8 @@
 wordpress_id: 509
 layout: post
 title: Publishing Quick Links in blosxom with del.icio.us via xmlstarlet
+wordpress_slug: delicious-quicklinks
+wordpress_date: "2003-11-21T09:47:10-05:00"
 wordpress_url: http://www.decafbad.com/blog/?p=509
 ---
 <p>

@@ -2,6 +2,15 @@
 wordpress_id: 737
 layout: post
 title: Once More with Cease and Desist Letters
+tags: 
+- asides
+- whedon
+- culture
+- copyfight
+- television
+- buffy
+wordpress_slug: once-more-with-cease-and-desists
+wordpress_date: "2005-10-20T11:52:32-04:00"
 wordpress_url: http://decafbad.com/blog/?p=737
 ---
 <blockquote cite="http://www.boingboing.net/2005/10/20/fox_shuts_down_buffy.html">Fox has shut down a plan to perform a fan version of the Buffy musical episode, Once More with Feeling, even though creator Joss Whedon has asked them not to.</blockquote>

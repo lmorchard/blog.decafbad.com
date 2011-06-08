@@ -2,6 +2,8 @@
 wordpress_id: 109
 layout: post
 title: RDF, whitelist spam filtering, and personal metadata
+wordpress_slug: oooabi
+wordpress_date: "2002-04-29T18:11:09-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=109
 ---
 <p>Okay, I'm done thinking and writing about <a href="http://www.decafbad.com/twiki/bin/view/Main/REST">REST</a> for the time being.  I think I understand it, but it doesn't seem to light any fires for me yet.  I'll just stuff it away into my utility belt and keep it in mind in case the need for a <a href="http://www.decafbad.com/twiki/bin/view/Main/REST">REST</a>-headed screwdriver comes up, or until I discover that my RPC usage causes cancer.</p>

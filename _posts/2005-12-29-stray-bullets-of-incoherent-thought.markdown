@@ -2,6 +2,10 @@
 wordpress_id: 809
 layout: post
 title: Stray bullets of incoherent thought
+tags: 
+- asides
+wordpress_slug: stray-bullets-of-incoherent-thought
+wordpress_date: "2005-12-29T14:35:36-05:00"
 wordpress_url: http://decafbad.com/blog/?p=809
 ---
 No time for much in the way of coherent thought expressed, but here are a few stray bullets:

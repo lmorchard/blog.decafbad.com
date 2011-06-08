@@ -2,6 +2,8 @@
 wordpress_id: 504
 layout: post
 title: The Whuffie Web II
+wordpress_slug: The-Whuffie-Web-II
+wordpress_date: "2003-11-12T13:35:46-05:00"
 wordpress_url: http://www.decafbad.com/blog/?p=504
 ---
 <blockquote cite="http://www.intertwingly.net/blog/1645.html"><i>What I believe we are seeing is domain experts seeking each other out.  Crossing organizational and philosophical boundaries.</i></blockquote>

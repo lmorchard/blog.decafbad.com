@@ -2,6 +2,8 @@
 wordpress_id: 149
 layout: post
 title: RSS autodiscovery via the HTML LINK element
+wordpress_slug: oooago
+wordpress_date: "2002-05-31T05:23:51-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=149
 ---
 <p><a href="http://matt.griffith.com/weblog/2002/05/29.html#a57">Matt Griffith suggests</a> using an HTML link element as a way to provide robots and news aggregators with means to find a site's <a href="http://www.decafbad.com/twiki/bin/view/Main/RSS">RSS</a> feed.  <a href="http://diveintomark.org/archives/2002/05/30.html#rss_autodiscovery">Mark Pilgrim chimes in</a> with a few thoughts and an improvement.  And then, I see the buzz <a href="http://www.theshiftedlibrarian.com/2002/05/30.html#a2087">coming from Jenny Levine</a> too.</p>

@@ -2,6 +2,8 @@
 wordpress_id: 344
 layout: post
 title: MovableType gets first class treatment for text formatting
+wordpress_slug: ooocga
+wordpress_date: "2003-01-01T16:37:23-05:00"
 wordpress_url: http://www.decafbad.com/blog/?p=344
 ---
 Teasing everyone with a solution to something we <a href="http://www.decafbad.com/twiki/bin/view/Main/MovableType">MovableType</a> users been hacking around with for awhile, <cite>Ben Trott</cite> <a href="http://www.sixapart.com/log/2002/12/simple_and_powe.shtml" target="_top">writes:</a><blockquote><i>We envision Text Formatting options as complete, encapsulated formatters, handling both the formatting of structured text and any desired typographical details (smart quotes, etc), analogous to the way in which Textile handles quote education and its own miniature formatting language.

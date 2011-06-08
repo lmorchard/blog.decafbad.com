@@ -2,6 +2,10 @@
 wordpress_id: 823
 layout: post
 title: My del.icio.us links in a Bitty Browser
+tags: 
+- asides
+wordpress_slug: my-delicious-links-in-a-bitty-browser
+wordpress_date: "2006-01-17T22:49:18-05:00"
 wordpress_url: http://decafbad.com/blog/?p=823
 ---
 It's like Picture-in-Picture!  Trying out the Bitty Browser here:

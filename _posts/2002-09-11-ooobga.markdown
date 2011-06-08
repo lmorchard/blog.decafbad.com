@@ -2,6 +2,8 @@
 wordpress_id: 248
 layout: post
 title: From Amiga to Macintosh
+wordpress_slug: ooobga
+wordpress_date: "2002-09-11T02:27:18-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=248
 ---
 <p>About switching to Mac, <a href="http://torrez.org/archives/000313.php">Torrez says</a> (among other things):<blockquote><i>I haven't loved a brand in a while. The last computer brand I had the hots for was the Commodore Amiga, and that was over 12 years ago. It's nice...but weird.</i></blockquote>My thoughts exactly.  My first home computer was a Commodore 64 (if you're curious, you can see a <a href="http://www.decafbad.com/gallery/lil-kid-me/aao">picture of me</a> getting it for Christmas).  While I was learning to program on the Apple ][e and the Atari 800, my C=64 was home turf after school.  Man, I miss 6502 assembly and screwing with a kernal whose complexities I could mostly encompass in one brain.</p>

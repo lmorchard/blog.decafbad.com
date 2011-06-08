@@ -2,6 +2,18 @@
 wordpress_id: 1043
 layout: post
 title: Blog posting delegation and third-party auth
+tags: 
+- asides
+- metablogging
+- webdev
+- webservices
+- atom
+- xmlrpc
+- rest
+- http
+- auth
+wordpress_slug: blog-posting-delegation-and-third-party-auth
+wordpress_date: "2007-03-05T17:13:45-05:00"
 wordpress_url: http://decafbad.com/blog/2007/03/05/blog-posting-delegation-and-third-party-auth
 ---
 Here's something I've been meaning to post about, brought back to mind from [Kim Cameron's post on "Wrong-headed impersonation"][kc]:  

@@ -2,6 +2,8 @@
 wordpress_id: 98
 layout: post
 title: Yes, I actually do get out and have a life sometimes :)
+wordpress_slug: oooaah
+wordpress_date: "2002-04-24T18:01:24-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=98
 ---
 <p>Is it just me, or did my last entry make me sound like an obsessive, compulsive nerd?  :)  Funny, I don't think I am.  If I am, it's fun anyway.  And not all that expensive.  And I actually do get out and do things and have a bit of a social life.  Really, I do.  Sometimes.</p>

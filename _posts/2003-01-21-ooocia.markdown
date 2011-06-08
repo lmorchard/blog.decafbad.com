@@ -2,6 +2,8 @@
 wordpress_id: 360
 layout: post
 title: You had 1200 baud?  Sheer luxury!
+wordpress_slug: ooocia
+wordpress_date: "2003-01-21T11:13:46-05:00"
 wordpress_url: http://www.decafbad.com/blog/?p=360
 ---
 <blockquote cite="http://postneo.com/2003/01/20.html#a1810">I used an HP 1200bps external modem.  To connect to BBSes.  When I was in elementary school.  I remember tearing through the latest Focke's BBS list.  It was the definitive guide to DC-metro BBSes.  I'd print it out on my Okidata dot-matrix printer on fan-folded continuous feed paper with the holes on the sides.  Then I'd grab a pen or pencil, mark up some interesting BBSes, fire up Procomm and try to connect. </blockquote><div class="credit" align="right"><small>Source:<cite><a href="http://postneo.com/2003/01/20.html#a1810">postneo: 1200 bps </a></cite>.</small></div>

@@ -2,6 +2,14 @@
 wordpress_id: 746
 layout: post
 title: Yield to the Zen of Netflix
+tags: 
+- asides
+- zen
+- video
+- dvd
+- netflix
+wordpress_slug: yield-to-the-zen-of-netflix
+wordpress_date: "2005-10-25T10:47:19-04:00"
 wordpress_url: http://decafbad.com/blog/?p=746
 ---
 I've realized an irony with our Netflix usage:  When we get a DVD that we *really* want to see, it usually gets watched and sent back on the same day it arrives.  But, when we get a DVD that maybe only I want to see, or maybe neither of us ends up in a mood to see, we end up keeping it for a few days—sometimes for a whole week.  We've yet to "declare defeat" on many choices and just send them back unwatched.  

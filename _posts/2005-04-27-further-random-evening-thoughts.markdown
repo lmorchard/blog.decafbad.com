@@ -2,6 +2,8 @@
 wordpress_id: 630
 layout: post
 title: Further Random Evening Thoughts
+wordpress_slug: further-random-evening-thoughts
+wordpress_date: "2005-04-27T22:10:01-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=630
 ---
 * "*The Modern with the warrior, the mean with the stride, the Tom with the sawyer, And the mean, mean, mean, mean pride.*" 

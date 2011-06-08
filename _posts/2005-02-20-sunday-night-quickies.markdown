@@ -2,6 +2,8 @@
 wordpress_id: 590
 layout: post
 title: Sunday Night Quickies
+wordpress_slug: sunday-night-quickies
+wordpress_date: "2005-02-20T20:12:17-05:00"
 wordpress_url: http://www.decafbad.com/blog/?p=590
 ---
 I want a quickie posting theme like Strongbad's rap about [answerin' the emails][emails].

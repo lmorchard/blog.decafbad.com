@@ -2,6 +2,13 @@
 wordpress_id: 995
 layout: post
 title: Just call me "Crash"
+tags: 
+- injury
+- couchbound
+- achilles
+- ouch
+wordpress_slug: just-call-me-crash
+wordpress_date: "2006-09-18T16:23:03-04:00"
 wordpress_url: http://decafbad.com/blog/2006/09/18/just-call-me-crash
 ---
 So, in a few hours, it'll have been a week since I rendered myself couchbound for the foreseeable near future.  I hopped off a bus on the way home last Monday and through a bungled confluence of toes, curb, heel, and street, I managed to rupture my left Achilles tendon.  That's pretty much made my left leg useless, and I've been growing roots on the couch with occasional crutch-based expeditions to other rooms.

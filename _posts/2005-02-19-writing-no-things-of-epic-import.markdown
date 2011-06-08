@@ -3,6 +3,8 @@ wordpress_id: 588
 layout: post
 title: Writing No Things of Epic Import
 excerpt: Anyway, I'm still out here, still alive.  Just working my ass off and neglecting just about everything else in my life.  But, the smoke's starting to clear, so hopefully friends and family (and you, dear reader) will begin to hear more from me soon.
+wordpress_slug: writing-no-things-of-epic-import
+wordpress_date: "2005-02-19T22:18:29-05:00"
 wordpress_url: http://www.decafbad.com/blog/?p=588
 ---
 <blockquote>I keep seeing flashes of text, sentence-bursts that I have the impulse to blog and then, inevitably, evaporate in a "nah, too short." I have no doubt that in my case not just the tool (movabletype) but also my weblog's design have influenced me to go for longer, article-like posts rather than the shorter posts we see elsewhere.

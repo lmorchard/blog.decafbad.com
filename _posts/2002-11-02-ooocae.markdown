@@ -2,6 +2,8 @@
 wordpress_id: 290
 layout: post
 title: What the frell is the Semantic Web
+wordpress_slug: ooocae
+wordpress_date: "2002-11-02T03:55:29-05:00"
 wordpress_url: http://www.decafbad.com/blog/?p=290
 ---
 Looks like the Semantic Web <a href="http://www.russellbeattie.com/notebook/index.jsp?date=20021101#165113">hurts Russell Beattie's branes</a>.  Hurts mine too.  But, I tried explaining what I think I understand in a comment on his blog and I figure it's worth reposting here for ridicule and correction:

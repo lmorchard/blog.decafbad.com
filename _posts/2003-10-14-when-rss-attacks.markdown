@@ -2,6 +2,8 @@
 wordpress_id: 496
 layout: post
 title: When RSS Developers Attack
+wordpress_slug: when-rss-attacks
+wordpress_date: "2003-10-14T11:05:34-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=496
 ---
 <blockquote cite="http://jeremy.zawodny.com/blog/archives/001007.html">

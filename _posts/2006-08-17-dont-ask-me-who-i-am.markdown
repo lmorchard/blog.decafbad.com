@@ -2,6 +2,14 @@
 wordpress_id: 973
 layout: post
 title: Don't ask me who I am
+tags: 
+- delicious
+- identity
+- livejournal
+- flickr
+- myspace
+wordpress_slug: dont-ask-me-who-i-am
+wordpress_date: "2006-08-17T13:24:25-04:00"
 wordpress_url: http://decafbad.com/blog/2006/08/17/dont-ask-me-who-i-am
 ---
 I'm tired of filling out profiles, and I'm tired of building up networks of others' profiles online.  Everyone needs to adopt something like <strike>[FOAF](http://www.foaf-project.org/)</strike> [hCard][] and [XFN][] (updated per suggestion from [Kevin Marks][]), and be done with it.  The networks should be semi-automated, or at least suggested, by detecting who I know from other places as they hop on another bandwagon with me.  (The separations between implicit groups bounded by the particular service are as important as explicitly defined groups.)

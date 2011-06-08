@@ -2,6 +2,10 @@
 wordpress_id: 954
 layout: post
 title: Honeymoon is go!
+tags: 
+- asides
+wordpress_slug: honeymoon-is-go
+wordpress_date: "2006-06-12T11:27:11-04:00"
 wordpress_url: http://decafbad.com/blog/2006/06/12/honeymoon-is-go
 ---
  <p>To anyone who's following along:  We're on <a href="http://decafbad.com/blog/2006/04/25/a-honeymoon-in-san-francisco">our honeymoon</a>!  Which means that the wedding went overwhelmingly well.  We missed our plane on the way out here - overslept due to complete exhaustion - but then lucked out on standby and got seats next to each other.</p>

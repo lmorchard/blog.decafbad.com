@@ -2,6 +2,8 @@
 wordpress_id: 78
 layout: post
 title: Disintermediating the Bestsellers List
+wordpress_slug: ooooih
+wordpress_date: "2002-04-17T12:35:24-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=78
 ---
 <p>This looks like the kind of bestsellers list I would like to pay attention to: <a href="http://www.onfocus.com/bookwatch/">Weblog <span style='background : #FFFFCE;'><a href="http://www.decafbad.com/twiki/bin/edit/Main/BookWatch?topicparent=Main.FilterData"><b>?</b></a><font color="#0000FF">BookWatch</font></span></a>.  I should also start noting what's in the stream of dead paper flashing before my eyes.  Let's see if any of these pop up on the bookwatch...</p>

@@ -2,6 +2,8 @@
 wordpress_id: 272
 layout: post
 title: Packaging tweak to MTCleanHTMLPlugin
+wordpress_slug: ooobig
+wordpress_date: "2002-09-27T16:06:57-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=272
 ---
 Quick update to <a href="http://www.decafbad.com/twiki/bin/view/Main/MTCleanHTMLPlugin">MTCleanHTMLPlugin</a>:  renamed the directory <code>extdir</code> in the tarball to <code>extlib</code>, which is what it should have been for easy drop-in installation.  Thanks to <a href="http://www.inluminent.com/weblog/">John of illuminent.com</a>, whose weblog gets me funny looks at work.  :)

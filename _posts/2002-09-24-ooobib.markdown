@@ -2,6 +2,8 @@
 wordpress_id: 267
 layout: post
 title: Pingback may one-up TrackBack
+wordpress_slug: ooobib
+wordpress_date: "2002-09-24T13:37:23-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=267
 ---
 I've got some further thoughts on <a href="http://www.hixie.ch/specs/pingback/pingback-1.0">Pingback</a>, provided that my server humors me.  

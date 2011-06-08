@@ -2,6 +2,16 @@
 wordpress_id: 680
 layout: post
 title: Hacking RSS and Atom is out!
+tags: 
+- rss
+- syndication
+- writing
+- atom
+- xml
+- books
+- hackingrssandatom
+wordpress_slug: hacking-rss-and-atom-is-out
+wordpress_date: "2005-09-13T19:45:47-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=680
 ---
 If you've been following along with me these past months, you might've gotten the gist that [I've been working on a book][book].  Well, lookee what landed on my doorstep late Friday afternoon--my author copies!

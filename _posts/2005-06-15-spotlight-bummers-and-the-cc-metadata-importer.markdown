@@ -2,6 +2,8 @@
 wordpress_id: 653
 layout: post
 title: Spotlight Bummers and the CC Metadata Importer
+wordpress_slug: spotlight-bummers-and-the-cc-metadata-importer
+wordpress_date: "2005-06-15T12:37:20-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=653
 ---
 I was just snooping through the installer package for Nathan Yergler's [CC Metadata Importer][cci] looking for some clues toward resolving my gripes noted in [Blosxom, Tiger, and Spotlight][bts].  In doing so, I just realized that the [guts of this importer are written in Python][guts].  That's really pretty nifty and I need to look into this some more.

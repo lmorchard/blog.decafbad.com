@@ -2,6 +2,8 @@
 wordpress_id: 420
 layout: post
 title: Programming Web Services with Perl
+wordpress_slug: web-services-book-thanks
+wordpress_date: "2003-05-21T10:34:56-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=420
 ---
 A copy of <a href="http://www.oreilly.com/catalog/pwebserperl/">Programming Web Services with Perl</a>

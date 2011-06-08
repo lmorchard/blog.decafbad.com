@@ -3,6 +3,8 @@ wordpress_id: 526
 layout: post
 title: I was a pre-teen Transactor author wannabe (and still am!)
 excerpt: I've always wanted to be the kind of hacker who did clever things and wrote about them for other kids like me to read and try.
+wordpress_slug: i-was-a-pre-teen-transactor-author-wannabe-and-still-am
+wordpress_date: "2004-05-25T01:03:57-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=526
 ---
 I've written before about becoming [newly digital][newly_digital], and although I had my start an Atari 800, the Commodore 64 is where I really settled in for a self-education in how these machines worked.  That was the first I managed to convince my family to buy, and the first anyone left in my unsupervised hands.  And as I did manage to go through at least 4 of the things, the results were not always pretty.  My mom was still finding 'extra' screws and bits of solder in my old room's carpet years after I'd moved out, until she finally tore it up and replaced it a year or two ago.

@@ -2,6 +2,8 @@
 wordpress_id: 432
 layout: post
 title: No Google AdSense for Me
+wordpress_slug: adsense-no
+wordpress_date: "2003-06-25T20:23:16-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=432
 ---
 <blockquote cite="https://www.google.com/adsense/">

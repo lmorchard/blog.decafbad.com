@@ -3,6 +3,8 @@ wordpress_id: 576
 layout: post
 title: The Meta Lathe
 excerpt: You don't want to use a metal lathe in your living room, and you wouldn't want to let just anyone loose on the thing unless they knew what they were doing.  As shop in junior high taught me, a lathe is powerful tool capable of doing quite a variety of things.  Some of those things leave you with jewelry and maybe more tools, and other (mis-)uses leave you with nasty injuries.
+wordpress_slug: the-meta-lathe
+wordpress_date: "2004-12-13T13:26:45-05:00"
 wordpress_url: http://www.decafbad.com/blog/?p=576
 ---
 Recently, I read yet another news article predicting the End of the PC in five years.  Besides the usual claims that tend to look silly after a few years, there did seem to be a few good points.  The one that sticks with me compares the general purpose computer to a metal lathe in someone's garage.  

@@ -3,6 +3,8 @@ wordpress_id: 571
 layout: post
 title: If you snore, get tested for sleep apnea.  Now.
 excerpt: I cannot overestimate the positive effect this CPAP machine has had on me.
+wordpress_slug: if-you-snore-get-tested-for-sleep-apnea-now
+wordpress_date: "2004-12-03T12:09:39-05:00"
 wordpress_url: http://www.decafbad.com/blog/?p=571
 ---
 <blockquote>I got my results a few minutes ago. They confirm that I do indeed have sleep apnea. While sleeping normally, I got zero REM sleep - the really refreshing sleep that rejuvenates the mind and body. Zero. I stopped breathing on average 38 times an hour - at one time for thirty seconds continuously. The oxygen saturation of my red blood cells dropped to worrying levels. When I was put on the machine, 13 percent of my sleep was REM sleep, and I didn't stop breathing once. No wonder I felt better the next day. My doc is now ordering the C-PAP machine. The best Christmas present I'll ever have. </blockquote>

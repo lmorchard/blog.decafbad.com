@@ -2,6 +2,13 @@
 wordpress_id: 753
 layout: post
 title: Video Games Live^WDead
+tags: 
+- asides
+- gaming
+- ticketmaster
+- concerts
+wordpress_slug: video-games-livewdead
+wordpress_date: "2005-10-26T22:56:15-04:00"
 wordpress_url: http://decafbad.com/blog/?p=753
 ---
 <blockquote cite="http://videogameslive.com/index.php?story=20">Due to circumstances beyond our control, Video Games Live will not be playing any of the previously scheduled shows, with the exception of Seattle and Vancouver on October 29 and October 30. Furthermore, plans are being made for additional shows in specific markets across North America for 2006.</blockquote>

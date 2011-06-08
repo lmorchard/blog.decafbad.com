@@ -2,6 +2,15 @@
 wordpress_id: 1069
 layout: post
 title: Outsourcing creativity via APIs
+tags: 
+- web20
+- mashups
+- twitter
+- pownce
+- valleywag
+- api
+wordpress_slug: outsourcing-creativity-via-apis
+wordpress_date: "2007-11-01T14:17:21-04:00"
 wordpress_url: http://decafbad.com/blog/2007/11/01/outsourcing-creativity-via-apis
 ---
 <a href="http://valleywag.com/tech/pownce/pownce-documents-self+promotion-api-316869.php">Tim Faulkner at Valleywag</a>: "<i>I blame Twitter. It's not enough to be a website anymore. Oh no. You must be a platform. Have an API. Court developers. Build an "ecosystem." Whatever. You know what an application programming interface really is? An admission that you're too poor, cheap, or uncreative to build all the features your website needs.</i>"

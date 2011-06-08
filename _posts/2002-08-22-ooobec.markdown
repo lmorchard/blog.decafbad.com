@@ -2,6 +2,8 @@
 wordpress_id: 230
 layout: post
 title: AmphetaOutline fix.  No, really.
+wordpress_slug: ooobec
+wordpress_date: "2002-08-22T18:26:25-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=230
 ---
 <p>Ack!  I just realized, even though it took two emails make the light go on, that my tarball of <a href="http://www.decafbad.com/twiki/bin/view/Main/AmphetaOutlines">AmphetaOutlines</a> for download in the wiki has still had the broken click-count page bundled for the last month or so.  For some reason I thought that I'd fixed that and re-uploaded the tarball, but no!</p>

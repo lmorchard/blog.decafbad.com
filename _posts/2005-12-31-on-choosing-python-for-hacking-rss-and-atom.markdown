@@ -2,6 +2,8 @@
 wordpress_id: 810
 layout: post
 title: On choosing Python for Hacking RSS and Atom
+wordpress_slug: on-choosing-python-for-hacking-rss-and-atom
+wordpress_date: "2005-12-31T14:54:00-05:00"
 wordpress_url: http://decafbad.com/blog/?p=810
 ---
 <blockquote cite="http://www.annezelenka.com/2005/12/python-slithers-in.html">...I bought this rather interesting book: <a href="http://www.amazon.com/exec/obidos/ASIN/0764597582/0xdecafbad01-20?creative=327641&camp=14573&link_code=as1">Hacking RSS and Atom</a> by Leslie M. Orchard. It covers virtually everything I want to do with my feed blender. Except it does it in Python. Dang.<br /><br />...Programmers seem to get used to the language they use a lot and then find others difficult or poorly designed. As for me, I'm not so excited about Python itself as I am about what I can do with it given a little help from modules like Mark Pilgrim's Universal Feed Parser and Reverend for Bayesian classification.</blockquote>

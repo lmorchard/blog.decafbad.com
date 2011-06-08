@@ -2,6 +2,8 @@
 wordpress_id: 219
 layout: post
 title: Bayesian filters, the ultimate anti-spam weapon?
+wordpress_slug: ooobdo
+wordpress_date: "2002-08-16T16:47:03-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=219
 ---
 <p>Do not stand in our way - we will walk around you.</p>

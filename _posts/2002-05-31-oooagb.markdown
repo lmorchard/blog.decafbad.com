@@ -2,6 +2,8 @@
 wordpress_id: 151
 layout: post
 title: Beyond Backlinks, LiveJournal connections, and David Brin's Earth
+wordpress_slug: oooagb
+wordpress_date: "2002-05-31T15:25:10-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=151
 ---
 <p>Sam Ruby wants to go <a href="http://radio.weblogs.com/0101679/stories/2002/05/31/beyondBacklinks.html">Beyond Backlinks</a>, and I'm right there with him.  He writes about the various means we've tried so far to discover connections (ie. referrers and linksback and <a href="http://radio.weblogs.com/0100887/2002/05/28.html#a268">Jon's analysis</a> of blogroll connections), and muses further.  I love the idea of further automation in surprisingly discovering connections and automatically exploring other feeds, based on discovered connections.</p>

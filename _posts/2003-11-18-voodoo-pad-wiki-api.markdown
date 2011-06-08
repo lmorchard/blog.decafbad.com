@@ -2,6 +2,8 @@
 wordpress_id: 507
 layout: post
 title: VoodooPad gets an XML-RPC wiki API
+wordpress_slug: voodoo-pad-wiki-api
+wordpress_date: "2003-11-18T20:36:31-05:00"
 wordpress_url: http://www.decafbad.com/blog/?p=507
 ---
 <blockquote cite="http://flyingmeat.com/vpwiki.html">You wanted to share the same documents with your coworkers and friends. Now you can.

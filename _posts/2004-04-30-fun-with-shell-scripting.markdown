@@ -3,6 +3,10 @@ wordpress_id: 517
 layout: post
 title: Fun with shell scripting
 excerpt: I went a little nuts tonight with shell scripting.
+tags: 
+- colophon
+wordpress_slug: fun-with-shell-scripting
+wordpress_date: "2004-04-30T09:06:11-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=517
 ---
 I went a little nuts tonight with shell scripting.  It started off with a few innocent bits of [`cat`][cat] and [`grep`][grep] piped together.  But then I invited trouble [started using][parse_log] [`sed`][sed].  Pretty soon, I was bringing in [`cut`][cut] and [`sort`][sort] and [`uniq`][uniq].  I knew I was doomed when I made the whole mess [start emailing me][mail400report] with [`sendmail`][sendmail].  

@@ -2,6 +2,8 @@
 wordpress_id: 162
 layout: post
 title: Just say no to stripes
+wordpress_slug: oooahc
+wordpress_date: "2002-06-06T13:21:25-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=162
 ---
 <p>Noticed Nicholas Riley's <a href="http://radio.weblogs.com/0100148/2002/06/03.html#a374">entry about switching IRC clients</a>, and the screenshot reminded me that I needed to download <a href="http://conundrumsoft.com/Duality/duality.html">Duality</a> for Mac OS X again.  I love that stripe-less <span style='background : #FFFFCE;'><a href="http://www.decafbad.com/twiki/bin/edit/Main/SilverFox?topicparent=Main.FilterData"><b>?</b></a><font color="#0000FF">SilverFox</font></span> theme.  Feels like a cool cloth on my eyes and makes me even think that my iBook is faster.</p>

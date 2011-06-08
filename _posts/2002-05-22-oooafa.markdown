@@ -2,6 +2,8 @@
 wordpress_id: 140
 layout: post
 title: Of alligators and bloxsoms
+wordpress_slug: oooafa
+wordpress_date: "2002-05-22T14:40:50-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=140
 ---
 <p>From <a href="http://chris.wiw.org/2002/05/22#200205111043">Chris Heschong</a>:<blockquote><i>...While I don't believe it's 100% done, I've put up the code to my new pet <a href="http://www.decafbad.com/twiki/bin/view/Main/RSS">RSS</a> aggregator <a href="http://wiw.org/~chris/pet/alligator">here</a> for the moment. More to come shortly.</i></blockquote>A nice, simple <a href="http://www.decafbad.com/twiki/bin/view/Main/RSS">RSS</a> aggregator in <a href="http://www.decafbad.com/twiki/bin/view/Main/PHP">PHP</a> that seems to run nicely on my iBook.  Planning on poking at it some more, so I hope the <a href="http://wiw.org/~chris/pet/alligator">alligator</a> is of the non-bitey variety.</p>

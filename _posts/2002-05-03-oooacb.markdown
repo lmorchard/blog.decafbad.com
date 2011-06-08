@@ -2,6 +2,8 @@
 wordpress_id: 112
 layout: post
 title: Digging my heels in on the Windows
+wordpress_slug: oooacb
+wordpress_date: "2002-05-03T13:05:53-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=112
 ---
 <p>I've been trying out <a href="http://www.decafbad.com/twiki/bin/view/Main/WinXP">WinXP</a> on my token Wintel box at home, and it really doesn't impress me.  I was running Win2K, and Win98 before that, and I can't really see the big deal.  </p>

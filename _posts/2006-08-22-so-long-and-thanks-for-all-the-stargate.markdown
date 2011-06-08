@@ -2,6 +2,15 @@
 wordpress_id: 982
 layout: post
 title: So long, and thanks for all the Stargate
+tags: 
+- scifi
+- tv
+- entertainment
+- stargate
+- sg1
+- farscape
+wordpress_slug: so-long-and-thanks-for-all-the-stargate
+wordpress_date: "2006-08-22T00:20:36-04:00"
 wordpress_url: http://decafbad.com/blog/2006/08/22/so-long-and-thanks-for-all-the-stargate
 ---
 <blockquote cite="http://www.scifi.com/scifiwire/index.php?category=2&id=37607">SCI FI Channel confirmed that it will not renew its record-breaking original series Stargate SG-1 for another season, but will pick up its spinoff series Stargate Atlantis for a fourth year. SG-1 aired its 200th episode on Aug. 18, and the SF series is the longest-running SF show on American television. </blockquote><div class="quotesource">Source: <a href="http://www.scifi.com/scifiwire/index.php?category=2&id=37607">SCI FI Wire | SG-1 Ends Run; Atlantis Back</a></div>

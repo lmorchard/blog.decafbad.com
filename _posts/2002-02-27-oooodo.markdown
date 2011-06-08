@@ -2,6 +2,8 @@
 wordpress_id: 24
 layout: post
 title: To Slashcode or not to SLashcode
+wordpress_slug: oooodo
+wordpress_date: "2002-02-27T20:59:33-05:00"
 wordpress_url: http://www.decafbad.com/blog/?p=24
 ---
 It seems like <a href="http://www.movabletype.org">Movable Type</a> does pretty much everything I want it to do for a weblog, and the upcoming <a href="http://www.movabletype.org/2002_02_26.shtml#000224">v2.0</a> looks even better.  In one sense, I'm not satisfied with the fact that all it does it maintain a static set of pages rather than being a dynamic app...  but then I think, <i>do I really need anything more than that?</i>  I mean, the one dynamic thing I have on the front page is the recent wiki changes, and that's a server-side include (that almost seems retro to me).  Seems to work fine.

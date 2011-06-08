@@ -2,6 +2,8 @@
 wordpress_id: 918
 layout: post
 title: When is AJAX not AJAX?
+wordpress_slug: when-is-ajax-not-ajax
+wordpress_date: "2006-03-26T12:29:46-05:00"
 wordpress_url: http://decafbad.com/blog/2006/03/26/when-is-ajax-not-ajax
 ---
  <p>I started this as a comment over at <a href="http://alex.dojotoolkit.org/?p=551">Alex Russell's entry, "ajaxWrong"</a>, copied here because I felt like it.  He writes:</p>

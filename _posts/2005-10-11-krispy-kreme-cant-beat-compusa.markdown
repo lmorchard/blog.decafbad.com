@@ -2,6 +2,10 @@
 wordpress_id: 729
 layout: post
 title: Krispy Kreme can't beat CompUSA
+tags: 
+- asides
+wordpress_slug: krispy-kreme-cant-beat-compusa
+wordpress_date: "2005-10-11T06:54:25-04:00"
 wordpress_url: http://decafbad.com/blog/?p=729
 ---
 <blockquote cite="http://www.joystiq.com/entry/1234000493062701/">You can almost smell the aroma of fresh plastic hot off the assembly line!</blockquote>

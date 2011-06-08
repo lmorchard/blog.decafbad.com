@@ -2,6 +2,8 @@
 wordpress_id: 658
 layout: post
 title: Locking down Mac OS X for Intel
+wordpress_slug: locking-down-mac-os-x-for-intel
+wordpress_date: "2005-06-24T10:52:17-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=658
 ---
 I just read this post on Think Secret [about the new Intel-based developer Macs][macintel]:

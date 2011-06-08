@@ -2,6 +2,8 @@
 wordpress_id: 394
 layout: post
 title: Pagination for Blosxom
+wordpress_slug: blosxom-paginate
+wordpress_date: "2003-03-17T11:12:45-05:00"
 wordpress_url: http://www.decafbad.com/blog/?p=394
 ---
 Here's a little something I whipped up last week:  <a href="http://www.decafbad.com/twiki/bin/view/Main/BlosxomPaginate">BlosxomPaginate</a>.

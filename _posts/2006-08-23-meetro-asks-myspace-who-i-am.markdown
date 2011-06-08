@@ -2,6 +2,13 @@
 wordpress_id: 983
 layout: post
 title: meetro asks myspace who i am
+tags: 
+- asides
+- identity
+- myspace
+- meetro
+wordpress_slug: meetro-asks-myspace-who-i-am
+wordpress_date: "2006-08-23T11:43:20-04:00"
 wordpress_url: http://decafbad.com/blog/2006/08/23/meetro-asks-myspace-who-i-am
 ---
 Now, *this* is what [I'm talking about][ta].  It's just too bad they're only importing from Myspace.  And that it didn't apparently work when I tried it.

@@ -2,6 +2,14 @@
 wordpress_id: 755
 layout: post
 title: Working on a Tripkodoo business plan tonight
+tags: 
+- asides
+- web20
+- projects
+- microformats
+- silly
+wordpress_slug: working-on-a-tripkodoo-business-plan-tonight
+wordpress_date: "2005-10-28T10:32:29-04:00"
 wordpress_url: http://decafbad.com/blog/?p=755
 ---
 <blockquote cite="http://andrewwooldridge.com/myapps/webtwopointoh.html"><div style="text-align: center">Your company name:<br /><b>Tripkodoo</b><br />Your company product:<br /><b>opml-based collaborative document editing via microformats</b></div></blockquote>

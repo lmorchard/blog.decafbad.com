@@ -2,6 +2,14 @@
 wordpress_id: 678
 layout: post
 title: Redesign in progress (or, no need to adjust your set)
+tags: 
+- wordpress
+- metablogging
+- writing
+- thebook
+- redesign
+wordpress_slug: redesigninprogress
+wordpress_date: "2005-09-12T23:51:56-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=678
 ---
 Hi there.  If things around here are looking or acting a bit wonky, it's because I'm in the middle of my belated site overhaul I meant to do back in May.  It was preempted by [the book][book], something about which I want to gush in detail very shortly.

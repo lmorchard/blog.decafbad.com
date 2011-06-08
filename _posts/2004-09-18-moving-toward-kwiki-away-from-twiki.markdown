@@ -3,6 +3,8 @@ wordpress_id: 551
 layout: post
 title: Moving toward Kwiki, away from TWiki
 excerpt: So, I'm going to try out Kwiki.
+wordpress_slug: moving-toward-kwiki-away-from-twiki
+wordpress_date: "2004-09-18T13:51:32-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=551
 ---
 I'm getting a bit tired of my [TWiki][twiki] install--  I never really liked the WikiText variant it uses, and it seems a bit heavy and slightly overkill.  Admittedly, I haven't bothered to follow the project or upgrade my installation in over a year or so, but it just hasn't appealed to me.

@@ -2,6 +2,10 @@
 wordpress_id: 854
 layout: post
 title: Reading lists for Auto Shows
+tags: 
+- asides
+wordpress_slug: reading-lists-for-auto-shows
+wordpress_date: "2006-02-07T09:40:42-05:00"
 wordpress_url: http://decafbad.com/blog/?p=854
 ---
 Since I've been [playing][nr] with [reading lists][rl] lately—if you happen to be interested in auto shows and/or cars in general, check these out:

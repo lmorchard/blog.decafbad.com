@@ -2,6 +2,16 @@
 wordpress_id: 1194
 layout: post
 title: Queue everything and delight everyone
+tags: 
+- delicious
+- webdev
+- twitter
+- entries
+- laconica
+- scaling
+- queues
+wordpress_slug: queue-everything-and-delight-everyone
+wordpress_date: "2008-07-04T15:17:18-04:00"
 wordpress_url: http://decafbad.com/blog/?p=1194
 ---
 This is a blog post I've had simmering in my brainmeats for well over a year or two.  I'm suddenly inspired to break blog-radio-silence and get it out of my head.

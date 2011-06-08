@@ -2,6 +2,8 @@
 wordpress_id: 201
 layout: post
 title: Why I don't have to like "Monday:"
+wordpress_slug: ooobbb
+wordpress_date: "2002-07-31T13:00:17-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=201
 ---
 <p>So just a couple of weeks ago, I was laughing at <b><a href="http://www.introducingmonday.com">Monday:</a></b> (Their colon, not mine.  They wouldn't like my colon.)  The rebranding struck me as the last spastic hyper-hypo twitch of the 90s' super-high-energy-please-God-make-them-like-me theme.  The Register, bless their souls, <a href="http://www.theregister.co.uk/content/28/25770.html">don't like Monday:'s either</a>.</p>

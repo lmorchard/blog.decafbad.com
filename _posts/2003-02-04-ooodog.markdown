@@ -2,6 +2,8 @@
 wordpress_id: 376
 layout: post
 title: Perl and Bean Scripting Framework?
+wordpress_slug: ooodog
+wordpress_date: "2003-02-04T15:13:07-05:00"
 wordpress_url: http://www.decafbad.com/blog/?p=376
 ---
 <p>So... has anyone gotten to making a Perl engine for the <a href="http://jakarta.apache.org/bsf/index.html" target="_top">Bean Scripting Framework</a>?  I can't seem to find a decent archive of the dev mailing lists, and the links from the Jakarta home page are broken.  And, of course, Google doesn't help me much except to point me at all sorts of pages saying that BSF supports scripting languages "like Python and Perl", but without actually showing me the Perl money.</p>

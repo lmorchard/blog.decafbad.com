@@ -2,6 +2,8 @@
 wordpress_id: 649
 layout: post
 title: Blosxom, Tiger, and Spotlight
+wordpress_slug: blosxom-tiger-and-spotlight
+wordpress_date: "2005-06-10T09:53:10-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=649
 ---
 Another tinkering project idea:  Use Spotlight and HFS Extended Attributes in OS X Tiger to build an enhanced rendition of Blosxom.  Blosxom already uses Unix file attributes to track blog posting dates, but now Spotlight offers indexes that are fairly easy to query via command line or scripts.  I think it could also be used to facilitate search within blog postings, which are just text files anyway.

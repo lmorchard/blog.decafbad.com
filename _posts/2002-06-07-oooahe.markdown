@@ -2,6 +2,8 @@
 wordpress_id: 164
 layout: post
 title: "More autodiscovery for bots: Finding weblogs via RSS referers"
+wordpress_slug: oooahe
+wordpress_date: "2002-06-07T12:19:37-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=164
 ---
 <p>Okay, so now we've got a bit further toward our News Aggregators leaving vapor trails.  Thanks, <a href="http://www.disobey.com/amphetadesk">Morbus</a>.  Thanks, <a href="http://radio.userland.com">Dave</a>.  There's still some more work that needs to be done, though.  In specific, how do I get to <i>you</i> via your trail?  Or, to be even more specific- how to my <i>agents</i> get to you?</p>

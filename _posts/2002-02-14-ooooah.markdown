@@ -2,6 +2,8 @@
 wordpress_id: 8
 layout: post
 title: As finished and ready as I'm inclined to make it at the moment.
+wordpress_slug: ooooah
+wordpress_date: "2002-02-14T20:45:43-05:00"
 wordpress_url: http://www.decafbad.com/blog/?p=8
 ---
 I'm stalling.  I'm procrastinating.  I'm tweaking.  I'm putzing around.

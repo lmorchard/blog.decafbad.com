@@ -2,6 +2,10 @@
 wordpress_id: 820
 layout: post
 title: A new way to stretch lines between dragged boxes
+tags: 
+- asides
+wordpress_slug: a-new-way-to-stretch-lines-between-dragged-boxes
+wordpress_date: "2006-01-13T10:38:07-05:00"
 wordpress_url: http://decafbad.com/blog/?p=820
 ---
 Know what I just realized?  [Canvas][] [has][ff] [arrived][saf] in all the browsers I care about daily, and I see a hack [brewing][ie] for that other one for which I don't care so much.  

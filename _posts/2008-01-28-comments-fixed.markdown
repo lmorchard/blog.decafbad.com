@@ -2,6 +2,10 @@
 wordpress_id: 1079
 layout: post
 title: Comments fixed
+tags: 
+- asides
+wordpress_slug: comments-fixed
+wordpress_date: "2008-01-28T13:58:50-05:00"
 wordpress_url: http://decafbad.com/blog/2008/01/28/comments-fixed
 ---
 Oh, hey.  Nothing like putting out a request for comments and then learning that my comments are broken, and have been since I upgraded to WordPress from SVN.

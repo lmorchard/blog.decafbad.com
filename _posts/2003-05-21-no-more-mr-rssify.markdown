@@ -2,6 +2,8 @@
 wordpress_id: 421
 layout: post
 title: No More Mr. RSSify
+wordpress_slug: no-more-mr-rssify
+wordpress_date: "2003-05-21T21:06:21-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=421
 ---
 <blockquote cite="http://www.voidstar.com/rssify.php">RSSify is a rather horrible hack that shouldn't be needed any more. Please ask the owner of the site you're reading (...) to change to a system that generates <a href="http://www.decafbad.com/twiki/bin/view/Main/RSS">RSS</a> natively such as Blogger Pro or Movable Type. Alternatively consider hosting <a href="http://www.voidstar.com/downloads/rssify.php.txt" target="_top">RSSify</a> yourself rather than using my bandwidth.</blockquote>

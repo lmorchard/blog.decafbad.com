@@ -2,6 +2,8 @@
 wordpress_id: 675
 layout: post
 title: Quick and Random Thoughts
+wordpress_slug: quick-and-random-thoughts
+wordpress_date: "2005-08-12T23:57:03-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=675
 ---
 * Today was my last day at my job in downtown Detroit.  Change is afoot.

@@ -2,6 +2,14 @@
 wordpress_id: 797
 layout: post
 title: More on ignorant feed handling
+tags: 
+- rss
+- syndication
+- atom
+- osx
+- feeds
+wordpress_slug: more-on-ignorant-feed-handling
+wordpress_date: "2005-12-13T08:50:13-05:00"
 wordpress_url: http://decafbad.com/blog/?p=797
 ---
 Part of the reason this whole [must ignore][mi] thing with respect to feeds has me [a bit fired up][fir] is because it seems like so few feed processing tools out there embrace this idea.  And because of that, these tools are unfortunately brittle and prone to future shock.

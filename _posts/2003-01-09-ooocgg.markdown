@@ -2,6 +2,8 @@
 wordpress_id: 350
 layout: post
 title: Yet another post about that proxy thing
+wordpress_slug: ooocgg
+wordpress_date: "2003-01-09T15:19:08-05:00"
 wordpress_url: http://www.decafbad.com/blog/?p=350
 ---
 I'm still not entirely sold on <a href="http://www.decafbad.com/twiki/bin/view/Main/Python">Python</a> and <a href="http://www.decafbad.com/twiki/bin/view/Main/Twisted">Twisted</a> as the foundation for my <a href="http://www.decafbad.com/twiki/bin/view/Main/PersonalWebProxy">PersonalWebProxy</a>.  Yeah, I know I just release a bunch of code to that effect, but it's still just a proof of concept.  While there are some impressive things in <a href="http://www.decafbad.com/twiki/bin/view/Main/Twisted">Twisted</a> and <a href="http://www.decafbad.com/twiki/bin/view/Main/Python">Python</a>, there's also a lot of flux and immaturity there.  Not a bad thing, since the hackers in that camp are doing mad crazy things, but I don't want to focus on mad crazy things in my toolkit - I want to focus on mad crazy things built on top of it.  The thing I've been hoping for is that some of those mad crazy things in the toolkit would <strong>enable</strong> even madder crazier things down the line for me.  This may be true still - so I'm not tossing anything out, just still experimenting.

@@ -2,6 +2,13 @@
 wordpress_id: 712
 layout: post
 title: Web directories with XOXO and XSL
+tags: 
+- xoxo
+- microformats
+- opml
+- gopher
+wordpress_slug: web-directories-with-xoxo-and-xsl
+wordpress_date: "2005-10-02T23:50:17-04:00"
 wordpress_url: http://decafbad.com/blog/?p=712
 ---
 Now, in my [previous post][prev], I'd mentioned that I might have some ideas to "put up" in response to this recent OPML and web directories kerfluffle.  Here's my general idea:

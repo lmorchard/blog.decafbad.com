@@ -2,6 +2,8 @@
 wordpress_id: 961
 layout: post
 title: I (heart) my filthy Happy Hacking Keyboard
+wordpress_slug: i-heart-my-filthy-happy-hacking-keyboard
+wordpress_date: "2006-07-31T12:32:40-04:00"
 wordpress_url: http://decafbad.com/blog/2006/07/31/i-heart-my-filthy-happy-hacking-keyboard
 ---
 Holy crap, is my favorite keyboard filthy.  I don't know if it's that I've finally gotten it into some good direct lighting or what, but this thing is a blatant mess.  It's <i>almost</i> embarassing.

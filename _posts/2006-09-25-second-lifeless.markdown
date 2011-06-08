@@ -2,6 +2,11 @@
 wordpress_id: 997
 layout: post
 title: "second lifeless "
+tags: 
+- asides
+- secondlife
+wordpress_slug: second-lifeless
+wordpress_date: "2006-09-25T17:48:26-04:00"
 wordpress_url: http://decafbad.com/blog/2006/09/25/second-lifeless
 ---
 *Update:*  By the way, I'm Les Ofarrel in Second Life.  Drop me a note sometime. :)

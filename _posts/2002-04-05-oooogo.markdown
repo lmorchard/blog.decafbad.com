@@ -2,6 +2,8 @@
 wordpress_id: 51
 layout: post
 title: More adventures in Instant Outlining.
+wordpress_slug: oooogo
+wordpress_date: "2002-04-05T15:34:28-05:00"
 wordpress_url: http://www.decafbad.com/blog/?p=51
 ---
 <ul>

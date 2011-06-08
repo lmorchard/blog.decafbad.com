@@ -2,6 +2,8 @@
 wordpress_id: 337
 layout: post
 title: AmphetaDesk-fed blogroll now cluttering my sidebar
+wordpress_slug: ooocfd
+wordpress_date: "2002-12-27T02:38:05-05:00"
 wordpress_url: http://www.decafbad.com/blog/?p=337
 ---
 It's not incredibly complicated, but it's something I just hadn't gotten to until now: My <a href="http://www.decafbad.com/twiki/bin/view/Main/AmphetaDesk">AmphetaDesk</a> subscriptions are now the source for my blogroll.  I noticed the <a href="http://jeremy.zawodny.com/blog/archives/000386.html#000386">opml2html script that Jeremy Zawodny wrote</a>, snagged it, and set up a quick cronjob to run the script and upload the HTML every few hours.  It's ugly right now, but maybe it will finally make finish that new design.

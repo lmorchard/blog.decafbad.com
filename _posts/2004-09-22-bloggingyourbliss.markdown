@@ -3,6 +3,8 @@ wordpress_id: 557
 layout: post
 title: Blogging your bliss, or blog like no one's watching.
 excerpt: "Maybe I'm a bit too optimistic about noospheric homesteading, but I expect that the pressures of this space will eventually leave only two kinds of bloggers: the ones who get paid enough, and the ones who have to be here because their bliss won't let them do anything else."
+wordpress_slug: bloggingyourbliss
+wordpress_date: "2004-09-22T09:54:49-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=557
 ---
 <blockquote>You, who ever you are, do what you want; but if you&#8217;re only here to be the next Kottke, or Scoble, or Stone, quit now. You&#8217;ll never get to their position aping their behavior or their rules; you&#8217;ll just end up miserable because you&#8217;re not writing the way you want, and for the joy of the act. Fuck me, too many sheep in this environment. How can your &#8216;ba-ah-ahh&#8217; be heard when you&#8217;re surrounding by people bleating the same thing?

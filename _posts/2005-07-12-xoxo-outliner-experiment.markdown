@@ -2,6 +2,8 @@
 wordpress_id: 667
 layout: post
 title: In-browser XOXO Outliner Experiment
+wordpress_slug: xoxo-outliner-experiment
+wordpress_date: "2005-07-12T17:56:34-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=667
 ---
 Testing, testing--is this thing on?  Well, I do have to say that I've recovered rather well from [the "stroke"][stroke] last week.  Things have been pretty busy since then, so I haven't had much of a chance to blather any more around these parts.

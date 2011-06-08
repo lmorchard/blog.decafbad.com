@@ -2,6 +2,8 @@
 wordpress_id: 108
 layout: post
 title: REST, Part the Third.
+wordpress_slug: oooabh
+wordpress_date: "2002-04-29T05:41:35-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=108
 ---
 <p>Here I am, a Busy Developer trying to work his way up to being a real Computer Scientist.  In doing this, I subject myself to things like RPC vs <a href="http://www.decafbad.com/twiki/bin/view/Main/REST">REST</a>.  I see apparently intelligent people vehemently disagreeing about something, I figure there's something to it.  This may be naive.  I hope that by hurting my brain with this noise, I might take some of the hunch out of my back that gets me just one more caveman level up the evolutionary chart.  I hope you all don't mind hearing my grunts and unks.</p>

@@ -2,6 +2,16 @@
 wordpress_id: 717
 layout: post
 title: FeedSpool is progressing nicely
+tags: 
+- webdev
+- rss
+- syndication
+- atom
+- projects
+- aggregation
+- feedspool
+wordpress_slug: feedspool-is-progressing-nicely
+wordpress_date: "2005-10-05T16:58:21-04:00"
 wordpress_url: http://decafbad.com/blog/?p=717
 ---
 I'm at it again:  Last night, I got an initial stab at a [plugin API][api] for [FeedSpool][fs] working.

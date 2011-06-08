@@ -2,6 +2,8 @@
 wordpress_id: 492
 layout: post
 title: RDF representations of HTTP transactions?
+wordpress_slug: http-in-rdf
+wordpress_date: "2003-10-06T15:45:12-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=492
 ---
 <blockquote cite="http://ilrt.org/discovery/chatlogs/rdfig/2003-10-06#T14-01-47"><i>13:52:29 &lt;monkeyiq&gt; is there a notation for capturing browse

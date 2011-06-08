@@ -2,6 +2,8 @@
 wordpress_id: 319
 layout: post
 title: The prodigal iBook has returned
+wordpress_slug: ooocde
+wordpress_date: "2002-12-09T03:59:44-05:00"
 wordpress_url: http://www.decafbad.com/blog/?p=319
 ---
 <p>So, I finally got my iBook into and out of the shop, and I'm back on the reinstallation road to recovery.  Not only that, but I got a little bit extra - seems that since my model of iBook is no longer available, the repair tech found that he was required to replace my dying 9GB hard drive with a quieter 15GB drive.  Not a gigantic improvement, but it ends up being just enough to be nifty and was free to boot.  Also, I splurged a little bit before starting Christmas shopping, and replaced the 256MB of RAM with a 512MB module.  The improvement from 384MB to 640MB under <a href="http://www.decafbad.com/twiki/bin/view/Main/MacOSX">MacOSX</a> was much more marked than I'd anticipated.  I don't know what kept me so long.</p>

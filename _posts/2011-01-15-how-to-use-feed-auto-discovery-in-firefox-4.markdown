@@ -2,6 +2,16 @@
 wordpress_id: 1970
 layout: post
 title: How to use feed auto-discovery in Firefox 4
+tags: 
+- rss
+- firefox
+- feeds
+- entries
+- mozilla
+- autodiscovery
+- bug578967
+wordpress_slug: how-to-use-feed-auto-discovery-in-firefox-4
+wordpress_date: "2011-01-15T22:20:22-05:00"
 wordpress_url: http://decafbad.com/blog/?p=1970
 ---
 **TL;DR**: <em>The feed button is not dead; it's just been sent to sing backup in Firefox 4 because it's not pulling its weight up front. This post discusses how you can still use feed auto-discovery, even restoring the icon to the toolbar with a few clicks and a drag.</em>

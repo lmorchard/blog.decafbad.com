@@ -2,6 +2,13 @@
 wordpress_id: 1022
 layout: post
 title: stickis and subethaedit icon
+tags: 
+- asides
+- stickis
+- osx
+- subethaedit
+wordpress_slug: stickis-and-subethaedit-icon
+wordpress_date: "2006-11-28T18:45:43-05:00"
 wordpress_url: http://decafbad.com/blog/2006/11/28/stickis-and-subethaedit-icon
 ---
 *Update to the Update:* [The whole issue is corrected now!](http://blog.stickis.com/2006/12/01/subetha-redux/)

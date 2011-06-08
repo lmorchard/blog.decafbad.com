@@ -2,6 +2,8 @@
 wordpress_id: 495
 layout: post
 title: Microcontent and RSS-Data
+wordpress_slug: microcontent-and-rss-data
+wordpress_date: "2003-10-08T08:30:52-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=495
 ---
 <p>

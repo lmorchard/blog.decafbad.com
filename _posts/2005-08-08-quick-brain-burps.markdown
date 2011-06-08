@@ -2,6 +2,8 @@
 wordpress_id: 672
 layout: post
 title: Quick Brain Burps
+wordpress_slug: quick-brain-burps
+wordpress_date: "2005-08-08T13:17:03-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=672
 ---
 It's been quiet around here, despite an intention to make a more regular presence.  Oh well--I blame it on a few things which have added up to a mostly busy month or so.  Hell, I've even been a bit out of touch with my news aggregator, so you'll notice [my usual del.icio.us output][del] has slowed somewhat.

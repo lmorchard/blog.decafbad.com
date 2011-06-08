@@ -2,6 +2,8 @@
 wordpress_id: 136
 layout: post
 title: Migrating to a new host
+wordpress_slug: oooaeg
+wordpress_date: "2002-05-18T17:56:47-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=136
 ---
 <p>Had to do a bit of manual transmutation of DB files for Movable Type to work.  Let's see if I was successful...</p>

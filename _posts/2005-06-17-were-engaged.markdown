@@ -2,6 +2,8 @@
 wordpress_id: 654
 layout: post
 title: We're engaged!
+wordpress_slug: were-engaged
+wordpress_date: "2005-06-17T11:30:33-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=654
 ---
 *The following is the text of an overlay box I've stuck on my site today, which should only appear for you once and only within the next day or two:*

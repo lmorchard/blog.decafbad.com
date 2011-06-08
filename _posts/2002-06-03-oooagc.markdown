@@ -2,6 +2,8 @@
 wordpress_id: 152
 layout: post
 title: Personal digital cameras for a photoblog?
+wordpress_slug: oooagc
+wordpress_date: "2002-06-03T16:07:08-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=152
 ---
 <p>I'm thinking of getting a digital camera.  Price is a concern, but mostly my concern is small size and pocket-ability.  I want this to sit in my jeans pocket, maybe my coat pocket, and take somewhat decent images.  I'm not quite as concerned about super high-res and printable images, as I am about capturing 50-100 decently bloggable images (~640x480 and smaller?).  I want a device inobtrusive enough to keep with me at all times, so I can pull it out in the moment, and capture what I usually miss.  And preferrably without needing a Batman-like utility belt.  I don't really like that style anymore.</p>

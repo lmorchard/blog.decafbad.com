@@ -3,6 +3,8 @@ wordpress_id: 569
 layout: post
 title: Where's the Froogle API?
 excerpt: You know what I was just thinking?  Why doesn't Froogle have an API like Amazon?
+wordpress_slug: nofroogleapi
+wordpress_date: "2004-12-02T09:48:38-05:00"
 wordpress_url: http://www.decafbad.com/blog/?p=569
 ---
 You know what I was just thinking?  Why doesn't [Froogle](http://froogle.google.com/) have an API like Amazon?  It's nearing Christmas again, and other than my [occasional hacking activities](http://www.decafbad.com/blog/2004/06/16/wishofthemonthclub1), now is when my Amazon wishlist gets the most play.  Well, that and on my birthday.

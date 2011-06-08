@@ -2,6 +2,8 @@
 wordpress_id: 662
 layout: post
 title: Quick post-lunch OS X and iTunes dribblings
+wordpress_slug: quick-postlunch
+wordpress_date: "2005-06-28T13:59:32-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=662
 ---
 * [iTunes podcasting support][it]... I want it all, and I want it now, because it has *so* much potential in and of itself, and *so* much potential for driving podcast tuner UI into the future.  

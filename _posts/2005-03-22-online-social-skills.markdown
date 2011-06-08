@@ -2,6 +2,8 @@
 wordpress_id: 622
 layout: post
 title: Online social skills
+wordpress_slug: online-social-skills
+wordpress_date: "2005-03-22T14:22:20-05:00"
 wordpress_url: http://www.decafbad.com/blog/?p=622
 ---
 *Here's something else I've had in bubbling around for a little while.  I think there's more for me to think about here, but here goes:*

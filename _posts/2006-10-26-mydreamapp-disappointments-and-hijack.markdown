@@ -2,6 +2,16 @@
 wordpress_id: 1005
 layout: post
 title: MyDreamApp disappointments and Hijack
+tags: 
+- metablogging
+- rss
+- mydreamapp
+- hijack
+- atom
+- forums
+- usenet
+wordpress_slug: mydreamapp-disappointments-and-hijack
+wordpress_date: "2006-10-26T12:56:30-04:00"
 wordpress_url: http://decafbad.com/blog/2006/10/26/mydreamapp-disappointments-and-hijack
 ---
 <blockquote cite="http://digg.com/apple/MyDreamApp_3_Winners_Announced">After five grueling rounds, the MDA winners have been announced. Let the development begin!</blockquote><div class="quotesource">Source: <a href="http://digg.com/apple/MyDreamApp_3_Winners_Announced">digg - MyDreamApp, 3 Winners Announced!</a></div>

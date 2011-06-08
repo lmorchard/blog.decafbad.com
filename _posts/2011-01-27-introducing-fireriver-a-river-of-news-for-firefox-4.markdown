@@ -2,6 +2,16 @@
 wordpress_id: 2026
 layout: post
 title: Introducing Fireriver, a River of News for Firefox 4
+tags: 
+- rss
+- firefox
+- atom
+- feeds
+- entries
+- fireriver
+- addons
+wordpress_slug: introducing-fireriver-a-river-of-news-for-firefox-4
+wordpress_date: "2011-01-27T01:36:52-05:00"
 wordpress_url: http://decafbad.com/blog/?p=2026
 ---
 **TL;DR**: *I have a history of building news aggregators. Now, I've built one as an addon for Firefox 4.*

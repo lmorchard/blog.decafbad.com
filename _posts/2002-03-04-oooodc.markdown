@@ -2,6 +2,8 @@
 wordpress_id: 27
 layout: post
 title: Project quickies
+wordpress_slug: oooodc
+wordpress_date: "2002-03-04T15:02:04-05:00"
 wordpress_url: http://www.decafbad.com/blog/?p=27
 ---
 Some quickies:<ul><li>Welcome, <a href="http://www.decafbad.com/twiki/bin/view/Main/MarkPaschal">MarkPaschal</a>!</li>

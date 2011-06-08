@@ -2,6 +2,8 @@
 wordpress_id: 479
 layout: post
 title: Don't copy that floppy, or cracked software strikes back
+wordpress_slug: dont-copy-software
+wordpress_date: "2003-09-12T15:35:25-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=479
 ---
 <pre>* Orangerobot uses cracked software.  I will respond to the following

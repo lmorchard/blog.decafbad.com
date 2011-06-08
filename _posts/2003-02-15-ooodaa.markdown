@@ -2,6 +2,8 @@
 wordpress_id: 380
 layout: post
 title: Say hello to Agent Frank
+wordpress_slug: ooodaa
+wordpress_date: "2003-02-15T04:26:19-05:00"
 wordpress_url: http://www.decafbad.com/blog/?p=380
 ---
 I've been quiet - too quiet.  Work's had me busy again, as has life in general.  But I still have had something in the <a href="http://www.decafbad.com/twiki/bin/view/Main/PersonalWebProxy">PersonalWebProxy</a> works:

@@ -2,6 +2,8 @@
 wordpress_id: 604
 layout: post
 title: Hereditary Neophilia
+wordpress_slug: hereditary-neophilia
+wordpress_date: "2005-03-04T16:38:27-05:00"
 wordpress_url: http://www.decafbad.com/blog/?p=604
 ---
 Heard an excellent [interview with Dr. Peter Whybrow on Tech Nation][tn] this week, podcast by [ITConversations][itc].  The idea of America as a nation of restless manic wanderers who've self-selected for genes influencing such behavior just fascinates me.  

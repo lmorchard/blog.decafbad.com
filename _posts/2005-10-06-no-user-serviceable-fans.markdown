@@ -2,6 +2,16 @@
 wordpress_id: 719
 layout: post
 title: No user serviceable fans
+tags: 
+- asides
+- hacking
+- apple
+- grumble
+- repair
+- hardware
+- powerbook
+wordpress_slug: no-user-serviceable-fans
+wordpress_date: "2005-10-06T06:54:42-04:00"
 wordpress_url: http://decafbad.com/blog/?p=719
 ---
 Grr.  Last night, My PowerBook suddenly started making the oscillating, growling noise of a fan with built up crud rattling against the blades.  I'd thought it was the hard drive at first, knowing my luck, but I narrowed down the sound to the fans in the back and could make the sound go away by cutting back CPU usage.

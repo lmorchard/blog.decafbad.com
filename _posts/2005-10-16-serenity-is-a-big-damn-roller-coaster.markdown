@@ -2,6 +2,14 @@
 wordpress_id: 736
 layout: post
 title: Serenity is a Big Damn Roller Coaster
+tags: 
+- scifi
+- entertainment
+- whedon
+- movies
+- serenity
+wordpress_slug: serenity-is-a-big-damn-roller-coaster
+wordpress_date: "2005-10-16T01:35:46-04:00"
 wordpress_url: http://decafbad.com/blog/?p=736
 ---
 I've just finally seen [Serenity][ser].  So, if you're concerned about spoilers, bugger off now—if you cared about spoilers, you should've already seen the big damn movie.  

@@ -2,6 +2,8 @@
 wordpress_id: 168
 layout: post
 title: Linkbacks, robots, laziness, the semantic web, and you - part II
+wordpress_slug: oooahi
+wordpress_date: "2002-06-10T17:23:28-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=168
 ---
 <p>Awhile back, I <a href="http://www.decafbad.com/news_archives/000142.phtml#000142">was musing</a> about linksback, robots, and the web semantic - and to my dumb idea about scraping metadata from HTML comments, <a href="http://webseitz.fluxent.com/wiki">Bill Seitz</a> recommended I put my metadata into meta tags in the HTML header.  Duh.  So today, I pick up this post by <a href="http://www.syndic8.com/~wkearney/blogs/syndic8/">Bill Kearney</a> on "<a href="http://www.syndic8.com/~wkearney/blogs/syndic8/archives/000020.html#000020">Real Neighborhoods</a>" via <a href="http://www.theshiftedlibrarian.com/2002/06/09.html#a2227">Jenny Levine</a>.  (Man do I enjoy being fed by her site!  She gives me a whole new respect for librarians.)</p>

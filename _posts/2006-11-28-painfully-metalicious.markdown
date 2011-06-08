@@ -2,6 +2,13 @@
 wordpress_id: 1023
 layout: post
 title: painfully metalicious
+tags: 
+- asides
+- delicious
+- webdev
+- md5
+wordpress_slug: painfully-metalicious
+wordpress_date: "2006-11-28T19:05:22-05:00"
 wordpress_url: http://decafbad.com/blog/2006/11/28/painfully-metalicious
 ---
 I find this sequence of URLs almost as funny as [the blonde joke][tbj]:

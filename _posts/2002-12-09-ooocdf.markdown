@@ -2,6 +2,8 @@
 wordpress_id: 320
 layout: post
 title: Personal Web Proxies
+wordpress_slug: ooocdf
+wordpress_date: "2002-12-09T04:33:52-05:00"
 wordpress_url: http://www.decafbad.com/blog/?p=320
 ---
 <p>Okay, now that I'm healthy, my girlfriend is healthy, my job is healthy, and my iBook is back to being healthy - I might just get a chance to sneak some time in for my <a href="http://www.decafbad.com/twiki/bin/view/Main/Projects">Projects</a> again.</p>

@@ -2,6 +2,8 @@
 wordpress_id: 144
 layout: post
 title: Not dead yet, just resting
+wordpress_slug: oooafe
+wordpress_date: "2002-05-28T03:29:15-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=144
 ---
 <p>Oh yeah, and I am still alive.  Just heading toward the light at the end of the tunnel of a long project at work over many late nights.  Also have been living life a bit lately.  But I've also been re-reading David Brin's <i>Earth</i>, <a href="http://www.decafbad.com/twiki/bin/view/Main/VernorVinge">VernorVinge</a>'s <i>A Deepness in the Sky</i>, and have a few musings about them.  Also have been doing some intermittent Lisp and Python hacking.  Oh, and I also will be trying a bit of Perl/Cocoa hacking for <a href="http://www.disobey.com/amphetadesk">AmphetaDesk</a> in the very, very near future.  Hope to get back to at the news aggregator and web log controls soon.  Anyone miss me?  :)</p>

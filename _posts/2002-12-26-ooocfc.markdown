@@ -2,6 +2,8 @@
 wordpress_id: 336
 layout: post
 title: There is no perfect software design
+wordpress_slug: ooocfc
+wordpress_date: "2002-12-26T14:01:04-05:00"
 wordpress_url: http://www.decafbad.com/blog/?p=336
 ---
 Chris Winters <a href="http://www.cwinters.com/News/show/?news_id=765">threw me a link</a> to my <a href="http://www.decafbad.com/news_archives/000354.phtml">recent ramble</a> on completely planned perfection versus workable organic imperfection in software design.  After citing a very good perspective on software as gardening from <a href="http://pragmaticprogrammer.com">The Pragmatic Programmer</a>, he writes:<blockquote><i>As I've mentioned before there are a number of software development practices moving toward a more humane process. And I think the ideas underpinning worse-is-better play a big part in this. The major one in my mind is this hypothesis: there is no such thing as a perfect software design. Have you ever seen or heard of one? What design hasn't been modified over time due to changing needs or conditions?</i></blockquote>Good points.  Still trying to find the middle ground between clean design and fecund dirt.  There's no perfect design I've ever run into in my time so far, and I don't expect to.  But, what I have learned, is that where there is no design at all, you have disaster.

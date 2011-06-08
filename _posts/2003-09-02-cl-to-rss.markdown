@@ -2,6 +2,8 @@
 wordpress_id: 473
 layout: post
 title: ChangeLog to RSS web service
+wordpress_slug: cl-to-rss
+wordpress_date: "2003-09-02T13:44:18-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=473
 ---
 <br /><br />

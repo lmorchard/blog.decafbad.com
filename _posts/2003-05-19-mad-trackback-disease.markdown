@@ -2,6 +2,8 @@
 wordpress_id: 419
 layout: post
 title: Mad Trackback Disease
+wordpress_slug: mad-trackback-disease
+wordpress_date: "2003-05-19T14:30:53-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=419
 ---
 I've just started experimenting with integrating

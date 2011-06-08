@@ -2,6 +2,8 @@
 wordpress_id: 117
 layout: post
 title: Homebrew PVR, or TiVo?
+wordpress_slug: oooach
+wordpress_date: "2002-05-07T03:48:34-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=117
 ---
 <p>Okay, so it's a given that I'm not giving up my PVR soon.  So, which ones work best?  And why?</p>

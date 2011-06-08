@@ -2,6 +2,8 @@
 wordpress_id: 134
 layout: post
 title: Rock bangers, unite!
+wordpress_slug: oooaee
+wordpress_date: "2002-05-17T16:59:52-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=134
 ---
 <p>So, I feel really out of touch.  Seems like the majority of the authors on my news aggregator scan were all blogging from the <a href="http://conferences.oreillynet.com/etcon2002/">O'Reilly Emerging Technology Conference</a> this week.  For some reason, I hadn't even heard of it until last week.  This mystifies me.  I can't believe I hadn't checked this conference out long ago and found a way, by hook or by crook, to get my butt over there.  Seems like they covered an alarming number of the topics about which I'm fascinated.  But, beyond the content of the conference itself, I would have loved to witness firsthand the phenomena of an audience full of bloggers tick-tacking away in realtime.  And I <b>so</b> would have been running <a href="http://www.etherpeg.org/">EtherPEG</a> on my iBook <a href="http://www.oreillynet.com/1414.html">like Rob Flickenger was</a>.</p>

@@ -2,6 +2,8 @@
 wordpress_id: 424
 layout: post
 title: Blo.gs Pings Gone Wild
+wordpress_slug: blo-gs-gone-wild
+wordpress_date: "2003-06-02T16:10:33-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=424
 ---
 <a href="http://shawnyeager.com/WebHome" target="_top">Shawn Yeager</a> just dropped me a line to let

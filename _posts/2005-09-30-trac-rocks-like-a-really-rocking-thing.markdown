@@ -2,6 +2,14 @@
 wordpress_id: 710
 layout: post
 title: Trac rocks like a really rocking thing
+tags: 
+- asides
+- projects
+- python
+- decafbad
+- trac
+wordpress_slug: trac-rocks-like-a-really-rocking-thing
+wordpress_date: "2005-09-30T12:11:09-04:00"
 wordpress_url: http://decafbad.com/blog/?p=710
 ---
 Say hello to [my new Trac installation][dbtrac]!

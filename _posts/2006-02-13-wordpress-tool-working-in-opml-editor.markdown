@@ -2,6 +2,10 @@
 wordpress_id: 875
 layout: post
 title: WordPress tool working in OPML Editor
+tags: 
+- asides
+wordpress_slug: wordpress-tool-working-in-opml-editor
+wordpress_date: "2006-02-13T14:48:55-05:00"
 wordpress_url: http://decafbad.com/blog/2006/02/13/wordpress-tool-working-in-opml-editor
 ---
 <p>So, I'm not sure if this is due to my not having upgraded to WordPress 2.0 or what, but it seems like there was a bug in the XML-RPC parser used by WordPress 1.5 which prevented the WordPress Tool from working within the OPML Editor.</p>

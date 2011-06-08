@@ -2,6 +2,8 @@
 wordpress_id: 409
 layout: post
 title: "rsync: It's a damn brilliant thing."
+wordpress_slug: wonders-of-rsync
+wordpress_date: "2003-04-22T23:00:25-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=409
 ---
 I take rsync for granted.  It's just the best way to keep stuff <i>out there</i>

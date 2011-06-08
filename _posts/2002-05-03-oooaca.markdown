@@ -2,6 +2,8 @@
 wordpress_id: 111
 layout: post
 title: Down, but not out.
+wordpress_slug: oooaca
+wordpress_date: "2002-05-03T12:36:59-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=111
 ---
 <p>My webhost had a bit of an outtage, and the machine on which this site is hosted suffered a nasty hard drive crash.  Things were down for about a day or so, and when they came back up most everything was broken.  Seems that the sysadmin of this server added a few security improvements, such as disallowing execution of CGI scripts with dangerous permissions, which revealed my sloppy and "atrocious" (the sysadmin's word) use of them.  </p>

@@ -2,6 +2,8 @@
 wordpress_id: 79
 layout: post
 title: Google 2 RSS, 0xDECAFBAD style
+wordpress_slug: ooooii
+wordpress_date: "2002-04-17T14:00:36-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=79
 ---
 <p><a href="http://www.razorsoft.net/weblog/">Peter</a> made a command-line tool called <a href="http://www.razorsoft.net/weblog/stories/2002/04/13/google2rss.html">Google2RSS</a>.  Then, he mentioned that <a href="http://www.patandkat.com/pat/weblog/2002/04/13.php#a535">someone was thinking of making a Perl or <a href="http://www.decafbad.com/twiki/bin/view/Main/PHP">PHP</a></a> version of his tool.</p>

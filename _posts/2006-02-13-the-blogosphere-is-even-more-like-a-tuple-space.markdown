@@ -2,6 +2,10 @@
 wordpress_id: 872
 layout: post
 title: The blogosphere is even more like a tuple space
+tags: 
+- asides
+wordpress_slug: the-blogosphere-is-even-more-like-a-tuple-space
+wordpress_date: "2006-02-13T13:55:30-05:00"
 wordpress_url: http://decafbad.com/blog/?p=872
 ---
 The idea's been bouncing around my head more and more lately: <a href="http://decafbad.com/blog/2005/01/12/the-blogosphere-as-a-tuple-space">The blogosphere is like a tuple space.</a>

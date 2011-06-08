@@ -2,6 +2,14 @@
 wordpress_id: 1017
 layout: post
 title: XoxoOutliner shows some signs of life
+tags: 
+- webdev
+- javascript
+- xoxooutliner
+- xoxo
+- microformats
+wordpress_slug: xoxooutliner-shows-some-signs-of-life
+wordpress_date: "2006-11-12T00:25:40-05:00"
 wordpress_url: http://decafbad.com/blog/2006/11/12/xoxooutliner-shows-some-signs-of-life
 ---
 Remember when I [started writing about][st] [XoxoOutliner][xo] around 8 months ago?  Yeah, lots has happened with life in general between then and now - but lately I've been [working on code][wo] for it again.  As you might see from [my Trac timeline][time], I've got lots of new code checked in.  And I mean [lots][lots].

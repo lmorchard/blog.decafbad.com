@@ -2,6 +2,8 @@
 wordpress_id: 589
 layout: post
 title: Tonight's Items of Little Import
+wordpress_slug: tonights-items-of-little-import
+wordpress_date: "2005-02-19T23:22:52-05:00"
 wordpress_url: http://www.decafbad.com/blog/?p=589
 ---
 Here goes nothing--atomic bullet points to power, quickie turbines to speed...

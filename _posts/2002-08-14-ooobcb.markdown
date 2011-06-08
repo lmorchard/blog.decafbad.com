@@ -2,6 +2,8 @@
 wordpress_id: 211
 layout: post
 title: Where art thou, Bean Markup Project?
+wordpress_slug: ooobcb
+wordpress_date: "2002-08-14T20:27:04-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=211
 ---
 <p>Ack.  Okay, so I started tinkering with <a href="http://www.alphaworks.ibm.com/tech/bml">Bean Markup Language</a> as the configuration glue for my Java app.  So far it seems to be working very nicely and doing everything I want it to do.  The problem, though, is that as I look around for examples and things I notice that it seems as if this project is dead.  I look further, and I realize...  <i>I can't find any source code to this thing.</i>  And here I am working it into the core of my app.</p>

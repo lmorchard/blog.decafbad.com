@@ -2,6 +2,10 @@
 wordpress_id: 819
 layout: post
 title: Got your music store butting into my library
+tags: 
+- asides
+wordpress_slug: got-your-music-store-butting-into-my-library
+wordpress_date: "2006-01-11T20:31:50-05:00"
 wordpress_url: http://decafbad.com/blog/?p=819
 ---
 New iTunes update, v6.0.2.  First impression:  Apple, get your damn music store out of my personal library.  When I use the browsing interface—as I usually do—it takes up a full third of my visible space on this 12" screen.  The only saving grace is that at least the store pane disappears when I view my iPod library.  

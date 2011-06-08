@@ -2,6 +2,8 @@
 wordpress_id: 964
 layout: post
 title: Hacking del.icio.us is out and about!
+wordpress_slug: hacking-delicious-is-out-and-about
+wordpress_date: "2006-08-09T13:26:59-04:00"
 wordpress_url: http://decafbad.com/blog/2006/08/09/hacking-delicious-is-out-and-about
 ---
 <a href="http://flickr.com/photos/deusx/197593569/"><img style="border: none; padding: 0.5em; float: right" src="http://static.flickr.com/60/197593569_afeccccfd9_m.jpg" /></a><a href="http://www.amazon.com/exec/obidos/ASIN/0470037857/0xdecafbad01-20/104-2713105-4524705?%5Fencoding=UTF8&camp=1789&link%5Fcode=xm2">Buy my new book!</a>  In and amongst all this excitement with the moving and the new job and the unpacking and the parties, the following unfortunate detail has come to my attention:

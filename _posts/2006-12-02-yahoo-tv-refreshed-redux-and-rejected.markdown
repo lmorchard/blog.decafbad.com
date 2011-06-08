@@ -2,6 +2,12 @@
 wordpress_id: 1025
 layout: post
 title: yahoo TV refreshed, redux and rejected
+tags: 
+- asides
+- tv
+- yahoo
+wordpress_slug: yahoo-tv-refreshed-redux-and-rejected
+wordpress_date: "2006-12-02T15:25:28-05:00"
 wordpress_url: http://decafbad.com/blog/2006/12/02/yahoo-tv-refreshed-redux-and-rejected
 ---
 Okay, I'm sick of it now, [like many others][tv].  I was dazzled by the AJAX pagination technique at first, because I think it's an interesting advance in AJAX in general.  But, I've been a user of the Yahoo! TV Grid - er Listings - for years now.  It's useless to me now, even after I re-discovered its location after my bookmark broke.  I hate to be harsh, but I'd outsourced a part of my brain the Yahoo! TV Grid, and suddenly that part of my brain is damaged.

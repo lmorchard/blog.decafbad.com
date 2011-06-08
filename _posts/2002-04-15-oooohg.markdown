@@ -2,6 +2,8 @@
 wordpress_id: 67
 layout: post
 title: More Google API musing -- "404 Correction" in a personal HTTP proxy via Google's cache
+wordpress_slug: oooohg
+wordpress_date: "2002-04-15T00:49:41-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=67
 ---
 <p>Hmm... now that I finally stopped babbling and read the docs, I just noticed that the <a href="http://www.google.com/apis">Google APIs</a> has methods to access their cache.</p>

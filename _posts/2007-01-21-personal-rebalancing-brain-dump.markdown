@@ -2,6 +2,12 @@
 wordpress_id: 1035
 layout: post
 title: Personal rebalancing brain dump
+tags: 
+- writing
+- life
+- balance
+wordpress_slug: personal-rebalancing-brain-dump
+wordpress_date: "2007-01-21T16:19:34-05:00"
 wordpress_url: http://decafbad.com/blog/2007/01/21/personal-rebalancing-brain-dump
 ---
 I think I'm getting to a point where I need to do some personal rebalancing.  There are some things that I tell myself I'd rather I was doing besides working in the day and playing World of Warcraft at night.  Some of them include:

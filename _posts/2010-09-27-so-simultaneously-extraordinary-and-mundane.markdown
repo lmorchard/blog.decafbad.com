@@ -2,6 +2,10 @@
 wordpress_id: 1942
 layout: post
 title: so simultaneously extraordinary and mundane
+tags: 
+- entries
+wordpress_slug: so-simultaneously-extraordinary-and-mundane
+wordpress_date: "2010-09-27T15:31:17-04:00"
 wordpress_url: http://decafbad.com/blog/?p=1942
 ---
 <i>So, <a href="http://closing.vox.com/">Vox is shutting down</a>. Turns out I only have <a href="http://decafbad.vox.com/library/post/so-simultaneously-extraordinary-and-mundane.html">one entry</a> there that I really care about, dated <a href="http://decafbad.vox.com/library/post/so-simultaneously-extraordinary-and-mundane.html">August 31, 2006</a>. Before it evaporates, I'll just give an indiscriminate copy-and-paste-powered blast from the past here:</i>

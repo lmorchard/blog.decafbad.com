@@ -2,6 +2,10 @@
 wordpress_id: 880
 layout: post
 title: Pre-sleep bullet points
+tags: 
+- asides
+wordpress_slug: pre-sleep-bullet-points
+wordpress_date: "2006-02-14T23:29:41-05:00"
 wordpress_url: http://decafbad.com/blog/2006/02/14/pre-sleep-bullet-points
 ---
  <p>A few featured bullets from over on my other blog:</p>

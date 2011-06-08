@@ -2,6 +2,10 @@
 wordpress_id: 781
 layout: post
 title: I wish it were in XOXO
+tags: 
+- asides
+wordpress_slug: i-wish-it-were-in-xoxo
+wordpress_date: "2005-11-27T14:02:01-05:00"
 wordpress_url: http://decafbad.com/blog/?p=781
 ---
 <blockquote cite="http://blogs.msdn.com/alexbarn/archive/2005/11/24/496636.aspx">Note: hey, mum & dad - you can check out my Christmas OPML wishlist in your browser right now (in case you're tuning in ;-)</blockquote>

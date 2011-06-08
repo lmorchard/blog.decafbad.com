@@ -2,6 +2,16 @@
 wordpress_id: 756
 layout: post
 title: How to Hack RSS and Atom Feeds
+tags: 
+- asides
+- book
+- rss
+- syndication
+- writing
+- atom
+- books
+wordpress_slug: how-to-hack-rss-and-atom-feeds
+wordpress_date: "2005-10-28T11:22:26-04:00"
 wordpress_url: http://decafbad.com/blog/?p=756
 ---
 <blockquote cite="http://www.extremetech.com/article2/0,1697,1878379,00.asp">This article is an excerpt from the ExtremeTech book Hacking RSS and Atom. This feature explains what RSS and Atom feeds are and how you can build an aggregator, route feeds to your inbox and buddy list, subscribe to multimedia content, and more.</blockquote>

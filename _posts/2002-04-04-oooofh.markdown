@@ -2,6 +2,8 @@
 wordpress_id: 47
 layout: post
 title: Just upgraded to MT 2.0
+wordpress_slug: oooofh
+wordpress_date: "2002-04-04T14:37:41-05:00"
 wordpress_url: http://www.decafbad.com/blog/?p=47
 ---
 Let's see if anything breaks.   The textareas in <span style='background : #FFFFCE;'><a href="http://www.decafbad.com/twiki/bin/edit/Main/OmniWeb?topicparent=Main.FilterData"><b>?</b></a><font color="#0000FF">OmniWeb</font></span> are suckily thin, will have to fix that in the templates.  Trying out the disabling of line break conversion:<br>

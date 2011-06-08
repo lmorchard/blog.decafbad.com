@@ -2,6 +2,15 @@
 wordpress_id: 806
 layout: post
 title: Sometimes the lazyweb delivers with a deluge
+tags: 
+- asides
+- xml
+- feedmagick
+- lazyweb
+- syndcation
+- facepalm
+wordpress_slug: sometimes-the-lazyweb-delivers-with-a-deluge
+wordpress_date: "2005-12-19T18:15:03-05:00"
 wordpress_url: http://decafbad.com/blog/?p=806
 ---
 > [Kellan][k]: " '… and that’s not my code.' ouch"

@@ -2,6 +2,8 @@
 wordpress_id: 897
 layout: post
 title: .plan
+wordpress_slug: plan
+wordpress_date: "2006-02-23T11:40:53-05:00"
 wordpress_url: http://decafbad.com/blog/plan/
 ---
 ## What's this page?

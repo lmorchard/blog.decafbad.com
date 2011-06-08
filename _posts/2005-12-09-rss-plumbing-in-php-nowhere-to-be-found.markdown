@@ -2,6 +2,10 @@
 wordpress_id: 790
 layout: post
 title: RSS plumbing in PHP nowhere to be found?
+tags: 
+- asides
+wordpress_slug: rss-plumbing-in-php-nowhere-to-be-found
+wordpress_date: "2005-12-09T01:45:30-05:00"
 wordpress_url: http://decafbad.com/blog/?p=790
 ---
 This actually surprises me:  I can't find any simple RSS filters—or other basic feed plumbing fixtures—implemented in PHP.  

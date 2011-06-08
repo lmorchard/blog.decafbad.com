@@ -2,6 +2,12 @@
 wordpress_id: 1088
 layout: post
 title: Greatest Hits Vol. 2, the Babble Bits
+tags: 
+- metablogging
+- retrospective
+- entries
+wordpress_slug: greatest-hits-vol-2-the-babble-bits
+wordpress_date: "2008-04-26T13:21:21-04:00"
 wordpress_url: http://decafbad.com/blog/?p=1088
 ---
 Following right on the heels of [Greatest Hits Vol. 1](http://decafbad.com/blog/2008/04/26/greatest-hits-vol-1-the-tinkery-bits) is another volume, this time including the entries that were more made of babble or ramble and not so much with code.  Again I welcome additions, comments, criticisms, and complaints.

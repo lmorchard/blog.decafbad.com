@@ -2,6 +2,8 @@
 wordpress_id: 460
 layout: post
 title: Tree files
+wordpress_slug: tree-files
+wordpress_date: "2003-08-14T15:48:24-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=460
 ---
 <i><pre>23:58:35 [Ash] MorbusIff: Got any tree files?

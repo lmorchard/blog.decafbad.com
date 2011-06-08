@@ -2,6 +2,8 @@
 wordpress_id: 100
 layout: post
 title: Can ZOE make my mail intertwingly?
+wordpress_slug: oooabo
+wordpress_date: "2002-04-25T11:02:01-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=100
 ---
 <p>Via <a href="http://radio.weblogs.com/0106939/2002/04/24.html#a7">Prof Avery</a>, I just found <a href="http://homepage.mac.com/zoe_info/Resume3.html">ZOE</a>.<blockquote><i>The goal here is to do for email (starting with your personal mailbox) what Google did for the web... The Google principle: It doesn't matter where information is because I can get to it with a keystroke.</p>

@@ -2,6 +2,8 @@
 wordpress_id: 249
 layout: post
 title: Blogwalking on a Zaurus in progress?
+wordpress_slug: ooobgb
+wordpress_date: "2002-09-11T02:43:31-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=249
 ---
 <p>Neat!  I love the blogosphere.  Bryce is <a href="http://radio.ntwizards.net/2002/09/10.html#a976">attempting to implement</a> what <a href="http://www.decafbad.com/news_archives/000270.phtml#000270">I'd babbled about</a> last week: <a href="http://www.decafbad.com/twiki/bin/view/Main/BlogWalking">BlogWalking</a> with a Zaurus.  I'm still saving my pennies, and I've yet to acquire a Zaurus of my own.  So, I'll be watching this experiment eagerly.</p>

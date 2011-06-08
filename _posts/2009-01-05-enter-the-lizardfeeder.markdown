@@ -2,6 +2,17 @@
 wordpress_id: 1533
 layout: post
 title: Enter the LizardFeeder
+tags: 
+- json
+- webdev
+- rss
+- atom
+- entries
+- mozilla
+- lizardfeeder
+- activitystreams
+wordpress_slug: enter-the-lizardfeeder
+wordpress_date: "2009-01-05T19:01:54-05:00"
 wordpress_url: http://decafbad.com/blog/?p=1533
 ---
 [caption id="attachment_1582" align="alignright" width="247" caption="The Mozilla Tree"]<a href="http://blog.lizardwrangler.com/2008/07/29/the-mozilla-tree/"><img src="http://decafbad.com/blog/wp-content/uploads/2009/01/moz-tree.jpg" alt="The Mozilla Tree" title="moz-tree" width="247" height="191" class="size-full wp-image-1582" /></a>[/caption]

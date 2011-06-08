@@ -2,6 +2,8 @@
 wordpress_id: 611
 layout: post
 title: Techy Miscellaney
+wordpress_slug: techy-miscellaney
+wordpress_date: "2005-03-09T14:47:14-05:00"
 wordpress_url: http://www.decafbad.com/blog/?p=611
 ---
 * I know I've already mentioned it, but man I wish Google had a REST-style API.  The new Yahoo web services are nice, and I've already been enjoying Amazon's web services.

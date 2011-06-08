@@ -2,6 +2,8 @@
 wordpress_id: 402
 layout: post
 title: Still Alive Out Here
+wordpress_slug: still-breathing
+wordpress_date: "2003-04-15T10:36:17-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=402
 ---
 Been out of touch with my usual online haunts as of late, and have barely had time to think straight,

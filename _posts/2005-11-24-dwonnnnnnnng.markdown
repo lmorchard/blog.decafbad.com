@@ -2,6 +2,10 @@
 wordpress_id: 776
 layout: post
 title: Dwonnnnnnnng
+tags: 
+- asides
+wordpress_slug: dwonnnnnnnng
+wordpress_date: "2005-11-24T00:16:29-05:00"
 wordpress_url: http://decafbad.com/blog/?p=776
 ---
 So, for all these years since I first saw [Star Trek: The Motion Picture][sttmp] at [the Seaway drive-in in Algonac, MI][swd] in footie pajamas with my parents, I've always wondered what made that sound.  You know, that "dwonnnnnng" sound that I've forever associated with spaceships and Star Trek.

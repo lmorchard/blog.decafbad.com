@@ -2,6 +2,8 @@
 wordpress_id: 275
 layout: post
 title: Pingback and embedded metadata in (X)HTML
+wordpress_slug: ooocoo
+wordpress_date: "2002-09-28T16:29:13-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=275
 ---
 More on Pingback vs <a href="http://www.decafbad.com/twiki/bin/view/Main/TrackBack">TrackBack</a> on <a href="http://ln.hixie.ch/?start=1033171507&amp;count=1">Hixie's Natural Log</a>.

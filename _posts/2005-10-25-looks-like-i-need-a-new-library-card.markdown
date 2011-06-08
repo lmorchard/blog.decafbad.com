@@ -2,6 +2,15 @@
 wordpress_id: 748
 layout: post
 title: Looks like I need a new library card
+tags: 
+- asides
+- books
+- detroit
+- royaloak
+- local
+- libraries
+wordpress_slug: looks-like-i-need-a-new-library-card
+wordpress_date: "2005-10-25T12:05:58-04:00"
 wordpress_url: http://decafbad.com/blog/?p=748
 ---
 You know, I just realized that I haven't stepped foot in a public library since I graduated college.  

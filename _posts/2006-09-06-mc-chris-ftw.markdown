@@ -2,6 +2,13 @@
 wordpress_id: 994
 layout: post
 title: mc chris ftw!
+tags: 
+- asides
+- nerdcore
+- mcchris
+- music
+wordpress_slug: mc-chris-ftw
+wordpress_date: "2006-09-06T16:27:46-04:00"
 wordpress_url: http://decafbad.com/blog/2006/09/06/mc-chris-ftw
 ---
 I've just picked up [MC Chris'][mcc] new album [Dungeon Master of Ceremonies][it], and I can't stop playing it on repeat.  It's [nerdcore perfection][np].

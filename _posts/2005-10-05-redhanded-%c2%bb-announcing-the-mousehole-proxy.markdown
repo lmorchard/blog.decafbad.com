@@ -2,6 +2,16 @@
 wordpress_id: 714
 layout: post
 title: "RedHanded \xC2\xBB Announcing the MouseHole Proxy"
+tags: 
+- asides
+- hacks
+- webdev
+- nifty
+- http
+- proxy
+- ruby
+wordpress_slug: redhanded-%c2%bb-announcing-the-mousehole-proxy
+wordpress_date: "2005-10-05T07:14:25-04:00"
 wordpress_url: http://decafbad.com/blog/?p=714
 ---
 <blockquote cite="http://redhanded.hobix.com/inspect/theMouseholeProxy.html">MouseHole is a scriptable proxy. Like Greasemonkey, but scripts are in Ruby.</blockquote><small style="text-align:right; display:block">Source: <a href="http://redhanded.hobix.com/inspect/theMouseholeProxy.html">RedHanded » Announcing the MouseHole Proxy</a></small><br />

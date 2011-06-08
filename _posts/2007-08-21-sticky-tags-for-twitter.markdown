@@ -2,6 +2,14 @@
 wordpress_id: 1060
 layout: post
 title: Sticky Tags for Twitter?
+tags: 
+- metablogging
+- mobile
+- twitter
+- tags
+- tagging
+wordpress_slug: sticky-tags-for-twitter
+wordpress_date: "2007-08-21T23:31:26-04:00"
 wordpress_url: http://decafbad.com/blog/2007/08/21/sticky-tags-for-twitter
 ---
 <p>I should elaborate on what I mean by <a href="http://twitter.com/lmorchard/statuses/218773732">tags in Twitter</a>, since I got a few head-scratching responses.</p>

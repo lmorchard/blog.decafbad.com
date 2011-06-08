@@ -2,6 +2,8 @@
 wordpress_id: 145
 layout: post
 title: Of metalinks, linkbacks, and Cocoa AmphetaDesk
+wordpress_slug: oooaff
+wordpress_date: "2002-05-29T14:51:23-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=145
 ---
 <p>Still busy busy, but had to drop in for a minute to try out the <a href="http://www.thinkblank.com/metalinker/">Metalinker</a> code here.  Two wishlist items: 1) Maybe use a micro-icon for the metalink, and 2) some indication of the number of links to the link on Blogdex would be hot, maybe even a green-through-red series of micro-icons for the link.  Could maybe count the links on the blogdex page via some sort of scraping, but that would require some server-side stuff since I doubt the client-side can do it.  (Or I just don't know enough modern browser scripting lately.)</p>

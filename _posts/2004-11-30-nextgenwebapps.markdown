@@ -3,6 +3,11 @@ wordpress_id: 568
 layout: post
 title: Next generation web apps using REST, XML, XSLT, and XmlHTTPRequest
 excerpt: "This has been where most of my private hacking sessions have been taking me over the past year or so:  combining HTML, CSS, DOM, JavaScript, XML, XSLT, and REST to build what I consider to be a next-generation web app."
+tags: 
+- syndication
+- xml
+wordpress_slug: nextgenwebapps
+wordpress_date: "2004-11-30T16:53:35-05:00"
 wordpress_url: http://www.decafbad.com/blog/?p=568
 ---
 So, like I was saying:  I've been working on [FeedReactor](http://www.decafbad.com/kwiki?FeedReactor) and have been doing some things with it that I find rather interesting, independent of news aggregation.  

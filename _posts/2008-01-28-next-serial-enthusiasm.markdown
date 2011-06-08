@@ -2,6 +2,13 @@
 wordpress_id: 1078
 layout: post
 title: Next serial enthusiasm?
+tags: 
+- asides
+- enthusiasms
+- kohana
+- pylons
+wordpress_slug: next-serial-enthusiasm
+wordpress_date: "2008-01-28T01:47:17-05:00"
 wordpress_url: http://decafbad.com/blog/?p=1078
 ---
 *Update:* Yeah - I sent out a request for comments after breaking my comments.  Ugh.  Thanks if you tried commenting, and I hope you might try again.  If not, thanks for stopping by anyway!

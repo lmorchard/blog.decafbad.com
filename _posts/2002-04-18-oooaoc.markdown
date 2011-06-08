@@ -2,6 +2,8 @@
 wordpress_id: 83
 layout: post
 title: Google Boxes?  Permasearch?
+wordpress_slug: oooaoc
+wordpress_date: "2002-04-18T03:09:08-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=83
 ---
 <p>In doing some poking around about <a href="http://www.decafbad.com/twiki/bin/view/Main/REST">REST</a>, I'm trying out a topic-specific Google search in the wiki via <a href="http://www.decafbad.com/twiki/bin/view/Main/GoogleToRSS">GoogleToRSS</a> and <a href="http://www.decafbad.com/twiki/bin/view/Main/RSSDisplay">RSSDisplay</a>.    (Thanks for the pointers, by the way, <a href="http://radio.weblogs.com/0101679/">Sam</a>!)</p>

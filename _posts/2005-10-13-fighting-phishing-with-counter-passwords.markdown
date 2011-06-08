@@ -2,6 +2,10 @@
 wordpress_id: 735
 layout: post
 title: Fighting phishing with counter-passwords
+tags: 
+- asides
+wordpress_slug: fighting-phishing-with-counter-passwords
+wordpress_date: "2005-10-13T12:42:52-04:00"
 wordpress_url: http://decafbad.com/blog/?p=735
 ---
 I just had a nutty idea to use against phishing scams:

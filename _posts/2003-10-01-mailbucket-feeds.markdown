@@ -2,6 +2,8 @@
 wordpress_id: 485
 layout: post
 title: Mailbucket syndication feeds
+wordpress_slug: mailbucket-feeds
+wordpress_date: "2003-10-01T11:34:25-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=485
 ---
 <p>

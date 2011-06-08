@@ -2,6 +2,10 @@
 wordpress_id: 855
 layout: post
 title: How's my (link) driving?
+tags: 
+- asides
+wordpress_slug: hows-my-link-driving
+wordpress_date: "2006-02-07T09:50:38-05:00"
 wordpress_url: http://decafbad.com/blog/?p=855
 ---
 So I've had the daily link posts going for a little while now—long enough to dominate the front page, anyway.  What do you think?  I'm not quite satisfied with them, and I've gotten mixed feedback from people who alternately thing the fresh infusion of posting from me is good, versus others who think the blog is polluted now and looks like a linkspam farm.

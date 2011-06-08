@@ -2,6 +2,8 @@
 wordpress_id: 431
 layout: post
 title: GUIDs in RSS rock
+wordpress_slug: guids-in-rss-rock
+wordpress_date: "2003-06-25T19:12:08-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=431
 ---
 <blockquote cite="http://backend.userland.com/permalinksNewsAggregators">Guids sure have a funny name, but they're quite useful. If your weblog tool supports them, use them. If not, ask the developer to add the support. It's not very hard.

@@ -2,6 +2,8 @@
 wordpress_id: 373
 layout: post
 title: INN + blagg + plugin = News Aggregation via NNTP
+wordpress_slug: ooodod
+wordpress_date: "2003-01-30T13:03:59-05:00"
 wordpress_url: http://www.decafbad.com/blog/?p=373
 ---
 <blockquote cite="http://www.pipetree.com/qmacro/2003/01/29#nntp">I couldn't resist a bit of tinkering with NNTP, partly to follow up a little bit myself on <a href="http://www.decafbad.com/twiki/bin/view/Main/RSS">RSS</a> to/via NNTP, but mostly in fact to re-acquaint myself with the wonderfully arcane configuration of the  majestic beast that is inn . In addition, there's been talk recently of aggregators moving out of the realms of satellite applications and into the browser itself. The Blagg and Blosxom powered Morning Reading page - my personal (but open) news aggregator - is already web-based, so I thought I'd have a look in the other direction. </blockquote><div class="credit" align="right"><small>Source:<cite><a href="http://www.pipetree.com/qmacro/2003/01/29#nntp">DJ's Weblog: Tinkering with RSS and NNTP </a></cite>.</small></div>

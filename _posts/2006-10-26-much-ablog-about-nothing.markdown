@@ -2,6 +2,14 @@
 wordpress_id: 1004
 layout: post
 title: much ablog about nothing
+tags: 
+- asides
+- metablogging
+- lazy
+- relaxing
+- nullblogging
+wordpress_slug: much-ablog-about-nothing
+wordpress_date: "2006-10-26T12:34:49-04:00"
 wordpress_url: http://decafbad.com/blog/2006/10/26/metabloggingrelaxing
 ---
 Wow - just shy of 2 weeks since the last post.  Had conversations with 2 different people today, both of whom knew of decafbad.com and both of whom asked me, "Huh, you don't really do the blogging thing so much anymore, do you?"  So, here I am blogging about not blogging again.  :) I've gotten back to being somewhat net-active again - got my news aggregator habits spun back up again, dropping a steady stream of [del.icio.us bookmarks][db] and 

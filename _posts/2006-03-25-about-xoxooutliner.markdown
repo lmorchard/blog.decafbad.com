@@ -2,6 +2,8 @@
 wordpress_id: 916
 layout: post
 title: About XoxoOutliner
+wordpress_slug: about-xoxooutliner
+wordpress_date: "2006-03-25T23:14:29-05:00"
 wordpress_url: http://decafbad.com/blog/2006/03/25/about-xoxooutliner
 ---
  <p>So, I keep making vague references to some cool things I want to work on.  Well, rather than staying cagey and in some lame sort of stealth mode - here's an early release, because I want to get some of it out of my head and onto the web.</p>

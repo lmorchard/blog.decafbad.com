@@ -3,6 +3,10 @@ wordpress_id: 584
 layout: post
 title: IP Relay calls at OpenPodcast.org
 excerpt: Well, this isn&#8217;t Podcasting for Cats, but it might be Podcasting for Five-Year-Olds.
+tags: 
+- syndication
+wordpress_slug: ip-relay-calls-at-openpodcastorg
+wordpress_date: "2005-01-08T14:38:10-05:00"
 wordpress_url: http://www.decafbad.com/blog/?p=584
 ---
 Well, this isn't Podcasting for Cats, but it might be Podcasting for Five-Year-Olds.  Right at this moment, I am caught between giggling and feeling so bad for [IP Relay operators][iprelay].  Abusing these poor saintly people isn't a new hack, but apparently making them call [OpenPodcast.org][openpodcast] and record podcast entries is.  

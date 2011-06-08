@@ -2,6 +2,8 @@
 wordpress_id: 372
 layout: post
 title: How to make a multi-platform monster
+wordpress_slug: ooodoc
+wordpress_date: "2003-01-28T02:07:53-05:00"
 wordpress_url: http://www.decafbad.com/blog/?p=372
 ---
 <p>So I'm thinking that I might prematurely release some code before the week is out, so anyone who's interested can point and laugh at my <a href="http://www.decafbad.com/twiki/bin/view/Main/PersonalWebProxy">PersonalWebProxy</a> exploits - this time in Java.</p>

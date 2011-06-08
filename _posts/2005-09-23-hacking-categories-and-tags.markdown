@@ -2,6 +2,10 @@
 wordpress_id: 683
 layout: post
 title: Hacking categories and tags
+tags: 
+- asides
+wordpress_slug: hacking-categories-and-tags
+wordpress_date: "2005-09-23T09:55:49-04:00"
 wordpress_url: http://decafbad.com/blog/?p=683
 ---
 One of the ideas behind what I'm trying to do with this new WordPress install and the hacks I've done thus far is to treat categories as "classes" of posts and use tags for topical / conceptual organization of posts.  

@@ -3,6 +3,10 @@ wordpress_id: 579
 layout: post
 title: Synchronet BBS Software, Tidal Pools, and On-Ramps
 excerpt: At least Finland isn't a long distance call anymore.
+tags: 
+- oldschool
+wordpress_slug: synchronet
+wordpress_date: "2004-12-16T10:19:03-05:00"
 wordpress_url: http://www.decafbad.com/blog/?p=579
 ---
 <blockquote>Synchronet Bulletin Board System Software is a free software package that can turn your personal computer into your own custom online service supporting multiple simultaneous users with hierarchical message and file areas, multi-user chat, and the ever-popular BBS door games.

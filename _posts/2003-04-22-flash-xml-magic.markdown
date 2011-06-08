@@ -2,6 +2,8 @@
 wordpress_id: 408
 layout: post
 title: Learning How to Do Magic with Flash and XML
+wordpress_slug: flash-xml-magic
+wordpress_date: "2003-04-22T12:22:50-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=408
 ---
 Was thinking about learning new tech, and well, I haven't gotten much

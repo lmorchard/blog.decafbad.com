@@ -2,6 +2,8 @@
 wordpress_id: 477
 layout: post
 title: White Hat Worms and robots.txt?
+wordpress_slug: superworm
+wordpress_date: "2003-09-05T11:10:53-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=477
 ---
 <blockquote cite="http://www.gulufuture.com/superworm.htm"><i>Or maybe it's time to release our own Defender.A worm which could invasively close down the relevant "holes" in Internet security. A defensive worm could use standard intrusion tactics for benign result. For example, it could worm it's way into Windows XP computers and get the owner's permission to turn their firewalls on. It could survey open TCP/IP ports and offer to close them.</i></blockquote><div class="credit" align="right"><small>Source: <cite><a href="http://www.gulufuture.com/superworm.htm">Superworm To Storm The Net On 9/11</a></cite> (via <a href="http://www.kurzweilai.net/news/news_single.html?id=2398">KurzweilAI</a>)</small></div>	<p>So, anger is my first reaction to the idea of any unwelcome visitors on any of my machines, well intentioned or not.  I&#8217;m sure that there aren&#8217;t many who wouldn&#8217;t feel the same way.  But, although a lot of us try to keep up on patches and maintain decent security, there&#8217;s the &#8220;great unwashed masses&#8221; who just want to &#8220;do email&#8220;.</p>

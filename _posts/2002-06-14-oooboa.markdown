@@ -2,6 +2,8 @@
 wordpress_id: 180
 layout: post
 title: Recent RSS readers in RSS
+wordpress_slug: oooboa
+wordpress_date: "2002-06-14T21:24:23-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=180
 ---
 <p>Now that I have this <a href="http://www.decafbad.com/rss_readers_rss.php">recent <a href="http://www.decafbad.com/twiki/bin/view/Main/RSS">RSS</a> readers</a> list in <a href="http://www.decafbad.com/twiki/bin/view/Main/RSS">RSS</a> (<a href="http://www.decafbad.com/rss_readers_rss_php.txt">src</a>), I can start to see who's just pulled me into their neighborhood.  (It even catches the userWeblog parameter from Radio subscribers!)</p>

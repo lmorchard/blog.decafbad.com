@@ -2,6 +2,10 @@
 wordpress_id: 807
 layout: post
 title: Modding is not the same as piracy
+tags: 
+- asides
+wordpress_slug: modding-is-not-the-same-as-piracy
+wordpress_date: "2005-12-22T12:17:19-05:00"
 wordpress_url: http://decafbad.com/blog/?p=807
 ---
 <blockquote cite="http://us.gizmodo.com/gadgets/home-entertainement/xbox-modders-get-thrown-in-jail-144394.php">Who would have thought that selling modded Xboxes was illegal? Apparently three Los Angeles men didn’t. Jason Jones and Jonathan Bryant, owners of the ACME game store in L.A., started selling modified Xboxes to customers at an incredible markup—sometimes netting over $500 for a modded box.</blockquote>

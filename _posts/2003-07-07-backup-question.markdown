@@ -2,6 +2,8 @@
 wordpress_id: 439
 layout: post
 title: Backups with my eyes closed?
+wordpress_slug: backup-question
+wordpress_date: "2003-07-07T14:45:21-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=439
 ---
 Okay, so at my new job I'm the Guy if it has a transistor in it.  I'm

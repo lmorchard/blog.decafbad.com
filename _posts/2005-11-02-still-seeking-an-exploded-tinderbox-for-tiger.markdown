@@ -2,6 +2,13 @@
 wordpress_id: 763
 layout: post
 title: Still Seeking an Exploded Tinderbox for Tiger
+tags: 
+- xoxo
+- tinderbox
+- spotlight
+- tiger
+wordpress_slug: still-seeking-an-exploded-tinderbox-for-tiger
+wordpress_date: "2005-11-02T01:03:10-05:00"
 wordpress_url: http://decafbad.com/blog/?p=763
 ---
 This is a recurring thought: I still really, really want [an exploded Tinderbox on Tiger][exp].  It could *so* become an *über* Spotlight/Finder replacement.  I just don't seem to have time or ambition to write it.

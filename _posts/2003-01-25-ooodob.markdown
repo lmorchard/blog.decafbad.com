@@ -2,6 +2,8 @@
 wordpress_id: 371
 layout: post
 title: Etiquette with friends & relationships in FOAF?
+wordpress_slug: ooodob
+wordpress_date: "2003-01-25T16:29:49-05:00"
 wordpress_url: http://www.decafbad.com/blog/?p=371
 ---
 <blockquote cite="http://snowdeal.org/section/ex_machina/archives/2003_01_19_index.html#90233272">interestingly, it seems that besides myself there are a goodly number of people wondering about the etiquette surrounding foaf friend declaration. while it's mostly a social and not technical problem, it's precisely the sort of thing that will keep foaf from reaching any kind of critical mass. </blockquote><div class="credit" align="right"><small>Source:<cite><a href="http://snowdeal.org/section/ex_machina/archives/2003_01_19_index.html#90233272">snowdeal.org, ex machina</a></cite>.</small></div>

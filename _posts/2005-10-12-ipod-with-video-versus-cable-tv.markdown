@@ -2,6 +2,10 @@
 wordpress_id: 732
 layout: post
 title: iPod with video versus cable TV
+tags: 
+- asides
+wordpress_slug: ipod-with-video-versus-cable-tv
+wordpress_date: "2005-10-12T16:12:13-04:00"
 wordpress_url: http://decafbad.com/blog/?p=732
 ---
 Hmm, so the video-playing iPod has arrived.  And [they're selling current episodes of ABC TV shows at $1.99 a pop][video].  Let me lay down some quick thoughts here:  

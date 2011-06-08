@@ -2,6 +2,14 @@
 wordpress_id: 751
 layout: post
 title: Tell me, oh Oracle
+tags: 
+- asides
+- metablogging
+- retro
+- oracle
+- internet
+wordpress_slug: tell-me-oh-oracle
+wordpress_date: "2005-10-26T00:08:55-04:00"
 wordpress_url: http://decafbad.com/blog/?p=751
 ---
 <blockquote cite="http://cgi.cs.indiana.edu/~oracle/index.cgi">Do you endeavor with a difficult dilemma, or ponder a posed problem you cannot perspicaciously pursue? Angling anxiously for advice? The Internet Oracle can help! Like all famous oracles, the Internet Oracle is omniscient, and will provide some answer to your question. In return, the Oracle may require that you perform a small service ...</blockquote>

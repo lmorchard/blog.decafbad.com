@@ -2,6 +2,14 @@
 wordpress_id: 1224
 layout: post
 title: using Twitterrific with identi.ca
+tags: 
+- asides
+- twitter
+- laconica
+- twitterrific
+- identica
+wordpress_slug: using-twitterrific-with-identica
+wordpress_date: "2008-07-18T17:56:18-04:00"
 wordpress_url: http://decafbad.com/blog/?p=1224
 ---
 Since [identi.ca](http://identi.ca) [has introduced support][idapi] for the [Twitter API][tapi], switching [Twitterrific][] over seems to be as easy as entering this command in a [Terminal][] window:

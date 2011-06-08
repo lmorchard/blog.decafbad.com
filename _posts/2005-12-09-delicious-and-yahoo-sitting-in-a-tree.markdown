@@ -2,6 +2,10 @@
 wordpress_id: 793
 layout: post
 title: del.icio.us and Yahoo! sitting in a tree
+tags: 
+- asides
+wordpress_slug: delicious-and-yahoo-sitting-in-a-tree
+wordpress_date: "2005-12-09T16:04:55-05:00"
 wordpress_url: http://decafbad.com/blog/?p=793
 ---
 <blockquote cite="http://blog.del.icio.us/blog/2005/12/yahoo.html">We're proud to announce that del.icio.us has joined the Yahoo! family.  Together we'll continue to improve how people discover, remember and share on the Internet, with a big emphasis on the power of community.</blockquote>

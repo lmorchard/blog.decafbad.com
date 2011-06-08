@@ -2,6 +2,15 @@
 wordpress_id: 1029
 layout: post
 title: do not taunt happy fun JSON
+tags: 
+- asides
+- json
+- webdev
+- webservices
+- javascript
+- ws
+wordpress_slug: do-not-taunt-happy-fun-json
+wordpress_date: "2006-12-20T21:55:45-05:00"
 wordpress_url: http://decafbad.com/blog/2006/12/20/do-not-taunt-happy-fun-json
 ---
 Allow me to repeat myself somewhat and clarify my general opinion of JSON and its use in cross-domain browser scripting:

@@ -3,6 +3,11 @@ wordpress_id: 549
 layout: post
 title: "dbagg3: Please excuse the mess"
 excerpt: Wow.  So it looks like there are some people starting to follow to what I'm doing with dbagg3, and they're showing me how woefully prepared I am for the attention from tinkerers who are actually trying to, you know, run my code.
+tags: 
+- syndication
+- xml
+wordpress_slug: dbagg3mess
+wordpress_date: "2004-09-17T09:32:30-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=549
 ---
 Wow.  So it looks like there are some people starting to follow to what I'm doing with `dbagg3`, and they're showing me how woefully prepared I am for the attention from tinkerers who are actually trying to, you know, **run** my code.  Things have been crazy busy for me at work, so I haven't been getting done what I've planned.  But, I do need to pull a few things together and clean a few things up.  I'll soon be answering the smattering of email I've gotten so far, but until then, a few quick thoughts:

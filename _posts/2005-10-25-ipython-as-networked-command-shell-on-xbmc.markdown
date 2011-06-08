@@ -2,6 +2,14 @@
 wordpress_id: 749
 layout: post
 title: IPython as networked command shell on XBMC?
+tags: 
+- asides
+- python
+- xbox
+- xbmc
+- lazyweb
+wordpress_slug: ipython-as-networked-command-shell-on-xbmc
+wordpress_date: "2005-10-25T12:28:01-04:00"
 wordpress_url: http://decafbad.com/blog/?p=749
 ---
 Just in case it's already been done, or I don't get around do doing it, hear me oh [LazyWeb][lw]:  

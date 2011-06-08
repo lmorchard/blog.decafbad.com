@@ -2,6 +2,8 @@
 wordpress_id: 278
 layout: post
 title: Cheers and tears, too
+wordpress_slug: ooococ
+wordpress_date: "2002-10-08T15:46:11-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=278
 ---
 Hello everyone out there.  I've been busy as hell these last weeks, for reasons personal and professional, but I wanted to take a second to say something:

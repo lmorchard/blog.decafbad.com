@@ -3,6 +3,11 @@ wordpress_id: 546
 layout: post
 title: Early dbagg3 demo is alive and kicking
 excerpt: So at this point, it's all URLs and barely working HTML, but it's exciting to me at least.  And it's dogfood for me, since I'm using this crud to get my daily (hourly?) fix.  Pretty soon, I'll be diving into wrapping more of a proper usable web app around this, with user management and stuff that works in MSIE.  Until then, maybe someone else will see this and catch a buzz from it.
+tags: 
+- syndication
+- xml
+wordpress_slug: dbagg3alive
+wordpress_date: "2004-09-13T18:11:41-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=546
 ---
 Got some very good work in this weekend on switching servers and getting [`dbagg3`][dbagg3] in some semblance of working order somewhere other than on my overworked and decidedly non-publicly-demonstrable laptop.

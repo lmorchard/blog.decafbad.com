@@ -2,6 +2,8 @@
 wordpress_id: 594
 layout: post
 title: Shallow thoughts of the day
+wordpress_slug: shallow-thoughts-of-the-day
+wordpress_date: "2005-02-23T22:31:55-05:00"
 wordpress_url: http://www.decafbad.com/blog/?p=594
 ---
 * Maybe if I put this coffee from the office pot into this Starbucks cup, I can fool myself that it's suitable for drinking.

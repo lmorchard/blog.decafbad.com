@@ -2,6 +2,10 @@
 wordpress_id: 722
 layout: post
 title: "Ads in Slate's RSS: Fresh promos, updated on demand in stale content"
+tags: 
+- asides
+wordpress_slug: ads-in-slates-rss-fresh-promos-updated-on-demand-in-stale-content
+wordpress_date: "2005-10-07T10:42:38-04:00"
 wordpress_url: http://decafbad.com/blog/?p=722
 ---
 Damn you, Slate.  I'm really starting to get annoyed with various sites' implementation of advertising in feeds.  Yes, [I'm looking at *you* too, Boing Boing][bb].  
