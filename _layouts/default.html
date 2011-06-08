@@ -10,9 +10,9 @@
                 rel="alternate" title="{{ page.title }} - {{ site.meta.site_title }} (Atom)" 
                 type="application/atom+xml" />
         {% else %}
-            <link href="/blog/atom.xml" rel="alternate" 
+            <link href="{{ site.baseurl }}/atom.xml" rel="alternate" 
                 title="{{ site.meta.site_title }} (Atom)" type="application/atom+xml" />
-            <link href="/blog/rss.xml" rel="alternate" 
+            <link href="{{ site.baseurl }}/rss.xml" rel="alternate" 
                 title="{{ site.meta.site_title }} (RSS)" type="application/rss+xml" />
         {% endif %}
         
@@ -21,7 +21,7 @@
         <![endif]-->
         <!-- Homepage CSS -->
         
-        <link rel="stylesheet" href="/blog/css/screen.css" 
+        <link rel="stylesheet" href="{{ site.baseurl }}/css/screen.css" 
             type="text/css" media="screen, projection" />
         
     </head>
