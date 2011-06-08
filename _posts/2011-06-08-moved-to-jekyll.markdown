@@ -52,11 +52,11 @@ This has a lot of interesting implications:
 
 But, some things are broken, now:
 
-* No more tag pages. I don't think very many humans visit these pages, but
-  a lot of search engines do.
+* [Fixed][tags] <strike>No more tag pages. I don't think very many humans visit these pages, but
+  a lot of search engines do.</strike>
 
-* No more tag feeds. I expect to hear about this soon, since this blog gets
-  syndicated to Planet Mozilla via my "mozilla" tag feed.
+* [Fixed][tags] <strike>No more tag feeds. I expect to hear about this soon, since this blog gets
+  syndicated to Planet Mozilla via my "mozilla" tag feed.</strike>
 
 * No more year / month archive pages or sidebar widget. Not sure how many
   people actually stroll down memory lane here on my blog, but I do have a
@@ -69,6 +69,8 @@ But, some things are broken, now:
   conditional regneration. That is, only produce the HTML for things that
   need it because dependencies have changed. No need to rebake the whole
   world just because I changed one file.
+
+[tags]: https://github.com/lmorchard/blog.decafbad.com/commit/a79678828ab612c2edb8a8ac3f796199cb922a2e
 
 The bright side is that there are solutions to all the broken things, and
 now I have something to tinker with again on my blog.  So, let me know if

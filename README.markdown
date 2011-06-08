@@ -7,6 +7,7 @@ This is my blog. There are many others like it, but this one is mine.
 
 * Jekyll and friends
 * `gem install nokogiri`
+* `gem install hpricot`
 
 ## License
 
