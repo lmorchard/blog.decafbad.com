@@ -1,41 +1,21 @@
 ---
 layout: default
 ---
-<nav class="page-navigation">
-    <ul>
-        {% if page.previous.url %}
-        <li class="left">
-            <a href="{{ site.baseurl }}{{page.previous.url}}" accesskey="p" title="Previous Post: {{page.previous.title}}">&laquo; {{page.previous.title}}</a>
-        </li>
-        {% endif %}
-        {% if page.next.url %}
-        <li class="right">
-            <a href="{{ site.baseurl }}{{page.next.url}}" accesskey="n" title="next Post: {{page.next.title}}">{{page.next.title}} &raquo;</a>
-        </li>
-        {% endif %}
-    </ul>
-</nav>
+
+{% include post-page-nav.html %}
 
 <article class="post">
     <h2 class="title">{{ page.title }}</h2>
     <time title="{{ page.date | date_to_xmlschema }}" pubdate="{{ page.date | date_to_xmlschema }}">{{ page.date | date: '%B %d, %Y - %I:%M %p %Z' }}</time>
+    <ul class="tags">
+        {% for tag in page.tags %}
+            <li><a href="{{ site.baseurl }}/tag/{{tag | replace:' ', '-' | downcase }}">{{ tag }}</a>{% if forloop.last == false %}, {%endif %}</li>
+        {% endfor %}
+    </ul>
     {{ content }}
 </article>
 
-<nav class="page-navigation">
-    <ul>
-        {% if page.previous.url %}
-        <li class="left">
-            <a href="{{ site.baseurl }}{{page.previous.url}}" title="Previous Post: {{page.previous.title}}">&laquo; {{page.previous.title}}</a>
-        </li>
-        {% endif %}
-        {% if page.next.url %}
-        <li class="right">
-            <a href="{{ site.baseurl }}{{page.next.url}}" title="next Post: {{page.next.title}}">{{page.next.title}} &raquo;</a>
-        </li>
-        {% endif %}
-    </ul>
-</nav>
+{% include post-page-nav.html %}
 
 <section class="comments">
     <div id="disqus_thread"></div>

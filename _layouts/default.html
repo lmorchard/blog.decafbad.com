@@ -4,16 +4,26 @@
         <meta http-equiv="content-type" content="text/html; charset=utf-8" />
         <title>{% if page.title %}{{ page.title }} - {% endif %}{{ site.meta.site_title }}</title>
         <meta name="author" content="{{ site.meta.author.fullname }}" />
-        <link href="/blog/atom.xml" rel="alternate" 
-            title="{{ site.meta.site_title }} (Atom)" type="application/atom+xml" />
-        <link href="/blog/rss.xml" rel="alternate" 
-            title="{{ site.meta.site_title }} (RSS)" type="application/rss+xml" />
+
+        {% if page.tag %}
+            <link href="{{ site.baseurl }}/tag/{{page.tag | replace:' ', '-' | downcase }}/atom.xml" 
+                rel="alternate" title="{{ page.title }} - {{ site.meta.site_title }} (Atom)" 
+                type="application/atom+xml" />
+        {% else %}
+            <link href="/blog/atom.xml" rel="alternate" 
+                title="{{ site.meta.site_title }} (Atom)" type="application/atom+xml" />
+            <link href="/blog/rss.xml" rel="alternate" 
+                title="{{ site.meta.site_title }} (RSS)" type="application/rss+xml" />
+        {% endif %}
+        
         <!--[if lt IE 9]>
         <script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script>
         <![endif]-->
         <!-- Homepage CSS -->
+        
         <link rel="stylesheet" href="/blog/css/screen.css" 
             type="text/css" media="screen, projection" />
+        
     </head>
     <body>
 

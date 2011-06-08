@@ -10,6 +10,7 @@ meta:
         name: l.m.orchard
         email: l.m.orchard@pobox.com
 
+tag_dir: tag
 baseurl: /blog
 markdown: rdiscount
 pygments: true
