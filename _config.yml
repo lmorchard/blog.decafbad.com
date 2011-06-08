@@ -2,7 +2,7 @@ meta:
     site_title: "0xDECAFBAD"
     site_subtitle: "It's all spinning wheels and self-doubt until the first pot of coffee."
     site_language: "en"
-    base_url: http://decafbad.com/blog
+    absolute_baseurl: http://decafbad.com/blog
     domain: decafbad.com
     author:
         full_name: Leslie Michael Orchard
@@ -10,6 +10,10 @@ meta:
         name: l.m.orchard
         email: l.m.orchard@pobox.com
 
+baseurl: /blog
 markdown: rdiscount
 pygments: true
 permalink: /:year/:month/:day/:title
+
+debug: false
+

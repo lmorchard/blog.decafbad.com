@@ -1,34 +1,40 @@
 ---
 layout: default
 ---
-<div id="page-navigation">
-        <div class="clear">&nbsp;</div>
-        <div class="left">
+<nav class="page-navigation">
+    <ul>
         {% if page.previous.url %}
-                <a href="{{page.previous.url}}" title="Previous Post:
-{{page.previous.title}}">&laquo; {{page.previous.title}}</a>
+        <li class="left">
+            <a href="{{ site.baseurl }}{{page.previous.url}}" accesskey="p" title="Previous Post: {{page.previous.title}}">&laquo; {{page.previous.title}}</a>
+        </li>
         {% endif %}
-        </div>
-
-        <div class="right">
         {% if page.next.url %}
-                <a href="{{page.next.url}}" title="next Post:
-{{page.next.title}}">{{page.next.title}} &raquo; </a>
+        <li class="right">
+            <a href="{{ site.baseurl }}{{page.next.url}}" accesskey="n" title="next Post: {{page.next.title}}">{{page.next.title}} &raquo;</a>
+        </li>
         {% endif %}
-        </div>
-        <div class="clear">&nbsp;</div>
-</div> 
+    </ul>
+</nav>
 
-<div id="post">
-<h1>{{ page.title }}</h1>
-{{ content }}
-</div>
+<article class="post">
+    <h2>{{ page.title }}</h2>
+    {{ content }}
+</article>
 
-<div id="related">
-  <h2>Related Posts</h2>
-  <ul class="posts">
-    {% for post in site.related_posts limit:5 %}
-      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
-    {% endfor %}
-  </ul>
-</div>
+<nav class="page-navigation">
+    <ul>
+        {% if page.previous.url %}
+        <li class="left">
+            <a href="{{ site.baseurl }}{{page.previous.url}}" title="Previous Post: {{page.previous.title}}">&laquo; {{page.previous.title}}</a>
+        </li>
+        {% endif %}
+        {% if page.next.url %}
+        <li class="right">
+            <a href="{{ site.baseurl }}{{page.next.url}}" title="next Post: {{page.next.title}}">{{page.next.title}} &raquo;</a>
+        </li>
+        {% endif %}
+    </ul>
+</nav>
+
+<section class="comments">
+</section>
