@@ -64,6 +64,11 @@ But, some things are broken, now:
 * A general lack of contextual links to related posts and such. Turns out
   that running the LSI option on Jekyll is completely horrible.
 
+* Regeneration seems less-than-happy in general, and I wish it did
+  conditional regneration. That is, only produce the HTML for things that
+  need it because dependencies have changed. No need to rebake the whole
+  world just because I changed one file.
+
 The bright side is that there are solutions to all the broken things, and
 now I have something to tinker with again on my blog.  So, let me know if
 anything else looks broken, and hopefully this will get me spewing some
