@@ -6,7 +6,7 @@ layout: default
 
 <article class="post">
     <h2 class="title">{{ page.title }}</h2>
-    <time title="{{ page.date | date_to_xmlschema }}" pubdate="{{ page.date | date_to_xmlschema }}">{{ page.date | date: '%B %d, %Y - %I:%M %p %Z' }}</time>
+    <time title="{{ page.date | date_to_xmlschema }}" pubdate="{{ page.date | date_to_xmlschema }}">{{ page.date | date: '%B %d, %Y' }}{% if page.time %} - {{ page.time }}{% endif %}</time>
     <ul class="tags">
         {% for tag in page.tags %}
             <li><a href="{{ site.baseurl }}/tag/{{tag | replace:' ', '-' | downcase }}">{{ tag }}</a>{% if forloop.last == false %}, {%endif %}</li>
