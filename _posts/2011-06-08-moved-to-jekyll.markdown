@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Moved to Jekyll and Disqus
+time: 5:15 PM
 tags: [ metablogging, jekyll, disqus, webdev, hosting ]
 ---
 **TL;DR**: <em>My blog is now produced by [Jekyll][], with comments hosted by [Disqus][].</em>
