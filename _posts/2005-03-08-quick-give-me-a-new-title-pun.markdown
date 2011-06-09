@@ -2,8 +2,8 @@
 wordpress_id: 610
 layout: post
 title: Quick, give me a new title pun
+date: "2005-03-08T16:49:53-05:00"
 wordpress_slug: quick-give-me-a-new-title-pun
-wordpress_date: "2005-03-08T16:49:53-05:00"
 wordpress_url: http://www.decafbad.com/blog/?p=610
 ---
 * [Bunnyrabbits, Satan, Cheese and Milk][bscm].  Thank you, [Radio Clash][rc], only [trepanning][tre] will help me now.

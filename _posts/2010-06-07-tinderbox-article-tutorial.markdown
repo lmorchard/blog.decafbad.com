@@ -2,6 +2,7 @@
 wordpress_id: 1925
 layout: post
 title: Using Tinderbox to write articles for the web
+date: "2010-06-07T00:41:03-04:00"
 tags: 
 - metablogging
 - webdev
@@ -10,7 +11,6 @@ tags:
 - entries
 - html
 wordpress_slug: tinderbox-article-tutorial
-wordpress_date: "2010-06-07T00:41:03-04:00"
 wordpress_url: http://decafbad.com/blog/?p=1925
 ---
 <em><strong>TL;DR:</strong> I just put together [a tutorial about writing an article in HTML][article] using [Tinderbox][] from [Eastgate Systems, Inc][eastgate].</em>

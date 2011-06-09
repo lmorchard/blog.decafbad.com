@@ -2,6 +2,7 @@
 wordpress_id: 800
 layout: post
 title: Stupid fun with fax machines
+date: "2005-12-15T16:55:58-05:00"
 tags: 
 - asides
 - hacks
@@ -9,7 +10,6 @@ tags:
 - nifty
 - fax
 wordpress_slug: stupid-fun-with-fax-machines
-wordpress_date: "2005-12-15T16:55:58-05:00"
 wordpress_url: http://decafbad.com/blog/?p=800
 ---
 <blockquote cite="http://faxtoy.net/">Random Stuff Sent From Your Fax Machine<br />Fax something interesting to 1-510-545-0990</blockquote>

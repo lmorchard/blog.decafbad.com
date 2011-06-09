@@ -2,8 +2,8 @@
 wordpress_id: 29
 layout: post
 title: From Slashcode to Radio UserLand?
+date: "2002-03-04T16:52:43-05:00"
 wordpress_slug: oooode
-wordpress_date: "2002-03-04T16:52:43-05:00"
 wordpress_url: http://www.decafbad.com/blog/?p=29
 ---
 Hmm.  I've mused about replacing Movable Type with Slashcode and going in one direction on the web app dynamicity scale.  What about replacing MT with <a href="http://www.decafbad.com/twiki/bin/view/Main/RadioUserLand">RadioUserLand</a>?

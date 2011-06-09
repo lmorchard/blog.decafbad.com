@@ -2,10 +2,10 @@
 wordpress_id: 840
 layout: post
 title: links for 2006-01-27
+date: "2006-01-27T00:22:24-05:00"
 tags: 
 - links
 wordpress_slug: links-for-2006-01-27
-wordpress_date: "2006-01-27T00:22:24-05:00"
 wordpress_url: http://decafbad.com/blog/2006/01/27/links-for-2006-01-27
 ---
 <ul class="delicious">

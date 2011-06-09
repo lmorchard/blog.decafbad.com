@@ -2,6 +2,7 @@
 wordpress_id: 798
 layout: post
 title: Safari RSS database columns not so mysterious now
+date: "2005-12-13T16:08:06-05:00"
 tags: 
 - asides
 - rss
@@ -13,7 +14,6 @@ tags:
 - monkey
 - robot
 wordpress_slug: safari-rss-database-columns-not-so-mysterious-now
-wordpress_date: "2005-12-13T16:08:06-05:00"
 wordpress_url: http://decafbad.com/blog/?p=798
 ---
 <blockquote cite="http://decafbad.com/blog/2005/06/28/safarirssdb#comment-3165">The column names were inspired by the freebie game <a href="http://www.atomicsockmonkey.com/freebies/MNPR.pdf">Monkey, Ninja, Pirate, Robot</a> published by Atomic Sock Monkey. It’s fun! Try it!<br /><br />The fact that there are weird column names was inspired by sqlite’s (then-)inability to add columns to existing tables. So the last time I had to break the schema to add a new column, I added four more as a reserve.<br /><br />Needless to say, the contents, schema and very existence of that database are subject to change without notice, etc. etc.</blockquote>

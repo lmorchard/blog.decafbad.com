@@ -2,13 +2,13 @@
 wordpress_id: 989
 layout: post
 title: RSS CAPTCHA Prototype 2
+date: "2006-08-29T00:02:55-04:00"
 tags: 
 - asides
 - metablogging
 - rss
 - captchas
 wordpress_slug: rss-captcha-prototype-2
-wordpress_date: "2006-08-29T00:02:55-04:00"
 wordpress_url: http://decafbad.com/blog/2006/08/29/rss-captcha-prototype-2
 ---
 <blockquote cite="http://kentbrewster.com/rss-captcha-prototype">Updated: okay, consensus is that it's just Too Darn Painful. I'm going to go ahead and link to the blog in question at the prompt; we'll see what happens.</blockquote><div class="quotesource">Source: <a href="http://kentbrewster.com/rss-captcha-prototype">RSS CAPTCHA Prototype</a></div>

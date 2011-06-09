@@ -2,8 +2,8 @@
 wordpress_id: 598
 layout: post
 title: 1.21 quickiewatts?!  (What the hell is a quickiewatt?!?)
+date: "2005-02-28T00:00:49-05:00"
 wordpress_slug: quickiewatts
-wordpress_date: "2005-02-28T00:00:49-05:00"
 wordpress_url: http://www.decafbad.com/blog/?p=598
 ---
 * [The Back to the Future trilogy][bttf] is, hands down, a work of genius.  And I was overjoyed to watch the whole run on TNT this weekend while I worked on yet another book chapter.

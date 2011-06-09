@@ -3,8 +3,8 @@ wordpress_id: 621
 layout: post
 title: One hundred words for snow
 excerpt: So, what to do in order to freshen up a concept that's suddenly enjoying a sort of phoenix rebirth?  Well, apparently, the impulse is to (re)name it.
+date: "2005-03-22T09:59:50-05:00"
 wordpress_slug: one-hundred-words-for-snow
-wordpress_date: "2005-03-22T09:59:50-05:00"
 wordpress_url: http://www.decafbad.com/blog/?p=621
 ---
 About the recent "Ajax" hubbub and REST before it, [Ian Hixie writes][hix]:

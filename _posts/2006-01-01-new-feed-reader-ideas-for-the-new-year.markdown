@@ -2,8 +2,8 @@
 wordpress_id: 812
 layout: post
 title: New feed reader ideas for the new year?
+date: "2006-01-01T12:34:19-05:00"
 wordpress_slug: new-feed-reader-ideas-for-the-new-year
-wordpress_date: "2006-01-01T12:34:19-05:00"
 wordpress_url: http://decafbad.com/blog/?p=812
 ---
 <blockquote cite="http://scripting.wordpress.com/2005/12/29/why-im-working-on-an-aggregator/">It’s 2005 now, soon to be 2006. In the four years since Radio 8, there have been lots of aggregators, but honestly, not so many new ideas.</blockquote>

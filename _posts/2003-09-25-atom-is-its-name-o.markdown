@@ -2,8 +2,8 @@
 wordpress_id: 482
 layout: post
 title: Atom is its Name-O?
+date: "2003-09-25T09:31:01-04:00"
 wordpress_slug: atom-is-its-name-o
-wordpress_date: "2003-09-25T09:31:01-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=482
 ---
 <blockquote cite="http://www.imc.org/atom-syntax/mail-archive/msg00571.html">I would like to propose, nay, admonish, that the name of the format and spec

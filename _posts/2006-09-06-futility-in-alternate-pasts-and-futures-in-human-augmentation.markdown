@@ -2,6 +2,7 @@
 wordpress_id: 992
 layout: post
 title: Futility in alternate pasts and futures in human augmentation
+date: "2006-09-06T15:57:42-04:00"
 tags: 
 - ajax
 - webdev
@@ -11,7 +12,6 @@ tags:
 - js
 - outliners
 wordpress_slug: futility-in-alternate-pasts-and-futures-in-human-augmentation
-wordpress_date: "2006-09-06T15:57:42-04:00"
 wordpress_url: http://decafbad.com/blog/2006/09/06/futility-in-alternate-pasts-and-futures-in-human-augmentation
 ---
 <blockquote cite="http://www.adaptivepath.com/blog/2006/09/05/the-futility-of-designing-for-an-alternate-past/">While it’s great to draw inspiration and ideas from the past, recreating the past in the hope that it becomes the future seems like a futile idea. Does anyone really want to return to a command-line interface to manipulate documents? It’s designing for a past that never happened, one where we all became computer scientists and enjoyed manipulating documents via arcane commands.<br />...<br />A better, more productive, use of time would have been to say, what inspiration can still be gained from Engelbart’s ideas? There’s still a lot to be gleaned from his 1962 (!) paper [Augmenting Human Intellect](http://www.bootstrap.org/augdocs/friedewald030402/augmentinghumanintellect/ahi62index.html). How might some of his thoughts on collaborative intelligence be implemented in our world now, in 2006, within the technology we have now? That’s the question waiting to be solved.</blockquote><div class="quotesource">Source: <a href="http://www.adaptivepath.com/blog/2006/09/05/the-futility-of-designing-for-an-alternate-past/">adaptive path » blog » blog archive » The Futility of Designing for an Alternate Past</a></div>

@@ -2,8 +2,8 @@
 wordpress_id: 332
 layout: post
 title: On the road to a PersonalWebProxy
+date: "2002-12-18T13:40:27-05:00"
 wordpress_slug: oooceh
-wordpress_date: "2002-12-18T13:40:27-05:00"
 wordpress_url: http://www.decafbad.com/blog/?p=332
 ---
 In case anyone's been wondering, I've not slipped back into oblivion.  I've been a little busier at work again, but nowhere near a death march pace.  And, in the free time I've been clearing up for tinkering, I've been working semi-obsessively on the aforementioned <a href="http://www.decafbad.com/twiki/bin/view/Main/PersonalWebProxy">PersonalWebProxy</a> idea.  I dove back into <a href="http://www.decafbad.com/twiki/bin/view/Main/Python">Python</a>, started soaking in the <a href="http://www.twistedmatrix.com" target="_top">Twisted framework</a>, and just about have an operable-but-ugly first attempt at a basic HTTP proxy with plug-in filters.  

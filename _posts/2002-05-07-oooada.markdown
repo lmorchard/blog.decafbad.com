@@ -2,8 +2,8 @@
 wordpress_id: 120
 layout: post
 title: Linkbacks, biology, and killer P2P blog plumbing.
+date: "2002-05-07T18:17:33-04:00"
 wordpress_slug: oooada
-wordpress_date: "2002-05-07T18:17:33-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=120
 ---
 <p>I meant to post a quick thank you to <a href="http://udell.roninhouse.com/">Jon Udell</a> for the link in his recent O'Reilly Network article, <a href="http://www.oreillynet.com/pub/a/webservices/2002/05/03/udell.html">Blogspace Under the Microscope</a>.  But beyond the fact that he mentions me, I really like the biological metaphor for blogspace he explores there.  </p>

@@ -2,8 +2,8 @@
 wordpress_id: 599
 layout: post
 title: Quickiedore 64
+date: "2005-03-01T07:03:26-05:00"
 wordpress_slug: quickiedore-64
-wordpress_date: "2005-03-01T07:03:26-05:00"
 wordpress_url: http://www.decafbad.com/blog/?p=599
 ---
 * ["President Kochalka" by James Kochalka][pk] has burrowed into my ear like a Tau Ceti eel.

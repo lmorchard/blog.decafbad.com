@@ -2,8 +2,8 @@
 wordpress_id: 189
 layout: post
 title: VerisignOff from broken registrars
+date: "2002-06-27T19:10:09-04:00"
 wordpress_slug: ooobao
-wordpress_date: "2002-06-27T19:10:09-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=189
 ---
 <p>Okay, so <a href="http://www.nsi.com">NetSol</a>'s interface for me to change the DNS server responsible for decafbad.com has been coming up with an error page for me, <i>for 3 days now</i>.  I just donated to <a href="http://www.dyndns.org">DynDns.org</a> so I could get some dynamic DNS love going on with some decafbad.com subdomains, but no dice on switching the domain to point at their servers when my registrar's <b>site is broken</b>.</p>

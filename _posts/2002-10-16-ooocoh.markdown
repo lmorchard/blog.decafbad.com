@@ -2,8 +2,8 @@
 wordpress_id: 283
 layout: post
 title: A new toy, and blaming Vinge
+date: "2002-10-16T17:32:38-04:00"
 wordpress_slug: ooocoh
-wordpress_date: "2002-10-16T17:32:38-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=283
 ---
 So I finally broke down and bought a new gadget.  My phone was 5 years old and losing its antenna, and my Handspring Visor Deluxe (pre-ordered the day of introduction!) was showing its age.  I was thinking that, for the phone, I'd get something small and sleek.  Something that would likely fall through the little hole I inevitably have in every pocket of every jacket and overcoat I own.  And I was thinking that eventually, I'd procure a Sharp Zaurus to replace my PDA.  I would miss the Palm OS platform, it having done alright by me for about 6 years now, but I wanted excitement! and adventure! and modernity!

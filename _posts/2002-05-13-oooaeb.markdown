@@ -2,8 +2,8 @@
 wordpress_id: 131
 layout: post
 title: Javascript-enabled linkbacks, part deux
+date: "2002-05-13T13:28:39-04:00"
 wordpress_slug: oooaeb
-wordpress_date: "2002-05-13T13:28:39-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=131
 ---
 <p>Hmm, looks like I was completely wrong <a href="http://www.decafbad.com/news_archives/000150.phtml">when I wrote</a> that the post-hash bit of referring URLs weren't showing up in my referral logs.  Duh.  I see them right in my "Today's Referrers" block on my site's front page, and a quick SQL query shows me tons of them.  It'll be easier to linkback-enable Radio <a href="http://www.decafbad.com/twiki/bin/view/Main/UserLand">UserLand</a> blogs than I thought.</p>

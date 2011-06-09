@@ -2,8 +2,8 @@
 wordpress_id: 401
 layout: post
 title: Arthur's got a bulging blogroll
+date: "2003-03-26T18:01:45-05:00"
 wordpress_slug: arthurs-blogroll
-wordpress_date: "2003-03-26T18:01:45-05:00"
 wordpress_url: http://www.decafbad.com/blog/?p=401
 ---
 <blockquote cite="http://timeistight.com/index.php?entry=/blogs%20and%20blogging/0xDECAFBAD.txt">0xDECAFBAD (I love that name) has a new design, powered by Blosxom. I like it. You're going in my bulging blogroll, Les.</blockquote>

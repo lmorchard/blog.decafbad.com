@@ -2,8 +2,8 @@
 wordpress_id: 472
 layout: post
 title: Using web services and XSLT to scrape RSS from HTML
+date: "2003-09-02T00:22:53-04:00"
 wordpress_slug: xsl-scraper
-wordpress_date: "2003-09-02T00:22:53-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=472
 ---
 <br /><br />

@@ -2,10 +2,10 @@
 wordpress_id: 17
 layout: post
 title: Trying out a new site layout
+date: "2002-02-24T21:20:04-05:00"
 tags: 
 - Header
 wordpress_slug: oooocb
-wordpress_date: "2002-02-24T21:20:04-05:00"
 wordpress_url: http://www.decafbad.com/blog/?p=17
 ---
 Thinking that simple is better here, so I tossed out the big vertical sidebar navigation for a much simpler nav bar at the bottom.  Also playing around with putting wiki changes in the sidebar.

@@ -2,8 +2,8 @@
 wordpress_id: 123
 layout: post
 title: back up and about, limping a bit
+date: "2002-05-09T02:31:30-04:00"
 wordpress_slug: oooadd
-wordpress_date: "2002-05-09T02:31:30-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=123
 ---
 <p>0xDECAFBAD was out cold today for some hours, <a href="http://www.decafbad.com/down-n-out.html">due to the suspension</a> of my webhosting account.</p>

@@ -3,10 +3,10 @@ wordpress_id: 528
 layout: post
 title: Info Freako, or who's already past arguing about syndication formats?
 excerpt: Where's the state-of-the-art for feed aggregators, and what's next?  I'm tired of reverse-chronological versus three-pane; I'm tired of copying Usenet and email.  What needs to happen next to expand our Info Freako capacity by an order of magnitude or two?  The invention of aggregators has opened the door to the first few orders, but I need more.
+date: "2004-06-14T18:54:55-04:00"
 tags: 
 - syndication
 wordpress_slug: info-freako-or-whos-already-past-arguing-about-syndication-formats
-wordpress_date: "2004-06-14T18:54:55-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=528
 ---
 > You know that sleep is getting hard to get<br />

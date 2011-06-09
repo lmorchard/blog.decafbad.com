@@ -2,8 +2,8 @@
 wordpress_id: 41
 layout: post
 title: See wiki links and pages unfolding before your eyes
+date: "2002-03-15T14:15:12-05:00"
 wordpress_slug: ooooei
-wordpress_date: "2002-03-15T14:15:12-05:00"
 wordpress_url: http://www.decafbad.com/blog/?p=41
 ---
 Here's something I think could really benefit as an <a href="http://www.decafbad.com/twiki/bin/view/Main/XmlRpcToWiki">XmlRpcToWiki</a> client: <a href="http://www.touchgraph.com/">TouchGraph</a>

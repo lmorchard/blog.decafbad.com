@@ -2,8 +2,8 @@
 wordpress_id: 115
 layout: post
 title: Boy, do I dislike Verisign.
+date: "2002-05-04T18:27:34-04:00"
 wordpress_slug: oooace
-wordpress_date: "2002-05-04T18:27:34-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=115
 ---
 <p>Boy, do I dislike <a href="http://www.textism.com/article/494/">Verisign</a>.</p>

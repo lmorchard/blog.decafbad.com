@@ -2,8 +2,8 @@
 wordpress_id: 207
 layout: post
 title: "Ampheta + Windows + Outlines: Once More with Feeling"
+date: "2002-08-07T01:52:28-04:00"
 wordpress_slug: ooobbh
-wordpress_date: "2002-08-07T01:52:28-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=207
 ---
 <p>At last:  I had a good solid hacking session with the beast under <a href="http://www.decafbad.com/twiki/bin/view/Main/WinXP">WinXP</a>, and I think I've flushed out the showstopper bugs.  So, here's yet <i>another</i> release (hopefully <i>zaro boogs</i>) of the thing for you to grab and try:<ul><li><a href="http://www.decafbad.com/gems/AmphetaOutlines-20020806-2.tar.gz">AmphetaOutlines-20020806-2.tar.gz</a></li></ul>Thanks for bearing with me out there and not beating me about the head and shoulders.  :)  I mean, yes, it's free and its experimental...  but it's still damn frustrating.</p>

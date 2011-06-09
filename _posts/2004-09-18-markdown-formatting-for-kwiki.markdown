@@ -3,10 +3,10 @@ wordpress_id: 552
 layout: post
 title: Markdown formatting for Kwiki
 excerpt: I just made my first Kwiki formatting plugin, making Markdown formatting available.
+date: "2004-09-18T19:20:41-04:00"
 tags: 
 - wiki
 wordpress_slug: markdown-formatting-for-kwiki
-wordpress_date: "2004-09-18T19:20:41-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=552
 ---
 I just made my first Kwiki formatting plugin, making [Markdown][markdown] formatting available.  I'm not sure that it's completely working, but maybe if I get over the lazy threshold, I'll package it up and ship it up to CPAN.  For what it's worth, here it is:

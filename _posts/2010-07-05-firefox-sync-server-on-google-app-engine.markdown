@@ -2,6 +2,7 @@
 wordpress_id: 1937
 layout: post
 title: Firefox Sync server on Google App Engine
+date: "2010-07-05T19:00:56-04:00"
 tags: 
 - webdev
 - firefox
@@ -12,7 +13,6 @@ tags:
 - sync
 - appengine
 wordpress_slug: firefox-sync-server-on-google-app-engine
-wordpress_date: "2010-07-05T19:00:56-04:00"
 wordpress_url: http://decafbad.com/blog/?p=1937
 ---
 <em><strong>TL;DR:</strong> [I built an implementation][impl] of the [Firefox Sync server API][api10] for [Google App Engine][appengine].</em>

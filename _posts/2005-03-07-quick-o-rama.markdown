@@ -2,8 +2,8 @@
 wordpress_id: 606
 layout: post
 title: Quick-o-rama
+date: "2005-03-07T16:18:27-05:00"
 wordpress_slug: quick-o-rama
-wordpress_date: "2005-03-07T16:18:27-05:00"
 wordpress_url: http://www.decafbad.com/blog/?p=606
 ---
 * I really shouldn't mess around with my caffeine intake: I really can't get started until after the first pot of the day--it's all self-doubt and spinning wheels until then.

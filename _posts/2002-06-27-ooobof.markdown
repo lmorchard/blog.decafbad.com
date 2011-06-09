@@ -2,8 +2,8 @@
 wordpress_id: 185
 layout: post
 title: Welcome to the wonderful world of digital photography.
+date: "2002-06-27T03:11:12-04:00"
 wordpress_slug: ooobof
-wordpress_date: "2002-06-27T03:11:12-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=185
 ---
 <p>So I broke down finally, and bought a digital camera.  The excuse ends up being that I'll be needing it on my <a href="http://www.synthpopgoestheworld.com">trip to Toronto this weekend</a>.  I got a <a href="http://www.powershot.com/powershot2/s200/">Canon <span style='background : #FFFFCE;'><a href="http://www.decafbad.com/twiki/bin/edit/Main/PowerShot?topicparent=Main.FilterData"><b>?</b></a><font color="#0000FF">PowerShot</font></span> S200</a>, a 128MB CF card, the belt case, and two extra batteries.  That should be enough to cover a rampant nerd photography spree.</p>

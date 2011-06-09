@@ -2,6 +2,7 @@
 wordpress_id: 803
 layout: post
 title: Not-so-deep PHP thoughts
+date: "2005-12-18T22:50:25-05:00"
 tags: 
 - asides
 - webdev
@@ -9,7 +10,6 @@ tags:
 - ruby
 - perl
 wordpress_slug: not-so-deep-php-thoughts
-wordpress_date: "2005-12-18T22:50:25-05:00"
 wordpress_url: http://decafbad.com/blog/?p=803
 ---
 You know, not that I've been at it for long, but I've had an long-running observation about PHP:

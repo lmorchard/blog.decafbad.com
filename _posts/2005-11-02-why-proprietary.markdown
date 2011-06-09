@@ -2,12 +2,12 @@
 wordpress_id: 765
 layout: post
 title: Why proprietary?
+date: "2005-11-02T15:29:25-05:00"
 tags: 
 - webdev
 - linux
 - microsoft
 wordpress_slug: why-proprietary
-wordpress_date: "2005-11-02T15:29:25-05:00"
 wordpress_url: http://decafbad.com/blog/?p=765
 ---
 Hell, while I'm at it, I've got an expanded question to follow up [my last one][wm]:

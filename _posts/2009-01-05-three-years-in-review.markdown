@@ -2,10 +2,10 @@
 wordpress_id: 1496
 layout: post
 title: Three Years in Review
+date: "2009-01-05T14:09:22-05:00"
 tags: 
 - entries
 wordpress_slug: three-years-in-review
-wordpress_date: "2009-01-05T14:09:22-05:00"
 wordpress_url: http://decafbad.com/blog/?p=1496
 ---
 It's been a busy 3 years or so.  

@@ -2,8 +2,8 @@
 wordpress_id: 355
 layout: post
 title: "Safari: Good riddance to tabs, if there's something better"
+date: "2003-01-18T04:10:51-05:00"
 wordpress_slug: oooche
-wordpress_date: "2003-01-18T04:10:51-05:00"
 wordpress_url: http://www.decafbad.com/blog/?p=355
 ---
 <blockquote cite="http://homepage.mac.com/dnorman/blog/2003/01/16#TabsInSafari">I've been thinking about the whole "I need tabs in Safari" issue, and have come to realize that no, in fact, I don't need tabs in Safari. ... What I need is a way to manage multiple open web pages in a single window. ... I've done a quick and dirty <a href="http://homepage.mac.com/dnorman/SafariTabs.png">mockup of something</a> that approaches what I'm thinking about. </blockquote><div class="credit" align="right"><small>Source:<cite><a href="http://homepage.mac.com/dnorman/blog/2003/01/16#TabsInSafari">D'Arcy Norman's Weblog</a></cite>.</small></div>

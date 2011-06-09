@@ -2,8 +2,8 @@
 wordpress_id: 20
 layout: post
 title: Almost done with another implementation of the Wiki XML-RPC API
+date: "2002-02-26T04:42:14-05:00"
 wordpress_slug: oooocf
-wordpress_date: "2002-02-26T04:42:14-05:00"
 wordpress_url: http://www.decafbad.com/blog/?p=20
 ---
 Hacked around tonight looking into the innards of <a href="http://www.decafbad.com/twiki/bin/view/Main/MoinMoin">MoinMoin</a>  and discovered that things are not all that bad in there.  I've got most of a  <a href="http://www.decafbad.com/twiki/bin/view/Main/MoinMoin">MoinMoin</a> rendition of the <a href="http://www.decafbad.com/twiki/bin/view/Main/XmlRpcToWiki">XmlRpcToWiki</a> done.  I just have to figure out how to map the concept of numerical versions into editlog manipulations.

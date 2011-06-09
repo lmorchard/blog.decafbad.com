@@ -2,8 +2,8 @@
 wordpress_id: 383
 layout: post
 title: Still here, still reading.
+date: "2003-02-20T12:35:39-05:00"
 wordpress_slug: ooodad
-wordpress_date: "2003-02-20T12:35:39-05:00"
 wordpress_url: http://www.decafbad.com/blog/?p=383
 ---
 Whew.  Still really busy.  Times like these, I wish I had my Blosxom and link-blogger action going, because I'm still out here, grazing on the links everyone else is publishing.  I haven't had much energy to write much while wrapping up this work project and getting <a href="http://www.decafbad.com/twiki/bin/view/Main/AgentFrank">AgentFrank</a> lumbering about.  And there hasn't been much I've wanted to say that others haven't said.  So, at least nodding my head by echoing some links would make me feel like I'm still making some useful noise.

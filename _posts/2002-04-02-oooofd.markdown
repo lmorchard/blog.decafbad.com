@@ -2,8 +2,8 @@
 wordpress_id: 46
 layout: post
 title: decafbad is getting left out of the pipeline
+date: "2002-04-02T19:09:33-05:00"
 wordpress_slug: oooofd
-wordpress_date: "2002-04-02T19:09:33-05:00"
 wordpress_url: http://www.decafbad.com/blog/?p=46
 ---
 No, 0xDECAFBAD is not dead... it's just been left out of my pipeline stream.  I need to work it back in, otherwise this place will never do what I want it to.

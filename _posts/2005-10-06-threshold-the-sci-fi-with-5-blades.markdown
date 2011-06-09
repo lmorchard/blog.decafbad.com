@@ -2,6 +2,7 @@
 wordpress_id: 720
 layout: post
 title: Threshold, the sci-fi with 5 blades?
+date: "2005-10-06T22:50:44-04:00"
 tags: 
 - asides
 - scifi
@@ -10,7 +11,6 @@ tags:
 - podcasting
 - television
 wordpress_slug: threshold-the-sci-fi-with-5-blades
-wordpress_date: "2005-10-06T22:50:44-04:00"
 wordpress_url: http://decafbad.com/blog/?p=720
 ---
 I'm starting to get into [CBS' Threshold][th] tonight, having gotten 4 episodes of it.  Seems like network TV goes through sci-fi cycles, and this must be the latest.  This particular show looks like it might shape up to be combination sci-fi slasher and forensic drama.  But, still, [I find myself comparing it to a podcast][ss].

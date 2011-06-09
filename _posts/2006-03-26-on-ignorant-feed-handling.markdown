@@ -2,8 +2,8 @@
 wordpress_id: 917
 layout: post
 title: On Ignorant Feed Handling
+date: "2006-03-26T07:14:25-05:00"
 wordpress_slug: on-ignorant-feed-handling
-wordpress_date: "2006-03-26T07:14:25-05:00"
 wordpress_url: http://decafbad.com/blog/2006/03/26/on-ignorant-feed-handling
 ---
  <p>By way of <a href="http://www.franklinmint.fm/blog/archives/000725.html" title="mustIgnore isn't good enough">Robert Sayre</a>, I read that <a href="http://www.pacificspirit.com/blog/2006/03/17/how_much_do_i_ignore_thee_discard_or_retain">Dave Orchard - no relation - wrote</a>: </p>

@@ -2,8 +2,8 @@
 wordpress_id: 425
 layout: post
 title: Newly Digital in 1983
+date: "2003-06-13T19:06:40-04:00"
 wordpress_slug: newly-digital
-wordpress_date: "2003-06-13T19:06:40-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=425
 ---
 I caught <a href="http://gizmodo.net/archives/002242.php#002242" target="_top">Gizmodo 1983</a> this week,

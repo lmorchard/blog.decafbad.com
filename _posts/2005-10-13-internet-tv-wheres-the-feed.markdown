@@ -2,10 +2,10 @@
 wordpress_id: 734
 layout: post
 title: "Internet TV: Where's the Feed?"
+date: "2005-10-13T10:04:36-04:00"
 tags: 
 - asides
 wordpress_slug: internet-tv-wheres-the-feed
-wordpress_date: "2005-10-13T10:04:36-04:00"
 wordpress_url: http://decafbad.com/blog/?p=734
 ---
 Man, does [This Spartan Life][tsl] ever need--

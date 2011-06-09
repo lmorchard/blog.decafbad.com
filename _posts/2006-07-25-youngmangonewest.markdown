@@ -2,8 +2,8 @@
 wordpress_id: 959
 layout: post
 title: Young man, gone west
+date: "2006-07-25T12:25:00-04:00"
 wordpress_slug: youngmangonewest
-wordpress_date: "2006-07-25T12:25:00-04:00"
 wordpress_url: http://decafbad.com/blog/2006/07/25/youngmangonewest
 ---
 It's been over a month since my last update here, and a week and one day since <a href="http://blog.del.icio.us/blog/2006/07/hello_world.html">I started here at my new job in sunny California</a>.  So, I figure it's about time I make some sort of peep.

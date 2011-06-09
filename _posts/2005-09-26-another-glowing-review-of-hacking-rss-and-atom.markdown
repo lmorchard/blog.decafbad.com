@@ -2,10 +2,10 @@
 wordpress_id: 693
 layout: post
 title: Another glowing review of Hacking RSS and Atom
+date: "2005-09-26T15:18:45-04:00"
 tags: 
 - asides
 wordpress_slug: another-glowing-review-of-hacking-rss-and-atom
-wordpress_date: "2005-09-26T15:18:45-04:00"
 wordpress_url: http://decafbad.com/blog/?p=693
 ---
 Hey, look!  It's another glowing review of my book, this time from [Thomas Duff's "Duffbert's Random Musings"](http://hostit1.connectria.com/twduff/home.nsf/plinks/TDUF-6GJTYJ):

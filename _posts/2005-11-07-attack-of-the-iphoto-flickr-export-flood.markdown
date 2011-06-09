@@ -2,10 +2,10 @@
 wordpress_id: 769
 layout: post
 title: Attack of the iPhoto Flickr Export Flood
+date: "2005-11-07T17:04:21-05:00"
 tags: 
 - asides
 wordpress_slug: attack-of-the-iphoto-flickr-export-flood
-wordpress_date: "2005-11-07T17:04:21-05:00"
 wordpress_url: http://decafbad.com/blog/?p=769
 ---
 Hope no one minds the flood too much, but I just remembered that there was a such thing as [FlickrExport](http://connectedflow.com/flickrexport/) and that I hadn't posted anything at all to [my Flickr account](http://flickr.com/photos/deusx) in over a year.  So, I present to you the following new photo sets which pretty much summarize the past year:

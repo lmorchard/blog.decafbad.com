@@ -2,13 +2,13 @@
 wordpress_id: 1006
 layout: post
 title: hemingway theme blocks and widgets
+date: "2006-10-26T16:06:13-04:00"
 tags: 
 - asides
 - wordpress
 - metablogging
 - hemmingway
 wordpress_slug: hemingway-theme-blocks-and-widgets
-wordpress_date: "2006-10-26T16:06:13-04:00"
 wordpress_url: http://decafbad.com/blog/2006/10/26/hemmingway-theme-blocks-and-widgets
 ---
 So, after reading a [comment from Brian Cors][cb] and wandering by [his site][hs] again, I've suddenly gotten more interested in the [Hemingway][hw] theme for [WordPress][wp].  One problem, though:  Although the [WordPress Widgets][ww] plugin (about which [I've raved][ir]) was based on [Hemingway][hw]'s Blocks feature, it's not apparently compatible.  So, anyone know how to make it compatible, or where I can get more Hemingway blocks?

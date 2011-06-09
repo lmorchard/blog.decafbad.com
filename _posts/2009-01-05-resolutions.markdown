@@ -2,10 +2,10 @@
 wordpress_id: 1524
 layout: post
 title: Resolutions
+date: "2009-01-05T14:10:22-05:00"
 tags: 
 - entries
 wordpress_slug: resolutions
-wordpress_date: "2009-01-05T14:10:22-05:00"
 wordpress_url: http://decafbad.com/blog/?p=1524
 ---
 So, [after all that][review], I suppose the thing to do for a new year is to figure out what's next, maybe compose some disposable resolutions for the coming months. Well, here are some off the top of my head:

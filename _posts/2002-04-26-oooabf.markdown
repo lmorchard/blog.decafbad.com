@@ -2,8 +2,8 @@
 wordpress_id: 106
 layout: post
 title: Hot patching, Radio UserLand, and not Microsoft
+date: "2002-04-26T15:27:16-04:00"
 wordpress_slug: oooabf
-wordpress_date: "2002-04-26T15:27:16-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=106
 ---
 <p>When I talk about Radio and my love/hate with it, this is one of the things I absolutely positively adore, fawn over, and plan to mimic in as many of my projects as I can where I can.  Back when the Mozilla source code was first released, and I happened to be at a Q&amp;A with some Netscape guys, this was the #1 feature I pestered them to spend time looking into.</p>

@@ -2,8 +2,8 @@
 wordpress_id: 236
 layout: post
 title: Would the real RSS please stand up?
+date: "2002-08-29T19:11:47-04:00"
 wordpress_slug: ooobei
-wordpress_date: "2002-08-29T19:11:47-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=236
 ---
 <p><a href="http://radio.weblogs.com/0101679/2002/08/27.html#a766">Sam Ruby responds</a> to <a href="http://scriptingnews.userland.com/whyRss10NamedRss">Dave's question</a>:<blockquote><i>I am not a stakeholder in this naming issue, nor can I claim based on personal experience that any of the above references are authoritative, but based on these references alone, it seems to me that one could ask the converse to both of these questions: i.e, why is <a href="http://www.decafbad.com/twiki/bin/view/Main/RSS">RSS</a> 0.91 called <a href="http://www.decafbad.com/twiki/bin/view/Main/RSS">RSS</a>, and why did the <a href="http://www.decafbad.com/twiki/bin/view/Main/RSS">RSS</a> 0.91 branch use <code><rss></code> instead of <code>[rdf:rdf]</code>?</i></blockquote>This is basically what I'd started writing as a response the other night, but I lost it in a browser crash.</p>

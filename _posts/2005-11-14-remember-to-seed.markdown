@@ -2,10 +2,10 @@
 wordpress_id: 772
 layout: post
 title: Remember to seed!
+date: "2005-11-14T00:07:06-05:00"
 tags: 
 - asides
 wordpress_slug: remember-to-seed
-wordpress_date: "2005-11-14T00:07:06-05:00"
 wordpress_url: http://decafbad.com/blog/?p=772
 ---
 A few of my persistent search feeds for "Hacking RSS and Atom" have started returning results for my book in PDF form on BitTorrent trackers and filesharing networks.  

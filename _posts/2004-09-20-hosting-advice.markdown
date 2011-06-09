@@ -2,8 +2,8 @@
 wordpress_id: 554
 layout: post
 title: Hosting advice?
+date: "2004-09-20T15:47:46-04:00"
 wordpress_slug: hosting-advice
-wordpress_date: "2004-09-20T15:47:46-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=554
 ---
 Now that I've just moved over to this JohnCompanies hosting, I'm realizing several things:

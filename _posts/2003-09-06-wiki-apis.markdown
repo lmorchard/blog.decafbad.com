@@ -2,8 +2,8 @@
 wordpress_id: 478
 layout: post
 title: An API for Wikis?  Here's one.
+date: "2003-09-06T13:50:45-04:00"
 wordpress_slug: wiki-apis
-wordpress_date: "2003-09-06T13:50:45-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=478
 ---
 <br /><br />

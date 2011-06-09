@@ -2,8 +2,8 @@
 wordpress_id: 331
 layout: post
 title: Think of everything but the obvious first
+date: "2002-12-14T15:57:01-05:00"
 wordpress_slug: oooceg
-wordpress_date: "2002-12-14T15:57:01-05:00"
 wordpress_url: http://www.decafbad.com/blog/?p=331
 ---
 <p>Today's revelation while tinkering with my <a href="http://www.decafbad.com/twiki/bin/view/Main/PersonalWebProxy">PersonalWebProxy</a>:  Decompressed content is larger than compressed content.  </p>

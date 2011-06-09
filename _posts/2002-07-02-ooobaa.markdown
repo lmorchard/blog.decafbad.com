@@ -2,8 +2,8 @@
 wordpress_id: 190
 layout: post
 title: "YAPC 2002: \"They always shut up when you talk about boobies\""
+date: "2002-07-02T20:00:14-04:00"
 wordpress_slug: ooobaa
-wordpress_date: "2002-07-02T20:00:14-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=190
 ---
 <p>Okay, I've only met the people in this movie once, maybe twice, but it made me wet myself.  Run, do not walk, to see:</p>

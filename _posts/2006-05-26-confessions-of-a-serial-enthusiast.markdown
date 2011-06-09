@@ -2,8 +2,8 @@
 wordpress_id: 951
 layout: post
 title: Confessions of a Serial Enthusiast
+date: "2006-05-26T10:37:41-04:00"
 wordpress_slug: confessions-of-a-serial-enthusiast
-wordpress_date: "2006-05-26T10:37:41-04:00"
 wordpress_url: http://decafbad.com/blog/2006/05/26/confessions-of-a-serial-enthusiast
 ---
  <p>Lately, in between wedding preparations and other goings on of late, I've been doing some navel gazing and thinking about my enthusiasms and what's next.  And, there's one conclusion to which I've come, which is yet half-formed but I think interesting to admit and explore.</p>

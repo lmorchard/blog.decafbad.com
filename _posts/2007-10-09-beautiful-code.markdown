@@ -2,13 +2,13 @@
 wordpress_id: 1065
 layout: post
 title: Beautiful Code
+date: "2007-10-09T23:59:02-04:00"
 tags: 
 - code
 - style
 - programming
 - poetry
 wordpress_slug: beautiful-code
-wordpress_date: "2007-10-09T23:59:02-04:00"
 wordpress_url: http://decafbad.com/blog/2007/10/09/beautiful-code
 ---
 <p><a href="http://michael-mccracken.net/wp/2007/10/09/the-editing-pass/">Michael McCracken</a>: "<i>Once you get a piece of code to the point where you believe it works - it's passing its tests - go back over it and edit it. That is, go back and edit it for clarity, flow, and style. Just as if it were an essay.</i>"</p>

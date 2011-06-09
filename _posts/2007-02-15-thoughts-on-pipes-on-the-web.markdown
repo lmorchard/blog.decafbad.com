@@ -2,6 +2,7 @@
 wordpress_id: 1038
 layout: post
 title: Thoughts on Pipes on the Web
+date: "2007-02-15T03:09:56-05:00"
 tags: 
 - webdev
 - rss
@@ -10,7 +11,6 @@ tags:
 - yahoo
 - feedmagick
 wordpress_slug: thoughts-on-pipes-on-the-web
-wordpress_date: "2007-02-15T03:09:56-05:00"
 wordpress_url: http://decafbad.com/blog/2007/02/15/thoughts-on-pipes-on-the-web
 ---
 By way of my [meme tracker][mt], I found something like 15 entries linking to [Yahoo! Pipes][pipes] from my feed subscriptions.  That's crazy — I've usually never seen more than 3-5 feeds linking to anyone thing, maybe as many as 8 if it's something *really* hot.  I read about it over morning coffee and aggregator skimming; I heard about it on [TWiT][] on the bus to work; I was told all about it in the hallway once I got to work.  [Yahoo! Pipes][pipes] has been hard to miss. 

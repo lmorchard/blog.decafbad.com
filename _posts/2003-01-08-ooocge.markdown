@@ -2,8 +2,8 @@
 wordpress_id: 348
 layout: post
 title: About that Apple stuff today
+date: "2003-01-08T02:58:59-05:00"
 wordpress_slug: ooocge
-wordpress_date: "2003-01-08T02:58:59-05:00"
 wordpress_url: http://www.decafbad.com/blog/?p=348
 ---
 So... yeah.  I watched the keynote, and I'm lusting over the new <a href="http://www.apple.com/powerbook/index12.html" target="_top">mini-me <span style='background : #FFFFCE;'><a href="http://www.decafbad.com/twiki/bin/edit/Main/PowerBook?topicparent=Main.FilterData"><b>?</b></a><font color="#0000FF">PowerBook</font></span></a> with a plan to purchase in the Spring.  I was aiming at a high end iBook but holding out for something better, and well, this new <span style='background : #FFFFCE;'><a href="http://www.decafbad.com/twiki/bin/edit/Main/PowerBook?topicparent=Main.FilterData"><b>?</b></a><font color="#0000FF">PowerBook</font></span> is the precisely what I was holding out for.  It appears to be the rightful successor to my formerly beloved <a href="http://www.google.com/search?q=sony+vaio+505tr&amp;ie=UTF-8&amp;oe=UTF-8" target="_top">Sony Vaio 505TR</a>.

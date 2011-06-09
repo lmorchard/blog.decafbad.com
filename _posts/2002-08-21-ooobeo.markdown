@@ -2,8 +2,8 @@
 wordpress_id: 227
 layout: post
 title: On grousing about Dave's exit from a mailing list
+date: "2002-08-21T16:22:30-04:00"
 wordpress_slug: ooobeo
-wordpress_date: "2002-08-21T16:22:30-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=227
 ---
 <p>Scanning news today, I see in my referrers a link from the <a href="http://groups.yahoo.com/group/aggregators/">new aggregators discussion group</a> to my <a href="http://www.decafbad.com/news_archives/000228.phtml">outliner <a href="http://www.decafbad.com/twiki/bin/view/Main/AmphetaDesk">AmphetaDesk</a> skin</a>.  Curious, I go <a href="http://groups.yahoo.com/group/aggregators/message/44?threaded=1">check it out</a> and see what looks like a bit of grumbling between <a href="http://www.scripting.com">Dave Winer</a> and <a href="http://www.disobey.com">Morbus Iff</a>.  I make my way back to <a href="http://groups.yahoo.com/group/aggregators/message/42">near the head of the thread</a> to see what's what, where I find a link to Morbus' <a href="http://www.disobey.com/dnn/2002/06/index.shtml#001333">post of opinioned and somewhat ranty disagreement</a> toward <a href="http://radio.userland.com/whatIsANewsAggregator">Dave's definition of the modern News Aggregator</a>.  What disturbs me is that the grumbling <a href="http://groups.yahoo.com/group/aggregators/message/48">quickly ends</a> with:<blockquote><i>Bill -- I'm going to unsubscribe from this list now. The neener boys are in charge. Take care. Dave</i></blockquote>Now first of all, I too <a href="http://www.decafbad.com/news_archives/000191.phtml">disagree with Dave's definition</a>, and have posted as much.  Although I did so in a less rant-mode manner, both Morbus and I pointed to the fact that the news aggregator definition served the goals of Radio 8.0 marketing, being that the definition very specifically identified the features of his own product.  Rant or not, the point is made.</p>

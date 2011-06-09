@@ -2,6 +2,7 @@
 wordpress_id: 1286
 layout: post
 title: Ubiquity cracks open personal mashup tinkering
+date: "2008-08-31T00:07:22-04:00"
 tags: 
 - webdev
 - mashups
@@ -10,7 +11,6 @@ tags:
 - mozilla
 - ubiquity
 wordpress_slug: ubiquity-cracks-open-personal-mashup-tinkering
-wordpress_date: "2008-08-31T00:07:22-04:00"
 wordpress_url: http://decafbad.com/blog/?p=1286
 ---
 When I was a wee hacker, I lived my digital life though a [Commodore 64][c64].  I played games on it, did homework, talked to people far away—you know, all the stuff they showed in the pictures on the box.  I also took things apart—both the machine itself and software running on it.  I grew up learning that my digital environment was ultimately understandable, [susceptible to tinkering][transactor], and open to being bent to my own purposes.

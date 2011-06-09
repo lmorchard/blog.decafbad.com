@@ -2,6 +2,7 @@
 wordpress_id: 842
 layout: post
 title: Ancient code drifting down the newsRiver
+date: "2006-01-28T01:08:57-05:00"
 tags: 
 - rss
 - syndication
@@ -12,7 +13,6 @@ tags:
 - usertalk
 - vinge
 wordpress_slug: ancient-code-drifting-down-the-newsriver
-wordpress_date: "2006-01-28T01:08:57-05:00"
 wordpress_url: http://decafbad.com/blog/?p=842
 ---
 So, while working through some writing blockages last weekend, I started doing [some hacking][hack] on [Dave Winer's newsRiver][new] running on the [OPML Editor][opml] platform.  (Oh, and it *is* a platform, maybe more so than even emacs—don't let the moniker 'editor' fool you.)

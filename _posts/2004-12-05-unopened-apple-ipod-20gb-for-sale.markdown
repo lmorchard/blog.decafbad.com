@@ -2,8 +2,8 @@
 wordpress_id: 572
 layout: post
 title: Unopened Apple iPod 20GB for sale
+date: "2004-12-05T00:13:36-05:00"
 wordpress_slug: unopened-apple-ipod-20gb-for-sale
-wordpress_date: "2004-12-05T00:13:36-05:00"
 wordpress_url: http://www.decafbad.com/blog/?p=572
 ---
 Looking for an Apple click wheel iPod 20GB?  We've got an extra one, unopened, [up on eBay](http://cgi.ebay.com/ws/eBayISAPI.dll?ViewItem&item=5736298218):

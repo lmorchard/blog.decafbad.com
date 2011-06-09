@@ -2,8 +2,8 @@
 wordpress_id: 308
 layout: post
 title: "XML-RPC case study redux, Part I: Setting"
+date: "2002-11-27T14:55:11-05:00"
 wordpress_slug: oooccc
-wordpress_date: "2002-11-27T14:55:11-05:00"
 wordpress_url: http://www.decafbad.com/blog/?p=308
 ---
 So, my little <a href="http://www.decafbad.com/news_archives/000332.phtml">off the cuff case study</a> with <a href="http://www.decafbad.com/twiki/bin/view/Main/XmlRpc">XmlRpc</a> from yesterday got a ton of flow <a href="http://scriptingnews.userland.com/backissues/2002/11/26#When:8:22:26AM">from Dave</a>.  Got some comments and some email, and a very good <a href="http://www.blogstream.com/pauls/1038403139">response / rebuttal from Paul Prescod.</a>  Thanks to everyone for reading &amp; responding!

@@ -2,10 +2,10 @@
 wordpress_id: 799
 layout: post
 title: Hacking del.icio.us is a real book!
+date: "2005-12-14T12:08:46-05:00"
 tags: 
 - asides
 wordpress_slug: hacking-delicious-is-a-real-book
-wordpress_date: "2005-12-14T12:08:46-05:00"
 wordpress_url: http://decafbad.com/blog/?p=799
 ---
 <blockquote cite="http://www.wiley.com/WileyCDA/WileyTitle/productCd-0470037857.html">Hacking Del.icio.us (ExtremeTech)<br />Leslie M. Orchard<br />ISBN: 0-470-03785-7<br />Paperback<br />400 pages<br />June 2006</blockquote>

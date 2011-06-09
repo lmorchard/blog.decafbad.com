@@ -2,6 +2,7 @@
 wordpress_id: 1048
 layout: post
 title: Say hello to FeedMagick2
+date: "2007-04-29T23:06:32-04:00"
 tags: 
 - webdev
 - rss
@@ -12,7 +13,6 @@ tags:
 - feedmagick2
 - feeds
 wordpress_slug: say-hello-to-feedmagick2
-wordpress_date: "2007-04-29T23:06:32-04:00"
 wordpress_url: http://decafbad.com/blog/2007/04/29/say-hello-to-feedmagick2
 ---
 Yeah, things have been basically silent around here thanks to post-work brain fryage and a general lack of things to say.  Really, everyone else around the blogosphere seems to be covering things satisfactorily.  However, I have been idly working on a new project over the past few weeks, namely a total rewrite and redesign of [my format-ignorant feed filtering and munging kit dubbed FeedMagick](http://decafbad.com/blog/?s=feedmagick).

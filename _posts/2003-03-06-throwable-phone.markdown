@@ -2,8 +2,8 @@
 wordpress_id: 389
 layout: post
 title: Did I dream the urchin phone?
+date: "2003-03-06T12:21:00-05:00"
 wordpress_slug: throwable-phone
-wordpress_date: "2003-03-06T12:21:00-05:00"
 wordpress_url: http://www.decafbad.com/blog/?p=389
 ---
 <!-- xmlrpcfilter 1 -->

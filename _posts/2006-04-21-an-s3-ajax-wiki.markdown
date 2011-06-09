@@ -2,8 +2,8 @@
 wordpress_id: 934
 layout: post
 title: An S3 AJAX Wiki
+date: "2006-04-21T23:52:10-04:00"
 wordpress_slug: an-s3-ajax-wiki
-wordpress_date: "2006-04-21T23:52:10-04:00"
 wordpress_url: http://decafbad.com/blog/2006/04/21/an-s3-ajax-wiki
 ---
  <p>So, who knows how long it'll stay up - or if it even works for anyone besides me in Firefox on OS X - but I've got an initial version of an <a href="http://decafbad.com/trac/wiki/S3Ajax">S3Ajax</a>-based wiki:</p>

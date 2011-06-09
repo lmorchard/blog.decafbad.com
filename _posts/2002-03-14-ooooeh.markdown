@@ -2,8 +2,8 @@
 wordpress_id: 40
 layout: post
 title: Why I have a blog on the front page of 0xDECAFBAD
+date: "2002-03-14T17:22:34-05:00"
 wordpress_slug: ooooeh
-wordpress_date: "2002-03-14T17:22:34-05:00"
 wordpress_url: http://www.decafbad.com/blog/?p=40
 ---
 I know everyone else in the world has blogged and linked to these, but:

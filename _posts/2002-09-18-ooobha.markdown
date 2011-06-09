@@ -2,8 +2,8 @@
 wordpress_id: 257
 layout: post
 title: AmphetaOutlines doomsday prevention update
+date: "2002-09-18T03:53:15-04:00"
 wordpress_slug: ooobha
-wordpress_date: "2002-09-18T03:53:15-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=257
 ---
 <p>One more thing, before I go to bed:  An <a href="http://www.decafbad.com/twiki/bin/view/Main/AmphetaOutlines">AmphetaOutlines</a> update.</p>

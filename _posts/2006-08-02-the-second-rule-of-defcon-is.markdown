@@ -2,8 +2,8 @@
 wordpress_id: 962
 layout: post
 title: The second rule of Defcon is...
+date: "2006-08-02T17:19:24-04:00"
 wordpress_slug: the-second-rule-of-defcon-is
-wordpress_date: "2006-08-02T17:19:24-04:00"
 wordpress_url: http://decafbad.com/blog/2006/08/02/the-second-rule-of-defcon-is
 ---
 I've never been to <a href="http://defcon.org">Defcon</a>, but I've heard stories.  Thus, this exchange I saw on IRC whilst lurking was amusing:

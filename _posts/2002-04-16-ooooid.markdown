@@ -2,8 +2,8 @@
 wordpress_id: 74
 layout: post
 title: Perusing the referrals
+date: "2002-04-16T10:12:04-04:00"
 wordpress_slug: ooooid
-wordpress_date: "2002-04-16T10:12:04-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=74
 ---
 <p>It's a small bloggy world:  I just noticed a few referral hits from <a href="http://www.razorsoft.net/weblog/">Peter Drayton</a>, whose <a href="http://www.razorsoft.net/weblog/2002/04/10.html#a101">book</a> I just bought this weekend.  <i>Hi there! :)</i></p>

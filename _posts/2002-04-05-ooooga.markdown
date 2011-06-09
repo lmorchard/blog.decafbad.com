@@ -2,8 +2,8 @@
 wordpress_id: 52
 layout: post
 title: Mother of all hello world for Cocoon 2
+date: "2002-04-05T17:47:10-05:00"
 wordpress_slug: ooooga
-wordpress_date: "2002-04-05T17:47:10-05:00"
 wordpress_url: http://www.decafbad.com/blog/?p=52
 ---
 <p>Is it just me, or is it mildly frightening that a <a href="http://chello.sourceforge.net/index.shtml">Hello World</a> app in <i>any</i> language or on any platform would call for <a href="http://sourceforge.net/cvs/?group_id=34620">73 commits, 43 adds in CVS</a>?</p>

@@ -2,8 +2,8 @@
 wordpress_id: 284
 layout: post
 title: Is the iBook supposed to make that noise?
+date: "2002-10-17T14:26:43-04:00"
 wordpress_slug: ooocoi
-wordpress_date: "2002-10-17T14:26:43-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=284
 ---
 Ugh.  Hard drive in my little iBook is going "brr-tick-tick-tick-tick.  brr-tick-tick-tick-tick." while various processes inexplicably freeze up and go AWOL.  These are things I've come to recognize as the death of a hard drive.  So, since I've been putting everything on my laptop lately, I'm feeling a bit lost today.  No email via local IMAP filtered through <a href="http://www.decafbad.com/twiki/bin/view/Main/SpamAssassin">SpamAssassin</a> and things.  No news aggregator.  No outlines.  Currently running a disk utility that I hope will route around the damage, but I'm not sure.

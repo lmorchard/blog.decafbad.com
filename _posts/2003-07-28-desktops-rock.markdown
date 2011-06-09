@@ -2,8 +2,8 @@
 wordpress_id: 450
 layout: post
 title: Desktops are better than laptops?
+date: "2003-07-28T12:06:37-04:00"
 wordpress_slug: desktops-rock
-wordpress_date: "2003-07-28T12:06:37-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=450
 ---
 <blockquote cite="http://rc3.org/cgi-bin/less.pl?arg=5446"><i>What I've discovered, though, is that my desktop PC, for standard development tasks, is astoundingly faster than my work laptop for just about everything.</i></blockquote><div class="credit" align="right"><small>Source: <cite><a href="http://rc3.org/cgi-bin/less.pl?arg=5446">rc3.org | Developing on my game box</a></cite></small></div>	<p>Personally, though I really do want a new <a href="http://www.apple.com/powermac/">PowerMac G5</a> I can&#8217;t see myself investing much in desk-anchored computing anymore.  Not since I got my first laptop, and later my first wireless ethernet card.  What I <strong>can</strong> see myself doing, though, is maybe investing a little bit into a new PC for games, and maybe for a box with lots of storage and <span class="caps">CPU</span> power to stick in a closet somewhere and use via network.</p>

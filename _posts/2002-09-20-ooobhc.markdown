@@ -2,8 +2,8 @@
 wordpress_id: 259
 layout: post
 title: Personal contact data aggregators?
+date: "2002-09-20T11:16:27-04:00"
 wordpress_slug: ooobhc
-wordpress_date: "2002-09-20T11:16:27-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=259
 ---
 <p>John Robb <a href="http://jrobb.userland.com/2002/09/19.html#a2542">writes</a>: "Wouldn't it be interesting to have an <a href="http://www.decafbad.com/twiki/bin/view/Main/RSS">RSS</a> variant (new name obviously) for subscribing to personal contact data off of weblogs?"</p>

@@ -2,8 +2,8 @@
 wordpress_id: 335
 layout: post
 title: PersonalWebProxy as personal Google and Wayback machine
+date: "2002-12-23T14:40:21-05:00"
 wordpress_slug: ooocfb
-wordpress_date: "2002-12-23T14:40:21-05:00"
 wordpress_url: http://www.decafbad.com/blog/?p=335
 ---
 Matt Griffith <a href="http://matt.griffith.com/weblog/stories/2002/12/22/jogMyPersonalGoogleampWaybackMachine.html">proposes a virtual project</a>: Jog.  For the most part, what he wants is what I want from my <a href="http://www.decafbad.com/twiki/bin/view/Main/PersonalWebProxy">PersonalWebProxy</a>, and more.  

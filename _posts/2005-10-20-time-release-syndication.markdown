@@ -2,6 +2,7 @@
 wordpress_id: 740
 layout: post
 title: Time-release Syndication
+date: "2005-10-20T23:45:54-04:00"
 tags: 
 - rss
 - syndication
@@ -10,7 +11,6 @@ tags:
 - http
 - podcasting
 wordpress_slug: time-release-syndication
-wordpress_date: "2005-10-20T23:45:54-04:00"
 wordpress_url: http://decafbad.com/blog/?p=740
 ---
 <blockquote cite="http://www.surfarama.com/index.php?p=242">Want to read Cory Doctorow’s new book, Someone comes to Town, Someone leaves Town, via RSS?<br /><br />This chicklet will let you do just that…doesn’t matter when you first subscribe, this feed will deliver the book to your feed reader in the right order, a couple of chapters a day, over the next month. You could even subscribe via WINKsite and get it all on your mobile phone…</blockquote>

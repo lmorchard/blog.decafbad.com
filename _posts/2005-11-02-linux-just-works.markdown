@@ -2,13 +2,13 @@
 wordpress_id: 762
 layout: post
 title: Linux Just Works
+date: "2005-11-02T01:03:00-05:00"
 tags: 
 - asides
 - linux
 - microsoft
 - windows
 wordpress_slug: linux-just-works
-wordpress_date: "2005-11-02T01:03:00-05:00"
 wordpress_url: http://decafbad.com/blog/?p=762
 ---
 <blockquote cite="http://www.intertwingly.net/blog/2005/11/01/It-Just-Works">But I’m a developer.  I want more.  I want ruby.  And subversion.  And cvs.  And build tools.  Each is only an apt-get away.  There even is a convenient GUI for this.  Ray’s vision of the future, I have today.  And whereas Windows Update kept the OS and selected Microsoft tools up to date, the Debian packaging manager keeps everything up to date and in synch.  Without ever needing to reboot.</blockquote>

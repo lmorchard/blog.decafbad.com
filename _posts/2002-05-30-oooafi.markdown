@@ -2,8 +2,8 @@
 wordpress_id: 148
 layout: post
 title: Obsolete Research Dooms Author to Irrelevance
+date: "2002-05-30T20:37:40-04:00"
 wordpress_slug: oooafi
-wordpress_date: "2002-05-30T20:37:40-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=148
 ---
 <p>Ouch.  Remember that no matter how expert you may be on some things, if you start from false premises, you're doomed from the start.  Just caught this article over on <a href="http://www.linuxjournal.com">Linux Journal</a> entitled "<a href="http://www.linuxjournal.com/article.php?sid=6105">Obsolete Microkernel Dooms Mac OS X to Lag Linux in Performance</a>".  </p>

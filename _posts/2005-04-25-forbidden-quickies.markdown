@@ -2,8 +2,8 @@
 wordpress_id: 626
 layout: post
 title: Forbidden Quickies
+date: "2005-04-25T15:43:08-04:00"
 wordpress_slug: forbidden-quickies
-wordpress_date: "2005-04-25T15:43:08-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=626
 ---
 After just [having proclaimed my effort toward maintaining focus][focus], however, I couldn't resist letting these things slip out of my head:

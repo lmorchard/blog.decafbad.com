@@ -2,8 +2,8 @@
 wordpress_id: 393
 layout: post
 title: "Happy Trails to Me, I'm Job-Free: Week One"
+date: "2003-03-17T08:57:42-05:00"
 wordpress_slug: first-week-off
-wordpress_date: "2003-03-17T08:57:42-05:00"
 wordpress_url: http://www.decafbad.com/blog/?p=393
 ---
 I hadn't written much last week, between the job search and getting

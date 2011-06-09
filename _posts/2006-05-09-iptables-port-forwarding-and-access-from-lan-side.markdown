@@ -2,10 +2,10 @@
 wordpress_id: 947
 layout: post
 title: iptables, port forwarding, and access from LAN-side
+date: "2006-05-09T22:19:16-04:00"
 tags: 
 - asides
 wordpress_slug: iptables-port-forwarding-and-access-from-lan-side
-wordpress_date: "2006-05-09T22:19:16-04:00"
 wordpress_url: http://decafbad.com/blog/2006/05/09/iptables-port-forwarding-and-access-from-lan-side
 ---
  <p>Nothing like firewall rules to make me feel like a moron.  I recently wiped and reinstalled <a href="http://openwrt.org/">OpenWRT</a> on my WRT54G router.  Before the wipe, I had firewall rules which forwarded port 80 to a web server on my home LAN behind the router.</p>

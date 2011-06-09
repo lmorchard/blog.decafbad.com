@@ -2,8 +2,8 @@
 wordpress_id: 281
 layout: post
 title: It's all about the conversation, not the referrer logs.
+date: "2002-10-11T14:16:20-04:00"
 wordpress_slug: ooocof
-wordpress_date: "2002-10-11T14:16:20-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=281
 ---
 Mark Pilgrim implements something I've been thinking about for awhile: His "<a href="http://diveintomark.org/archives/2002/10/11.html#further_reading_upgrades">Further Reading Upgrades</a>" now harvest what appears to be the paragraph surrounding a link on a referring page.  Along with the <a href="http://www.decafbad.com/twiki/bin/view/Main/RSS">RSS</a> feed of "Further Reading" items he's made available, he's got a nice game of follow-the-leader set up for the rest of us referrer log watchers.  Nice &amp; elegant &amp; makes me ashamed.  :)

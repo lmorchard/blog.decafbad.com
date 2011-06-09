@@ -2,13 +2,13 @@
 wordpress_id: 764
 layout: post
 title: Why Microsoft?
+date: "2005-11-02T15:11:53-05:00"
 tags: 
 - asides
 - webdev
 - linux
 - microsoft
 wordpress_slug: why-microsoft
-wordpress_date: "2005-11-02T15:11:53-05:00"
 wordpress_url: http://decafbad.com/blog/?p=764
 ---
 [Given the recent discussion][disc], I'll ask the inverse and naïve-sounding question:  

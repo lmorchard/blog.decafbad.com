@@ -2,8 +2,8 @@
 wordpress_id: 636
 layout: post
 title: Tiger and Tinderbox
+date: "2005-05-01T14:36:18-04:00"
 wordpress_slug: tiger-and-tinderbox
-wordpress_date: "2005-05-01T14:36:18-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=636
 ---
 <blockquote>Obviously, it would be difficult to find a stronger [Tinderbox][tb] advocate than I am, and it's the tool I reach for first and most often for my information management needs. But the OS itself is offering more and better tools to help with these sorts of tasks all the time, and it would be great if there was closer cooperation between the application and the OS.</blockquote>

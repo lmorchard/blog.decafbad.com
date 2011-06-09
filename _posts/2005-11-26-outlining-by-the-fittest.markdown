@@ -2,10 +2,10 @@
 wordpress_id: 780
 layout: post
 title: Outlining by the fittest
+date: "2005-11-26T18:41:04-05:00"
 tags: 
 - asides
 wordpress_slug: outlining-by-the-fittest
-wordpress_date: "2005-11-26T18:41:04-05:00"
 wordpress_url: http://decafbad.com/blog/?p=780
 ---
 <blockquote cite="http://blog.eronj.com/2005/11/25/xoxo-opml-simple-list-extentions/">Who knows which of these methods of describing lists will win? I’d give a slight edge to OPML, because Winer promotes it a lot. But on technical merit… you tell me. My hunch is XOXO is the crisp, clean and simple solution.</blockquote>

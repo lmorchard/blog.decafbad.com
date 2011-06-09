@@ -2,8 +2,8 @@
 wordpress_id: 646
 layout: post
 title: Further quick thoughts on GreaseMonkey
+date: "2005-06-08T16:47:56-04:00"
 wordpress_slug: further-greasemonkey
-wordpress_date: "2005-06-08T16:47:56-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=646
 ---
 Now for some quick GreaseMonkey spew, recorded without any effort to actually see what's up in the community or reading any FAQs:

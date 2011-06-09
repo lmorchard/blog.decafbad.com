@@ -2,8 +2,8 @@
 wordpress_id: 618
 layout: post
 title: Kicking the habit, rather than yourself
+date: "2005-03-19T12:07:18-05:00"
 wordpress_slug: kicking-the-habit-rather-than-yourself
-wordpress_date: "2005-03-19T12:07:18-05:00"
 wordpress_url: http://www.decafbad.com/blog/?p=618
 ---
 [It's been 1000 days since Dave Winer stopped smoking.][smoke]  

@@ -2,8 +2,8 @@
 wordpress_id: 1080
 layout: post
 title: Metablogging
+date: "2008-02-01T00:30:55-05:00"
 wordpress_slug: metablogging
-wordpress_date: "2008-02-01T00:30:55-05:00"
 wordpress_url: http://decafbad.com/blog/?p=1080
 ---
 Back in November, I built [decafbad recaffeinated][recaffeinated] using [Tinderbox][].  Through it, I wanted to finally get my head around playing with the web publishing features of [Tinderbox][] — and I hoped that after the [Yak Shaving][yak], I would enjoy the results enough to be motivated to continue pushing out small particles of thought.  That worked for awhile.  Thanks to my [serial enthusiasm][serial], though, the shine wore off after a month or two and [my output][archives] has since dwindled.  The interface is pretty cool, but there are just enough clunky bits to make me think twice about starting up the app.

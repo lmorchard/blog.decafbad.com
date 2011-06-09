@@ -2,8 +2,8 @@
 wordpress_id: 114
 layout: post
 title: "Micropoll: verdict=nifty"
+date: "2002-05-03T20:58:08-04:00"
 wordpress_slug: oooacd
-wordpress_date: "2002-05-03T20:58:08-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=114
 ---
 <p>I just grabbed <a href="http://technoerotica.net/micropoll.html">Micropoll</a> to play with from <a href="http://technoerotica.net">technoerotica.net</a></p>

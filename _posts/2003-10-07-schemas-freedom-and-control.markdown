@@ -2,8 +2,8 @@
 wordpress_id: 494
 layout: post
 title: Schemas, Freedom, and Control
+date: "2003-10-07T11:12:49-04:00"
 wordpress_slug: schemas-freedom-and-control
-wordpress_date: "2003-10-07T11:12:49-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=494
 ---
 <blockquote cite="URL">

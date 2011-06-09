@@ -2,8 +2,8 @@
 wordpress_id: 294
 layout: post
 title: Why the frell hasn't the Semantic Web bloomed yet?
+date: "2002-11-05T15:12:43-05:00"
 wordpress_slug: ooocai
-wordpress_date: "2002-11-05T15:12:43-05:00"
 wordpress_url: http://www.decafbad.com/blog/?p=294
 ---
 My referrer log harvester and stats were down last week, so I missed out on just how much traffic and flow <a href="http://www.decafbad.com/news_archives/000315.phtml">my Semantic Web ramble</a> had gotten.  But, I followed the paths back to <a href="http://www.teledyn.com/mt/archives/000267.html#000267">a riff on the Semantic Web by mrG of <span style='background : #FFFFCE;'><a href="http://www.decafbad.com/twiki/bin/edit/Main/TeledyN?topicparent=Main.FilterData"><b>?</b></a><font color="#0000FF">TeledyN</font></span></a>, perhaps more appropriately predicting <i><b>The Semantic Mycelia</b></i>.  And I think it's on the mark with what I've been thinking lately.  

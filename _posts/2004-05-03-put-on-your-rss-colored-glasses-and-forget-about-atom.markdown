@@ -3,8 +3,8 @@ wordpress_id: 519
 layout: post
 title: Put on your RSS-colored glasses and forget about Atom
 excerpt: Well, it did seem quiet, but it's comforting in an odd way that RSS Wars are still raging as I wander back into the blogosphere.  I suggest that all that Atom haters out there put on some RSS-colored glasses and forget there ever was an Atom.  XSLT and URL-as-command-line to the rescue!
+date: "2004-05-03T06:39:05-04:00"
 wordpress_slug: put-on-your-rss-colored-glasses-and-forget-about-atom
-wordpress_date: "2004-05-03T06:39:05-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=519
 ---
 <blockquote cite="http://grumet.net/weblog/archives/2004/04/28/syndication_and_competing_formats.html"> I know, we've heard a lot about this, and it might seem draining and pointless.</blockquote>

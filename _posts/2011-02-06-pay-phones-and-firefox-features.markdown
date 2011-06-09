@@ -2,6 +2,7 @@
 wordpress_id: 2032
 layout: post
 title: Pay phones and Firefox features
+date: "2011-02-06T23:32:31-05:00"
 tags: 
 - firefox
 - browsers
@@ -11,7 +12,6 @@ tags:
 - payphones
 - livemarks
 wordpress_slug: pay-phones-and-firefox-features
-wordpress_date: "2011-02-06T23:32:31-05:00"
 wordpress_url: http://decafbad.com/blog/?p=2032
 ---
 **TL;DR**: <em>Pay phones have been disappearing, and so might some Firefox features. But, that's not necessarily a bad thing: Some features steal attention from others that are more important. Some could be spun off into add-ons, which are getting easier to make.</em>

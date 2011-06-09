@@ -2,8 +2,8 @@
 wordpress_id: 623
 layout: post
 title: I need me a PSP?
+date: "2005-03-25T14:12:05-05:00"
 wordpress_slug: i-need-me-a-psp
-wordpress_date: "2005-03-25T14:12:05-05:00"
 wordpress_url: http://www.decafbad.com/blog/?p=623
 ---
 Wow.  I've been scoffing at the new Nintendo DS and the PlayStation Portable, but this is [the best review of the PSP I've seen so far][pa]:

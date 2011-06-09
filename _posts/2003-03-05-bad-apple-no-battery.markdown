@@ -2,8 +2,8 @@
 wordpress_id: 388
 layout: post
 title: Bad Apple, No Battery
+date: "2003-03-05T12:56:00-05:00"
 wordpress_slug: bad-apple-no-battery
-wordpress_date: "2003-03-05T12:56:00-05:00"
 wordpress_url: http://www.decafbad.com/blog/?p=388
 ---
 So, sometime around last November, my iBook started having battery 

@@ -2,10 +2,10 @@
 wordpress_id: 1082
 layout: post
 title: time machine is letting me down
+date: "2008-02-15T20:19:00-05:00"
 tags: 
 - asides
 wordpress_slug: time-machine-is-letting-me-down
-wordpress_date: "2008-02-15T20:19:00-05:00"
 wordpress_url: http://decafbad.com/blog/1999/11/29/time-machine-is-letting-me-down
 ---
 <p>I installed Mac OS X Leopard back in November, and up until the end of January I'd been getting reliable backups from Time Machine.  At that point, for some reason, it stopped working silently and I found out about it with a message dialog 10 days later.  Coincidentally, shortly thereafter I needed to completely restore from backup.  So, 10 days in the past was better than nothing, and that restore worked.  </p>

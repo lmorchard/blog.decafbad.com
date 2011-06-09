@@ -2,6 +2,7 @@
 wordpress_id: 1894
 layout: post
 title: "Mass Effect 2: A Review"
+date: "2010-04-02T16:06:30-04:00"
 tags: 
 - gaming
 - reviews
@@ -9,7 +10,6 @@ tags:
 - masseffect
 - bioware
 wordpress_slug: mass-effect-2-a-review
-wordpress_date: "2010-04-02T16:06:30-04:00"
 wordpress_url: http://decafbad.com/blog/?p=1894
 ---
 I just finished Bioware's Mass Effect 2 for Xbox 360, and I've got some thoughts about it.  Haven't really written reviews here for games before, but I said I wanted to start posting things here that I'd want to read.  So, here goes...

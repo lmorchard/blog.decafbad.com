@@ -2,8 +2,8 @@
 wordpress_id: 931
 layout: post
 title: On Library Camp
+date: "2006-04-17T11:20:58-04:00"
 wordpress_slug: on-library-camp
-wordpress_date: "2006-04-17T11:20:58-04:00"
 wordpress_url: http://decafbad.com/blog/2006/04/17/on-library-camp
 ---
  <p>For anyone who didn't catch my <a href="http://blogs.opml.org/decafbad/2006/04/14#When:9:17:59AM">brief bits of blogging last Friday</a>, I went to <a href="http://wiki.library2.net/index.php/Main_Page">LibraryCamp</a> in Ann Arbor, MI.  I took <a href="http://hosting.opml.org/decafbad/library-camp-20060414.opml">lots of notes in OPML</a> (also <a href="http://decafbad.com/blog/library-camp-2006/">rendered in HTML</a>), tried to <a href="http://flickr.com/photos/tags/librarycamp/">take lots of pictures</a>, and <a href="http://del.icio.us/tag/librarycamp">posted lots of bookmarks</a>.  The event went by in a flash, and the unconference format seemed to go very well.  We went from a blank schedule to <a href="http://wiki.library2.net/index.php/FinalSchedule">a full dance card</a> in about an hour, and there was plenty to do and discuss.</p>

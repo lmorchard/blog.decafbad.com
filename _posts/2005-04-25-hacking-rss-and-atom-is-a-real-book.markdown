@@ -2,8 +2,8 @@
 wordpress_id: 625
 layout: post
 title: Hacking RSS and Atom is a Real Book
+date: "2005-04-25T15:16:23-04:00"
 wordpress_slug: hacking-rss-and-atom-is-a-real-book
-wordpress_date: "2005-04-25T15:16:23-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=625
 ---
 [<img src="http://media.wiley.com/product_data/coverImage/82/07645975/0764597582.jpg" align="right" style="margin:10px;" border="0" />][wbook]

@@ -2,8 +2,8 @@
 wordpress_id: 471
 layout: post
 title: Switching to a JVDS server
+date: "2003-08-31T22:26:08-04:00"
 wordpress_slug: switched-to-jvds
-wordpress_date: "2003-08-31T22:26:08-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=471
 ---
 <br /><br />

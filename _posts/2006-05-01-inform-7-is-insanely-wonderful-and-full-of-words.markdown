@@ -2,10 +2,10 @@
 wordpress_id: 943
 layout: post
 title: Inform 7 is insanely wonderful and full of words
+date: "2006-05-01T12:54:39-04:00"
 tags: 
 - asides
 wordpress_slug: inform-7-is-insanely-wonderful-and-full-of-words
-wordpress_date: "2006-05-01T12:54:39-04:00"
 wordpress_url: http://decafbad.com/blog/2006/05/01/inform-7-is-insanely-wonderful-and-full-of-words
 ---
  <p>If you've yet to check out <a href="http://inform-fiction.org/I7/Welcome.html">the new Inform 7</a>, "A Design System for Interactive Fiction Based on Natural Language," you really need to do so.</p>

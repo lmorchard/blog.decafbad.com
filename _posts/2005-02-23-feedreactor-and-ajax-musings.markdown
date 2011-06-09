@@ -2,8 +2,8 @@
 wordpress_id: 593
 layout: post
 title: FeedReactor and Ajax musings
+date: "2005-02-23T09:57:02-05:00"
 wordpress_slug: feedreactor-and-ajax-musings
-wordpress_date: "2005-02-23T09:57:02-05:00"
 wordpress_url: http://www.decafbad.com/blog/?p=593
 ---
 I still want to get back to that [address book web app][abook] I started babbling about before Christmas, mostly to exercise my working skills with REST, XML, Javascript and XMLHttpRequest--[now known as Ajax][ajax]?

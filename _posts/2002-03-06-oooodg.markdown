@@ -2,8 +2,8 @@
 wordpress_id: 31
 layout: post
 title: Welcome RdFlowers, and wiki reg considered harmful?
+date: "2002-03-06T16:03:20-05:00"
 wordpress_slug: oooodg
-wordpress_date: "2002-03-06T16:03:20-05:00"
 wordpress_url: http://www.decafbad.com/blog/?p=31
 ---
 Welcome <a href="http://www.decafbad.com/twiki/bin/view/Main/RdFlowers">RdFlowers</a>!

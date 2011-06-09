@@ -2,10 +2,10 @@
 wordpress_id: 1948
 layout: post
 title: Less del.icio.us than ever before
+date: "2010-12-18T17:02:11-05:00"
 tags: 
 - entries
 wordpress_slug: less-del-icio-us-than-ever-before
-wordpress_date: "2010-12-18T17:02:11-05:00"
 wordpress_url: http://decafbad.com/blog/?p=1948
 ---
 <em><strong>TL;DR:</strong> I've not been using Delicious as much lately, having been lured away by simpler sharing services. But, I think there's a lot of metadata value in tagging that I'm missing out on.</em>

@@ -2,8 +2,8 @@
 wordpress_id: 614
 layout: post
 title: Bouncing Browsers
+date: "2005-03-17T10:34:24-05:00"
 wordpress_slug: bouncing-browsers
-wordpress_date: "2005-03-17T10:34:24-05:00"
 wordpress_url: http://www.decafbad.com/blog/?p=614
 ---
 I'm annoyed that neither Safari nor FireFox seem to be comfortable enough to use for long on my PowerBook.  

@@ -3,8 +3,8 @@ wordpress_id: 516
 layout: post
 title: Has it been quiet?
 excerpt: I know I've been Rip-van-Winkeling it in the blogosphere, but has it been getting quieter around here?
+date: "2004-04-29T23:36:28-04:00"
 wordpress_slug: has-it-been-quiet
-wordpress_date: "2004-04-29T23:36:28-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=516
 ---
 I know I've been Rip-van-Winkeling it in the blogosphere, but has it been getting quieter?  At least in the tech circles?  Going back through some of my archives, I see [raging RSS wars][rss_wars], [REST vs XML-RPC][rest_vs_xmlrpc] arguments, and a slew of little [Lazyweb mini-innovations][lazyweb] on a daily basis.  Hell, even the next long-anticipated release of MovableType is [reported to be meatless][mt_beef].  Also, since I've started actually paying attention to some statistics in [my aggregator][dbagg2], I've noticed a large swath of my 2-3 year old subscriptions have been long silent.  

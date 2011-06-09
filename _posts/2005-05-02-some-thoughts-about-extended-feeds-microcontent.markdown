@@ -2,8 +2,8 @@
 wordpress_id: 639
 layout: post
 title: Some thoughts about extended feeds & microcontent
+date: "2005-05-02T23:27:07-04:00"
 wordpress_slug: some-thoughts-about-extended-feeds-microcontent
-wordpress_date: "2005-05-02T23:27:07-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=639
 ---
 * [Is a feed the right place for your data?][place]

@@ -2,8 +2,8 @@
 wordpress_id: 133
 layout: post
 title: DECAFBAD's gone all wobbly
+date: "2002-05-17T12:33:34-04:00"
 wordpress_slug: oooaed
-wordpress_date: "2002-05-17T12:33:34-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=133
 ---
 <p>Whew.  Been swamped this week, with work and with life in general.  So, sadly, 0xDECAFBAD got a bit neglected.  </p>

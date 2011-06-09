@@ -2,10 +2,10 @@
 wordpress_id: 787
 layout: post
 title: Feedrolls in XOXO from OPML via XSLT and URL-line Magic
+date: "2005-12-01T08:06:07-05:00"
 tags: 
 - asides
 wordpress_slug: feedrolls-in-xoxo-from-opml-via-xslt-and-url-line-magic
-wordpress_date: "2005-12-01T08:06:07-05:00"
 wordpress_url: http://decafbad.com/blog/?p=787
 ---
 I haven't really gotten around to making [that blogroll I was promising][blogroll].  But, for the hell of it, I tried cleaning up an OPML export from my aggregator to remove my private feeds and for-pay feeds—which, incidentally and unfortunately were some of my most interesting feeds.

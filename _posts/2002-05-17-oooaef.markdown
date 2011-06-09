@@ -2,8 +2,8 @@
 wordpress_id: 135
 layout: post
 title: Cramming the airwaves into my mac
+date: "2002-05-17T17:12:04-04:00"
 wordpress_slug: oooaef
-wordpress_date: "2002-05-17T17:12:04-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=135
 ---
 <p>Oh... I'm looking around for some sample code &amp; docs for this, but maybe someone out there could drop me a few quick pointers:</p>

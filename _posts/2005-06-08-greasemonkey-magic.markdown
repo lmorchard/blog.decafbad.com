@@ -2,8 +2,8 @@
 wordpress_id: 645
 layout: post
 title: Magic Microformat Forms Redux, Now with GreaseMonkey!
+date: "2005-06-08T16:15:43-04:00"
 wordpress_slug: greasemonkey-magic
-wordpress_date: "2005-06-08T16:15:43-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=645
 ---
 <i>**Update** (6/9): One quick note-- I've noticed that this little hack of mine has been called a "hack for Movable Type".  However, while I personally use Movable Type, this is a hack for ***textareas in FireFox***. 

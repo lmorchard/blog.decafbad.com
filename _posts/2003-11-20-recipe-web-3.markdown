@@ -2,8 +2,8 @@
 wordpress_id: 508
 layout: post
 title: Building the Recipe Web III
+date: "2003-11-20T11:34:09-05:00"
 wordpress_slug: recipe-web-3
-wordpress_date: "2003-11-20T11:34:09-05:00"
 wordpress_url: http://www.decafbad.com/blog/?p=508
 ---
 <p>I haven&#8217;t had much time to tinker in the past week or two, but I have still been thinking about recipes and blogs.  I&#8217;ve also been trading emails with <a href="http://www.troyandgay.com/">Troy Hakala</a>, who&#8217;s one of the food &#38; techie geeks responsible for <a href="http://www.recipezaar.com/about/people.zsp">RecipeZaar</a> and who also has had a hand in the aforementioned <a href="http://www.formatdata.com/recipeml/">RecipeML</a> spec -- clearly, this is someone who knows what&#8217;s what with recipes online.</p>

@@ -2,6 +2,7 @@
 wordpress_id: 802
 layout: post
 title: Okay, okay, JSON is pretty hot
+date: "2005-12-18T23:17:55-05:00"
 tags: 
 - asides
 - ajax
@@ -9,7 +10,6 @@ tags:
 - webdev
 - xml
 wordpress_slug: okay-okay-json-is-pretty-hot
-wordpress_date: "2005-12-18T23:17:55-05:00"
 wordpress_url: http://decafbad.com/blog/?p=802
 ---
 The XML <strike>purist</strike> fanboy in me has had me *pshaw*'ing at JSON.  But, now that [the recent JSON release from Yahoo!][yj] reminded me of its existence and I [gave it a shot][gs] myself, I have to admit that it's pretty hot—if only for the cross-domain bridging capabilities and the no-fuss parsing.

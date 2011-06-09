@@ -2,6 +2,7 @@
 wordpress_id: 1952
 layout: post
 title: Let a million bookmarks bloom
+date: "2010-12-19T16:26:38-05:00"
 tags: 
 - delicious
 - bookmarks
@@ -10,7 +11,6 @@ tags:
 - pubsubhubbub
 - rsscloud
 wordpress_slug: let-a-million-bookmarks-bloom
-wordpress_date: "2010-12-19T16:26:38-05:00"
 wordpress_url: http://decafbad.com/blog/?p=1952
 ---
 <em><strong>TL;DR:</strong> Don't depend on Delicious; host your own, pay for it elsewhere, or hope for the best. Use real-time feeds to stitch the bookmarking diaspora back together into topical aggregate indexes.</em>

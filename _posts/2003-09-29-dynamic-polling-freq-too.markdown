@@ -2,8 +2,8 @@
 wordpress_id: 484
 layout: post
 title: Dynamic polling times for news aggregators, II
+date: "2003-09-29T13:48:28-04:00"
 wordpress_slug: dynamic-polling-freq-too
-wordpress_date: "2003-09-29T13:48:28-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=484
 ---
 <p>

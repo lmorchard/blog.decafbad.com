@@ -2,10 +2,10 @@
 wordpress_id: 860
 layout: post
 title: Getting reoriented with the OPML Editor
+date: "2006-02-12T00:42:31-05:00"
 tags: 
 - asides
 wordpress_slug: getting-reoriented-with-the-opml-editor
-wordpress_date: "2006-02-12T00:42:31-05:00"
 wordpress_url: http://decafbad.com/blog/?p=860
 ---
 *Let's see how this works.  I've been spewing over on my [OPML blog](http://blogs.opml.org/decafbad/) for awhile today, and going to try pasting some excerpts here.*

@@ -2,13 +2,13 @@
 wordpress_id: 1219
 layout: post
 title: date-based pagination
+date: "2008-07-17T14:16:01-04:00"
 tags: 
 - asides
 - delicious
 - webdev
 - pagination
 wordpress_slug: date-based-pagination
-wordpress_date: "2008-07-17T14:16:01-04:00"
 wordpress_url: http://decafbad.com/blog/2008/07/17/date-based-pagination
 ---
 Here's a small idea I've not yet had the chance to try out on a large scale:  Time-based pagination in lieu of page-number-based pagination for personal content - ie. blogs, bookmarks, status updates, etc.  (You know, User Generated Content except I dislike the term.)

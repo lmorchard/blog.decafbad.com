@@ -3,10 +3,10 @@ wordpress_id: 553
 layout: post
 title: Initial dbagg3 / feedReactor notes in Kwiki
 excerpt: While the girl does her Calculus and Statistics homework, I'm availing myself of this coffee shop wi-fi to make an initial brain-dump of FeedReactor details into Kwiki.
+date: "2004-09-18T23:47:07-04:00"
 tags: 
 - syndication
 wordpress_slug: feedreactor-dbagg3-notes
-wordpress_date: "2004-09-18T23:47:07-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=553
 ---
 While [the girl][missadroit] does her Calculus and Statistics homework, I'm availing myself of this [coffee shop][coffee] wi-fi to make an initial brain-dump of [Feed<nop>Reactor details][feedreactor] into Kwiki:

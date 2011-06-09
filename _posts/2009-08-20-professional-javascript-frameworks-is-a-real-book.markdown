@@ -2,10 +2,10 @@
 wordpress_id: 1813
 layout: post
 title: Professional JavaScript Frameworks is a real book!
+date: "2009-08-20T15:22:58-04:00"
 tags: 
 - entries
 wordpress_slug: professional-javascript-frameworks-is-a-real-book
-wordpress_date: "2009-08-20T15:22:58-04:00"
 wordpress_url: http://decafbad.com/blog/?p=1813
 ---
 Introducing [Professional JavaScript Frameworks][profjs], my first multi-author book project and the result of almost 2 years' writing, editing, revising, and cat herding.  The author roster changed a few times in the process, as did the editorial oversight, but finally the thing's hitting shelves.

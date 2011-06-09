@@ -2,8 +2,8 @@
 wordpress_id: 166
 layout: post
 title: AmphetaDesk approacheth, and I infect it with Cocoa and outlines.
+date: "2002-06-08T22:11:16-04:00"
 wordpress_slug: oooahg
-wordpress_date: "2002-06-08T22:11:16-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=166
 ---
 <p><a href="http://www.decafbad.com/deus_x/cocoa-dev/ampheta-on-x.jpg" target="_new"><img hspace="6" vspace="6" src="http://www.decafbad.com/mt-images/ampheta-on-x-sm.jpg" border="0" align="right"></a>This past week, I've been playing with the new <a href="http://www.disobey.com/amphetadesk">AmphetaDesk</a> checked out <a href="http://sourceforge.net/cvs/?group_id=21649">from CVS</a>.  <a href="http://www.disobey.com/about/morbus.shtml">Morbus Iff</a> gets closer to a release, and I threw together a <a href="http://www.decafbad.com/deus_x/cocoa-dev/ampheta-on-x.jpg" target="_new">Cocoa wrapper</a> and <a href="http://www.decafbad.com/deus_x/cocoa-dev/amphy-outline-skin.jpg" target="_new">outline skin</a> for Ampheta.</p>

@@ -2,8 +2,8 @@
 wordpress_id: 367
 layout: post
 title: BeanShell rocks - and, oh yeah, a personal proxy in Java
+date: "2003-01-24T02:12:39-05:00"
 wordpress_slug: ooocih
-wordpress_date: "2003-01-24T02:12:39-05:00"
 wordpress_url: http://www.decafbad.com/blog/?p=367
 ---
 <p>Have I mentioned lately that I &hearts; <a href="http://www.beanshell.org" target="_top">BeanShell</a> for Java?</p>

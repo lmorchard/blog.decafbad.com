@@ -2,10 +2,10 @@
 wordpress_id: 775
 layout: post
 title: I'm a guest Greasemonkey hacker
+date: "2005-11-23T22:37:04-05:00"
 tags: 
 - asides
 wordpress_slug: im-a-guest-greasemonkey-hacker
-wordpress_date: "2005-11-23T22:37:04-05:00"
 wordpress_url: http://decafbad.com/blog/?p=775
 ---
 A lovely copy of Mark Pilgrim's [GreaseMonkey Hacks][gmh] from O'Reilly just showed up on my doorstep.  

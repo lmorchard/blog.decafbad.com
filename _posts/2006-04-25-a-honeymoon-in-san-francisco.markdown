@@ -2,8 +2,8 @@
 wordpress_id: 937
 layout: post
 title: A Honeymoon in San Francisco
+date: "2006-04-25T21:25:29-04:00"
 wordpress_slug: a-honeymoon-in-san-francisco
-wordpress_date: "2006-04-25T21:25:29-04:00"
 wordpress_url: http://decafbad.com/blog/2006/04/25/a-honeymoon-in-san-francisco
 ---
  <p>It's official - on June 9th, <a href="http://decafbad.com/blog/2005/06/17/were-engaged">the girl and I are to be married</a>.  From June 11th until the 14th, we plan to explore San Francisco to kick off our honeymoon.</p>

@@ -2,8 +2,8 @@
 wordpress_id: 101
 layout: post
 title: Tearing down fences around DecafbadWiki
+date: "2002-04-25T14:57:01-04:00"
 wordpress_slug: oooaba
-wordpress_date: "2002-04-25T14:57:01-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=101
 ---
 <p>Oh, and I bit the bullet and turned off the authentication requirement on the wiki.  I've decided that ultimately I agree that <a href="http://www.usemod.com/cgi-bin/mb.pl?LoginsAreEvil">LoginsAreEvil</a>.  I didn't <i>really</i> want to put up fences, or raise the laziness threshold.  I mostly wanted to identify people, but I was mistaken.  Now, I'd rather <a href="http://www.usemod.com/cgi-bin/mb.pl?AvoidIllusion">AvoidIllusion</a>.</p>

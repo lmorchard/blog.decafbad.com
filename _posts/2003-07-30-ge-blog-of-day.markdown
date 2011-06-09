@@ -2,8 +2,8 @@
 wordpress_id: 455
 layout: post
 title: GeniusEngineer Blog of the Day
+date: "2003-07-30T13:41:16-04:00"
 wordpress_slug: ge-blog-of-day
-wordpress_date: "2003-07-30T13:41:16-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=455
 ---
 Wow.  It appears that this is the Blog of the day at

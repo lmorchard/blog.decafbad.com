@@ -3,10 +3,10 @@ wordpress_id: 585
 layout: post
 title: General Motors is blogging
 excerpt: Who are these people?  And how many inches of snow have fallen in Hell so far?
+date: "2005-01-09T03:15:42-05:00"
 tags: 
 - syndication
 wordpress_slug: general-motors-is-blogging
-wordpress_date: "2005-01-09T03:15:42-05:00"
 wordpress_url: http://www.decafbad.com/blog/?p=585
 ---
 <blockquote>The automaker that once epitomized the Type A business world of suits and white shirts has decided to join the trend toward keeping Internet blogs, the online personal diaries that have become a huge hit with Web users. This week, GM quietly introduced Fastlane (<a href="http://fastlane.gmblogs.com">http://fastlane.gmblogs.com</a>), a blog written by top management of the world's largest corporation.</blockquote>

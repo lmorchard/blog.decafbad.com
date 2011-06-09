@@ -2,10 +2,10 @@
 wordpress_id: 1473
 layout: post
 title: The Concise Guide to Dojo is a real book!
+date: "2008-12-19T22:35:16-05:00"
 tags: 
 - entries
 wordpress_slug: the-concise-guide-to-dojo-is-a-real-book
-wordpress_date: "2008-12-19T22:35:16-05:00"
 wordpress_url: http://decafbad.com/blog/?p=1473
 ---
 This year has been a doozy.  A full account of it would fill a book, so it's telling that I've neglected to raise much of a fuss about the fact that I [actually *have* been working on a new book][profjs].  Not only that, but part of *that* book has been spun off into [yet another book of its own][dojobook]:

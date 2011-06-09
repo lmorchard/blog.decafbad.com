@@ -2,8 +2,8 @@
 wordpress_id: 61
 layout: post
 title: Really automated automaticwriter?
+date: "2002-04-11T15:44:58-04:00"
 wordpress_slug: ooooha
-wordpress_date: "2002-04-11T15:44:58-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=61
 ---
 <p>Crossposted from my <a href="http://www.livejournal.com/users/deus_x/">LiveJournal</a>:</p>

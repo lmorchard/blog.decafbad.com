@@ -2,13 +2,13 @@
 wordpress_id: 990
 layout: post
 title: When virtual banks fail, seek virtual laws
+date: "2006-08-29T12:16:25-04:00"
 tags: 
 - gaming
 - mmorpg
 - eve
 - scams
 wordpress_slug: when-virtual-banks-fail
-wordpress_date: "2006-08-29T12:16:25-04:00"
 wordpress_url: http://decafbad.com/blog/2006/08/29/when-virtual-banks-fail
 ---
 <blockquote cite="http://research.yale.edu/lawmeme/modules.php?name=News&file=article&sid=1768">Virtual acts increasingly have offline consequences--at least in those worlds with permeable borders. I would not like to be planning the next masive EVE Onine scam, or the one after it, or the one after that. For now the comforting strains of "it's just a game" are paying, but some day, some day soon, the weasel will pop.</blockquote><div class="quotesource">Source: <a href="http://research.yale.edu/lawmeme/modules.php?name=News&file=article&sid=1768">LawMeme - When Virtual Banks Fail</a></div>

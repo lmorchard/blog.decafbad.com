@@ -2,6 +2,7 @@
 wordpress_id: 1935
 layout: post
 title: "Case Study: Building a Bookmark Management UI for Mozilla's BYOB"
+date: "2010-06-22T18:16:24-04:00"
 tags: 
 - webdev
 - js
@@ -9,7 +10,6 @@ tags:
 - mozilla
 - byob
 wordpress_slug: case-study-building-a-bookmark-management-ui-for-mozillas-byob
-wordpress_date: "2010-06-22T18:16:24-04:00"
 wordpress_url: http://decafbad.com/blog/?p=1935
 ---
 <em><strong>TL;DR:</strong> I just wrote [a **long** case-study about my process in building a bookmark management feature][article] for Mozilla's [Build Your Own Browser][byob] web application.</em>

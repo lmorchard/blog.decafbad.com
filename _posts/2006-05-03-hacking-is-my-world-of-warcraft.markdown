@@ -2,8 +2,8 @@
 wordpress_id: 945
 layout: post
 title: Hacking is my World of Warcraft
+date: "2006-05-03T10:54:17-04:00"
 wordpress_slug: hacking-is-my-world-of-warcraft
-wordpress_date: "2006-05-03T10:54:17-04:00"
 wordpress_url: http://decafbad.com/blog/2006/05/03/hacking-is-my-world-of-warcraft
 ---
  <p>I've just read blog posts from <a href="http://www.plasticbag.org/archives/2006/05/on_wanting_to_stop_wanting_world_of_warcraft.shtml">Tom Coates</a> and <a href="http://rc3.org/2006/05/the_grim_time_s.php">Rafe Colburn</a> talking about time spent playing World of Warcraft that might have been better spent on more worthwhile pursuits - such as writing, hacking, reading, getting outside, etc.</p>

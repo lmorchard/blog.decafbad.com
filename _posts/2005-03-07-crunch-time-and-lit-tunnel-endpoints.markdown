@@ -2,8 +2,8 @@
 wordpress_id: 607
 layout: post
 title: Crunch Time and Lit-Tunnel Endpoints
+date: "2005-03-07T17:11:25-05:00"
 wordpress_slug: crunch-time-and-lit-tunnel-endpoints
-wordpress_date: "2005-03-07T17:11:25-05:00"
 wordpress_url: http://www.decafbad.com/blog/?p=607
 ---
 Recently read [from Drunkenblog][db]:

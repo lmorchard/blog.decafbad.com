@@ -3,11 +3,11 @@ wordpress_id: 544
 layout: post
 title: XPath based Python dictionaries, on loan
 excerpt: But, while I'm in the process of wheel reinvention, how about I borrow Kimbro's idea?  I just threw together a quick class called XPathDict, based on libxml2.
+date: "2004-09-01T06:47:41-04:00"
 tags: 
 - hacks
 - xml
 wordpress_slug: xpath-based-python-dictionaries-on-loan
-wordpress_date: "2004-09-01T06:47:41-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=544
 ---
 So [Kimbro Staken][kimbro] posted this nifty idea to build [XPath based Python dictionaries][xpathdict] to access XML data as a part of his incredibly nifty [Syncato][syncato] microcontent management system.  Eventually, I've really got to break down and get that thing built and running on my server and my laptop-- it really seems like I'm reinventing so many wheels by not basing [`dbagg3`][dbagg3] on it.

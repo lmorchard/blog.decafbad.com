@@ -2,8 +2,8 @@
 wordpress_id: 652
 layout: post
 title: Two unrelated quick thoughts
+date: "2005-06-14T19:02:01-04:00"
 wordpress_slug: two-unrelated-quick-thoughts
-wordpress_date: "2005-06-14T19:02:01-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=652
 ---
 * Because it bears repeating, here's [something I just wrote in a comment][com]:

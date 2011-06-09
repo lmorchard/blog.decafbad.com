@@ -2,6 +2,7 @@
 wordpress_id: 971
 layout: post
 title: Ajaxitagging
+date: "2006-08-16T09:12:07-04:00"
 tags: 
 - delicious
 - book
@@ -10,7 +11,6 @@ tags:
 - json
 - webdev
 wordpress_slug: ajaxitagging
-wordpress_date: "2006-08-16T09:12:07-04:00"
 wordpress_url: http://decafbad.com/blog/2006/08/16/ajaxitagging
 ---
 <blockquote cite="http://adactio.com/journal/1162">Ever since I switched over to a new CMS back in February, I’ve been tagging all my journal entries. Until now, I haven’t been doing anything with those tags apart from exposing them in category elements in my RSS feed. Now that I’ve got a good head of steam going with my tags, I’ve decided to play around with them a bit.</blockquote><div class="quotesource">Source: <a href="http://adactio.com/journal/1162">Adactio: Journal - Ajaxitagging</a></div>

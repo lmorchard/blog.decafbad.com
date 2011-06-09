@@ -2,8 +2,8 @@
 wordpress_id: 177
 layout: post
 title: How to know when not to worry before grokking?
+date: "2002-06-13T15:02:20-04:00"
 wordpress_slug: oooaih
-wordpress_date: "2002-06-13T15:02:20-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=177
 ---
 <p><a href="http://bitworking.org/2002/06/12.html#a196">Joe Gregorio</a>: "<i>...I didn't really see a need for <a href="http://www.decafbad.com/twiki/bin/view/Main/CSS">CSS</a> when I first learned HTML, but as I maintained some web sites over time and bumped my head enough times on having mark-up embedded in my content which made it difficult, if not impossible, to deploy a new look and feel to site without having to edit every page, I suddenly had a real need for <a href="http://www.decafbad.com/twiki/bin/view/Main/CSS">CSS</a>. I still have a lot to learn, still more head bumping to do, and I want to have <a href="http://www.decafbad.com/twiki/bin/view/Main/RDF">RDF</a>, SVG, SMIL, and all the rest in my pocket when those days come.</i>"</p>

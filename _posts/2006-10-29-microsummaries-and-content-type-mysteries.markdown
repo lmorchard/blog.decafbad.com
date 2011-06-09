@@ -2,13 +2,13 @@
 wordpress_id: 1010
 layout: post
 title: Microsummaries and Content-Type Mysteries
+date: "2006-10-29T15:34:49-05:00"
 tags: 
 - webdev
 - firefox
 - microsummaries
 - bookmarks
 wordpress_slug: microsummaries-and-content-type-mysteries
-wordpress_date: "2006-10-29T15:34:49-05:00"
 wordpress_url: http://decafbad.com/blog/2006/10/29/microsummaries-and-content-type-mysteries
 ---
 One of my favorite features of the new Firefox are [Microsummaries][ms].  They're like RSS-lite: one-liner summaries of web pages that can be used to keep bookmark titles up to date and get succinct info about a page.  For example, you could get the latest temperature from the title of a weather report bookmark, or the most recent bid price from an auction page.

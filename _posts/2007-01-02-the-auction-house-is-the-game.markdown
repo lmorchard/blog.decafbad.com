@@ -2,13 +2,13 @@
 wordpress_id: 1032
 layout: post
 title: the auction house is the game
+date: "2007-01-02T19:53:12-05:00"
 tags: 
 - asides
 - gaming
 - wow
 - auctions
 wordpress_slug: the-auction-house-is-the-game
-wordpress_date: "2007-01-02T19:53:12-05:00"
 wordpress_url: http://decafbad.com/blog/2007/01/02/the-auction-house-is-the-game
 ---
 Free game idea I'll probably never implement, and would hate to maintain if I ever did:

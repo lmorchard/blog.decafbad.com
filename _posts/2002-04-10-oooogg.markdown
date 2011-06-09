@@ -2,8 +2,8 @@
 wordpress_id: 57
 layout: post
 title: PipeFilters 0.3.7 published
+date: "2002-04-10T17:45:33-04:00"
 wordpress_slug: oooogg
-wordpress_date: "2002-04-10T17:45:33-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=57
 ---
 <p>Psst.  Another version bump.  Playing around with breaking filters out into their own definitions, to be referred to by the pipelines instead of embedded in them.  This way, once I get around to doing the web UI to manage everything, I can have filter creation, acquisition, and trading all done separately from pipeline management.</p>

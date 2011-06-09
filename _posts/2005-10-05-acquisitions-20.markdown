@@ -2,12 +2,12 @@
 wordpress_id: 715
 layout: post
 title: Acquisitions 2.0
+date: "2005-10-05T14:00:13-04:00"
 tags: 
 - asides
 - entrepreneurs
 - acquisitions
 wordpress_slug: acquisitions-20
-wordpress_date: "2005-10-05T14:00:13-04:00"
 wordpress_url: http://decafbad.com/blog/?p=715
 ---
 Wow, isn't this the week for acquisitions?

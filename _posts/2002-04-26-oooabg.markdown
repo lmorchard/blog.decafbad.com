@@ -2,8 +2,8 @@
 wordpress_id: 107
 layout: post
 title: "REST: What's it good for?  Part Deux"
+date: "2002-04-26T17:48:33-04:00"
 wordpress_slug: oooabg
-wordpress_date: "2002-04-26T17:48:33-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=107
 ---
 <p>Chris Heschong <a href="http://chris.wiw.org/2002/04/26.html#a16">writes</a>: <i>Ken <span style='background : #FFFFCE;'><a href="http://www.decafbad.com/twiki/bin/edit/Main/MacLeod?topicparent=Main.FilterData"><b>?</b></a><font color="#0000FF">MacLeod</font></span> notes that, in regards to <a href="http://www.decafbad.com/twiki/bin/view/Main/REST">REST</a>, "the only thing holding us back is a marshalling standard." I'd be a lot happier with <a href="http://www.decafbad.com/twiki/bin/view/Main/REST">REST</a> implementations if this were the case.</i></p>

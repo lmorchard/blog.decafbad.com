@@ -3,8 +3,8 @@ wordpress_id: 586
 layout: post
 title: The Blogosphere as a Tuple Space
 excerpt: These tuple spaces seem pretty nifty.  I wonder how we can make the web more like a tuple space?
+date: "2005-01-12T16:12:40-05:00"
 wordpress_slug: the-blogosphere-as-a-tuple-space
-wordpress_date: "2005-01-12T16:12:40-05:00"
 wordpress_url: http://www.decafbad.com/blog/?p=586
 ---
 It just occurred to me today that the blogosphere is like a [Tuple Space][tuples].  Or rather, each person's light cone in the blogosphere, made up of the feeds and blogs you track and what you publish, is a [Tuple Space][tuples]--and the blogosphere itself is the union of every personal [Tuple Space][tuples] in existence.

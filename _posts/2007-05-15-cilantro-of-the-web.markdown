@@ -2,6 +2,7 @@
 wordpress_id: 1054
 layout: post
 title: Cilantro of the web
+date: "2007-05-15T18:45:10-04:00"
 tags: 
 - asides
 - webdev
@@ -14,7 +15,6 @@ tags:
 - java
 - macromedia
 wordpress_slug: cilantro-of-the-web
-wordpress_date: "2007-05-15T18:45:10-04:00"
 wordpress_url: http://decafbad.com/blog/2007/05/15/cilantro-of-the-web
 ---
 <p><i>Trying out the OPML Editor again, pasting in an entry composed over at <a href="http://blogs.opml.org/decafbad">my OPML blog</a>.</i></p>

@@ -2,10 +2,10 @@
 wordpress_id: 815
 layout: post
 title: Hurr durr zzzz
+date: "2006-01-04T23:43:32-05:00"
 tags: 
 - asides
 wordpress_slug: hurr-durr-zzzz
-wordpress_date: "2006-01-04T23:43:32-05:00"
 wordpress_url: http://decafbad.com/blog/?p=815
 ---
 Time consumed with late work nights.  Brain replaced by cotton.  A few thoughts leaking out ear:

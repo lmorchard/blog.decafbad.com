@@ -2,10 +2,10 @@
 wordpress_id: 794
 layout: post
 title: Who's using Natural Docs?
+date: "2005-12-11T23:34:10-05:00"
 tags: 
 - asides
 wordpress_slug: whos-using-natural-docs
-wordpress_date: "2005-12-11T23:34:10-05:00"
 wordpress_url: http://decafbad.com/blog/?p=794
 ---
 <blockquote cite="http://www.naturaldocs.org/">Natural Docs is an open-source, extensible, multi-language documentation generator.  You document your code in a natural syntax that reads like plain English.  Natural Docs then scans your code and builds high-quality HTML documentation from it.</blockquote>

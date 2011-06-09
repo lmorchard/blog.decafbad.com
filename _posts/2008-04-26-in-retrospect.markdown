@@ -2,10 +2,10 @@
 wordpress_id: 1089
 layout: post
 title: In retrospect
+date: "2008-04-26T13:52:52-04:00"
 tags: 
 - entries
 wordpress_slug: in-retrospect
-wordpress_date: "2008-04-26T13:52:52-04:00"
 wordpress_url: http://decafbad.com/blog/?p=1089
 ---
 When I first [created this blog][start] back in February 2002, I was talking to myself and I knew it.  But, that didn't really matter: Since becoming [newly digital in 1983][newlydigital], I'd already spent years plugging away at personal projects big and small, frequently abandoned, talking to myself all the time anyway.

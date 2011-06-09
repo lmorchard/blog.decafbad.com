@@ -2,8 +2,8 @@
 wordpress_id: 574
 layout: post
 title: Mr. Gruff
+date: "2004-12-07T22:08:46-05:00"
 wordpress_slug: mr-gruff
-wordpress_date: "2004-12-07T22:08:46-05:00"
 wordpress_url: http://www.decafbad.com/blog/?p=574
 ---
 No offense intended toward anyone, but...

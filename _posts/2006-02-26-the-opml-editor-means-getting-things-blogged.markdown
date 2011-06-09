@@ -2,8 +2,8 @@
 wordpress_id: 905
 layout: post
 title: The OPML Editor means Getting Things Blogged
+date: "2006-02-26T23:25:10-05:00"
 wordpress_slug: the-opml-editor-means-getting-things-blogged
-wordpress_date: "2006-02-26T23:25:10-05:00"
 wordpress_url: http://decafbad.com/blog/2006/02/26/the-opml-editor-means-getting-things-blogged
 ---
  <p>Lisa Williams points to <a href="http://blogs.opml.org/thisislisa/2006/02/26#offlineEditorsAreFromMarsTheOpmlEditorIsFromVenus">OPML blogging bewilderment</a> from authors of a desktop blogging client, <a href="http://qumana.com/">Qumana</a>.  <a href="http://blogs.opml.org/decafbad/2006/02/12#lightningFastBloggingWithTheOpmlEditor">I compared the OPML Editor to a cavitating torpedo.</a>  It's just fast and uncomplicated - it's light on formatting features, but that itself is a feature.  I type, and save, and I'm published.  I could post 60 entries in a minute, maybe more.  (I type pretty fast, think faster.)  When I open the day's outline, I'm not Faced with the Task of Composing a Document, I'm faced with a structure based on luring atomic thoughts out of my head.  Ready, fire, aim.  That's the blogging style here.</p>

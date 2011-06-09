@@ -2,8 +2,8 @@
 wordpress_id: 359
 layout: post
 title: Automated openness versus the script kiddies
+date: "2003-01-20T16:37:18-05:00"
 wordpress_slug: ooocio
-wordpress_date: "2003-01-20T16:37:18-05:00"
 wordpress_url: http://www.decafbad.com/blog/?p=359
 ---
 <blockquote cite="http://simon.incutio.com/archive/2003/01/19/aGlobalConversation#comments">If I did have comments on my weblog it would be like Slashdot, a very low signal to noise ratio. Don't blame me for that, it comes with longevity and flow. The longer the site is around and the higher the flow, the more losers one attracts. I can see where these things work for a lower flow site, but they would never work for Scripting News, I'd have to turn it off quickly because of the low-roaders. </blockquote><div class="credit" align="right"><small>Source:<cite><a href="http://simon.incutio.com/archive/2003/01/19/aGlobalConversation#comments">Dave Winer in comments on Simon Willison's Weblog</a></cite>.</small></div>

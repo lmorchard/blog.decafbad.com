@@ -2,8 +2,8 @@
 wordpress_id: 378
 layout: post
 title: Now with SimpleComments!
+date: "2003-02-05T13:11:48-05:00"
 wordpress_slug: ooodoi
-wordpress_date: "2003-02-05T13:11:48-05:00"
 wordpress_url: http://www.decafbad.com/blog/?p=378
 ---
 <p>Now using Kalsey's <a href="http://kalsey.com/blog/2003/02/simplecomments/index.html" target="_top">SimpleComments MT plugin</a>.  Planning to integrate referrers into it at some point, also, along with an easy yea/nay interface via email or Jabber to ask me whether I want to allow a new referrer to be published or not.  Having had my site used to advertise adult movies and anal sex this week was not appreciated.</p>

@@ -2,6 +2,7 @@
 wordpress_id: 833
 layout: post
 title: A bit of newsRiver hackery
+date: "2006-01-21T01:54:30-05:00"
 tags: 
 - asides
 - rss
@@ -14,7 +15,6 @@ tags:
 - usertalk
 - dwiner
 wordpress_slug: a-bit-of-newsriver-hackery
-wordpress_date: "2006-01-21T01:54:30-05:00"
 wordpress_url: http://decafbad.com/blog/?p=833
 ---
 **Update:** *I moved this code over to [my space over at hosting.opml.org][ms] and added some updater code from [Nicholas Riley's webdav tool][nu], so that you should be able to just "Get Latest Code..." once you've got this installed.  (Or reinstalled, if you grabbed last night's version.)  Also, I fixed a bug or two.*

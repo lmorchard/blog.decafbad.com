@@ -2,10 +2,10 @@
 wordpress_id: 702
 layout: post
 title: On attempted conversions via blog comment
+date: "2005-09-27T13:55:54-04:00"
 tags: 
 - asides
 wordpress_slug: on-attempted-conversions-via-blog-comment
-wordpress_date: "2005-09-27T13:55:54-04:00"
 wordpress_url: http://decafbad.com/blog/?p=702
 ---
 > That's all I have to say about the matter, though I do find it strange that people would complain about and try to dictate what I put on my eponymous web site. You can just stop reading if you'd like. You don't need to tell me about it.

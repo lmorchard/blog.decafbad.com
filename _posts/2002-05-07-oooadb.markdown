@@ -2,8 +2,8 @@
 wordpress_id: 121
 layout: post
 title: Linkbacks, robots, laziness, the semantic web, and you.
+date: "2002-05-07T21:13:17-04:00"
 wordpress_slug: oooadb
-wordpress_date: "2002-05-07T21:13:17-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=121
 ---
 <p>I just noticed <a href="http://www.disenchanted.com/dis/technology/xanadu.html">Ghosts of Xanadu</a> published on <a href="http://www.disenchanted.com">Disenchanted</a>, where they make an analysis of the linkback meme and it's historic roots.  They cover pretty much all the big ideas I've been poking at in my head, and give props to Xanadu.  Heck, they even mention Godel, Escher, &amp; Bach (which my girlfriend &amp; I have started reading again) and ant scent trails.</p>

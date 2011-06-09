@@ -2,8 +2,8 @@
 wordpress_id: 433
 layout: post
 title: Like I was saying about RSS...
+date: "2003-06-26T13:28:18-04:00"
 wordpress_slug: so-like-i-was-saying
-wordpress_date: "2003-06-26T13:28:18-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=433
 ---
 So yeah,

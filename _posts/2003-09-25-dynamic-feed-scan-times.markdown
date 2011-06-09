@@ -2,8 +2,8 @@
 wordpress_id: 483
 layout: post
 title: Dynamic feed polling times for news aggregators
+date: "2003-09-25T22:45:29-04:00"
 wordpress_slug: dynamic-feed-scan-times
-wordpress_date: "2003-09-25T22:45:29-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=483
 ---
 <p>Today, <a href=http://www.decafbad.com/cvs/dbagg/">my aggregator</a> got

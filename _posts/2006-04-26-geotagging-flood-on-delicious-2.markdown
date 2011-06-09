@@ -2,10 +2,10 @@
 wordpress_id: 939
 layout: post
 title: Geotagging Flood on del.icio.us
+date: "2006-04-26T22:23:06-04:00"
 tags: 
 - asides
 wordpress_slug: geotagging-flood-on-delicious-2
-wordpress_date: "2006-04-26T22:23:06-04:00"
 wordpress_url: http://decafbad.com/blog/2006/04/26/geotagging-flood-on-delicious-2
 ---
  <p>So, to anyone who's wondering about my <a href="http://del.icio.us/deusx/geotagged">recent flood of geotagged bookmarks on del.icio.us</a>, it's honeymoon research.  Sorry if it's getting annoying.  I've also been getting quite a lot of sudden mileage out of <a href="http://www.yelp.com/">Yelp</a>.</p>

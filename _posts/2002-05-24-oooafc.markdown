@@ -2,8 +2,8 @@
 wordpress_id: 142
 layout: post
 title: Secret weapons of LISP and Perl
+date: "2002-05-24T15:30:44-04:00"
 wordpress_slug: oooafc
-wordpress_date: "2002-05-24T15:30:44-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=142
 ---
 <p>Just saw <a href="http://radio.weblogs.com/0106046/2002/05/24.html#a48">Gordon Weakliem mention</a>, via <a href="http://www.rolandtanglao.com/2002/05/21.html#a1965">Roland Tanglao's Weblog</a>, this article over at New Architect: <a href="http://www.newarchitectmag.com/documents/s=2286/new1015626014044/">Orbitz Reaches New Heights</a>.  This snags my eye for two reasons: 1) Orbitz is a client of my employer - we do a ton of web promotions for them; and 2) LISP is one of those things I keep meaning to get back into, kinda like I keep meaning to read things from that gigantic Shakespeare collection I asked for and recieved for Christmas from me mum.</p>

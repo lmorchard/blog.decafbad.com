@@ -2,8 +2,8 @@
 wordpress_id: 581
 layout: post
 title: Belated Happy New Year!
+date: "2005-01-07T12:28:55-05:00"
 wordpress_slug: belated-happy-new-year
-wordpress_date: "2005-01-07T12:28:55-05:00"
 wordpress_url: http://www.decafbad.com/blog/?p=581
 ---
 That was a good, lazy, and mostly offline holiday break.  I spent most of the week between Christmas and the New Year in new pajama pants with [The Girl](http://missadroit.livejournal.com), playing video games, visiting family and friends, and mostly regenerating frazzled neurons.  But now, I've been back to work for most of a week and I'm just now slowly reconnecting to things.  Hopefully the time off did me some good and you'll see some more regular activity from me.  Let's see, how's the new year looks from here...

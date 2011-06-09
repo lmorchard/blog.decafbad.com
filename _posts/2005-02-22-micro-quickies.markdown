@@ -2,8 +2,8 @@
 wordpress_id: 591
 layout: post
 title: Micro-quickies
+date: "2005-02-22T09:07:21-05:00"
 wordpress_slug: micro-quickies
-wordpress_date: "2005-02-22T09:07:21-05:00"
 wordpress_url: http://www.decafbad.com/blog/?p=591
 ---
 * I have decided that all weekends need to consist of 3 days.  That, or I need a vacation.

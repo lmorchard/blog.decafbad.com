@@ -2,6 +2,7 @@
 wordpress_id: 985
 layout: post
 title: I refuse to be afraid
+date: "2006-08-24T12:49:06-04:00"
 tags: 
 - terror
 - terrorism
@@ -9,7 +10,6 @@ tags:
 - fear
 - politics
 wordpress_slug: refusefear
-wordpress_date: "2006-08-24T12:49:06-04:00"
 wordpress_url: http://decafbad.com/blog/2006/08/24/refusefear
 ---
 <blockquote cite="http://www.wired.com/news/columns/0,71642-0.html?tw=wn_index_3"><p>The point of terrorism is to cause terror, sometimes to further a political goal and sometimes out of sheer hatred. The people terrorists kill are not the targets; they are collateral damage. And blowing up planes, trains, markets or buses is not the goal; those are just tactics.

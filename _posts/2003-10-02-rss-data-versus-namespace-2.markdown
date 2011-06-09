@@ -2,8 +2,8 @@
 wordpress_id: 489
 layout: post
 title: "RSS 2.0 namespace versus RSS-Data, Part 2: First impressions"
+date: "2003-10-02T12:26:02-04:00"
 wordpress_slug: rss-data-versus-namespace-2
-wordpress_date: "2003-10-02T12:26:02-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=489
 ---
 <p>

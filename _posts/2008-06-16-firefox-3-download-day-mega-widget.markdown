@@ -2,13 +2,13 @@
 wordpress_id: 1148
 layout: post
 title: Firefox 3 Download Day Mega Widget
+date: "2008-06-16T11:55:04-04:00"
 tags: 
 - firefox
 - entries
 - mozilla
 - downloadday
 wordpress_slug: firefox-3-download-day-mega-widget
-wordpress_date: "2008-06-16T11:55:04-04:00"
 wordpress_url: http://decafbad.com/blog/?p=1148
 ---
 **Update:** Oh, and rumor has it that this widget will switch to reporting on downloads, rather than pledges, once the main event has begun.

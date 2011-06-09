@@ -2,8 +2,8 @@
 wordpress_id: 487
 layout: post
 title: "RSS-Data: XML-RPC encoding in RSS 2.0"
+date: "2003-10-01T16:21:23-04:00"
 wordpress_slug: rss-data
-wordpress_date: "2003-10-01T16:21:23-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=487
 ---
 <blockquote cite="http://radio.weblogs.com/0113297/2003/10/01.html#a236"><i><p>

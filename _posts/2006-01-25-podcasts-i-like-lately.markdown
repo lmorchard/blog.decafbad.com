@@ -2,13 +2,13 @@
 wordpress_id: 838
 layout: post
 title: Podcasts I like lately
+date: "2006-01-25T11:21:34-05:00"
 tags: 
 - asides
 - scifi
 - writing
 - podcasting
 wordpress_slug: podcasts-i-like-lately
-wordpress_date: "2006-01-25T11:21:34-05:00"
 wordpress_url: http://decafbad.com/blog/?p=838
 ---
 While being crazy busy, I've been thoroughly enjoying these podcasts:

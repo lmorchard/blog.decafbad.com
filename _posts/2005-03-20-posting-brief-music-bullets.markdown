@@ -2,8 +2,8 @@
 wordpress_id: 619
 layout: post
 title: Posting brief music bullets
+date: "2005-03-20T16:13:21-05:00"
 wordpress_slug: posting-brief-music-bullets
-wordpress_date: "2005-03-20T16:13:21-05:00"
 wordpress_url: http://www.decafbad.com/blog/?p=619
 ---
 * The new [Sizzling Keys for iTunes][sk] and its redesigned, self-resizing floater window positively rocks.  

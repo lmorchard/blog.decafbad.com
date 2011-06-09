@@ -2,11 +2,11 @@
 wordpress_id: 1130
 layout: post
 title: Week 3 at Mozilla
+date: "2008-05-22T21:04:20-04:00"
 tags: 
 - entries
 - mozilla
 wordpress_slug: week-3-at-mozilla
-wordpress_date: "2008-05-22T21:04:20-04:00"
 wordpress_url: http://decafbad.com/blog/?p=1130
 ---
 So, it's getting to the end of my third week at Mozilla, and [I'm a part][part] of [the Planet now][planet]—hooray!  Having gotten a membership into that club, I feel like I should start making some noise about what I'm doing at work.  Having stayed mostly quiet about day job affairs thus far in my career, it's going to take a bit to get used to a place as open as Mozilla.

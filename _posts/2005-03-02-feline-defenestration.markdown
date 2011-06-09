@@ -2,8 +2,8 @@
 wordpress_id: 600
 layout: post
 title: Feline Defenestration
+date: "2005-03-02T08:34:38-05:00"
 wordpress_slug: feline-defenestration
-wordpress_date: "2005-03-02T08:34:38-05:00"
 wordpress_url: http://www.decafbad.com/blog/?p=600
 ---
 I'm almost proud, yet considering [defenestration][defe]:  

@@ -2,8 +2,8 @@
 wordpress_id: 474
 layout: post
 title: Another BookmarkBlogger in Python
+date: "2003-09-03T10:59:31-04:00"
 wordpress_slug: another-bmblogger
-wordpress_date: "2003-09-03T10:59:31-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=474
 ---
 <br /><br />

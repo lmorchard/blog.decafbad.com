@@ -2,8 +2,8 @@
 wordpress_id: 454
 layout: post
 title: Videos on tape (Travan, not VHS)
+date: "2003-07-30T10:58:52-04:00"
 wordpress_slug: video-on-tape
-wordpress_date: "2003-07-30T10:58:52-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=454
 ---
 Oh and while I'm writing about watching video files on my TV, I've

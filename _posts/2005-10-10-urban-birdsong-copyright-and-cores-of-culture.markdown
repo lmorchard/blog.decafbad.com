@@ -2,6 +2,7 @@
 wordpress_id: 728
 layout: post
 title: "Urban Birdsong: Copyright and Cores of Culture"
+date: "2005-10-10T20:34:20-04:00"
 tags: 
 - music
 - culture
@@ -9,7 +10,6 @@ tags:
 - drm
 - copyright
 wordpress_slug: urban-birdsong-copyright-and-cores-of-culture
-wordpress_date: "2005-10-10T20:34:20-04:00"
 wordpress_url: http://decafbad.com/blog/?p=728
 ---
 <blockquote cite="http://www.zephoria.org/thoughts/archives/2005/09/29/when_media_beco.html">Mass media has done such a good job at embedding their copyright into culture that it has become culture itself.</blockquote>

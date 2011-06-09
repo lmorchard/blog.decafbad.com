@@ -2,8 +2,8 @@
 wordpress_id: 415
 layout: post
 title: Bayesian Filtering for what I DO want?
+date: "2003-05-08T22:47:01-04:00"
 wordpress_slug: rssbayes-now
-wordpress_date: "2003-05-08T22:47:01-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=415
 ---
 <blockquote cite="http://matt.griffith.com/weblog/2003/05/08.html#a129">I've never gotten much spam. I closely guard the email addresses I care about. Spamex makes it simple but I did it before without Spamex. My problem is information overload. I'm much more interested in seeing the same thing for <a href="http://www.decafbad.com/twiki/bin/view/Main/RSS">RSS</a>. Instead of blocking stuff I don't want I want it to highlight the stuff I might want. 

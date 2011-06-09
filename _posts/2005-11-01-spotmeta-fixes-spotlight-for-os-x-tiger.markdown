@@ -2,6 +2,7 @@
 wordpress_id: 761
 layout: post
 title: SpotMeta fixes Spotlight for OS X Tiger
+date: "2005-11-01T19:32:48-05:00"
 tags: 
 - asides
 - osx
@@ -9,7 +10,6 @@ tags:
 - tiger
 - spotmeta
 wordpress_slug: spotmeta-fixes-spotlight-for-os-x-tiger
-wordpress_date: "2005-11-01T19:32:48-05:00"
 wordpress_url: http://decafbad.com/blog/?p=761
 ---
 I just realized that I've been remiss and have yet to mention [Ben Summers' SpotMeta][sm].  

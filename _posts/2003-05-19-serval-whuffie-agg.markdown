@@ -2,8 +2,8 @@
 wordpress_id: 418
 layout: post
 title: You've Got Your Whuffie in My Aggregator!
+date: "2003-05-19T13:02:48-04:00"
 wordpress_slug: serval-whuffie-agg
-wordpress_date: "2003-05-19T13:02:48-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=418
 ---
 <blockquote cite="http://john.beimler.org/serval_aggregator_first_post.html">I've given the aggregator a concept of whuffie. I can give any item that has been aggregated a thumbs up or thumbs down, increasing or decreasing the item and site's wuffie. I sort the sites out as I display them by their whuffie. It is a simplistic way of keeping the sites I'm interested in at the top of the list. I'd like to wire in a Bayesian classifier too, and see if that helps me get the items I like to the top.</blockquote>

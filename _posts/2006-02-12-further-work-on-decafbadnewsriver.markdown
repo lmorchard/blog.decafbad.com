@@ -2,10 +2,10 @@
 wordpress_id: 863
 layout: post
 title: Further work on decafbadNewsRiver
+date: "2006-02-12T00:45:39-05:00"
 tags: 
 - asides
 wordpress_slug: further-work-on-decafbadnewsriver
-wordpress_date: "2006-02-12T00:45:39-05:00"
 wordpress_url: http://decafbad.com/blog/?p=863
 ---
 So, when I need breaks from <a href="http://decafbad.com/blog/2005/12/14/hacking-delicious-is-a-real-book">the book</a>, I've been poking around at <a href="http://www.newsriver.org/">NewsRiver</a> customizations in <a href="http://hosting.opml.org/decafbad/decafbadNewsRiver/decafbadNewsRiver.root">decafbadNewsRiver.root</a> for "fun" programming.  You can check out the <a href="http://hosting.opml.org/decafbad/decafbadNewsRiver/decafbadNewsRiver-relnotes.opml">Release Notes</a> I have so far, but here are a few highlights:
