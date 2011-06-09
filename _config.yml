@@ -11,7 +11,7 @@ meta:
         email: l.m.orchard@pobox.com
 
 tag_dir: tag
-baseurl: /
+baseurl: ""
 markdown: rdiscount
 pygments: true
 permalink: /:year/:month/:day/:title
