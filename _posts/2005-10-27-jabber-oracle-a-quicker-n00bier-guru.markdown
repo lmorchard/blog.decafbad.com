@@ -2,13 +2,13 @@
 wordpress_id: 754
 layout: post
 title: "Jabber Oracle: a quicker, n00bier guru?"
+date: "2005-10-27T15:36:21-04:00"
 tags: 
 - asides
 - chatbots
 - oracle
 - jabber
 wordpress_slug: jabber-oracle-a-quicker-n00bier-guru
-wordpress_date: "2005-10-27T15:36:21-04:00"
 wordpress_url: http://decafbad.com/blog/?p=754
 ---
 A quick further thought I had, regarding [the Internet Oracle][ora]:  What if I built a Jabber/AIM Oracle?  You send it an IM with a request; you're asked, in turn, to answer another request; eventually you receive an answer after a period of Oracular ponderance.

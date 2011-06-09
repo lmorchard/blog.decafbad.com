@@ -2,8 +2,8 @@
 wordpress_id: 527
 layout: post
 title: I will do the Fandango.
+date: "2004-06-13T07:07:46-04:00"
 wordpress_slug: i-will-do-the-fandango
-wordpress_date: "2004-06-13T07:07:46-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=527
 ---
 So, it's been almost a month since my last post here.  I didn't mean to go directly into radio silence, but I'm almost ready to deliver on that first article [I'd promised][lastpost].  I think I may have overdone it a bit, since I was shooting for 2500 words and have landed somewhere around 7000 words.  For the first time ever, I've been going over a first draft hardcopy of something destined for my blog with a pen, and am asking [my girlfriend][missadroit] to help me out with some proofreading and editing.  Once we've gotten this thing in some semblance of presentability, I'll let you all decide whether its worth the verbosity.

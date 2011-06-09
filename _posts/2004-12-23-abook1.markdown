@@ -3,11 +3,11 @@ wordpress_id: 580
 layout: post
 title: Building an Address Book as a Modern Web App
 excerpt: So, in the spirit of pico-projects, I've started building that address book application I mentioned awhile ago and I want to start writing about it as I go.
+date: "2004-12-23T00:58:41-05:00"
 tags: 
 - hacks
 - xml
 wordpress_slug: abook1
-wordpress_date: "2004-12-23T00:58:41-05:00"
 wordpress_url: http://www.decafbad.com/blog/?p=580
 ---
 <img src="http://www.decafbad.com/2004/12/abook-architecture.jpg" align="right" />

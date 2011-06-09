@@ -2,8 +2,8 @@
 wordpress_id: 595
 layout: post
 title: Ancient software and programmer-archaeologists
+date: "2005-02-24T11:14:20-05:00"
 wordpress_slug: ancient-software-and-programmer-archaeologists
-wordpress_date: "2005-02-24T11:14:20-05:00"
 wordpress_url: http://www.decafbad.com/blog/?p=595
 ---
 I've been meaning to compose a longer entry / essay about the idea of ancient software--and when I say ancient, I mean in the millenia-old sense, not the tongue-in-cheek decades-old sense we usually think.  This notion first got stuck in my head after reading Vernor Vinge's [*A Deepness in the Sky*][ds] and the description of the *Qeng Ho* interstellar trading group.

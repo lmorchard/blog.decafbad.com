@@ -2,6 +2,7 @@
 wordpress_id: 738
 layout: post
 title: Spaceship Radio is nifty
+date: "2005-10-20T17:09:43-04:00"
 tags: 
 - asides
 - scifi
@@ -9,7 +10,6 @@ tags:
 - podcasting
 - fiction
 wordpress_slug: spaceship-radio-is-nifty
-wordpress_date: "2005-10-20T17:09:43-04:00"
 wordpress_url: http://decafbad.com/blog/?p=738
 ---
 Remember when I [wrote that I wanted to do a podcast of old time radio scifi][sci]?  Well, I've been beaten to the punch by [Andy Doan of Spaceship Radio][sr].  

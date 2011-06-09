@@ -3,10 +3,10 @@ wordpress_id: 587
 layout: post
 title: Feed "Playlists" versus feed:// URLs
 excerpt: Feed playlists.  Name it something like `feeds.fss`, and register applications to handle that extension.  Give it a MIME-type, and handle that too.  Sounds just like M3U and PLS files, to me.  Someone tell me why this is a dumb idea.
+date: "2005-01-13T12:21:54-05:00"
 tags: 
 - syndication
 wordpress_slug: feed-playlists-versus-feed-urls
-wordpress_date: "2005-01-13T12:21:54-05:00"
 wordpress_url: http://www.decafbad.com/blog/?p=587
 ---
 <blockquote>Then, this is the point in the cycle where I remember that the real lesson of the past to learn from is from MP3 playlists, where a link needs to pass one or more URLs to a helper app, and that what we really need is to not to link to our feeds, but to a file that links to them.</blockquote>

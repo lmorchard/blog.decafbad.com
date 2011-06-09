@@ -2,8 +2,8 @@
 wordpress_id: 647
 layout: post
 title: Back to the Quickies
+date: "2005-06-08T17:35:53-04:00"
 wordpress_slug: back-to-the-quickies
-wordpress_date: "2005-06-08T17:35:53-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=647
 ---
 * It's hot--I love it, and I love that I get to leave the basement to enjoy it.

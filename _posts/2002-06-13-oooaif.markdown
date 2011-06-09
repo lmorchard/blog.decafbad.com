@@ -2,8 +2,8 @@
 wordpress_id: 175
 layout: post
 title: News aggregators to converge toward Lifestreams/Scopeware interface?
+date: "2002-06-13T13:02:20-04:00"
 wordpress_slug: oooaif
-wordpress_date: "2002-06-13T13:02:20-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=175
 ---
 <p>Ziv Caspi of <a href="http://radio.weblogs.com/0106548/">Y. B. Normal</a> thinks that "<a href="http://radio.weblogs.com/0106548/2002/06/13.html#a25">Aggregators should bring more, not less, information</a>", and I'm inclined to agree.  Also, Adam <a href="http://ipwebdev.com/radio/2002/06/11.php#a193">wants to take the aggregator</a> even further: "...I think the entire computer interface should be overhauled to be more aggregator like, events streaming by."</p>

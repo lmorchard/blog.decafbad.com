@@ -2,8 +2,8 @@
 wordpress_id: 153
 layout: post
 title: Rock bangers are people too
+date: "2002-06-03T16:17:10-04:00"
 wordpress_slug: oooagd
-wordpress_date: "2002-06-03T16:17:10-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=153
 ---
 <p>I've talked briefly about the attempt I've made at segmenting my writing between here and my <a href="http://deus-x.livejournal.com">LiveJournal account</a>, assuming that there would be overlapping yet different audiences for both.  To be exact, I assume any readers who find me here are looking for my techie nerdery, while my <a href="http://www.decafbad.com/twiki/bin/view/Main/LiveJournal">LiveJournal</a> readers are looking for something a bit more "human".</p>

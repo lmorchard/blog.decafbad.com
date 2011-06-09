@@ -2,8 +2,8 @@
 wordpress_id: 513
 layout: post
 title: Colloquy, an insane IRC client for OS X
+date: "2004-02-12T21:50:53-05:00"
 wordpress_slug: colloquy-irc
-wordpress_date: "2004-02-12T21:50:53-05:00"
 wordpress_url: http://www.decafbad.com/blog/?p=513
 ---
 <blockquote cite="http://fishbowl.pastiche.org/2004/02/05/a_confluence_gui_client_in_200_lines_of_code">WebKit is so insanely easy to use that I'm amazed every OS X application doesn't do it somewhere, just for the fun of it. Maybe they do.</blockquote>

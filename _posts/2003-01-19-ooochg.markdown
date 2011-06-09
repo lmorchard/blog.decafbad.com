@@ -2,8 +2,8 @@
 wordpress_id: 356
 layout: post
 title: I second that sacrilege
+date: "2003-01-19T19:03:13-05:00"
 wordpress_slug: ooochg
-wordpress_date: "2003-01-19T19:03:13-05:00"
 wordpress_url: http://www.decafbad.com/blog/?p=356
 ---
 <blockquote cite="http://fishbowl.pastiche.org/archives/001222.html">Dear Operating System Vendors. 

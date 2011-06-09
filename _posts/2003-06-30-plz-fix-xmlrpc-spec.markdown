@@ -2,8 +2,8 @@
 wordpress_id: 434
 layout: post
 title: Please fix the XML-RPC spec
+date: "2003-06-30T20:25:35-04:00"
 wordpress_slug: plz-fix-xmlrpc-spec
-wordpress_date: "2003-06-30T20:25:35-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=434
 ---
 I've written before that <a href="http://www.decafbad.com/blog/tech/old/oooccb.html" target="_top">I love XML-RPC</a>, and

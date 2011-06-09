@@ -2,8 +2,8 @@
 wordpress_id: 668
 layout: post
 title: An Experiment in REST and XML
+date: "2005-07-12T23:10:38-04:00"
 wordpress_slug: an-experiment-in-rest-and-xml
-wordpress_date: "2005-07-12T23:10:38-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=668
 ---
 Okay, so I finally got the second of today's demos running on the server here.  Take a look at this chunk of a shell transcript:

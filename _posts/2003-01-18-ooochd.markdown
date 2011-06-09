@@ -2,8 +2,8 @@
 wordpress_id: 354
 layout: post
 title: Kung-Log back with a Cocoanized Vengance
+date: "2003-01-18T03:22:06-05:00"
 wordpress_slug: ooochd
-wordpress_date: "2003-01-18T03:22:06-05:00"
 wordpress_url: http://www.decafbad.com/blog/?p=354
 ---
 <p>Wow, take a look at <a href="http://www.kung-foo.tv/blog/archives/000368.php#000368" target="_top">The Cocoanization of Kung-Log</a>:<blockquote><i>During the New Year holiday I started getting acquainted with Cocoa programming by converting my <span style='background : #FFFFCE;'><a href="http://www.decafbad.com/twiki/bin/edit/Main/AppleScriptStudio?topicparent=Main.FilterData"><b>?</b></a><font color="#0000FF">AppleScriptStudio</font></span> Kung-Log app into a Cocoa version. Well, smack my ass and call me Judy, it's done !</i></blockquote>It'd been awhile since the last time I checked out Kung-Log - when it was working for me, it was my absolute favorite way to update this site, but then it started breaking in a few places such as recent post retrieval.  So I gave it up.  Then tonight, on a whim, I looked.  And whew, a complete rewrite, apparently release just this night.  Talk about coincidence.</p>

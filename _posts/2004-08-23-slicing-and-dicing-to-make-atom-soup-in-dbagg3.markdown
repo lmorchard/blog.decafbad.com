@@ -3,11 +3,11 @@ wordpress_id: 539
 layout: post
 title: Slicing and Dicing to Make Atom Soup in dbagg3
 excerpt: I've been putting more work into dbagg3, but I'm getting hung up on the database.  Well, actually I'm getting hung up on the subject of XML storage, query, and retrieval in general-- but at present, I'm trying to cram all this data into MySQL and SQLite databases.  But, my tendencies as an abstraction astronaut and my lack of database savvy are tying me (and my data) in knots.  I kept meaning to write a bit Atom (and XML in general) with regard to database storage and query, so maybe now's the time.
+date: "2004-08-23T18:52:06-04:00"
 tags: 
 - syndication
 - xml
 wordpress_slug: slicing-and-dicing-to-make-atom-soup-in-dbagg3
-wordpress_date: "2004-08-23T18:52:06-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=539
 ---
 I've been putting more work into [`dbagg3`][dbagg3], but I'm getting hung up on the database.  Well, actually I'm getting hung up on the subject of XML storage, query, and retrieval in general-- but at present, I'm trying to cram all this data into MySQL and SQLite databases.  But, my tendencies as an abstraction astronaut and my lack of database savvy are tying me (and my data) in knots.  I kept meaning to write a bit Atom (and XML in general) with regard to database storage and query, so maybe now's the time.

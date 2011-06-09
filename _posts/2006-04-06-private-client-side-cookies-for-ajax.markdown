@@ -2,10 +2,10 @@
 wordpress_id: 925
 layout: post
 title: Private client-side cookies for AJAX?
+date: "2006-04-06T09:46:38-04:00"
 tags: 
 - asides
 wordpress_slug: private-client-side-cookies-for-ajax
-wordpress_date: "2006-04-06T09:46:38-04:00"
 wordpress_url: http://decafbad.com/blog/2006/04/06/private-client-side-cookies-for-ajax
 ---
  <p>Along with the S3 stuff I'm poking at in AJAX, I'd like to retain the user's key ID and secret for S3 locally so that it doesn't need to be reentered all the time or stuck into constants on a server-held file.  But, I don't want to stick it into cookies or anything that will go over the wire - since the whole point of the HMAC authentication is to prevent that from happening.</p>

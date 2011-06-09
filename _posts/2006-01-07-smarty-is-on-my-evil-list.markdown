@@ -2,6 +2,7 @@
 wordpress_id: 818
 layout: post
 title: Smarty is on my evil list
+date: "2006-01-07T20:33:47-05:00"
 tags: 
 - wordpress
 - webdev
@@ -16,7 +17,6 @@ tags:
 - reblog
 - evil
 wordpress_slug: smarty-is-on-my-evil-list
-wordpress_date: "2006-01-07T20:33:47-05:00"
 wordpress_url: http://decafbad.com/blog/?p=818
 ---
 Although I have [my grousing about PHP in general][gphp], I have to say that it makes much better template language as-is before pulling something like [Smarty][smarty] into the mix.  

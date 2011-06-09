@@ -2,8 +2,8 @@
 wordpress_id: 43
 layout: post
 title: Perceptible interface + laziness threshold = weblog silence
+date: "2002-03-26T20:14:35-05:00"
 wordpress_slug: oooofa
-wordpress_date: "2002-03-26T20:14:35-05:00"
 wordpress_url: http://www.decafbad.com/blog/?p=43
 ---
 Haven't managed to keep blogging here much, though I have been quite busy.  Need to think how to make this space more interesting.

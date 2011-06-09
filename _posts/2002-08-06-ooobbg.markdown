@@ -2,8 +2,8 @@
 wordpress_id: 206
 layout: post
 title: Windows + AmphetaDesk + Outlines + Metadata
+date: "2002-08-06T13:57:11-04:00"
 wordpress_slug: ooobbg
-wordpress_date: "2002-08-06T13:57:11-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=206
 ---
 <p>That'll teach me not to test on other platforms before I release :)  It appears that Windows users are missing 'lib.pm' in their bundle of <a href="http://www.decafbad.com/twiki/bin/view/Main/AmphetaDesk">AmphetaDesk</a> joy, which really perplexed me at first.  So, if you've already downloaded my tarball from yesterday, download the following template and replace <code>templates/default/index.html</code>:<ul><li><a href="http://www.decafbad.com/gems/ampheta-index-20020806.html">ampheta-index-20020806.html</a></li></ul>If you've yet to grab my initial release, grab this instead:<ul><li><a href="http://www.decafbad.com/gems/AmphetaOutlines-20020806.tar.gz">AmphetaOutlines-20020806.tar.gz</a></li></ul>This all seems to have worked on my machine at home, but that Windows machine also has a full Perl installation.  I'm going to try everything out on my Virtual PC <a href="http://www.decafbad.com/twiki/bin/view/Main/WinXP">WinXP</a> install here at work, but I seem to be having trouble downloading a copy of <a href="http://www.decafbad.com/twiki/bin/view/Main/AmphetaDesk">AmphetaDesk</a> from <span style='background : #FFFFCE;'><a href="http://www.decafbad.com/twiki/bin/edit/Main/SourceForge?topicparent=Main.FilterData"><b>?</b></a><font color="#0000FF">SourceForge</font></span>.</p>

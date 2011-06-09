@@ -2,8 +2,8 @@
 wordpress_id: 671
 layout: post
 title: A Few Quick Notes on Podcasts
+date: "2005-07-26T17:26:40-04:00"
 wordpress_slug: a-few-quick-notes-on-podcasts
-wordpress_date: "2005-07-26T17:26:40-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=671
 ---
 Listened to a few really good podcasts today...

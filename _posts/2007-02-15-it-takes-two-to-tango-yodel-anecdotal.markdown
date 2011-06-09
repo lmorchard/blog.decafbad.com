@@ -2,12 +2,12 @@
 wordpress_id: 1041
 layout: post
 title: "suggestion: tinfoil hat for digg mind control laser defense "
+date: "2007-02-15T11:34:27-05:00"
 tags: 
 - asides
 - yahoo
 - digg
 wordpress_slug: it-takes-two-to-tango-yodel-anecdotal
-wordpress_date: "2007-02-15T11:34:27-05:00"
 wordpress_url: http://decafbad.com/blog/2007/02/15/it-takes-two-to-tango-yodel-anecdotal
 ---
 <blockquote cite="http://yodel.yahoo.com/2007/02/14/it-takes-two-to-tango/">We call it a Suggestion Board — you can browse suggestions from other site visitors or post your own. Digg-style voting means we can quickly discover what’s most important to users.</blockquote><div class="quotesource">Source: <a href="http://yodel.yahoo.com/2007/02/14/it-takes-two-to-tango/">It takes two to Tango - Yodel Anecdotal</a></div>

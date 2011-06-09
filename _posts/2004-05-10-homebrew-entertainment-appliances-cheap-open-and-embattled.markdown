@@ -3,8 +3,8 @@ wordpress_id: 520
 layout: post
 title: Homebrew entertainment appliances - cheap, open, and embattled
 excerpt: "I've been tinkering for years now with TiVO-zing my PC, with varying degrees of success.  But, that's not what I really want.  Lately, I've been reading The Invisible Computer by Donald A. Norman, and it's gotten me thinking: What I really want is a family of entertainment appliances.  I want to make them myself, I want to do it on the cheap, and I don't want to go to jail."
+date: "2004-05-10T21:58:15-04:00"
 wordpress_slug: homebrew-entertainment-appliances-cheap-open-and-embattled
-wordpress_date: "2004-05-10T21:58:15-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=520
 ---
 I've [been tinkering][homebrewpvr] for years now with [TiVO-zing my PC][tivopc], with varying degrees of success.  But, that's not what I really want.  Lately, I've been reading [The Invisible Computer][invisible computer] by Donald A. Norman, and it's gotten me thinking: What I really want is a family of information appliances.  I'd like to have a little Linux box with a capture card or two that just silently whirrs away, filling up a file-server Linux box (maybe like [this one][martian_storage]) with recorded video.  And then, I'd like a Linux box in the living room whose sole purpose is to pull content from the file-server and present it on the screen and speakers in our living room.

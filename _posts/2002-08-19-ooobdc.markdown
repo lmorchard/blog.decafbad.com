@@ -2,8 +2,8 @@
 wordpress_id: 221
 layout: post
 title: Working on a Wiki format MT plugin
+date: "2002-08-19T01:59:29-04:00"
 wordpress_slug: ooobdc
-wordpress_date: "2002-08-19T01:59:29-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=221
 ---
 <MTWikiFormat prefix="http://www.decafbad.com/twiki/bin/view/Main/" extended="1">

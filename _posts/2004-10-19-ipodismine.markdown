@@ -3,10 +3,10 @@ wordpress_id: 563
 layout: post
 title: I'm one of the iPod generation now
 excerpt: So I finally got myself an iPod, thanks to The Girl.
+date: "2004-10-19T15:15:49-04:00"
 tags: 
 - apple
 wordpress_slug: ipodismine
-wordpress_date: "2004-10-19T15:15:49-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=563
 ---
 So I finally got myself an iPod, thanks to [The Girl](http://missadroit.livejournal.com).  

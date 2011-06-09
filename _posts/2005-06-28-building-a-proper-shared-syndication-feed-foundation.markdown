@@ -2,8 +2,8 @@
 wordpress_id: 663
 layout: post
 title: Building a proper shared syndication feed foundation
+date: "2005-06-28T23:21:42-04:00"
 wordpress_slug: building-a-proper-shared-syndication-feed-foundation
-wordpress_date: "2005-06-28T23:21:42-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=663
 ---
 While I'm thinking on the subject of common syndication feed frameworks, it occurred to me that it might be instructive to jot down some thoughts on one of the concerns at the root of my ideas for FeedReactor:  Shared feed fetching, caching, and storage.

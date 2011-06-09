@@ -2,8 +2,8 @@
 wordpress_id: 724
 layout: post
 title: "Google Reader: Big, blue, chunky water-wings"
+date: "2005-10-07T18:02:23-04:00"
 wordpress_slug: google-reader-big-blue-chunky-water-wings
-wordpress_date: "2005-10-07T18:02:23-04:00"
 wordpress_url: http://decafbad.com/blog/?p=724
 ---
 Say hello to [Google Reader][gr], the newest addition to the world of web syndication feed aggregators.  

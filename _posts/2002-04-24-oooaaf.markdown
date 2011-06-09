@@ -2,8 +2,8 @@
 wordpress_id: 96
 layout: post
 title: The bunsen burners still burn and the beakers still... um... beak.
+date: "2002-04-24T12:40:12-04:00"
 wordpress_slug: oooaaf
-wordpress_date: "2002-04-24T12:40:12-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=96
 ---
 <p>So I'm starting to play with <a href="http://www.php.net">PHP</a> and working on rewriting my <a href="http://www.movabletype.org">Movable Type</a> templates as *.phtml.</p>

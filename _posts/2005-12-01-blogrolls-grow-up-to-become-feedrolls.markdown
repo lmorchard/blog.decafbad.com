@@ -2,10 +2,10 @@
 wordpress_id: 788
 layout: post
 title: Blogrolls grow up to become feedrolls?
+date: "2005-12-01T14:11:28-05:00"
 tags: 
 - asides
 wordpress_slug: blogrolls-grow-up-to-become-feedrolls
-wordpress_date: "2005-12-01T14:11:28-05:00"
 wordpress_url: http://decafbad.com/blog/?p=788
 ---
 You know, after spewing out [that feedroll][fr] last night, I came to the realization that I just track way too many people and things to ever really have a sane yet comprehensive blogroll that covers it all.  (And by sane I mean:  Suitable for inclusion in the traditional sidebar position.)

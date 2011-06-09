@@ -2,8 +2,8 @@
 wordpress_id: 704
 layout: post
 title: Colophon
+date: "2005-09-27T16:30:38-04:00"
 wordpress_slug: colophon
-wordpress_date: "2005-09-27T16:30:38-04:00"
 wordpress_url: http://decafbad.com/blog/colophon/
 ---
 Welcome to `0xDECAFBAD` v4, my fourth attempt at establishing and maintaining a presence on the web.

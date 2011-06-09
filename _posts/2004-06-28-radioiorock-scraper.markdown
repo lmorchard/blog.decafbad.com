@@ -3,10 +3,10 @@ wordpress_id: 531
 layout: post
 title: A mini-scraper for the playlist at radioio Rock
 excerpt: Lately, my iTunes has been playing radioio Rock almost exclusively lately, but one thing that peeves me is that I don't seem to see the current song while the stream's playing.  Instead, the radioio site offers a pop-up window that displays the last few songs in the playlist.  However, I'm usually somewhere off in another window or a shell and don't really feel like popping over to a browser and navigating to the playlist just to see what this song is.  So, I wrote myself a little mini-scraper script...
+date: "2004-06-28T19:17:36-04:00"
 tags: 
 - hacks
 wordpress_slug: radioiorock-scraper
-wordpress_date: "2004-06-28T19:17:36-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=531
 ---
 Lately, my iTunes has been playing [radioio Rock][rock] almost exclusively lately, but one thing that peeves me is that I don't seem to see the current song while the stream's playing.  Instead, the [radioio][radioio] site offers a pop-up window that displays the last few songs in the playlist.  However, I'm usually somewhere off in another window or a shell and don't really feel like popping over to a browser and navigating to the playlist just to see what this song is.

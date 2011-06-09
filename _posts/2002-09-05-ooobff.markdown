@@ -2,8 +2,8 @@
 wordpress_id: 243
 layout: post
 title: Further down the LiveJournal spiral
+date: "2002-09-05T18:41:59-04:00"
 wordpress_slug: ooobff
-wordpress_date: "2002-09-05T18:41:59-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=243
 ---
 <p>Got an email today from <a href="http://www.lightningfield.com/">David F. Gallagher</a> with regards to my <a href="http://www.decafbad.com/news_archives/000262.phtml">pondering why <a href="http://www.decafbad.com/twiki/bin/view/Main/LiveJournal">LiveJournal</a> seems largely ignored</a>.  He pointed me to his new article about <a href="http://www.decafbad.com/twiki/bin/view/Main/LiveJournal">LiveJournal</a> in the NY Times: "<a href="http://www.nytimes.com/2002/09/05/technology/circuits/05BLOG.html">A Site to Pour Out Emotions, and Just About Anything Else</a>"</p>

@@ -2,8 +2,8 @@
 wordpress_id: 643
 layout: post
 title: What's old (scraping) is new again (microformats)
+date: "2005-05-08T17:10:55-04:00"
 wordpress_slug: whats-old-scraping-is-new-again-microformats
-wordpress_date: "2005-05-08T17:10:55-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=643
 ---
 You know, I think I fully realized why microformats seem so appealing and familiar to me:

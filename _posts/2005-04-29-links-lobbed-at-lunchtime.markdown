@@ -2,8 +2,8 @@
 wordpress_id: 632
 layout: post
 title: Links Lobbed at Lunchtime
+date: "2005-04-29T14:06:45-04:00"
 wordpress_slug: links-lobbed-at-lunchtime
-wordpress_date: "2005-04-29T14:06:45-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=632
 ---
 * Makes me feel a bit slow, but I just now discovered the `for:{username}` tag convention on [del.icio.us][del], via [revgeorge][revgeorge] / [George Hotelling][gh].  Just subscribed to my own [`for:deusx`][fd] tag.

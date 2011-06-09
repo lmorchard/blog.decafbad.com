@@ -2,12 +2,12 @@
 wordpress_id: 1087
 layout: post
 title: Greatest Hits Vol. 1, the Tinkery Bits
+date: "2008-04-26T12:53:13-04:00"
 tags: 
 - metablogging
 - retrospective
 - entries
 wordpress_slug: greatest-hits-vol-1-the-tinkery-bits
-wordpress_date: "2008-04-26T12:53:13-04:00"
 wordpress_url: http://decafbad.com/blog/?p=1087
 ---
 As you may have noticed, I've been shaking things up around here a little.  Sorry for turbulence in the feeds!  I've moved to a new server, and I've been trying out Movable Type again, but with mixed luck.

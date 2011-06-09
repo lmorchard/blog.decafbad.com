@@ -2,8 +2,8 @@
 wordpress_id: 597
 layout: post
 title: Stop.  Quickie time.
+date: "2005-02-25T20:54:48-05:00"
 wordpress_slug: stop-quickie-time
-wordpress_date: "2005-02-25T20:54:48-05:00"
 wordpress_url: http://www.decafbad.com/blog/?p=597
 ---
 * I've got ["Cover Me" from Bruce Springsteen][cb] stuck in my head--thanks [Coverville][cv].

@@ -2,8 +2,8 @@
 wordpress_id: 315
 layout: post
 title: Incomprehensible comment spam drifting in
+date: "2002-12-02T18:03:17-05:00"
 wordpress_slug: ooocda
-wordpress_date: "2002-12-02T18:03:17-05:00"
 wordpress_url: http://www.decafbad.com/blog/?p=315
 ---
 This really confuses me.  Seems that I've gotten 2 pieces of comment spam on one of my more visible blog entries (due to controversy) from back in September, <a href="http://www.decafbad.com/news_archives/000278.phtml">More on the Monster Mash</a>.  The first one expresses confusion, then links to something about zip codes, and links again to something about business plans.  The second one is apparently a strange flame at <a href="http://www.decafbad.com/twiki/bin/view/Main/DaveWiner">DaveWiner</a>, then links to something about vehicle history reports.

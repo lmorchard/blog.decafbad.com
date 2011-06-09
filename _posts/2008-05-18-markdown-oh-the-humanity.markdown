@@ -2,12 +2,12 @@
 wordpress_id: 1124
 layout: post
 title: Markdown, Oh the Humanity
+date: "2008-05-18T00:18:09-04:00"
 tags: 
 - metablogging
 - entries
 - markdown
 wordpress_slug: markdown-oh-the-humanity
-wordpress_date: "2008-05-18T00:18:09-04:00"
 wordpress_url: http://decafbad.com/blog/?p=1124
 ---
 I use [Markdown][] to write for this blog, and I don't think I could write much online without it.  (Of course, that's not saying much lately—but nevermind that for now.)

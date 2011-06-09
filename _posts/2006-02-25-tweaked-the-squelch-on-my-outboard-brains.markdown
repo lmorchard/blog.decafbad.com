@@ -2,10 +2,10 @@
 wordpress_id: 903
 layout: post
 title: Tweaked the squelch on my outboard brains
+date: "2006-02-25T00:17:08-05:00"
 tags: 
 - asides
 wordpress_slug: tweaked-the-squelch-on-my-outboard-brains
-wordpress_date: "2006-02-25T00:17:08-05:00"
 wordpress_url: http://decafbad.com/blog/2006/02/25/tweaked-the-squelch-on-my-outboard-brains
 ---
  <p>I know I've initiated a slew of potential projects since I began playing with the OPML Editor, though I won't be able to do much in depth for a little while.  I'm mostly queueing up work for myself after I finish this book, and hoping that a few of these leads get stolen by others with more time on their hands.  <img src="http://static.userland.com/shortcuts/images/qbullets/sidesmiley.gif">  Think of it as public brainstorming or doodles.</p>

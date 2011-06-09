@@ -2,8 +2,8 @@
 wordpress_id: 295
 layout: post
 title: On tilling a plot to plant a Semantic Garden
+date: "2002-11-08T15:43:21-05:00"
 wordpress_slug: ooocbo
-wordpress_date: "2002-11-08T15:43:21-05:00"
 wordpress_url: http://www.decafbad.com/blog/?p=295
 ---
 So, with regards to things <a href="http://www.decafbad.com/twiki/bin/view/Main/SemanticWeb">SemanticWeb</a>, I think I'm about to eat dogfood in considering a <a href="http://www.decafbad.com/twiki/bin/view/Main/BlueSky">BlueSky</a> project at work.  We've been tossing around ideas for a kind of uber-space or organization-wide brain in which to gather all kinds of details about clients, projects, project details and components, lifecycle, etc.  

@@ -3,8 +3,8 @@ wordpress_id: 533
 layout: post
 title: Dork Funk
 excerpt: Mostly I think I'm just in a funk.
+date: "2004-07-14T22:32:55-04:00"
 wordpress_slug: dork-funk
-wordpress_date: "2004-07-14T22:32:55-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=533
 ---
 I've been feeling a strange tangle of writer's block and identity crisis lately, not to dramatize overmuch.  I'm not really all that sure I'm a blogger anymore, if I ever was.

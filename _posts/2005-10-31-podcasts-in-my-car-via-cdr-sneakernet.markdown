@@ -2,6 +2,7 @@
 wordpress_id: 758
 layout: post
 title: Podcasts in my car via CDR sneakernet
+date: "2005-10-31T15:14:21-05:00"
 tags: 
 - asides
 - podcasts
@@ -12,7 +13,6 @@ tags:
 - ford
 - audio
 wordpress_slug: podcasts-in-my-car-via-cdr-sneakernet
-wordpress_date: "2005-10-31T15:14:21-05:00"
 wordpress_url: http://decafbad.com/blog/?p=758
 ---
 Since the [recent demise of my iPod][ded], I've returned to poking around at pre-iPod strategies for listening to podcasts in my car.  Hopefully, the little thing will be returned good-as-new from AppleCare-land within the next few days.  But until then, I'm left with what I can do using the Blaupunkt MP3 CD player in my 2004 Ford Focus.

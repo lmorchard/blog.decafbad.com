@@ -2,8 +2,8 @@
 wordpress_id: 673
 layout: post
 title: Homebrew Productivity via Rube Goldberg
+date: "2005-08-09T09:59:00-04:00"
 wordpress_slug: homebrew-productivity-via-rube-goldberg
-wordpress_date: "2005-08-09T09:59:00-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=673
 ---
 Here's a quick weekend assemblage of a hack that might be of use to someone:

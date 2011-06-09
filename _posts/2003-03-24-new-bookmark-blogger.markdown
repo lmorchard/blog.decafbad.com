@@ -2,8 +2,8 @@
 wordpress_id: 397
 layout: post
 title: New release of BookmarkBlogger available
+date: "2003-03-24T15:29:20-05:00"
 wordpress_slug: new-bookmark-blogger
-wordpress_date: "2003-03-24T15:29:20-05:00"
 wordpress_url: http://www.decafbad.com/blog/?p=397
 ---
 Playing with a few other little widgets here and there, I thought I'd 

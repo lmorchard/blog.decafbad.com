@@ -2,8 +2,8 @@
 wordpress_id: 118
 layout: post
 title: How many blogs do you have, and why?
+date: "2002-05-07T04:15:00-04:00"
 wordpress_slug: oooaci
-wordpress_date: "2002-05-07T04:15:00-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=118
 ---
 <p>I have 3 blogs right now, including this one.  The other two are 1) on <a href="http://deus-x.livejournal.com">LiveJournal</a> and 2) <a href="http://www.decafbad.com/deus_x/radio">managed by Radio <a href="http://www.decafbad.com/twiki/bin/view/Main/UserLand">UserLand</a></a>.</p>

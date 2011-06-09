@@ -2,13 +2,13 @@
 wordpress_id: 1506
 layout: post
 title: Dad
+date: "2007-09-25T09:54:01-04:00"
 tags: 
 - entries
 - dad
 - tinkering
 - memories
 wordpress_slug: dad
-wordpress_date: "2007-09-25T09:54:01-04:00"
 wordpress_url: http://decafbad.com/blog/?p=1506
 ---
 Capturing and post-dating this from <http://blogs.opml.org/decafbad/2007/09/25>

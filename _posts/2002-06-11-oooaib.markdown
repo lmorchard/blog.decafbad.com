@@ -2,8 +2,8 @@
 wordpress_id: 171
 layout: post
 title: Whitelist / reverse-filtering spam shield
+date: "2002-06-11T20:49:56-04:00"
 wordpress_slug: oooaib
-wordpress_date: "2002-06-11T20:49:56-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=171
 ---
 <p>Another thing to think about again: <a href="http://impressive.net/people/gerald/2000/12/spam-filtering.html">Whitelist-based spam filtering</a>.  The spam is just getting heavier, raunchier, and less coherent these days.  I'd <a href="http://www.decafbad.com/news_archives/000129.shtml">mused about it</a> awhile ago, along with looking at an <a href="http://www.w3.org/2001/12/rubyrdf/util/foafwhite/intro.html">application of <a href="http://www.decafbad.com/twiki/bin/view/Main/RDF">RDF</a></a> to share whitelists between trusted people.</p>

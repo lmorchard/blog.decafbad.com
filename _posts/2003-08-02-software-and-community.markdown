@@ -2,8 +2,8 @@
 wordpress_id: 456
 layout: post
 title: Software and Community
+date: "2003-08-02T16:22:27-04:00"
 wordpress_slug: software-and-community
-wordpress_date: "2003-08-02T16:22:27-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=456
 ---
 <blockquote cite="http://www.drbacchus.com/journal/archives/000264.html"><i>I joined the Apache project for the software. I stayed for the community. Likewise Perl. The software is interesting, but the people are more interesting. So now that I'm really not even writing much Perl, I'm still involved with the community, to some degree, because they are cool people. </i></blockquote><div class="credit" align="right"><small>Source: <cite><a href="http://www.drbacchus.com/journal/archives/000264.html">DrBacchus' Journal: Software and community</a></cite></small></div>	<p>I&#8217;ve been working with Perl for just about 10 years now, and though I&#8217;ve been a bit of a stranger lately, I used to be a regular on #perl on several <span class="caps">IRC</span> networks.  And, when companies I worked for paid for travel as freely as for paper clips, I made rounds at a few conferences.  I was lucky enough to meet a few other #perl regulars.  I doubt most of them remember me since they&#8216;re a fairly close-nit group, and I&#8217;d only made the one appearance, despite constantly swearing I&#8217;d make it to a <a href="http://www.yapc.org/America/"><span class="caps">YAPC</span></a> at some point.  But I always thought it was cool as hell to actually have had a beer at the same table in Boston with authors of some of my favorite O&#8216;Reilly perl books.</p>

@@ -2,8 +2,8 @@
 wordpress_id: 398
 layout: post
 title: I want to trade my Gameboy Advance for a GP32.
+date: "2003-03-25T16:59:37-05:00"
 wordpress_slug: i-want-a-gp32
-wordpress_date: "2003-03-25T16:59:37-05:00"
 wordpress_url: http://www.decafbad.com/blog/?p=398
 ---
 <blockquote cite="http://www.gbax.com/gp32review.html">

@@ -2,8 +2,8 @@
 wordpress_id: 349
 layout: post
 title: More code toward the personal web proxy
+date: "2003-01-08T04:06:39-05:00"
 wordpress_slug: ooocgf
-wordpress_date: "2003-01-08T04:06:39-05:00"
 wordpress_url: http://www.decafbad.com/blog/?p=349
 ---
 In case anyone's interested, I've been hacking like mad on my toy proxy since New Years'.  Check out <a href="http://www.decafbad.com/twiki/bin/view/Main/PersonalWebProxy">PersonalWebProxy</a> for current downloads.  It's got primitive forms of proxy filters, browser-based UI, <a href="http://www.decafbad.com/twiki/bin/view/Main/RDF">RDF</a>-based metadata management, logging, config, plugins, and some other goodies.  So far, the major plugins include:

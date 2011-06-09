@@ -2,13 +2,13 @@
 wordpress_id: 1067
 layout: post
 title: Wine is Nicely Enabled
+date: "2007-10-17T22:29:44-04:00"
 tags: 
 - osx
 - wine
 - linux
 - crossover
 wordpress_slug: wine-is-nicely-enabled
-wordpress_date: "2007-10-17T22:29:44-04:00"
 wordpress_url: http://decafbad.com/blog/2007/10/17/wine-is-nicely-enabled
 ---
 <p><a href="http://www.tuxmachines.org/node/21069">Wine is Getting Good</a>: "<i>Anyone else notice lately how good Wine is getting?</i>"</p>

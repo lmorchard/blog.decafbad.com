@@ -2,8 +2,8 @@
 wordpress_id: 635
 layout: post
 title: Tiger and .app file extensions
+date: "2005-05-01T14:31:55-04:00"
 wordpress_slug: tiger-and-app-file-extensions
-wordpress_date: "2005-05-01T14:31:55-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=635
 ---
 From the [Tiger Details list on Daring Fireball][td]:

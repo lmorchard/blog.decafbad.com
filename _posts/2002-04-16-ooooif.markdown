@@ -2,8 +2,8 @@
 wordpress_id: 76
 layout: post
 title: Blogchat resurrected on decafbad.com
+date: "2002-04-16T20:46:41-04:00"
 wordpress_slug: ooooif
-wordpress_date: "2002-04-16T20:46:41-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=76
 ---
 <p>How's that for realtime?  Just popped in over at <a href="http://www.blogchat.com">blogchat.com</a>, signed up for the beta, and now it's working here.  Take a look over in the "Gadgets" section and click the Blogchat to spawn a chat window.  Or, click here:</p>

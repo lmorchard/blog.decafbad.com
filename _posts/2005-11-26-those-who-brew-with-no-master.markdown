@@ -2,10 +2,10 @@
 wordpress_id: 778
 layout: post
 title: Those who brew with no master
+date: "2005-11-26T16:03:50-05:00"
 tags: 
 - asides
 wordpress_slug: those-who-brew-with-no-master
-wordpress_date: "2005-11-26T16:03:50-05:00"
 wordpress_url: http://decafbad.com/blog/?p=778
 ---
 <blockquote cite="http://www.365tomorrows.com/11/25/the-bitter-kiss-of-the-ronins-cup/">“There are worlds,” the ronin said. “Worlds far out in the edge of the sky, whose distance from the Earth curses them. They receive no beans from the home world, so distant are they, so far, and their lives are that much darker. Every night I write a prayer for them, and burn it with my best beans in the hope that the aroma will reach them.”</blockquote>

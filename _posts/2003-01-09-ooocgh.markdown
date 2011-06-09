@@ -2,8 +2,8 @@
 wordpress_id: 351
 layout: post
 title: So, yeah, about that BML thing
+date: "2003-01-09T15:27:15-05:00"
 wordpress_slug: ooocgh
-wordpress_date: "2003-01-09T15:27:15-05:00"
 wordpress_url: http://www.decafbad.com/blog/?p=351
 ---
 Speaking of BML, what ever happened to it?  I first <a href="http://www.decafbad.com/news_archives/000232.phtml#000232" target="_top">wrote about it</a> back in August and later <a href="http://www.decafbad.com/news_archives/000234.phtml#000234" target="_top">got a response</a> from Sanjiva Weerawarana, one of the original authors at IBM.  Someone hinted to me that it was supposed to eventually land at Jakarta, and while the Bean Scripting Framework <strong>did</strong> land there, BML is still off the radar.  Meanwhile, I'm still using it at work, still sitting on <a href="http://www.decafbad.com/news_archives/000233.phtml#000233" target="_top">some dubiously-gotten source code</a>, and want to use it in more public projects.

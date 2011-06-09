@@ -2,10 +2,10 @@
 wordpress_id: 731
 layout: post
 title: The 8th dungeon is on Warren, just off Woodward
+date: "2005-10-11T16:35:14-04:00"
 tags: 
 - asides
 wordpress_slug: the-8th-dungeon-is-on-warren-just-off-woodward
-wordpress_date: "2005-10-11T16:35:14-04:00"
 wordpress_url: http://decafbad.com/blog/?p=731
 ---
 As I briefly mentioned in [an earlier post][reader], I've been tinkering with the Google Maps API for a project at work.  I'm cagey about it, but I'd really like to link to it once it's live.  It's an integration of Flash and DHTML that seems to be working out well so far.

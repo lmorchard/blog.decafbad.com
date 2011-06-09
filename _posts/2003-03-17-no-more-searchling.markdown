@@ -2,8 +2,8 @@
 wordpress_id: 395
 layout: post
 title: No More Searchling?
+date: "2003-03-17T13:40:51-05:00"
 wordpress_slug: no-more-searchling
-wordpress_date: "2003-03-17T13:40:51-05:00"
 wordpress_url: http://www.decafbad.com/blog/?p=395
 ---
 So, as I'm working to recover all the old tools I knew and loved on my

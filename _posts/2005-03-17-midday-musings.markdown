@@ -2,8 +2,8 @@
 wordpress_id: 615
 layout: post
 title: Midday Musings
+date: "2005-03-17T11:34:23-05:00"
 wordpress_slug: midday-musings
-wordpress_date: "2005-03-17T11:34:23-05:00"
 wordpress_url: http://www.decafbad.com/blog/?p=615
 ---
 * Earworm snippet of the moment, "[Don't let the bastards grind you down.][u2]"

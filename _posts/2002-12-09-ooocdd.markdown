@@ -2,8 +2,8 @@
 wordpress_id: 318
 layout: post
 title: Of arrogance, bluster, and this village idiot
+date: "2002-12-09T02:31:30-05:00"
 wordpress_slug: ooocdd
-wordpress_date: "2002-12-09T02:31:30-05:00"
 wordpress_url: http://www.decafbad.com/blog/?p=318
 ---
 <p>Tonight, I was perplexed about a comment claiming to be from <a href="http://www.decafbad.com/twiki/bin/view/Main/DaveWiner">DaveWiner</a> - though it could just as easily be from an impostor - on the <a href="http://www.decafbad.com/news_archives/000342.phtml">final installment</a> of my extended <a href="http://www.decafbad.com/twiki/bin/view/Main/XmlRpc">XmlRpc</a> ramblings:<blockquote><i>Pretty arrogant if you ask me. What has LM Orchard contributed to the world? Add more value, less bluster and bullshit.</i></blockquote>I suppose I should have stopped while I was ahead, refraining from rambling on about my case study to begin with, let alone responding to this comment.  But, nonetheless I was bothered tonight, and responded:<blockquote><i>Your comment confuses me.</p>

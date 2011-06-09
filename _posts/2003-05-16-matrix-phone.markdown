@@ -2,8 +2,8 @@
 wordpress_id: 417
 layout: post
 title: The Matrix BrickPhone
+date: "2003-05-16T08:27:32-04:00"
 wordpress_slug: matrix-phone
-wordpress_date: "2003-05-16T08:27:32-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=417
 ---
 <a href="http://www.samsungtelecom.com/matrix/"><img src="http://www.samsungtelecom.com/matrix/images/home_phone.jpg" align="right" border="0" /></a>

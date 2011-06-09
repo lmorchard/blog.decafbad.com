@@ -2,10 +2,10 @@
 wordpress_id: 773
 layout: post
 title: Yahoo! Bathroom! from! Hell!
+date: "2005-11-16T15:48:55-05:00"
 tags: 
 - asides
 wordpress_slug: yahoo-bathroom-from-hell
-wordpress_date: "2005-11-16T15:48:55-05:00"
 wordpress_url: http://decafbad.com/blog/?p=773
 ---
 <blockquote cite="http://www.flickr.com/photos/plasticbag/63592141/in/photostream/">Funny story - it looks like you'd pull this door, but actually you have to push it. I got confused and thought it was engaged and stood outside for thirty seconds before accidentally pushing.</blockquote>

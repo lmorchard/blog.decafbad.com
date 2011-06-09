@@ -2,8 +2,8 @@
 wordpress_id: 304
 layout: post
 title: Bellyflop Into RDF
+date: "2002-11-22T21:02:16-05:00"
 wordpress_slug: ooocbi
-wordpress_date: "2002-11-22T21:02:16-05:00"
 wordpress_url: http://www.decafbad.com/blog/?p=304
 ---
 Want to watch me taking baby steps in coming to terms with <a href="http://www.decafbad.com/twiki/bin/view/Main/RDF">RDF</a>?  Come take a look at, or point and stare at, my <a href="http://www.decafbad.com/twiki/bin/view/Main/RdfNotes">RdfNotes</a>!

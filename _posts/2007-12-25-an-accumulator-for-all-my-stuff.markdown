@@ -2,6 +2,7 @@
 wordpress_id: 1075
 layout: post
 title: An Accumulator for all my stuff
+date: "2007-12-25T00:25:16-05:00"
 tags: 
 - metablogging
 - aggregators
@@ -12,7 +13,6 @@ tags:
 - pobox.com
 - accumulator
 wordpress_slug: an-accumulator-for-all-my-stuff
-wordpress_date: "2007-12-25T00:25:16-05:00"
 wordpress_url: http://decafbad.com/blog/2007/12/25/an-accumulator-for-all-my-stuff
 ---
 No one's really noticed, but I've changed email providers about a dozen times in the past decade.  And, that's because my email address hasn't changed — thanks very much to the wonderful and awesome <a href="http://pobox.com/">Pobox.com</a>.

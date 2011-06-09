@@ -2,8 +2,8 @@
 wordpress_id: 650
 layout: post
 title: Downloaded Brains versus VGER
+date: "2005-06-10T10:41:29-04:00"
 wordpress_slug: downloaded-brains-versus-vger
-wordpress_date: "2005-06-10T10:41:29-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=650
 ---
 And while I'm on a roll trying to dump pent-up writing thoughts:  Last month, I read this [article in the Guardian][ag] presenting claims that we'll be downloading our brains in 2050.

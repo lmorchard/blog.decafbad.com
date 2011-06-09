@@ -2,8 +2,8 @@
 wordpress_id: 403
 layout: post
 title: Safari has tabs now, but I've changed my mind.
+date: "2003-04-15T10:36:31-04:00"
 wordpress_slug: safari-tabs
-wordpress_date: "2003-04-15T10:36:31-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=403
 ---
 So yeah, I wanted tabs in Safari.  <a href="http://www.decafbad.com/blog/tech/old/oooche.html" target="_top">Or something like tabs.</a>

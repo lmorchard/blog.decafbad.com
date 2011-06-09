@@ -2,10 +2,10 @@
 wordpress_id: 15
 layout: post
 title: Second verse, same as the
+date: "2002-02-24T05:16:10-05:00"
 tags: 
 - Header
 wordpress_slug: ooooco
-wordpress_date: "2002-02-24T05:16:10-05:00"
 wordpress_url: http://www.decafbad.com/blog/?p=15
 ---
 Second verse, same as the first.  Everybody sing!

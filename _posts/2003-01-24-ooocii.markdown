@@ -2,8 +2,8 @@
 wordpress_id: 368
 layout: post
 title: Super-lazy link blogging & in-bookmarks RSS aggregation via AppleScript?
+date: "2003-01-24T02:42:25-05:00"
 wordpress_slug: ooocii
-wordpress_date: "2003-01-24T02:42:25-05:00"
 wordpress_url: http://www.decafbad.com/blog/?p=368
 ---
 <p>And one more post for the night:  I wish Safari gave <a href="http://www.decafbad.com/twiki/bin/view/Main/AppleScript">AppleScript</a> access to read and manipulate bookmarks.  If it does, I can't find it.  I've been playing around with <a href="http://www.decafbad.com/twiki/bin/view/Main/AppleScript">AppleScript</a> folder actions, <a href="http://interconnected.org/notes/2003/01/Lazy_MacOSX_Weblogging_1.shtml" target="_top">Matt Webb's link blogging folder hack</a>, and <a href="http://www.webentourage.com/blogscript.php" target="_top">BlogScript</a>.  I've been thinking, for good or bad, I'd like to do more link blogging.  Well, in Safari, I've created a toolbar bookmark folder called "READ/BLOG QUEUE" into which I drop links for later reading and/or blogging.</p>

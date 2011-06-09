@@ -3,12 +3,12 @@ wordpress_id: 543
 layout: post
 title: Making progress on dbagg3
 excerpt: Work has been insanely busy lately, but I have made some more progress with [`dbagg3`][dbagg3].  The code is all in CVS, so feel free to take a gander-- I don't have a ton of time for a proper write up, but I do want to spew a little bit.
+date: "2004-08-30T21:37:42-04:00"
 tags: 
 - hacks
 - syndication
 - xml
 wordpress_slug: dbagg3-makingprogress
-wordpress_date: "2004-08-30T21:37:42-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=543
 ---
 Work has been insanely busy lately, but I have made some more progress with [`dbagg3`][dbagg3].  The code is all in CVS, so feel free to take a gander-- I don't have a ton of time for a proper write up, but I do want to spew a little bit. 

@@ -2,6 +2,7 @@
 wordpress_id: 1059
 layout: post
 title: A Curmudgeon Playing with the CodeIgniter Framework and OpenID
+date: "2007-07-23T10:37:33-04:00"
 tags: 
 - webdev
 - php
@@ -12,7 +13,6 @@ tags:
 - openid
 - codeigniter
 wordpress_slug: a-curmudgeon-playing-with-the-codeigniter-framework-and-openid
-wordpress_date: "2007-07-23T10:37:33-04:00"
 wordpress_url: http://decafbad.com/blog/2007/07/23/a-curmudgeon-playing-with-the-codeigniter-framework-and-openid
 ---
 <p>One bit of hackery I did this weekend was to explore the <a href="http://codeigniter.com/">CodeIgniter PHP framework</a>, which is even less magic yet more glued-together out of the box than the <a href="http://framework.zend.com/">Zend Framework</a>.  Also, very much less magic than <a href="http://cakephp.org/">CakePHP</a> and barely in the same universe as <a href="http://www.symfony-project.com/">Symfony</a>.  I think I may have found my sweet spot of simplicity and comprehensible magic.</p>

@@ -2,8 +2,8 @@
 wordpress_id: 265
 layout: post
 title: Per-post comment RSS feeds
+date: "2002-09-22T21:39:58-04:00"
 wordpress_slug: ooobio
-wordpress_date: "2002-09-22T21:39:58-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=265
 ---
 After following the <a href="http://www.intertwingly.net/blog/836.html">thread on Sam Ruby's blog</a> about <a href="http://scriptingnews.userland.com/backissues/2002/09/20#When:8:39:43AM">Dave's  comment tracking feature request</a>, I figured I'd try <a href="http://www.decafbad.com/twiki/bin/view/Main/RSS">RSS</a>-izing comments on each of my posts.  As things seem to have been going lately, I'd underestimated <a href="http://www.decafbad.com/twiki/bin/view/Main/MovableType">MovableType</a>, and it turned out <strong>so</strong> much easier than I'd thought.  :)  I'd had an <a href="http://www.decafbad.com/recent_comments_rss.xml">RSS feed for comments overall</a> on my site, but now I have individual <a href="http://www.decafbad.com/twiki/bin/view/Main/RSS">RSS</a> feeds for each post.  (Notice the <img src="http://www.decafbad.com/images/xml.gif"> in the comments section now.)  The <a href="http://www.decafbad.com/twiki/bin/view/Main/RSS">RSS</a> feed is also linked in the head as per <a href="http://diveintomark.org/archives/2002/05/31.html#more_on_rss_autodiscovery">RSS autodiscovery</a> discussions.

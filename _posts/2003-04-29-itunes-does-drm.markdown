@@ -2,8 +2,8 @@
 wordpress_id: 412
 layout: post
 title: iTunes Does Indeed Do DRM
+date: "2003-04-29T19:10:37-04:00"
 wordpress_slug: itunes-does-drm
-wordpress_date: "2003-04-29T19:10:37-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=412
 ---
 How unobservant am I?  It took 

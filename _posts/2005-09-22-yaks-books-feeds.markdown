@@ -2,6 +2,7 @@
 wordpress_id: 681
 layout: post
 title: Yak shaving, book pimping, and feed spooling
+date: "2005-09-22T16:31:16-04:00"
 tags: 
 - metablogging
 - syndication
@@ -11,7 +12,6 @@ tags:
 - thebook
 - yaks
 wordpress_slug: yaks-books-feeds
-wordpress_date: "2005-09-22T16:31:16-04:00"
 wordpress_url: http://decafbad.com/blog/?p=681
 ---
 Well, of course I've lapsed pretty much right back into silence after [having shaken this place up][redesign] and [having announced the arrival of the book][book].

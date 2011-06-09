@@ -2,13 +2,13 @@
 wordpress_id: 1270
 layout: post
 title: "Moz08: Rockslides and Blackouts and Bears - Oh My!"
+date: "2008-08-04T16:15:23-04:00"
 tags: 
 - entries
 - mozilla
 - summit
 - moz08
 wordpress_slug: moz08-rockslides-and-blackouts-and-bears-oh-my
-wordpress_date: "2008-08-04T16:15:23-04:00"
 wordpress_url: http://decafbad.com/blog/?p=1270
 ---
 Since the beginning, I've been a Mozilla fanboy.  But, up until very recently, I've only shown that as a user and a verbal supporter, with a shallow understanding or participation in what's really done in the Mozilla community.  Sure, I've checked out source code from time to time going back to the first code release, built and poked at it, but I've never really contributed back.

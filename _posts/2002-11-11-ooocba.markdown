@@ -2,8 +2,8 @@
 wordpress_id: 296
 layout: post
 title: Bitterness from the halls of Xanadu
+date: "2002-11-11T14:12:55-05:00"
 wordpress_slug: ooocba
-wordpress_date: "2002-11-11T14:12:55-05:00"
 wordpress_url: http://www.decafbad.com/blog/?p=296
 ---
 I'm a little late on this, but I just read an <a href="http://news.bbc.co.uk/1/hi/sci/tech/1581891.stm">BBC interview with Ted Nelson</a> this weekend.  I don't know the man, and am familiar with his work in only the most cursory way - I've read a bit about Xanadu, skimmed some articles on its history, but I've yet to download the code finally released a few years ago and see what's what.  Having said that, this interview reads like the bitter mutterings of a guy who wants to slug <a href="http://www.decafbad.com/twiki/bin/view/Main/TimBL">TimBL</a> and the rest of us web hackers for making him all but obsolete.

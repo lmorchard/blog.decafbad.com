@@ -2,10 +2,10 @@
 wordpress_id: 709
 layout: post
 title: Ode to a vertical tab strip in Firefox
+date: "2005-09-29T16:09:38-04:00"
 tags: 
 - asides
 wordpress_slug: ode-to-a-vertical-tab-strip-in-firefox
-wordpress_date: "2005-09-29T16:09:38-04:00"
 wordpress_url: http://decafbad.com/blog/?p=709
 ---
 <blockquote cite="http://www.nelson.monkey.org/~nelson/weblog/tech/good/firefoxTabs.html">Overlooked Firefox keyboard shortcuts. Ctrl-PageUp and Ctrl-PageDown cycle between tabs in a window. So do Ctrl-Tab and Ctrl-Shift-Tab.</blockquote><small style="text-align:right; display:block">Source: <a href="http://www.nelson.monkey.org/~nelson/weblog/tech/good/firefoxTabs.html">Nelson's Weblog: tech / good / firefoxTabs</a></small><br />

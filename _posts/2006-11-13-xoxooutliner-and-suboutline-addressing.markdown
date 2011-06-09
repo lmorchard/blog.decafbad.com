@@ -2,6 +2,7 @@
 wordpress_id: 1018
 layout: post
 title: XoxoOutliner and suboutline addressing
+date: "2006-11-13T04:34:02-05:00"
 tags: 
 - asides
 - webdev
@@ -12,7 +13,6 @@ tags:
 - xoxo
 - xml
 wordpress_slug: xoxooutliner-and-suboutline-addressing
-wordpress_date: "2006-11-13T04:34:02-05:00"
 wordpress_url: http://decafbad.com/blog/2006/11/13/xoxooutliner-and-suboutline-addressing
 ---
 Here's a feature I [just hacked together][ha] for [XoxoOutliner][xo] and plan to refine further:

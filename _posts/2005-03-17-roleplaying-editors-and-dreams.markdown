@@ -2,8 +2,8 @@
 wordpress_id: 613
 layout: post
 title: Roleplaying Editors and Dreams
+date: "2005-03-17T06:45:24-05:00"
 wordpress_slug: roleplaying-editors-and-dreams
-wordpress_date: "2005-03-17T06:45:24-05:00"
 wordpress_url: http://www.decafbad.com/blog/?p=613
 ---
 * [VIM][vim] is really feeling like an RPG to me.  Today I just gained a level, maybe two, thanks to [SuperTab][super] and [Tip #173][t173].  Who knows, maybe I'll even be giving up the cursor keys soon and [my original HHKB, sans-inverted-T][hhkb], will make more sense.

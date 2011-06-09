@@ -2,6 +2,7 @@
 wordpress_id: 1231
 layout: post
 title: delicious 2.0 legacy bookmarklet fix
+date: "2008-08-02T18:34:28-04:00"
 tags: 
 - asides
 - delicious
@@ -9,7 +10,6 @@ tags:
 - greasemonkey
 - delicious2
 wordpress_slug: delicious-20-legacy-bookmarklet-fix
-wordpress_date: "2008-08-02T18:34:28-04:00"
 wordpress_url: http://decafbad.com/blog/?p=1231
 ---
 As you've probably seen by now, [Delicious 2.0 has launched][del2].  It's an all new design and the whole thing has been rewritten from the ground up.  Most of the gripes I've seem like general dislike of change—which actually attests to the gargantuan effort put forth to reimplement the original from scratch in a whole new language and architecture.

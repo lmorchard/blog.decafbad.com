@@ -2,8 +2,8 @@
 wordpress_id: 497
 layout: post
 title: Seeking Out Opposites
+date: "2003-10-16T13:19:17-04:00"
 wordpress_slug: seeing-out-opposites
-wordpress_date: "2003-10-16T13:19:17-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=497
 ---
 <p>

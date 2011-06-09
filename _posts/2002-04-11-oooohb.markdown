@@ -2,8 +2,8 @@
 wordpress_id: 62
 layout: post
 title: Is there reason in the masses, or only sheep going baa baa baa?
+date: "2002-04-11T20:01:04-04:00"
 wordpress_slug: oooohb
-wordpress_date: "2002-04-11T20:01:04-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=62
 ---
 <p>From <a href="http://diveintomark.org/archives/2002/04/11.html#cbdtpa_we_hardly_knew_ye">Mark Pilgrim</a>:<blockquote><i>CBDTPA looks destined to die a quiet death in committee. But if anything like this bill ever actually passes, our entire society will instantly turn into Cuba after the embargo, where everybody holds on to their pre-2002 technology, fixing it up year after year, decade after decade, rather than pay for new crippled technology. (In Cuba I believe it was cars in particular; for us it would be computers.)</i></blockquote>Funny, I have been considering exactly this.  If all this DRM and "Secure" media gets legislated and forced upon the market, I'll likely not buy another electronic gadget for a long while, unless maybe it's a used pre-2002 device.  Those, however will probably top the $1000+ range on eBay, unless resale is outlawed as well.</p>

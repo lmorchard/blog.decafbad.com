@@ -3,8 +3,8 @@ wordpress_id: 577
 layout: post
 title: On Exploding PCs and Appliance Relationships
 excerpt: I've already ditched a central desktop computer, and sometimes this makes me feel like I'm living in the future.
+date: "2004-12-13T15:28:56-05:00"
 wordpress_slug: on-exploding-pcs-and-appliance-relationships
-wordpress_date: "2004-12-13T15:28:56-05:00"
 wordpress_url: http://www.decafbad.com/blog/?p=577
 ---
 One thing I'm really looking forward to is seeing the PC explode and turn inside out, like the [Home Motor](http://www.google.com/search?q=+%22Home+Motor%22+%248.75+catalog+-domain&#38;btnG=Search).  The price of processors drops, while their power increases.  So far in computing, the processor has been a pricey central resource, demanding to be shared between programs and peripherals.  But soon, it won't be too far fetched to think of a processor as the least precious part.  In fact, computers could get so cheap as to be given away, while well-built tools and appliances--more than just *software* alone--become the valuable thing.  

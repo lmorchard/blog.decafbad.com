@@ -2,8 +2,8 @@
 wordpress_id: 634
 layout: post
 title: More Tiger & Etc Thoughts
+date: "2005-04-30T23:19:59-04:00"
 wordpress_slug: more-tiger-etc-thoughts
-wordpress_date: "2005-04-30T23:19:59-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=634
 ---
 * **Update #1:** <blockquote>Java 1.5 was released early on Friday for 10.4. Just because it wasn't in the box doesn't mean it's not available. :P</blockquote>

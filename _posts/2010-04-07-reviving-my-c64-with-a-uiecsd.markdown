@@ -2,6 +2,7 @@
 wordpress_id: 1904
 layout: post
 title: Reviving my C64 history with a uIEC/SD
+date: "2010-04-07T20:08:44-04:00"
 tags: 
 - retro
 - oldschool
@@ -13,7 +14,6 @@ tags:
 - nostalgia
 - commodore
 wordpress_slug: reviving-my-c64-with-a-uiecsd
-wordpress_date: "2010-04-07T20:08:44-04:00"
 wordpress_url: http://decafbad.com/blog/?p=1904
 ---
 I've lived a very focused life. [From very early on][newlydigital], I've been learning to make computers do things.

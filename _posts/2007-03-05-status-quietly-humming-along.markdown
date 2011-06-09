@@ -2,11 +2,11 @@
 wordpress_id: 1042
 layout: post
 title: "status: quietly humming along"
+date: "2007-03-05T13:56:08-05:00"
 tags: 
 - asides
 - metablogging
 wordpress_slug: status-quietly-humming-along
-wordpress_date: "2007-03-05T13:56:08-05:00"
 wordpress_url: http://decafbad.com/blog/2007/03/05/status-quietly-humming-along
 ---
 Still alive over here, though the blog's gathering dust.  I figure I need to post about not posting from time to time, so here we go:

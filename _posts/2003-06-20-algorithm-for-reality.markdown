@@ -2,8 +2,8 @@
 wordpress_id: 427
 layout: post
 title: About That Algorithm
+date: "2003-06-20T19:39:57-04:00"
 wordpress_slug: algorithm-for-reality
-wordpress_date: "2003-06-20T19:39:57-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=427
 ---
 <blockquote cite="http://www.aaronsw.com/weblog/000981">Let's say you're torn between two

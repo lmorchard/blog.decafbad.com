@@ -2,8 +2,8 @@
 wordpress_id: 381
 layout: post
 title: Agent Frank's first download?
+date: "2003-02-15T16:29:14-05:00"
 wordpress_slug: ooodab
-wordpress_date: "2003-02-15T16:29:14-05:00"
 wordpress_url: http://www.decafbad.com/blog/?p=381
 ---
 <blockquote cite="http://beattie.info/notebook/20030215.html#131352">Les has been very quiet lately, but that's because he's been heads down working on his Personal Proxy he's dubbed "Agent Frank" (it's got a little logo and everything). He just set up an Agent Frank <span style='background : #FFFFCE;'><a href="http://www.decafbad.com/twiki/bin/edit/Main/WikiPage?topicparent=Main.FilterData"><b>?</b></a><font color="#0000FF">WikiPage</font></span> with download and install instructions. 

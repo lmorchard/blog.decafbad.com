@@ -2,8 +2,8 @@
 wordpress_id: 400
 layout: post
 title: The A500 ain't 3G
+date: "2003-03-26T15:42:11-05:00"
 wordpress_slug: a500-not-3g
-wordpress_date: "2003-03-26T15:42:11-05:00"
 wordpress_url: http://www.decafbad.com/blog/?p=400
 ---
 <blockquote cite="http://www.mobitopia.com/20030326.html#191341">Sheesh. Okay, come back to us when you get a real phone.</blockquote>

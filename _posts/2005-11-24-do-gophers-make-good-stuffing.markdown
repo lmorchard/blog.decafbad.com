@@ -2,10 +2,10 @@
 wordpress_id: 777
 layout: post
 title: Do gophers make good stuffing?
+date: "2005-11-24T22:34:41-05:00"
 tags: 
 - asides
 wordpress_slug: do-gophers-make-good-stuffing
-wordpress_date: "2005-11-24T22:34:41-05:00"
 wordpress_url: http://decafbad.com/blog/?p=777
 ---
 [More hubbub about OPML][op].  More people getting excited about a way to express things being pushed by [a guy][ag] with a lot of enthusiasm and a following.  But, [XOXO][] offers all the expressive bang for your buck that OPML offers, but with less crud.  There are more tools using XOXO than OPML, *right now*.  

@@ -2,8 +2,8 @@
 wordpress_id: 660
 layout: post
 title: Four thoughts on MS RSS so far
+date: "2005-06-28T11:21:30-04:00"
 wordpress_slug: four-thoughts-on-ms-rss-so-far
-wordpress_date: "2005-06-28T11:21:30-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=660
 ---
 So, in my [previous post about Microsoft's newly announced involvement with RSS][prev], I came to the conclusion that--at least with respect to the [Simple List Extensions][sle]--the happening was more about the delivery than the deftness of the extension itself.  And, well, I still consider that to be the case.  

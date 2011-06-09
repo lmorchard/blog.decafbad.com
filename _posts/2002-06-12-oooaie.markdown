@@ -2,8 +2,8 @@
 wordpress_id: 174
 layout: post
 title: Interactive shells uber alles!
+date: "2002-06-12T20:03:38-04:00"
 wordpress_slug: oooaie
-wordpress_date: "2002-06-12T20:03:38-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=174
 ---
 <p>Taking a stab at learning XSLT.  <a href="http://www.entropy.ch/software/macosx/welcome.html#testxslt">TestXSLT</a> from <a href="http://www.entropy.ch/home/welcome.html">Marc Liyanage</a> is making me happy and helping, for many of the same reasons I enjoy learning Python, and have been somewhat enjoying learning Common LISP again.</p>

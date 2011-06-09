@@ -2,8 +2,8 @@
 wordpress_id: 602
 layout: post
 title: Aging (in progress)
+date: "2005-03-03T08:56:14-05:00"
 wordpress_slug: aging-in-progress
-wordpress_date: "2005-03-03T08:56:14-05:00"
 wordpress_url: http://www.decafbad.com/blog/?p=602
 ---
 *Posting this now, but I don't feel like it's finished.*

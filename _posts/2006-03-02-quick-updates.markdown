@@ -2,10 +2,10 @@
 wordpress_id: 910
 layout: post
 title: Quick updates from my parallel universe
+date: "2006-03-02T12:01:33-05:00"
 tags: 
 - asides
 wordpress_slug: quick-updates
-wordpress_date: "2006-03-02T12:01:33-05:00"
 wordpress_url: http://decafbad.com/blog/2006/03/02/opml-2-spec-review-in-progress
 ---
  <p>I've mostly been in radio silence over here, while the real action happens over on <a href="http://blogs.opml.org/decafbad/">my OPML blog</a>.  Eventually, I'll iron out a better integration process - but for now, here's a mini dump:</p>

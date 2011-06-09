@@ -2,8 +2,8 @@
 wordpress_id: 633
 layout: post
 title: Initial Tiger Thoughts
+date: "2005-04-30T13:42:08-04:00"
 wordpress_slug: initial-tiger-thoughts
-wordpress_date: "2005-04-30T13:42:08-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=633
 ---
 * Ahh, [Tiger][tig].  Everything seems about 1/3 faster, and it's worth every penny.  I only grouse throughout the rest of this entry because these are the things that keep it mere inches from perfection.

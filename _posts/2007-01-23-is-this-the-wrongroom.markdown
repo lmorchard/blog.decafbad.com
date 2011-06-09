@@ -2,8 +2,8 @@
 wordpress_id: 1037
 layout: post
 title: Is this the WrongRoom?
+date: "2007-01-23T00:54:11-05:00"
 wordpress_slug: is-this-the-wrongroom
-wordpress_date: "2007-01-23T00:54:11-05:00"
 wordpress_url: http://decafbad.com/blog/2007/01/23/is-this-the-wrongroom
 ---
 <blockquote cite="http://diveintomark.org/archives/2007/01/21/wrongroom"><p>Here’s the basic problem: you’re writing a text editor. Stop doing that. It’s 2007. ... Writing a great text editor is insanely difficult. There is a certain class of software that sounds easy but is actually insanely difficult. I call it “garden path software.” If I ever start a software company, I’ll name it “Garden Path Software,” but until then, just stop.</p><p>Reading the change logs of these programs is like traveling back in time. Way back. Latest changes in JDarkRoom 8: Undo / Redo. Seriously. Version 8, and they now support undo. No offense, but what the fuck?</p></blockquote><div class="quotesource">Source: <a href="http://diveintomark.org/archives/2007/01/21/wrongroom">WrongRoom [dive into mark]</a></div>

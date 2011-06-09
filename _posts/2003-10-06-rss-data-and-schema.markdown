@@ -2,8 +2,8 @@
 wordpress_id: 493
 layout: post
 title: "RSS-Data and Schema: Thinking about structure and data"
+date: "2003-10-06T18:52:44-04:00"
 wordpress_slug: rss-data-and-schema
-wordpress_date: "2003-10-06T18:52:44-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=493
 ---
 <blockquote cite="http://danja.typepad.com/fecho/2003/10/why_use_schema.html"><i>Dare Obasanjo has provided some initial bullet points of what a vocabulary gets from having an XML Schema :

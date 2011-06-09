@@ -2,8 +2,8 @@
 wordpress_id: 511
 layout: post
 title: Varied feed polling times versus item urgency in aggregators
+date: "2003-11-26T11:02:01-05:00"
 wordpress_slug: polling-and-urgency
-wordpress_date: "2003-11-26T11:02:01-05:00"
 wordpress_url: http://www.decafbad.com/blog/?p=511
 ---
 <blockquote cite="http://www.teledyn.com/mt/archives/001496.html">The problem with varying the polling interval is that the need varies. It's ok not to poll my little opensource website within 24 hours, but what about the announcements to the civil defence website or local municipal environment alerts, or the nuclear power plant news feed?

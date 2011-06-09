@@ -2,6 +2,7 @@
 wordpress_id: 1057
 layout: post
 title: Damn kids!  Get off my web!
+date: "2007-05-16T13:31:13-04:00"
 tags: 
 - metablogging
 - myspace
@@ -9,7 +10,6 @@ tags:
 - social
 - elephants
 wordpress_slug: damn-kids-get-off-my-web
-wordpress_date: "2007-05-16T13:31:13-04:00"
 wordpress_url: http://decafbad.com/blog/2007/05/16/damn-kids-get-off-my-web
 ---
 <p><a href="http://www.scottburkett.com/index.php/misc/2007-05-08/stop-twittering-and-go-solve-a-problem.html">Scott Burkett, Stop Twittering and Go Solve a Problem</a>: "Aside from aesthetically looking like something a 12 year old cobbled up, the entire tool seems utterly pointless to me."</p>

@@ -2,8 +2,8 @@
 wordpress_id: 353
 layout: post
 title: Folder Actions + AppleScript = Desktop Blogging.  Literally.
+date: "2003-01-16T17:22:29-05:00"
 wordpress_slug: ooochc
-wordpress_date: "2003-01-16T17:22:29-05:00"
 wordpress_url: http://www.decafbad.com/blog/?p=353
 ---
 <a href="http://interconnected.org/notes/2003/01/Lazy_MacOSX_Weblogging_1.shtml" target="_top">Lazy Mac OS X: Weblog links sidebar</a>: <i>...it's going to be about turning your Mac into a weblogging machine. As easy as the links-and-commentary genre is with all the blogging apps out there, I'm too lazy for the commentary bit, and so I tend to drag-and-drop links to my desktop for later posting -- and then promptly forget about them. Consequently my desktop is a mess, and my blog is stagnating. Bad.</i>

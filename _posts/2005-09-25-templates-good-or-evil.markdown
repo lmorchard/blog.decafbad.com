@@ -2,6 +2,7 @@
 wordpress_id: 689
 layout: post
 title: "Templates:  Good or Evil?"
+date: "2005-09-25T21:12:46-04:00"
 tags: 
 - webdev
 - rss
@@ -10,7 +11,6 @@ tags:
 - atom
 - xml
 wordpress_slug: templates-good-or-evil
-wordpress_date: "2005-09-25T21:12:46-04:00"
 wordpress_url: http://decafbad.com/blog/?p=689
 ---
 <blockquote cite="http://lachy.id.au/log/2005/04/xhtml-future#comment-271">This cry and whine that draconian handling will break your page and make your users suffer for you if you have a single error is just another legacy of HTML we’ve gotten used to: our toolchains tend to be of the “glue strings together” (aka templates) variety. ... There should never be any part of your publishing toolchain just gluing strings together. Ever.</blockquote><span style="float:right; font-size: 0.75em; width:75%">Source: <a href="http://lachy.id.au/log/2005/04/xhtml-future#comment-271">Aristotle Pagaltzis in a comment on "The Future: HTML or XHTML"</a></span><br style="clear:both" /><blockquote cite="http://lesscode.org/2005/09/24/web-services-infrastructure-kid/">There’s no rule that says templates must only be used to generate HTML. Indeed, many of the RSS and Atom feeds in the wild are generated from some form of template. They are never automatically-generated-behind-the-scenes using language bindings and are very rarely generated using some kind of DOM/SAX API.</blockquote><span style="float:right; font-size: 0.75em; width:75%">Source: <a href="http://lesscode.org/2005/09/24/web-services-infrastructure-kid/">Web Services Infrastructure: Kid Templating  </a></span><br style="clear:both" />

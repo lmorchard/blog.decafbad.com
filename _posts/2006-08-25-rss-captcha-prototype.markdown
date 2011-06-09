@@ -2,13 +2,13 @@
 wordpress_id: 986
 layout: post
 title: RSS CAPTCHA Prototype
+date: "2006-08-25T00:12:19-04:00"
 tags: 
 - asides
 - metablogging
 - rss
 - captchas
 wordpress_slug: rss-captcha-prototype
-wordpress_date: "2006-08-25T00:12:19-04:00"
 wordpress_url: http://decafbad.com/blog/2006/08/25/rss-captcha-prototype
 ---
 <blockquote cite="http://kentbrewster.com/rss-captcha-prototype">During the brief delay between when you click Post Comment and the form pops up, it's picking a random entry from the blogroll, pulling it down, and finding the first headline, just to be sure it's really there. After you make your post, it goes back out and checks again, to see if your input matches.</blockquote><div class="quotesource">Source: <a href="http://kentbrewster.com/rss-captcha-prototype">kentbrewster.com - RSS CAPTCHA Prototype</a></div>

@@ -2,8 +2,8 @@
 wordpress_id: 406
 layout: post
 title: Do Not Taunt Happy Fun Bloggers
+date: "2003-04-22T01:09:01-04:00"
 wordpress_slug: shitstorms-abound
-wordpress_date: "2003-04-22T01:09:01-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=406
 ---
 Wow.  Missed <a href="http://diveintomark.org/archives/2003/04/18/enough_already.html" target="_top">this from Mark</a> over

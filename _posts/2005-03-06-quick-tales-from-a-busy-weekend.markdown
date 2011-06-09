@@ -2,8 +2,8 @@
 wordpress_id: 605
 layout: post
 title: Quick Tales from a Busy Weekend
+date: "2005-03-06T21:16:35-05:00"
 wordpress_slug: quick-tales-from-a-busy-weekend
-wordpress_date: "2005-03-06T21:16:35-05:00"
 wordpress_url: http://www.decafbad.com/blog/?p=605
 ---
 * I wish I could find a cheap iPod car installation kit for my 2004 Ford Focus.  

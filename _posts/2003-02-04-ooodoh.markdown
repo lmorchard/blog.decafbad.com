@@ -2,8 +2,8 @@
 wordpress_id: 377
 layout: post
 title: Bookmark blogging from Safari via a quick hack
+date: "2003-02-04T21:12:36-05:00"
 wordpress_slug: ooodoh
-wordpress_date: "2003-02-04T21:12:36-05:00"
 wordpress_url: http://www.decafbad.com/blog/?p=377
 ---
 <p>Well, it doesn't look like I'm getting the new Java-based <a href="http://www.decafbad.com/twiki/bin/view/Main/PersonalWebProxy">PersonalWebProxy</a> code released last week or soon this week, but if you'd like <strong>something</strong> to poke fun at, try this...</p>

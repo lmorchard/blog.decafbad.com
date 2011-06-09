@@ -2,8 +2,8 @@
 wordpress_id: 141
 layout: post
 title: Ideas on a next iteration of the linkback implementation
+date: "2002-05-22T21:01:13-04:00"
 wordpress_slug: oooafb
-wordpress_date: "2002-05-22T21:01:13-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=141
 ---
 <p><a href="http://www.decafbad.com/twiki/bin/view/Main/ShowReferersNextGen">Jotting down some wishlist ideas</a> for a next iteration of a linkback implementation and/or service.</p>

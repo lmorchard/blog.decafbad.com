@@ -2,8 +2,8 @@
 wordpress_id: 446
 layout: post
 title: Tap + Click = Two mouse buttons on a Mac trackpad?
+date: "2003-07-22T07:57:15-04:00"
 wordpress_slug: two-track-buttons
-wordpress_date: "2003-07-22T07:57:15-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=446
 ---
 <blockquote cite="http://groups.yahoo.com/group/osxhack/message/371"><i>I have my powerbook trackpad set to accept taps as mouse clicks, which makes the behavior identical to the button.

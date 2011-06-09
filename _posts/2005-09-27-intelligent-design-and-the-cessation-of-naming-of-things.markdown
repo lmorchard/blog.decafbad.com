@@ -2,10 +2,10 @@
 wordpress_id: 701
 layout: post
 title: Intelligent Design and the cessation of naming of things
+date: "2005-09-27T11:27:17-04:00"
 tags: 
 - asides
 wordpress_slug: intelligent-design-and-the-cessation-of-naming-of-things
-wordpress_date: "2005-09-27T11:27:17-04:00"
 wordpress_url: http://decafbad.com/blog/?p=701
 ---
 I can't wait until the day that right-wing fundie whackos and their [Intelligent Design shills](http://msnbc.msn.com/id/9452500/) fade back into the woodwork.  Maybe it'll take [putting another man on the Moon](http://www.space.com/news/050920_nasa_moon_response.html) to make the role "rocket scientist" a non-ironic hero again.

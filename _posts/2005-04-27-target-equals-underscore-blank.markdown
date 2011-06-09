@@ -2,8 +2,8 @@
 wordpress_id: 628
 layout: post
 title: Target Equals Underscore Blank
+date: "2005-04-27T10:08:04-04:00"
 wordpress_slug: target-equals-underscore-blank
-wordpress_date: "2005-04-27T10:08:04-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=628
 ---
 You know what I grouch about with surprising zeal?  Links that pop up in a new window.  

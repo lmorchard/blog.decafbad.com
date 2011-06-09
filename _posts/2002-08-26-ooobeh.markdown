@@ -2,8 +2,8 @@
 wordpress_id: 235
 layout: post
 title: "\"...ideas are fucking worthless.\""
+date: "2002-08-26T18:11:12-04:00"
 wordpress_slug: ooobeh
-wordpress_date: "2002-08-26T18:11:12-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=235
 ---
 <blockquote><i>...that's what's got me so bothered about people musing in their weblogs about projects they'd like to do. Stop talking about it an just build it. Don't make it too complicated. Don't spend so much time planning on events that will never happen. Programmers, good programmers, are known for over-engineering to save time later down the road. The problem is that you can over-engineer yourself out of wanting to do the site...</i> [Andre Torrez, <a href="http://torrez.org/archives/000300.php">Even You Can Do It</a>]</blockquote>Just found this post today, via <a href="http://www.oblomovka.com/">Danny O'Brien</a>.  This is why I threw this site together, and why I have a link to <a href="http://www.decafbad.com/twiki/bin/view/Main/ReleaseEarlyReleaseOften">ReleaseEarlyReleaseOften</a> on the front page.  

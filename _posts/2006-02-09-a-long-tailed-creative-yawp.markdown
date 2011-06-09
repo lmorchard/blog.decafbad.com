@@ -2,6 +2,7 @@
 wordpress_id: 859
 layout: post
 title: A Long-Tailed Creative Yawp
+date: "2006-02-09T15:17:09-05:00"
 tags: 
 - writing
 - podcasting
@@ -12,7 +13,6 @@ tags:
 - creativity
 - future
 wordpress_slug: a-long-tailed-creative-yawp
-wordpress_date: "2006-02-09T15:17:09-05:00"
 wordpress_url: http://decafbad.com/blog/?p=859
 ---
 (*Note: This is a long one.*)

@@ -2,8 +2,8 @@
 wordpress_id: 422
 layout: post
 title: Thank You, Readers
+date: "2003-05-31T15:43:09-04:00"
 wordpress_slug: thanks-readers
-wordpress_date: "2003-05-31T15:43:09-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=422
 ---
 Oh, and I've been meaning to post a little note of thanks to everyone

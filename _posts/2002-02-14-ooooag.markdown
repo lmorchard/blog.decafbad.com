@@ -2,8 +2,8 @@
 wordpress_id: 7
 layout: post
 title: How meta, blogging about getting the blog blogging
+date: "2002-02-14T05:10:18-05:00"
 wordpress_slug: ooooag
-wordpress_date: "2002-02-14T05:10:18-05:00"
 wordpress_url: http://www.decafbad.com/blog/?p=7
 ---
 Heh, now I know I'm just blogging out into the ether right now to make sure everything's working, but it amuses me that I'm blogging about getting the blogger blogging.  Maybe I should really be writing about this in my personal blog :)

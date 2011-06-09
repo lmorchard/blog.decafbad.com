@@ -2,10 +2,10 @@
 wordpress_id: 876
 layout: post
 title: Morning Oatmeal Notes
+date: "2006-02-13T16:39:49-05:00"
 tags: 
 - asides
 wordpress_slug: morning-oatmeal-notes
-wordpress_date: "2006-02-13T16:39:49-05:00"
 wordpress_url: http://decafbad.com/blog/2006/02/13/morning-oatmeal-notes
 ---
  <p>Here's an attempt to copy outline nodes from <a href="http://blogs.opml.org/decafbad/">Blog A</a> into Blog B:</p>

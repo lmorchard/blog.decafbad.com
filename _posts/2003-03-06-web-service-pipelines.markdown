@@ -2,8 +2,8 @@
 wordpress_id: 390
 layout: post
 title: Building Pipelines with Web Services
+date: "2003-03-06T12:39:00-05:00"
 wordpress_slug: web-service-pipelines
-wordpress_date: "2003-03-06T12:39:00-05:00"
 wordpress_url: http://www.decafbad.com/blog/?p=390
 ---
 So <a href="http://www.decafbad.com/blog/tech/old/oooodh.html" target="_top">on this day last year</a>,

@@ -2,8 +2,8 @@
 wordpress_id: 476
 layout: post
 title: Litany against meetings, courtesy of purl
+date: "2003-09-04T10:50:58-04:00"
 wordpress_slug: litany-meetings
-wordpress_date: "2003-09-04T10:50:58-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=476
 ---
 Speaking of Infobots:

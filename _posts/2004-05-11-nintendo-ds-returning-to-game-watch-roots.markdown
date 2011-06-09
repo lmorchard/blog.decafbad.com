@@ -2,10 +2,10 @@
 wordpress_id: 521
 layout: post
 title: Nintendo DS returning to Game &#38; Watch roots
+date: "2004-05-11T18:31:17-04:00"
 tags: 
 - gaming
 wordpress_slug: nintendo-ds-returning-to-game-watch-roots
-wordpress_date: "2004-05-11T18:31:17-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=521
 ---
 Hmm.  Looks like some pictures of the new Nintendo DS are [filtering out of E3][usatoday] today.  [Notice any similarities][dk]?

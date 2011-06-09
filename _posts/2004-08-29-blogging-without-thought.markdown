@@ -3,8 +3,8 @@ wordpress_id: 541
 layout: post
 title: "\"One should never think before one posts.\""
 excerpt: One should never put blogging on a pedestal, really.
+date: "2004-08-29T19:14:04-04:00"
 wordpress_slug: blogging-without-thought
-wordpress_date: "2004-08-29T19:14:04-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=541
 ---
 <blockquote>

@@ -2,8 +2,8 @@
 wordpress_id: 14
 layout: post
 title: Testing my new MT template.
+date: "2002-02-24T05:15:04-05:00"
 wordpress_slug: oooobi
-wordpress_date: "2002-02-24T05:15:04-05:00"
 wordpress_url: http://www.decafbad.com/blog/?p=14
 ---
 Testing my new MT template.

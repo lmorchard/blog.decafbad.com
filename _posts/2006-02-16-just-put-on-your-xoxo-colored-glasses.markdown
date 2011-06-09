@@ -2,10 +2,10 @@
 wordpress_id: 884
 layout: post
 title: Just put on your XOXO-colored glasses
+date: "2006-02-16T23:27:19-05:00"
 tags: 
 - asides
 wordpress_slug: just-put-on-your-xoxo-colored-glasses
-wordpress_date: "2006-02-16T23:27:19-05:00"
 wordpress_url: http://decafbad.com/blog/2006/02/16/just-put-on-your-xoxo-colored-glasses
 ---
  <p>A couple of years ago, I said <a href="http://decafbad.com/blog/2004/05/03/put-on-your-rss-colored-glasses-and-forget-about-atom">"Put on your RSS-colored glasses and forget about Atom</a>."  (Wow, has it been that long?)  Well, right now I'm saying this:  Put on your XOXO-colored glasses and forget about OPML.</p>

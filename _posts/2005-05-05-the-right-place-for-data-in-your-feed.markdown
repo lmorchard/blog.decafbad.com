@@ -2,8 +2,8 @@
 wordpress_id: 641
 layout: post
 title: The right place for data in your feed
+date: "2005-05-05T11:08:42-04:00"
 wordpress_slug: the-right-place-for-data-in-your-feed
-wordpress_date: "2005-05-05T11:08:42-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=641
 ---
 I've suddenly gotten very interested in [microformats][mf], especially since it struck me very soundly that they belong in this final chapter of my book about extending feeds.  

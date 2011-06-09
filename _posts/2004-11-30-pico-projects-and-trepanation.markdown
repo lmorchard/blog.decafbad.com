@@ -3,8 +3,8 @@ wordpress_id: 567
 layout: post
 title: Pico-projects and Trepanation
 excerpt: See, in abstract, I understand how all this is supposed to work.  I just have to drum it into my mad-scientist skull.  (I wonder if trepanation would help with that?)
+date: "2004-11-30T13:41:06-05:00"
 wordpress_slug: pico-projects-and-trepanation
-wordpress_date: "2004-11-30T13:41:06-05:00"
 wordpress_url: http://www.decafbad.com/blog/?p=567
 ---
 Despite going between large helpings of long work hours and laziness, there has been at least one project I've been working on periodically: [FeedReactor](http://decafbad.com/kwiki/?FeedReactor).  

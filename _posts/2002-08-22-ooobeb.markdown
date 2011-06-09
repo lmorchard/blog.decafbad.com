@@ -2,8 +2,8 @@
 wordpress_id: 229
 layout: post
 title: Of hosting woes and hippy nerd commune servers
+date: "2002-08-22T12:57:54-04:00"
 wordpress_slug: ooobeb
-wordpress_date: "2002-08-22T12:57:54-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=229
 ---
 <p>Grr, shame on me for getting cheap hosting again.  For the most part, <a href="http://www.phpwebhosting.com">PHPWebHosting</a> has been just fine - they give me SSH access to a shell, about 120MB of space, a few <a href="http://www.decafbad.com/twiki/bin/view/Main/MySQL">MySQL</a> databases, and generally leave me alone for US$10 per month.  But at this point, the leaving me alone bit isn't working out so well, since the server I'm on over there has had its main disk fill up regularly, thus bringing down all the sites hosted on it (including mine).</p>

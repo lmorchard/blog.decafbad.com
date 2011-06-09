@@ -2,6 +2,7 @@
 wordpress_id: 1380
 layout: post
 title: Improving my Delicious command for Ubiquity
+date: "2008-09-07T01:20:20-04:00"
 tags: 
 - delicious
 - web20
@@ -10,7 +11,6 @@ tags:
 - mozilla
 - ubiquity
 wordpress_slug: improving-my-delicious-command-for-ubiquity
-wordpress_date: "2008-09-07T01:20:20-04:00"
 wordpress_url: http://decafbad.com/blog/?p=1380
 ---
 After writing up my [first stab at a Delicious command for Ubiquity][first], I planned to continue revising it based on feedback and to work on exploring more of what Ubiquity enables.  I started looking into writing my own nouns for tag suggestions, as well as playing with page load and browser startup hooks.  And, I also started poking at a little bit of deeper extension development, which took up most of my time today.

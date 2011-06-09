@@ -2,8 +2,8 @@
 wordpress_id: 33
 layout: post
 title: aaronland vs 0xDECAFBAD -- Link!
+date: "2002-03-07T17:17:16-05:00"
 wordpress_slug: oooodi
-wordpress_date: "2002-03-07T17:17:16-05:00"
 wordpress_url: http://www.decafbad.com/blog/?p=33
 ---
 Okay, cheesy entry title.  

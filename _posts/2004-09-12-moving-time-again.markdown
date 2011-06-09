@@ -3,8 +3,8 @@ wordpress_id: 545
 layout: post
 title: Moving time again
 excerpt: If you're reading this, it means I've thrown the switch on the new server and hopefully haven't broken too much.  (Crossing fingers... now.)
+date: "2004-09-12T19:54:27-04:00"
 wordpress_slug: moving-time-again
-wordpress_date: "2004-09-12T19:54:27-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=545
 ---
 Whew.  Things have been busy lately, and there've been at least a half-dozen things I could-a-should-a blogged.  Maybe I'll play catch-up soon and make another try at making this blog more active.

@@ -2,8 +2,8 @@
 wordpress_id: 1055
 layout: post
 title: Outsourced hoarding
+date: "2007-05-15T18:46:57-04:00"
 wordpress_slug: outsourced-hoarding
-wordpress_date: "2007-05-15T18:46:57-04:00"
 wordpress_url: http://decafbad.com/blog/2007/05/15/outsourced-hoarding
 ---
 <p><b>Update (5/18)</b>: I am, of course, only an amateur hoarder.  Be sure to check out <a href="http://decafbad.com/blog/2007/05/15/outsourced-hoarding#comment-158037">this comment from professional-grade hoarder Jason Scott</a> (in brief):  "I agree with you in a tangential way. Outsourcing hoarding is a good idea, but you have to stay on top of the pros and cons of it, just like real outsourcing. ... In other words, the risk you take with outsourcing is having your “value metric” not match any other active hoarding entities. The less exotic your tastes, the less of a problem this is. My tastes are exotic; I suspect yours are too."</p>

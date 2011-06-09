@@ -2,8 +2,8 @@
 wordpress_id: 234
 layout: post
 title: AmphetaOutlines fix download page fixed
+date: "2002-08-25T17:32:33-04:00"
 wordpress_slug: ooobeg
-wordpress_date: "2002-08-25T17:32:33-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=234
 ---
 <p>D'oh.  Just realized that the download link for the fixed <a href="http://www.decafbad.com/twiki/bin/view/Main/AmphetaOutlines">AmphetaOutlines</a> was at the bottom of the page, so I was puzzled that I kept getting emails about it doing the same broken things.  I seem to be missing many things lately.  :)</p>

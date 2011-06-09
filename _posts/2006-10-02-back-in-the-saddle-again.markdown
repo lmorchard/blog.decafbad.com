@@ -2,12 +2,12 @@
 wordpress_id: 998
 layout: post
 title: Back in the Saddle Again
+date: "2006-10-02T17:55:42-04:00"
 tags: 
 - delicious
 - gimp
 - crutches
 wordpress_slug: back-in-the-saddle-again
-wordpress_date: "2006-10-02T17:55:42-04:00"
 wordpress_url: http://decafbad.com/blog/2006/10/02/back-in-the-saddle-again
 ---
 When I got up this morning, this was my sad state of affairs:

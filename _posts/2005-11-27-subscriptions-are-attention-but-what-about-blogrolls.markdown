@@ -2,6 +2,7 @@
 wordpress_id: 782
 layout: post
 title: Subscriptions are attention, but what about blogrolls?
+date: "2005-11-27T16:29:53-05:00"
 tags: 
 - rss
 - microformats
@@ -9,7 +10,6 @@ tags:
 - attention
 - privacy
 wordpress_slug: subscriptions-are-attention-but-what-about-blogrolls
-wordpress_date: "2005-11-27T16:29:53-05:00"
 wordpress_url: http://decafbad.com/blog/?p=782
 ---
 <blockquote cite="http://www.dltq.org/?p=763">But today, for my rss feeds importing and exporting needs, OPML far outshines xoxo.<br /><br />Yes, there are 6 XOXO outlines on my front page. There are six lists. But I don’t have an easy way to import one of those XOXO outlines in my FeedDemon application in order to receive the latest blog items from those blogs that I link to. If there IS an easy way to do it, please enlighten me.</blockquote>

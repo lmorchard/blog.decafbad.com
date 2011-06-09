@@ -2,6 +2,7 @@
 wordpress_id: 988
 layout: post
 title: we have an akismet piper down!
+date: "2006-08-27T14:04:39-04:00"
 tags: 
 - asides
 - wordpress
@@ -10,7 +11,6 @@ tags:
 - spam
 - beansandspam
 wordpress_slug: akismet-down
-wordpress_date: "2006-08-27T14:04:39-04:00"
 wordpress_url: http://decafbad.com/blog/2006/08/27/is-akismet-down-%c2%ab-scobleizer-tech-geek-blogger
 ---
 <blockquote cite="http://scobleizer.wordpress.com/2006/08/26/is-akismet-down/">I’ve grown so used to the awesome spam blocker that Wordpress.com includes for free (it comes from Akismet, which is owned by Automattic, the same folks who do Wordpress).  But tonight a TON of spam got through. So, I wonder if Akismet is down or if something got horked?</blockquote><div class="quotesource">Source: <a href="http://scobleizer.wordpress.com/2006/08/26/is-akismet-down/">Is Akismet down? « Scobleizer - Tech Geek Blogger</a></div>

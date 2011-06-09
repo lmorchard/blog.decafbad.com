@@ -2,10 +2,10 @@
 wordpress_id: 733
 layout: post
 title: "Minding the Planet: The Spherical Desktop"
+date: "2005-10-13T08:17:43-04:00"
 tags: 
 - asides
 wordpress_slug: minding-the-planet-the-spherical-desktop
-wordpress_date: "2005-10-13T08:17:43-04:00"
 wordpress_url: http://decafbad.com/blog/?p=733
 ---
 <blockquote cite="http://novaspivack.typepad.com/nova_spivacks_weblog/2005/10/the_desktop_20.html">I've been thinking a bit about how the GUI for computer desktops could be improved so that it is possible to have more information available without cluttering the screen with windows and folders etc.</blockquote><small style="text-align:right; display:block">Source: <a href="http://novaspivack.typepad.com/nova_spivacks_weblog/2005/10/the_desktop_20.html">Minding the Planet: The Spherical Desktop</a></small>

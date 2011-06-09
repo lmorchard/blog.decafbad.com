@@ -2,8 +2,8 @@
 wordpress_id: 657
 layout: post
 title: decafbot update & FAQs
+date: "2005-06-24T00:27:39-04:00"
 wordpress_slug: decafbot-update-faqs
-wordpress_date: "2005-06-24T00:27:39-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=657
 ---
 So, [decafbot][] has been an interesting experiment so far, especially for a 20 minute hack I didn't think would actually work.  So, I think I might try to keep this bot running and tinker some more.

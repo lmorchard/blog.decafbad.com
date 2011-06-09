@@ -3,11 +3,11 @@ wordpress_id: 570
 layout: post
 title: Cross-breeding XSLT and ZPT
 excerpt: Both ZPT and XSLT very different technologies, but they are often used in similar contexts.  More than once, I've wished that XSLT was as simple as ZPT (i.e. less verbose and intrusive, more document centered), and I've wished that ZPT had some of the features of XSLT (i.e. ability to be used as a transforming filter).
+date: "2004-12-02T20:15:52-05:00"
 tags: 
 - xml
 - python
 wordpress_slug: crossbreedingxsltzpt
-wordpress_date: "2004-12-02T20:15:52-05:00"
 wordpress_url: http://www.decafbad.com/blog/?p=570
 ---
 I've recently been doing some side work involving Zope and, along with the rest of the suite of technologies it offers, I've been happy to be working with [Zope Page Templates](http://dev.zope.org/Wikis/DevSite/Projects/ZPT/FrontPage) again.  I dabbled with them a bit when they first came out, and a Zope-free implementation named [SimpleTAL](http://www.owlfish.com/software/simpleTAL/) was one of the core components of the iteration of my news aggregator which came before FeedReactor.

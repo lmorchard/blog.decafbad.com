@@ -3,10 +3,10 @@ wordpress_id: 547
 layout: post
 title: Manipulating aggregate resources in a REST API?
 excerpt: So... am I missing a more elegant RESTful way of doing this which doesn't result in a quadrillion HTTP requests?
+date: "2004-09-15T14:48:53-04:00"
 tags: 
 - xml
 wordpress_slug: manipulating-aggregate-resources-in-a-rest-api
-wordpress_date: "2004-09-15T14:48:53-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=547
 ---
 Here's a tiny bit of a REST-ian quandary:  I'm working through this API for `dbagg3`.  The major resources involved include **subscriptions** and **entries**.  Quite often, while working on the UI, I find a need to manipulate ranges and collections of these resources-- things like: &#8220;mark these 12 entries as read&#8221; and &#8220;give me an aggregate of the new entries for these 6 subscriptions&#8221;.

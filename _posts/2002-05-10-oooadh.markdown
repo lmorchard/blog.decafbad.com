@@ -2,8 +2,8 @@
 wordpress_id: 127
 layout: post
 title: "Onto the next day job subversion: K-Logging"
+date: "2002-05-10T13:55:40-04:00"
 wordpress_slug: oooadh
-wordpress_date: "2002-05-10T13:55:40-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=127
 ---
 <p>

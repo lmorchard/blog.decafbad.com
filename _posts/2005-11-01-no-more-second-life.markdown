@@ -2,6 +2,7 @@
 wordpress_id: 760
 layout: post
 title: No more Second Life
+date: "2005-11-01T11:02:10-05:00"
 tags: 
 - asides
 - gaming
@@ -12,7 +13,6 @@ tags:
 - muds
 - vr
 wordpress_slug: no-more-second-life
-wordpress_date: "2005-11-01T11:02:10-05:00"
 wordpress_url: http://decafbad.com/blog/?p=760
 ---
 Over the past few months or so, I've given [Second Life][sl] about 6 hours of my primary life.    At first, between all the rapidly aging machines I own personally, I didn't have a single one that did the place justice.  Now though, I've got a work machine with enough horsepower to do it up right.

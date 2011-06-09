@@ -2,8 +2,8 @@
 wordpress_id: 247
 layout: post
 title: Zauri, BlogWalking, Smart Mobs and other oddities
+date: "2002-09-07T03:05:49-04:00"
 wordpress_slug: ooobgo
-wordpress_date: "2002-09-07T03:05:49-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=247
 ---
 <p>A strange little idea I had on the way home today:  <a href="http://www.movabletype.com">Movable Type</a> on a <a href="http://www.sharp-usa.com/products/TypeLanding/0,1056,112,00.html">Sharp Zaurus</a> equipped with <a href="http://www.linksys-router.com/Linksys-WCF11-Wireless-Compact-Flash-Card-Type-1-802.11b.asp">wireless ethernet</a>?  Or maybe <a href="http://www.oreillynet.com/~rael/lang/perl/blosxom/">Bloxsom</a> if/when it has <a href="http://www.raelity.org/archives/2002/09/05#computers/internet/weblogs/blosxom/blosxom_0+5i_almost_alive">static publishing</a>?  Just <a href="http://saladwithsteve.com/osx/2002_02_01_archive.html#9710921">use <code>rsync</code> to publish</a> whenever the thing finds itself on a network, wireless or otherwise.  Maybe that happens while you're out <a href="http://www.personaltelco.net/index.cgi/WarWalking">Warwalking</a> - better yet, maybe that wireless network detector you cobbled together autoblogs what it finds while in your pocket.  </p>

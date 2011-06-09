@@ -2,6 +2,7 @@
 wordpress_id: 1424
 layout: post
 title: Jelly Stains and Web Masons
+date: "2008-10-29T10:42:23-04:00"
 tags: 
 - webdev
 - writing
@@ -12,7 +13,6 @@ tags:
 - webscientists
 - webscience
 wordpress_slug: jelly-stains-and-web-masons
-wordpress_date: "2008-10-29T10:42:23-04:00"
 wordpress_url: http://decafbad.com/blog/?p=1424
 ---
 From Mark Bernstein's entry on [Practical Prototype and script.aculo.us](http://www.markbernstein.org/Oct0801/PracticalPrototypeandscrip.html):

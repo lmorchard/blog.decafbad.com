@@ -2,8 +2,8 @@
 wordpress_id: 469
 layout: post
 title: Again a Student
+date: "2003-08-29T13:11:49-04:00"
 wordpress_slug: again-a-student
-wordpress_date: "2003-08-29T13:11:49-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=469
 ---
 <blockquote cite="http://www.yarinareth.net/caveatlector/archive/week_2003_08_24.html#e002076"><i>I walked in thinking "I can't believe I'm a student again. I'm a student again? Yee-bloody-ikes, how am I going to manage being a student again?"

@@ -2,10 +2,10 @@
 wordpress_id: 886
 layout: post
 title: A pair of podcast nods
+date: "2006-02-17T15:45:53-05:00"
 tags: 
 - asides
 wordpress_slug: a-pair-of-podcast-nods
-wordpress_date: "2006-02-17T15:45:53-05:00"
 wordpress_url: http://decafbad.com/blog/2006/02/17/a-pair-of-podcast-nods
 ---
  <p>Just finished listening to Episode #1 of <a href="http://www.silentuniverse.com/">Silent Universe</a>.  Holy crap is this a slick and well-produced sci-fi drama podcast.  It's striking me with impressions of <a href="http://www.thunderbirdsonline.com/site/">The Thunderbirds</a>, Battlestar Galactica, and even Firefly.  Wow.  It's melodramatic without being annoying, has amazing production qualities, and really great voice acting.</p>

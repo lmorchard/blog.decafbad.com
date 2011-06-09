@@ -2,8 +2,8 @@
 wordpress_id: 410
 layout: post
 title: Indie Music Service (ala Apple)?
+date: "2003-04-29T08:28:02-04:00"
 wordpress_slug: rdf-tunes
-wordpress_date: "2003-04-29T08:28:02-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=410
 ---
 Okay, so in between all the other hecticity currently ongoing in my life,

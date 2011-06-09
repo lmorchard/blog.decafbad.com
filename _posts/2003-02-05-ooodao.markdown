@@ -2,8 +2,8 @@
 wordpress_id: 379
 layout: post
 title: On the road to a rebuild
+date: "2003-02-05T17:45:53-05:00"
 wordpress_slug: ooodao
-wordpress_date: "2003-02-05T17:45:53-05:00"
 wordpress_url: http://www.decafbad.com/blog/?p=379
 ---
 <p>Of course, along with changes I want to make around here, one of the first is the design.  Thinking I might follow in <a href="http://www.diveintomark.org" target="_top">Mark Pilgrim's steps</a> a bit, and just strip the thing down to essentials and then more carefully consider what I slap back on the thing.  I've been meaning to pay more attention to his accessibility work for awhile now, among other things.</p>

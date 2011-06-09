@@ -2,8 +2,8 @@
 wordpress_id: 97
 layout: post
 title: On home servers and extreme personal PCs
+date: "2002-04-24T17:56:36-04:00"
 wordpress_slug: oooaag
-wordpress_date: "2002-04-24T17:56:36-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=97
 ---
 <p>John Robb <a href="http://jrobb.userland.com/2002/04/24.html#a1621">writes about the next generation of PCs and such</a>:<blockquote><i>Here is how I think the battle will evolve in the next five to ten years:...</p>

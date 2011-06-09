@@ -2,10 +2,10 @@
 wordpress_id: 694
 layout: post
 title: iTunes, Podcasts, and "unplayed" episodes
+date: "2005-09-26T16:25:57-04:00"
 tags: 
 - asides
 wordpress_slug: itunes-podcasts-and-unplayed-episodes
-wordpress_date: "2005-09-26T16:25:57-04:00"
 wordpress_url: http://decafbad.com/blog/?p=694
 ---
 Here's something that really bugs me about iTunes' podcast support:  Its definition of an "unplayed episode" with respect to retention.  

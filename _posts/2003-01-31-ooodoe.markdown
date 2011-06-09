@@ -2,8 +2,8 @@
 wordpress_id: 374
 layout: post
 title: An end to my referrer abuse
+date: "2003-01-31T14:50:51-05:00"
 wordpress_slug: ooodoe
-wordpress_date: "2003-01-31T14:50:51-05:00"
 wordpress_url: http://www.decafbad.com/blog/?p=374
 ---
 <blockquote cite="http://kalsey.com/blog/2003/01/referral_abuse/index.html">Amen. I&#8217;ve always found it irritating that news aggregators insert their URL into the referrer field. ... It would be nice if there was some sort of browser header the aggregator could send to identify itself instead of using the referrer field. Oh, that&#8217;s right, there is. It&#8217;s called User-Agent. 

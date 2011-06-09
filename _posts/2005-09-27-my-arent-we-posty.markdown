@@ -2,10 +2,10 @@
 wordpress_id: 703
 layout: post
 title: My, aren't we posty?
+date: "2005-09-27T14:04:03-04:00"
 tags: 
 - asides
 wordpress_slug: my-arent-we-posty
-wordpress_date: "2005-09-27T14:04:03-04:00"
 wordpress_url: http://decafbad.com/blog/?p=703
 ---
 It's this new blog, I think.  Between the lighter-weight blog template and the faster response times from WordPress in general, it doesn't feel like I'm *Issuing a Decree* or turning a battleship every time I want to fire off a bit of writing to the world.  

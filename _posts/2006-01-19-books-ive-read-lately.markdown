@@ -2,6 +2,7 @@
 wordpress_id: 827
 layout: post
 title: Books I've read lately
+date: "2006-01-19T11:21:59-05:00"
 tags: 
 - asides
 - scifi
@@ -12,7 +13,6 @@ tags:
 - makers
 - reviews
 wordpress_slug: books-ive-read-lately
-wordpress_date: "2006-01-19T11:21:59-05:00"
 wordpress_url: http://decafbad.com/blog/?p=827
 ---
 Radio silence around here again.  Been quite busy since Christmas, long hours at work and long hours at home.  But, somehow, I've still managed to plow a decent path through the pile of books left for me under the tree.  

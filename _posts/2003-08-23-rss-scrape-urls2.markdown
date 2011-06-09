@@ -2,8 +2,8 @@
 wordpress_id: 467
 layout: post
 title: "Scraping with web services: Success"
+date: "2003-08-23T14:52:14-04:00"
 wordpress_slug: rss-scrape-urls2
-wordpress_date: "2003-08-23T14:52:14-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=467
 ---
 <p>Okay, so I took another shot at <a href="http://www.decafbad.com/blog/geek/rss_scrape_urls.html">scraping <span class="caps">HTML</span> with web services</a> with <a href="http://www.jlist.com">another site</a> that passes the <span class="caps">HTML </span>Tidy step.  Luckily, this is a site that I already scrape using my own tool, so I have XPath expressions already cooked up to dig out info for <span class="caps">RSS</span> items.  So, here are the vitals:</p>

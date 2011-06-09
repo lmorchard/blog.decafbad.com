@@ -2,8 +2,8 @@
 wordpress_id: 627
 layout: post
 title: Mentions and Bribes
+date: "2005-04-26T20:18:49-04:00"
 wordpress_slug: mentions-and-bribes
-wordpress_date: "2005-04-26T20:18:49-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=627
 ---
 * [Geek News Central][gnc], a podcast whose torrent feed I've been using to iron out the wrinkles in my book's BitTorrent integration, just dropped a word about the book toward the end of today's edition.  That was nifty to hear, for sure!  Thanks for the mention, the link, and the compliment.

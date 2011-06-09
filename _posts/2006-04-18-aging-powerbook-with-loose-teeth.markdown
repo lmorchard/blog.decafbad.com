@@ -2,10 +2,10 @@
 wordpress_id: 932
 layout: post
 title: Aging PowerBook with Loose Teeth
+date: "2006-04-18T14:47:02-04:00"
 tags: 
 - asides
 wordpress_slug: aging-powerbook-with-loose-teeth
-wordpress_date: "2006-04-18T14:47:02-04:00"
 wordpress_url: http://decafbad.com/blog/2006/04/18/aging-powerbook-with-loose-teeth
 ---
  <p>Ugh.  My poor little PowerBook has a few loose teeth on its keyboard.  Heavy use of various keys - as well as a botched attempt at cleaning awhile back - have left a few of the "scissor" mechanisms a bit injured.  I swapped some of these around to less important keys, but I'm debating ordering new parts.  And that's not to mention the half-dozen or so keys whose paint my fingers are wearing through.  Good thing I remember where A and S are.</p>

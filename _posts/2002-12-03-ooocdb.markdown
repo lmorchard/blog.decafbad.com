@@ -2,8 +2,8 @@
 wordpress_id: 316
 layout: post
 title: "XML-RPC case study redux, Part III: I'll shut up after this."
+date: "2002-12-03T13:43:20-05:00"
 wordpress_slug: ooocdb
-wordpress_date: "2002-12-03T13:43:20-05:00"
 wordpress_url: http://www.decafbad.com/blog/?p=316
 ---
 <p>Sheesh, have I rambled on forever about this or what?  I think it could have all been summed up so much more concisely, as <a href="http://www.decafbad.com/news_archives/000334.phtml#comments">Paul Prescod did</a> for me:  "<i>For the 20% that XML-RPC solves, by all means use it!</i>"  With my case in particular, his 20% is 80% of my problem domain.</p>

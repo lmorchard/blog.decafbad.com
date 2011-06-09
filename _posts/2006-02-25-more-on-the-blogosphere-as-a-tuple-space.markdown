@@ -2,10 +2,10 @@
 wordpress_id: 904
 layout: post
 title: More on the blogosphere as a tuple space
+date: "2006-02-25T00:20:18-05:00"
 tags: 
 - asides
 wordpress_slug: more-on-the-blogosphere-as-a-tuple-space
-wordpress_date: "2006-02-25T00:20:18-05:00"
 wordpress_url: http://decafbad.com/blog/2006/02/25/more-on-the-blogosphere-as-a-tuple-space
 ---
  <p>On introducing people to blogging, <a href="http://www.scripting.com/2006/02/24.html#bloggingForNewbies">Dave wrote</a>:</p>

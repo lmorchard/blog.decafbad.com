@@ -2,10 +2,10 @@
 wordpress_id: 926
 layout: post
 title: Parameterize your service URL for the S3 REST API
+date: "2006-04-06T09:59:29-04:00"
 tags: 
 - asides
 wordpress_slug: parameterize-your-service-url-for-the-s3-rest-api
-wordpress_date: "2006-04-06T09:59:29-04:00"
 wordpress_url: http://decafbad.com/blog/2006/04/06/parameterize-your-service-url-for-the-s3-rest-api
 ---
  <p>One more rapid fire thought on Amazon S3:  If you're building an app that talks to the S3 REST API, please parameterize the base URL used to access the service.  Make it a config file parameter or a control panel setting or whatever.  This API will be cloned.</p>

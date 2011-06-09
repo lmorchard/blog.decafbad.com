@@ -2,8 +2,8 @@
 wordpress_id: 222
 layout: post
 title: Movable Type plugin for Wiki Formatting and XML-RPC Filtering Pipelines
+date: "2002-08-19T04:54:38-04:00"
 wordpress_slug: ooobdd
-wordpress_date: "2002-08-19T04:54:38-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=222
 ---
 <p><MTXMLRPCFilter url="http://www.decafbad.com/twiki/bin/twiki_xmlrpc.cgi"></p>

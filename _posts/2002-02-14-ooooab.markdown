@@ -2,8 +2,8 @@
 wordpress_id: 2
 layout: post
 title: This is a test
+date: "2002-02-14T04:31:03-05:00"
 wordpress_slug: ooooab
-wordpress_date: "2002-02-14T04:31:03-05:00"
 wordpress_url: http://www.decafbad.com/blog/?p=2
 ---
 Nothing to see here... yet.

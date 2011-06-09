@@ -2,10 +2,10 @@
 wordpress_id: 11
 layout: post
 title: "Wanted: A non-ugly stylesheet"
+date: "2002-02-18T20:10:15-05:00"
 tags: 
 - Header
 wordpress_slug: ooooba
-wordpress_date: "2002-02-18T20:10:15-05:00"
 wordpress_url: http://www.decafbad.com/blog/?p=11
 ---
 Oh yeah, and though I'm pretty sure I'm blogging into the void right now, would anyone out there happen to have some tips on how to make my site less ass ugly? :)  I've just co-opted the Movable Type out-of-box style, but I think I'll need to move on from that eventually...

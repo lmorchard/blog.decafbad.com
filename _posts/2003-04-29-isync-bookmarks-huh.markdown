@@ -2,8 +2,8 @@
 wordpress_id: 411
 layout: post
 title: What is my iSync doing?
+date: "2003-04-29T16:24:56-04:00"
 wordpress_slug: isync-bookmarks-huh
-wordpress_date: "2003-04-29T16:24:56-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=411
 ---
 <img src="http://www.decafbad.com/downloads/isync-bookmarks.gif" align="right" vspace="8" hspace="8" />

@@ -2,8 +2,8 @@
 wordpress_id: 596
 layout: post
 title: Too lazy to think of a quick title
+date: "2005-02-24T22:39:36-05:00"
 wordpress_slug: too-lazy-to-think-of-a-quick-title
-wordpress_date: "2005-02-24T22:39:36-05:00"
 wordpress_url: http://www.decafbad.com/blog/?p=596
 ---
 * Yesterday, I had ["In Repair" by Our Lady Peace][olp] stuck in my head all day.

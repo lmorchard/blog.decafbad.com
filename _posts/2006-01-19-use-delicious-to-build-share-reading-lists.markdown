@@ -2,6 +2,7 @@
 wordpress_id: 829
 layout: post
 title: Use del.icio.us to build & share Reading Lists?
+date: "2006-01-19T15:08:37-05:00"
 tags: 
 - asides
 - delicious
@@ -12,7 +13,6 @@ tags:
 - opml
 - newsriver
 wordpress_slug: use-delicious-to-build-share-reading-lists
-wordpress_date: "2006-01-19T15:08:37-05:00"
 wordpress_url: http://decafbad.com/blog/?p=829
 ---
 <blockquote cite="http://vrypan.net/log/archives/2006/01/19/delicious-as-fedd-manager/">As far as I know, the most popular link managment tool is del.icio.us, a tool I love for its power and simplicity. del.icio.us allow you to export all your links in RSS which is cool. So, I wrote a quick and dirty PHP script that converts this RSS export to an OPML list (see at the end of this post).</blockquote>

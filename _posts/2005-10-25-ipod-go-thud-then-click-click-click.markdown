@@ -2,6 +2,7 @@
 wordpress_id: 750
 layout: post
 title: iPod go thud then click, click, click.
+date: "2005-10-25T13:28:40-04:00"
 tags: 
 - asides
 - apple
@@ -9,7 +10,6 @@ tags:
 - repair
 - oops
 wordpress_slug: ipod-go-thud-then-click-click-click
-wordpress_date: "2005-10-25T13:28:40-04:00"
 wordpress_url: http://decafbad.com/blog/?p=750
 ---
 Man, color me peeved:  The girl just got me a new [LCD-equipped iTrip][li] for my 4G iPod 20GB, and what happens?  I fumble it from chest level, from which it fell to land flat on its back on a marble floor.  No obvious external or cosmetic damage, but I'm hearing [an old familiar noise from the hard drive inside][hd].  

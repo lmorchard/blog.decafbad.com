@@ -2,10 +2,10 @@
 wordpress_id: 698
 layout: post
 title: SSH and screen, better together
+date: "2005-09-27T09:21:02-04:00"
 tags: 
 - asides
 wordpress_slug: ssh-and-screen-better-together
-wordpress_date: "2005-09-27T09:21:02-04:00"
 wordpress_url: http://decafbad.com/blog/?p=698
 ---
 I've just recently put some pieces together in my head, and have found this to be a very useful invocation to run in a Terminal window on my PowerBook:

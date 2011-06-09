@@ -2,8 +2,8 @@
 wordpress_id: 385
 layout: post
 title: Welcome to 0xDECAFBAD v2.0
+date: "2003-03-01T20:27:00-05:00"
 wordpress_slug: oooooa
-wordpress_date: "2003-03-01T20:27:00-05:00"
 wordpress_url: http://www.decafbad.com/blog/?p=385
 ---
 Not much to see here yet, but I've burnt down my old weblog and

@@ -2,8 +2,8 @@
 wordpress_id: 92
 layout: post
 title: Linkbacks and viva le two-way-web!
+date: "2002-04-21T21:48:41-04:00"
 wordpress_slug: oooaab
-wordpress_date: "2002-04-21T21:48:41-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=92
 ---
 <p>Mark Pilgrim <a href="http://diveintomark.org/archives/2002/04/21.html#autolinkbacks_vs_instant_outlining">writes</a>: <i>IO is more controlled [than linkbacks] -- you have to subscribe to other people's feeds to read their responses -- and is therefore better suited for intentional collaboration. Auto-linkbacks are more about exploration and <a href="http://radio.weblogs.com/0101679/stories/2002/03/13/manufacturedSerendipity.html">manufacturing serendipity</a>. Must explore this further.</i></p>

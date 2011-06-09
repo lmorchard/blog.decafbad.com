@@ -2,8 +2,8 @@
 wordpress_id: 958
 layout: post
 title: Go West, but Where?
+date: "2006-06-24T12:14:50-04:00"
 wordpress_slug: go-west-where
-wordpress_date: "2006-06-24T12:14:50-04:00"
 wordpress_url: http://decafbad.com/blog/2006/06/24/go-west-where
 ---
 <strong>Update</strong> (7/26): <em>We ended up taking a place in Santa Clara, CA, a minute or two away from Santana Row.  We may be looking again in a year, once we've gotten a sense for the lay of the land.  Thanks for all the wonderful advice, everyone!</em>

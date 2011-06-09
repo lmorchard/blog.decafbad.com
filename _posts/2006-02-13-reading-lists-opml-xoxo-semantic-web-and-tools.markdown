@@ -2,6 +2,7 @@
 wordpress_id: 871
 layout: post
 title: Reading Lists, OPML, XOXO, Semantic Web, and Tools
+date: "2006-02-13T12:09:08-05:00"
 tags: 
 - metablogging
 - webdev
@@ -14,7 +15,6 @@ tags:
 - rdf
 - semweb
 wordpress_slug: reading-lists-opml-xoxo-semantic-web-and-tools
-wordpress_date: "2006-02-13T12:09:08-05:00"
 wordpress_url: http://decafbad.com/blog/?p=871
 ---
 Listening to this <a href="http://blogs.msdn.com/alexbarn/archive/2006/02/12/530652.aspx">podcast about OPML and Reading Lists</a> and enjoying the various perspectives on RSS, OPML, and Semantic Web tech.  It's also the first time I've heard Danny Ayers' voice, so that was pretty cool after having been a textual blog acquaintance for a few years now.  As for the rest of the guys on the call, I'm not quite as familiar with all of them yet, but I'll be adding them to my Reading Lists shortly.

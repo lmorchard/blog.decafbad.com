@@ -2,6 +2,7 @@
 wordpress_id: 1027
 layout: post
 title: Tagometers and Travesties
+date: "2006-12-20T20:19:56-05:00"
 tags: 
 - metablogging
 - delicious
@@ -9,7 +10,6 @@ tags:
 - webdev
 - winer
 wordpress_slug: tagometers-and-travesties
-wordpress_date: "2006-12-20T20:19:56-05:00"
 wordpress_url: http://decafbad.com/blog/2006/12/20/tagometers-and-travesties
 ---
 You know you've truly arrived in Silicon Valley when [the darling new feature you just helped launch][ta] on [a Web 2.0 site][del] gets shredded in [a rant by Dave Winer][dw].  :)  

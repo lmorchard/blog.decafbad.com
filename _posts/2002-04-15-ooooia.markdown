@@ -2,8 +2,8 @@
 wordpress_id: 71
 layout: post
 title: LiveJournal XML-RPC + metaWeblog API
+date: "2002-04-15T16:53:14-04:00"
 wordpress_slug: ooooia
-wordpress_date: "2002-04-15T16:53:14-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=71
 ---
 <p>Looking at the <a href="http://goathack.livejournal.org:8006/doc/hack/r257.html">LiveJournal XML-RPC Protocol Reference</a> again today.  I need to make a <a href="http://www.xmlrpc.com/discuss/msgReader$2198?mode=topic">metaWeblog API</a> gateway to <a href="http://www.livejournal.com">LiveJournal</a>, now that I can supply arbitrary metadata and now include mood and music.  Next stop would be to make a client that can exploit metaWeblog that feels like the LJ client.</p>

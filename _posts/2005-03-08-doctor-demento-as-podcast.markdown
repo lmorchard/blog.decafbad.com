@@ -2,8 +2,8 @@
 wordpress_id: 609
 layout: post
 title: Doctor Demento as Podcast?
+date: "2005-03-08T09:41:06-05:00"
 wordpress_slug: doctor-demento-as-podcast
-wordpress_date: "2005-03-08T09:41:06-05:00"
 wordpress_url: http://www.decafbad.com/blog/?p=609
 ---
 [The Doctor Demento Show][demento] *so* needs to be a podcast.  I wonder if [this fan site][demento2] could do it without getting in trouble?  (Probably not, but I'd gladly seed torrents!)

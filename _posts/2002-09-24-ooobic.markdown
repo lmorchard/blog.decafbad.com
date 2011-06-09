@@ -2,8 +2,8 @@
 wordpress_id: 268
 layout: post
 title: TrackBack strikes back
+date: "2002-09-24T14:46:22-04:00"
 wordpress_slug: ooobic
-wordpress_date: "2002-09-24T14:46:22-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=268
 ---
 And of course, Ben of <a href="http://www.decafbad.com/twiki/bin/view/Main/MovableType">MovableType</a> is <a href="http://www.stupidfool.org/archives/2002/09/000211.shtml">not unaware of Pingback</a>:<blockquote><i>In current implementations of <a href="http://www.decafbad.com/twiki/bin/view/Main/TrackBack">TrackBack</a>, the user sending the ping must take some action: either by selecting the post he wishes to send a <a href="http://www.decafbad.com/twiki/bin/view/Main/TrackBack">TrackBack</a> ping to via a pulldown menu, or by retrieving the ping URL and pasting it into the entry form. And yes, we agree on the point that transparency is the ultimate goal*.

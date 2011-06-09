@@ -2,8 +2,8 @@
 wordpress_id: 416
 layout: post
 title: Google Blog Clog?
+date: "2003-05-09T08:27:38-04:00"
 wordpress_slug: google-blog-clog
-wordpress_date: "2003-05-09T08:27:38-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=416
 ---
 <blockquote cite="http://www.russellbeattie.com/notebook/20030509.html#095103">...Personally, I'm getting SICK of running into my OWN BLOG while doing research into any of the topics that I've ranted about here. I spend a couple posts talking about a technology with questions or thoughts, then later I go to implement this tech and need specifics and yet 2 or 3 of the top ranks are filled with my annoying blather. Urgh!...</blockquote>

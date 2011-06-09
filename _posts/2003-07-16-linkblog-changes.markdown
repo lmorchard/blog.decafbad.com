@@ -2,8 +2,8 @@
 wordpress_id: 442
 layout: post
 title: Changes in my link blogging
+date: "2003-07-16T23:55:26-04:00"
 wordpress_slug: linkblog-changes
-wordpress_date: "2003-07-16T23:55:26-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=442
 ---
 You might notice a sudden rise in link-quote-comment entries around

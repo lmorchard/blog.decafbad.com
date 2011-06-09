@@ -9,6 +9,11 @@ require 'yaml'
 # $ sudo gem install sequel
 # $ sudo gem install mysql -- --with-mysql-config=/usr/local/mysql/bin/mysql_config
 
+# $ export DB=my_wpdb
+# $ export USER=dbuser 
+# $ export PASS=dbpass 
+# $ ruby -r './_import/wordpress-decafbad.rb' -e 'Jekyll::WordPress.process( "#{ENV["DB"]}", "#{ENV["USER"]}", "#{ENV["PASS"]}" )'
+
 module Jekyll
   module WordPress
 
@@ -59,7 +64,7 @@ module Jekyll
            'title' => title.to_s,
            'excerpt' => post[:post_excerpt].to_s,
            'tags' => post[:post_tags].nil? ? nil : post[:post_tags].split(','),
-           'wordpress_date' => post[:post_date].iso8601,
+           'date' => post[:post_date].iso8601,
            'wordpress_slug' => post[:post_name],
            'wordpress_id' => post[:ID],
            'wordpress_url' => post[:guid]

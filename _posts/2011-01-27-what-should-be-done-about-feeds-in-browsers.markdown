@@ -2,6 +2,7 @@
 wordpress_id: 2022
 layout: post
 title: What should be done about feeds in browsers?
+date: "2011-01-27T01:11:00-05:00"
 tags: 
 - rss
 - firefox
@@ -11,7 +12,6 @@ tags:
 - autodiscovery
 - bug578967
 wordpress_slug: what-should-be-done-about-feeds-in-browsers
-wordpress_date: "2011-01-27T01:11:00-05:00"
 wordpress_url: http://decafbad.com/blog/?p=2022
 ---
 **TL;DR**: <em>Browsers need help doing a better job using feeds for discovery, aggregation, and publishing on the web to keep us from swimming into self-destructing lobster traps.</em>

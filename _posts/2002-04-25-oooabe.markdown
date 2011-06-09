@@ -2,8 +2,8 @@
 wordpress_id: 105
 layout: post
 title: Thanks, kuro5hin.  Decaf is bad.  Caffeine is good.
+date: "2002-04-25T20:04:44-04:00"
 wordpress_slug: oooabe
-wordpress_date: "2002-04-25T20:04:44-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=105
 ---
 <p>I just had to link to this: <a href="http://www.kuro5hin.org/?op=displaystory;sid=2002/4/25/13272/5729">A coder's guide to coffee @ kuro5hin</a></p>

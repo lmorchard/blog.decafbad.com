@@ -2,8 +2,8 @@
 wordpress_id: 502
 layout: post
 title: How about a demo of the Whuffie Web?
+date: "2003-11-10T22:14:00-05:00"
 wordpress_slug: the-whuffie-web
-wordpress_date: "2003-11-10T22:14:00-05:00"
 wordpress_url: http://www.decafbad.com/blog/?p=502
 ---
 <blockquote cite="http://www.scripting.com/"><i>Let's do a demo of the Semantic Web, the real one, the one that exists today. <a href="http://doc.weblogs.com/2003/11/10#elsewhereInTheWorld">Doc Searls</a> has a question about  the <a href="http://www.garmin.com/products/iQue3600/">iQue 3600</a> hand-held GPS. It is sexy. They say it only works with Windows, but Doc thinks it probably works with Linux too. A couple of thousand really smart people will read this. I'm sure one of them knows the answer. Probably more than one. There's the query. Human intelligence is so under-rated by computer researchers, but when we do our job well, that's what we facilitate. Human minds communicating with other human minds. What could be easier to understand?</i></blockquote>

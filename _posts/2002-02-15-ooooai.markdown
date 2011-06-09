@@ -2,10 +2,10 @@
 wordpress_id: 9
 layout: post
 title: Blew the dust off the BBS
+date: "2002-02-15T13:35:09-05:00"
 tags: 
 - Header
 wordpress_slug: ooooai
-wordpress_date: "2002-02-15T13:35:09-05:00"
 wordpress_url: http://www.decafbad.com/blog/?p=9
 ---
 It's been up for 49 days and has served about 8 people.  It's running on a crappy lil 70Mhz HP Vectra PC I found in the dumpster. 

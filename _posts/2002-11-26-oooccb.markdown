@@ -2,8 +2,8 @@
 wordpress_id: 307
 layout: post
 title: XML-RPC, a mini case study
+date: "2002-11-26T13:46:07-05:00"
 wordpress_slug: oooccb
-wordpress_date: "2002-11-26T13:46:07-05:00"
 wordpress_url: http://www.decafbad.com/blog/?p=307
 ---
 About SOAP vs <a href="http://www.decafbad.com/twiki/bin/view/Main/REST">REST</a> vs XML-RPC, <a href="http://scriptingnews.userland.com/backissues/2002/11/23#When:3:49:18PM">Dave writes</a>:<blockquote><i>By and large <a href="http://www.decafbad.com/twiki/bin/view/Main/REST">REST</a> interfaces don't tell you how to serialize and deserialize complex structures, so you kind of start from scratch every time. If they use a SOAP encoding, you get some of that. But there just is nothing simpler than saying "Here's the XML-RPC interface, and some sample code in a few of the popular scripting languages." If you want developers to get going quickly, avoid the religious wars, just support XML-RPC. Now even this isn't bluster-free. Think of it as evangelism. Have a nice day.</i></blockquote>Though I don't like his remarks on <a href="http://www.decafbad.com/twiki/bin/view/Main/REST">REST</a>, I gotta give Dave an <i>amen</i> here and thank him for having <a href="http://www.decafbad.com/twiki/bin/view/Main/XmlRpc">XmlRpc</a> out there for me to stumble upon.  <a href="http://www.decafbad.com/twiki/bin/view/Main/REST">REST</a> seems shiny and neat to me but incomplete - I'm pulling for it because it seems warm and fuzzy to my ivory tower branes.  SOAP seems to try to be nice &amp; clean, but feels grungy and toxic to me and I've always felt a vague sense of unease when walking past its house on the block.  In the middle, <a href="http://www.decafbad.com/twiki/bin/view/Main/XmlRpc">XmlRpc</a> seems to be the right balance of dirt and acidity to grow things in.

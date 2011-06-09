@@ -2,8 +2,8 @@
 wordpress_id: 343
 layout: post
 title: Sharing my Python proxy experiment
+date: "2003-01-01T01:53:22-05:00"
 wordpress_slug: ooocgo
-wordpress_date: "2003-01-01T01:53:22-05:00"
 wordpress_url: http://www.decafbad.com/blog/?p=343
 ---
 <cite>Anthony Eden</cite> <a href="http://roller.anthonyeden.com/page/aeden/20021230#re_upp_take_2" target="_top">writes</a>:<blockquote><i>I was so intrigued by having a proxy agent which would work for me that I wrote a little generic pluggable proxy this morning.</i></blockquote>Show us the code! :)  I want to play.

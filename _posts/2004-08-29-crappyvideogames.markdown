@@ -3,10 +3,10 @@ wordpress_id: 542
 layout: post
 title: Crappy video games to get more expensive to produce
 excerpt: It all makes me almost wish for a kink in Moore's Law that stalls the progress of dazzling hardware and forces developers back to being clever with their resources and game ideas.
+date: "2004-08-29T22:52:48-04:00"
 tags: 
 - gaming
 wordpress_slug: crappyvideogames
-wordpress_date: "2004-08-29T22:52:48-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=542
 ---
 <blockquote>

@@ -2,8 +2,8 @@
 wordpress_id: 19
 layout: post
 title: 0xDECAFBAD is trying to find itself.
+date: "2002-02-25T18:15:02-05:00"
 wordpress_slug: ooooce
-wordpress_date: "2002-02-25T18:15:02-05:00"
 wordpress_url: http://www.decafbad.com/blog/?p=19
 ---
 I doubt that I have much of an audience yet, still, so I suppose this will be just thinking out loud... but hey, that's pretty much the express purpose of this site.  The historical context is useful, nonetheless.

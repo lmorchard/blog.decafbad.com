@@ -2,10 +2,10 @@
 wordpress_id: 881
 layout: post
 title: Asides from an alternate universe
+date: "2006-02-15T23:34:57-05:00"
 tags: 
 - asides
 wordpress_slug: asides-from-an-alternate-universe
-wordpress_date: "2006-02-15T23:34:57-05:00"
 wordpress_url: http://decafbad.com/blog/2006/02/15/asides-from-an-alternate-universe
 ---
  <p>In case you're not following my OPML alt-blog, here are a few highlights from today:</p>

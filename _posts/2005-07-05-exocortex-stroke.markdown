@@ -2,8 +2,8 @@
 wordpress_id: 666
 layout: post
 title: Suffered a Stroke in my Exocortex
+date: "2005-07-05T09:58:16-04:00"
 wordpress_slug: exocortex-stroke
-wordpress_date: "2005-07-05T09:58:16-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=666
 ---
 So, this weekend, I suffered a sort of minor stroke in my exocortex.  The girl and I left for a bit to get food on Saturday afternoon and, when we got back, I found my PowerBook making grinding / growling noises from the general vicinity of its hard drive.  A reboot or two later, and the poor thing stopped bothering to spin up the drive and just sat there in blinking confusion looking for a System folder.

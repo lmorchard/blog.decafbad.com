@@ -2,8 +2,8 @@
 wordpress_id: 242
 layout: post
 title: Some quickies
+date: "2002-09-05T03:50:08-04:00"
 wordpress_slug: ooobfe
-wordpress_date: "2002-09-05T03:50:08-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=242
 ---
 <ol>

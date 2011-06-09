@@ -2,10 +2,10 @@
 wordpress_id: 919
 layout: post
 title: JavaScript apps with read/write access to S3
+date: "2006-04-03T13:31:36-04:00"
 tags: 
 - asides
 wordpress_slug: javascript-apps-with-readwrite-access-to-s3
-wordpress_date: "2006-04-03T13:31:36-04:00"
 wordpress_url: http://decafbad.com/blog/2006/04/03/javascript-apps-with-readwrite-access-to-s3
 ---
  <p><b>Update:</b> I've started experiments on <a href="http://decafbad.com/trac/wiki/S3Ajax">S3Ajax</a>.</p>

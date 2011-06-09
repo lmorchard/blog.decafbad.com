@@ -2,8 +2,8 @@
 wordpress_id: 158
 layout: post
 title: You got your blog URL in my RSS referrer!
+date: "2002-06-05T13:17:35-04:00"
 wordpress_slug: oooagi
-wordpress_date: "2002-06-05T13:17:35-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=158
 ---
 <p>From <a href="http://ipwebdev.com/radio/">Adam Wendt</a>, in my referrers today: "<a href="http://ipwebdev.com/radio/ImReadingYourRSSFeed.php"> Hey there! I'm reading your <a href="http://www.decafbad.com/twiki/bin/view/Main/RSS">RSS</a> feed!</a>"  This is precisely what I was wishing for, back when I said "<a href="http://www.decafbad.com/news_archives/000124.phtml">I wish Radio sent me blog URLs as referers on news aggregator hits</a>"  Now, I just have to tweak the 3 news aggregators I hop between to supply something similar.  Anyone want to jump on this bandwagon and help push it as fast as the recent <a href="http://www.decafbad.com/twiki/bin/view/Main/RSS">RSS</a> autodetection meme? :)</p>

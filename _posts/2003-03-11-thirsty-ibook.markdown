@@ -2,8 +2,8 @@
 wordpress_id: 392
 layout: post
 title: iBooks Don't Get Thirsty
+date: "2003-03-11T21:25:00-05:00"
 wordpress_slug: thirsty-ibook
-wordpress_date: "2003-03-11T21:25:00-05:00"
 wordpress_url: http://www.decafbad.com/blog/?p=392
 ---
 Just for future reference:  No matter what your cats think, iBooks 

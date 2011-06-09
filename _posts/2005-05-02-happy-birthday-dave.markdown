@@ -2,8 +2,8 @@
 wordpress_id: 638
 layout: post
 title: Happy Birthday Dave!
+date: "2005-05-02T21:19:59-04:00"
 wordpress_slug: happy-birthday-dave
-wordpress_date: "2005-05-02T21:19:59-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=638
 ---
 I know lots of people have had their differences and disagreements with you, me included.  But I have to give props where they're due:  

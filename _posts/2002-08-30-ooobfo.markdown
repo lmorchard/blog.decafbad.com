@@ -2,8 +2,8 @@
 wordpress_id: 237
 layout: post
 title: Outlining + IM = On Fire
+date: "2002-08-30T04:30:34-04:00"
 wordpress_slug: ooobfo
-wordpress_date: "2002-08-30T04:30:34-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=237
 ---
 <p>Dave writes, "<a href="http://scriptingnews.userland.com/backissues/2002/08/29#When:6:18:09PM">I have my instant outliner going again.</a>"</p>

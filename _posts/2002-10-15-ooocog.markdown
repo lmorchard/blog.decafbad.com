@@ -2,8 +2,8 @@
 wordpress_id: 282
 layout: post
 title: Microsoft and Clip Art Follies
+date: "2002-10-15T02:55:23-04:00"
 wordpress_slug: ooocog
-wordpress_date: "2002-10-15T02:55:23-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=282
 ---
 This is why I love the web &amp; blogosphere these days.  It's getting just a little harder to get away with bullshit every day.  :)  Threads cross at <a href="http://scriptingnews.userland.com/backissues/2002/10/14#When:2:30:09PM">on Dave's site</a> and <a href="http://www.metafilter.com/mefi/20798">Metafilter</a>, among other sites, and Microsoft's counter-Switch ad is revealed.

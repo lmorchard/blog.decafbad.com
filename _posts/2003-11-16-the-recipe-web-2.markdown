@@ -2,8 +2,8 @@
 wordpress_id: 506
 layout: post
 title: Building the Recipe Web II
+date: "2003-11-16T23:39:12-05:00"
 wordpress_slug: the-recipe-web-2
-wordpress_date: "2003-11-16T23:39:12-05:00"
 wordpress_url: http://www.decafbad.com/blog/?p=506
 ---
 <blockquote cite="http://www.troyandgay.com/archives/2003/11/001834.php">Every once in a while, someone gets ideas about crossing recipes and computers. Of course, I love the idea. Two common ideas we hear a lot are 1) to put recipes in XML format and do all sorts of wonderful things and 2) that kitchen appliances should be smart and you should be able to feed them recipes and have your food made for you. They're both great ideas, but invariably, people underestimate the work involved ("But it's just a recipe!") and overestimate the usefulness ("It would be so cool!").</blockquote>

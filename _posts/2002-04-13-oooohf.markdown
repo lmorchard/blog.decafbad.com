@@ -2,8 +2,8 @@
 wordpress_id: 66
 layout: post
 title: What to do about the Google API
+date: "2002-04-13T18:04:32-04:00"
 wordpress_slug: oooohf
-wordpress_date: "2002-04-13T18:04:32-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=66
 ---
 <p>I'm glad to see that I'm <a href="http://www.metafilter.com/mefi/16286">not</a> <a href="http://mikel.org/2002_04_07_mikelarch.html#75326362">the only</a> <a href="http://aaronland.info/weblog">one</a> who doesn't quite yet get an immediate <i>eureka</i> about the new <a href="http://www.google.com/apis">Google APIs</a>-- searching in particular.  Of course there are the non-web crossovers, like <a href="http://www.interconnected.org/home/more/googlematic.gif">searching in AIM via googlematic</a>, but this mostly makes me yawn.  Yes, its fun and geeky, but yawn.  This is not to say that the Google search API itself makes me yawn.</p>

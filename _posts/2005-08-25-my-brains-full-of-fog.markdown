@@ -2,13 +2,13 @@
 wordpress_id: 677
 layout: post
 title: My brain's full of fog
+date: "2005-08-25T16:37:43-04:00"
 tags: 
 - ipod
 - quick
 - girl
 - pogues
 wordpress_slug: my-brains-full-of-fog
-wordpress_date: "2005-08-25T16:37:43-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=677
 ---
 Man, starting a new job really takes its toll on my spare brain cycles available at the end of the day.  See, I've had it in my head for the last month or so that I want to do such various things as:

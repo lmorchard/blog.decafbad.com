@@ -2,8 +2,8 @@
 wordpress_id: 640
 layout: post
 title: More random Tiger and Mac thoughts
+date: "2005-05-05T10:25:36-04:00"
 wordpress_slug: more-random-tiger-and-mac-thoughts
-wordpress_date: "2005-05-05T10:25:36-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=640
 ---
 * I wish I could have "soft" desktops/displays on my Mac.  

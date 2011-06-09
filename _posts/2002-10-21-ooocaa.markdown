@@ -2,8 +2,8 @@
 wordpress_id: 286
 layout: post
 title: RSS icon in CSS & HTML
+date: "2002-10-21T14:32:30-04:00"
 wordpress_slug: ooocaa
-wordpress_date: "2002-10-21T14:32:30-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=286
 ---
 Found something sick from <a href="http://www.livejournal.com/users/jwz/">JWZ</a> on <a href="http://www.decafbad.com/twiki/bin/view/Main/LiveJournal">LiveJournal</a> - <a href="http://www.livejournal.com/talkread.bml?journal=lj_nifty&amp;itemid=57340&amp;thread=1095420#t1095420">a CSS-based RSS icon</a>.  Believe it or not, it's smaller in bytes than the gif.

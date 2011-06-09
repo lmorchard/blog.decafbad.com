@@ -2,8 +2,8 @@
 wordpress_id: 664
 layout: post
 title: Drag the boxes, stretch the lines
+date: "2005-07-02T00:17:58-04:00"
 wordpress_slug: drag-the-boxes-stretch-the-lines
-wordpress_date: "2005-07-02T00:17:58-04:00"
 wordpress_url: http://www.decafbad.com/blog/?p=664
 ---
 <b>Update:</b> <i>A nice mention and ensuing discussion of this has appeared with <a href="http://lambda-the-ultimate.org/node/view/816">this article at Lambda the Ultimate</a>.  I've killed trackback here due to spam, so I'm tossing this in manually.</i>

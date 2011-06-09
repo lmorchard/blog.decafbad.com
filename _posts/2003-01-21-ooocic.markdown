@@ -2,8 +2,8 @@
 wordpress_id: 362
 layout: post
 title: Why Moblog?
+date: "2003-01-21T13:03:09-05:00"
 wordpress_slug: ooocic
-wordpress_date: "2003-01-21T13:03:09-05:00"
 wordpress_url: http://www.decafbad.com/blog/?p=362
 ---
 <blockquote cite="http://www.russellbeattie.com/notebook/index.jsp?date=20030121#133119">It's only day two, yet I have nothing to Moblog today. Yesterday I was bopping around the city from my main office to the Sun testing center to lunch with my wife. Today I'm at the office in front of my computer, where I will probably remain until after dark. I guess I can moblog my lunch... It probably won't be that exciting. </blockquote><div class="credit" align="right"><small>Source:<cite><a href="http://www.russellbeattie.com/notebook/index.jsp?date=20030121#133119">Russell Beattie Notebook: Moblogging Thoughts </a></cite>.</small></div>
