@@ -1,0 +1,12 @@
+---
+layout: default
+---
+<article id="index">
+    <h2>Recent Blog Posts</h2>
+    <ul class="posts">
+        {% for post in site.posts limit:15 %}
+            {% include item.html %}
+        {% endfor %}
+    </ul>
+    <a href="{{ site.baseurl }}/archives/">Full archive</a>
+</article>

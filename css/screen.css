@@ -1,8 +1,26 @@
-/*****************************************************************************/
-/*
-/* Common
-/*
-/*****************************************************************************/
+/* HTML5 bits and bobs */
+html, body, div, span, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+abbr, address, cite, code, del, dfn, em, img, ins, kbd, q, samp,
+small, strong, sub, sup, var, b, i, dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, figcaption, figure,
+footer, header, hgroup, menu, nav, section, summary,
+time, mark, audio, video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+}
+
+article, aside, details, figcaption, figure,
+footer, header, hgroup, menu, nav, section {
+  display: block;
+}
+
 
 /* Global Reset */
 
@@ -98,57 +116,57 @@ section.site > header h2 {
     margin: 0;
 }
 
-section.content > nav.page-navigation {
+section.site > section.content nav.page-navigation {
     background-color: #333;
     position: relative;
     min-height: 2.0em;
     padding: 0.25em;
     margin: 1em 0 1em 0;
 }
-section.content > nav.page-navigation ul {
+section.site > section.content nav.page-navigation ul {
 }
-section.content > nav.page-navigation ul li {
+section.site > section.content nav.page-navigation ul li {
     position: absolute;
     white-space: nowrap;
     overflow: hidden;
     text-overflow: ellipsis;
     max-width: 60%;
 }
-section.content > nav.page-navigation ul li.left {
+section.site > section.content nav.page-navigation ul li.left {
     left: 0.75em;
 }
-section.content > nav.page-navigation ul li.right {
+section.site > section.content nav.page-navigation ul li.right {
     right: 0.75em;
 }
-section.content > nav.page-navigation ul li a {
+section.site > section.content nav.page-navigation ul li a {
     border-color: #666666;
     color: #DDDDDD;
     font: 12px tahoma;    
     padding: 0.25em;
 }
 
-section.content > article {
+section.site > section.content article {
     padding: 1.5em 2em;
     background-color: #f8f8f8;
 }
 
-section.content > article ul, section.content > article ol {
+section.site > section.content > article ul, section.content > article ol {
     margin: 0 0 0 2em;
 }
-section.content > article ul > li, section.content > article ol > li {
+section.site > section.content > article ul > li, section.content > article ol > li {
     margin: 0.5em 0 0.5em 0;
 }
-section.content > article  ul > li {
+section.site > section.content > article  ul > li {
     list-style: square;
 }
-section.content > article > blockquote { 
+section.site > section.content > article > blockquote { 
     font-style: italic; 
     margin: 1em 1.5em 1em 1.5em;
     padding: 0 0 0 1em;
     border-left: 4px solid #999;
 }
 
-section.content > article > pre {
+section.site > section.content > article > pre {
     background-color: #DFDFDF;
     font-size: 0.85em;
     margin: 0.25em 2em;
