@@ -32,8 +32,9 @@ if __name__ == '__main__':
         lines.append('title: "%s"' % title)
         lines.append('tags: []')
         lines.append('published: false')
-        lines.append('time: %s' % get_time())
-        lines.append("---\n\n")
+        lines.append('date: %s' % today.isoformat())
+        lines.append("---\n\n\n")
+        lines.append("<!-- vim: set wrap wm=5 syntax=mkd textwidth=70: -->\n")
         f.write("\n".join(lines))
 
     print filename
