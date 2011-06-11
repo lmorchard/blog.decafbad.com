@@ -2,7 +2,20 @@
 layout: default
 ---
 
-{% include post-page-nav.html %}
+<nav class="page-navigation">
+    <ul>
+        {% if page.previous.url %}
+        <li class="left">
+            <a href="{{ site.baseurl }}{{page.previous.url}}" accesskey="1" title="Previous Post: {{page.previous.title}}">&laquo; {{page.previous.title}}</a>
+        </li>
+        {% endif %}
+        {% if page.next.url %}
+        <li class="right">
+            <a href="{{ site.baseurl }}{{page.next.url}}" accesskey="2" title="next Post: {{page.next.title}}">{{page.next.title}} &raquo;</a>
+        </li>
+        {% endif %}
+    </ul>
+</nav>
 
 <article class="post">
     <h2 class="title">{{ page.title }}</h2>
@@ -15,9 +28,22 @@ layout: default
     {{ content }}
 </article>
 
-{% include post-page-nav.html %}
+<nav class="page-navigation">
+    <ul>
+        {% if page.previous.url %}
+        <li class="left">
+            <a href="{{ site.baseurl }}{{page.previous.url}}" title="Previous Post: {{page.previous.title}}">&laquo; {{page.previous.title}}</a>
+        </li>
+        {% endif %}
+        {% if page.next.url %}
+        <li class="right">
+            <a href="{{ site.baseurl }}{{page.next.url}}" title="next Post: {{page.next.title}}">{{page.next.title}} &raquo;</a>
+        </li>
+        {% endif %}
+    </ul>
+</nav>
 
-<section class="comments">
+<section class="comments" id="comments">
     <div id="disqus_thread"></div>
     <script type="text/javascript">
         /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
