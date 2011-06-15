@@ -5,6 +5,11 @@
         <title>{% if page.title %}{{ page.title }} - {% endif %}{{ site.meta.site_title }}</title>
         <meta name="author" content="{{ site.meta.author.fullname }}" />
 
+        <link rel="openid2.provider" href="https://www.google.com/accounts/o8/ud?source=profiles" /> 
+        <link rel="openid2.local_id" href="http://www.google.com/profiles/l.m.orchard" /> 
+        <link rel="openid.server" href="https://www.google.com/accounts/o8/ud?source=profiles" /> 
+        <link rel="openid.delegate" href="http://www.google.com/profiles/l.m.orchard" /> 
+
         {% if page.tag %}
             <link href="{{ site.baseurl }}/tag/{{page.tag | replace:' ', '-' | downcase }}/atom.xml" 
                 rel="alternate" title="{{ page.title }} - {{ site.meta.site_title }} (Atom)" 
@@ -19,7 +24,6 @@
         <!--[if lt IE 9]>
         <script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script>
         <![endif]-->
-        <!-- Homepage CSS -->
         
         <link rel="stylesheet" href="{{ site.baseurl }}/css/screen.css" 
             type="text/css" media="screen, projection" />
@@ -46,6 +50,7 @@
             <aside class="sidebar">
                 {% include about-me.html %}
                 {% include see-also.html %}
+                {% include donate.html %}
                 {% include buy-my-books.html %}
             </aside>
 

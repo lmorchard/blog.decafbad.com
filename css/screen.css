@@ -171,15 +171,15 @@ article.post > time {
     display: block;
 }
 
-section.content article  ul.tags:before {
+section.site > section.content article  ul.tags:before {
     content: "Tags: ";
 }
-section.content article  ul.tags {
+section.site > section.content article  ul.tags {
     display: block;
     margin: 0.25em 0 0.25em 0;
     font-size: 0.85em;
 }
-section.content article  ul.tags li {
+section.site > section.content article  ul.tags li {
     list-style: none;
     display: inline;
 }
