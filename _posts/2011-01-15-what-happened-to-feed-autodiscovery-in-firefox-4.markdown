@@ -2,7 +2,7 @@
 wordpress_id: 1976
 layout: post
 title: What happened to feed auto-discovery in Firefox 4?
-date: "2011-01-15T23:18:56-05:00"
+date: "2011-01-15T11:18:56-05:00"
 tags: 
 - rss
 - firefox

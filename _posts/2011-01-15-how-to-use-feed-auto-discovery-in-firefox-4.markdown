@@ -2,7 +2,7 @@
 wordpress_id: 1970
 layout: post
 title: How to use feed auto-discovery in Firefox 4
-date: "2011-01-15T22:20:22-05:00"
+date: "2011-01-15T12:20:22-05:00"
 tags: 
 - rss
 - firefox
