@@ -2,7 +2,7 @@
 wordpress_id: 1793
 layout: post
 title: HTML5 drag and drop in Firefox 3.5
-date: "2009-07-15T21:26:40-04:00"
+date: "2009-07-15T11:26:40-04:00"
 tags: 
 - webdev
 - firefox
