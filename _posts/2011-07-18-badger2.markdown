@@ -1,0 +1,181 @@
+---
+layout: post
+title: "Badger 2: Return of the Mustelidae"
+tags: [badger, social, python, mozilla, django]
+published: true
+date: 2011-07-18T15:03:13.030951
+---
+
+**TL;DR**: <em>A year ago, I said I wanted to build a badging service
+for the Mozilla community, so we could all celebrate how awesome we
+all are. Well, I putzed around and didn't get far, so I'm starting
+over with something more immediately useful.</em>
+
+<img src="{{ site.baseurl }}/images/badger-logo-working.png" style="width:98%; display: block" />
+
+<em>(This is an awesome illustration by [Sean
+Martell](http://seanmartell.com/), used entirely without permission.
+I'll take it down if anyone gets mad.)</em>
+
+Almost a year ago, [I wrote about building a badging service for
+all of Mozilla][badger-paper]. 
+
+In a nutshell, I left the [2010 Mozilla Summit](http://www.flickr.com/photos/gen/4784616521/)
+wanting to build a tool that empowered people to craft social objects
+representing achievement and gratitude, and give them to each other.
+
+Since then, I've [played around with a prototype in Django with
+Pinax][badger1].  But, I abandoned that thing due to getting super
+busy with the Firefox 4 release. It also didn't help that I was a
+Django newb and that I got caught up in screwing around with shiny
+things like [Pinax][] and [Lettuce][] and neglected the actual feature
+set.
+
+So now, finally, [I'm picking the thread back up again][badger2]. This
+time, with a little less ambition and a few more practical aims.
+
+### Make something more useful right away
+
+While I *have* spent some dangerous time screwing around with shinies like
+[Vagrant][], [Puppet][], and [Playdoh][], I think I've gotten that
+mostly out of my system and have gotten down to work [as of last
+night][work].
+
+[work]: https://github.com/lmorchard/badger2/commits/master
+
+Rather than build a Grand Central Station for badges, I've reset my
+goals to a progression of practical results:
+
+* Build a reusable Django app that supports some basic use cases of
+  creating and awarding badges to users.
+* Add [Activity Stream][]s narrating [badge claims][]
+* Add support for [PubSubHubbub][push] with Badger activity streams
+* Add a REST API, maybe with OAuth
+* Accept badges for local users, via [PuSH][] from
+  external sites
+* See what the [Open Badges Project][] is up to, and how Badger can
+  fit in with their goals.
+
+[badge claims]: http://wiki.activitystrea.ms/w/page/27189812/Badge
+[Open Badges Project]: https://wiki.mozilla.org/Badges
+
+The idea here is to make Badger a practical, reusable, drop-in app for
+existing sites—preferably (but not necessarily) the
+[Playdoh][]-flavored sites we're building at Mozilla. Then,
+incrementally and optionally empower a Badger-enabled site to become a
+badge hub by accepting reports of badge claims from other
+Badger-enabled sites.
+
+### Take baby steps to federation
+
+So, for example, let's say we dropped Badger into a few sites like
+these:
+
+* <http://developer.mozilla.org>;
+* <http://support.mozilla.com>;
+* <http://addons.mozilla.org>.
+
+At first, Badger would just augment those sites with badging
+facilities for their respective user bases. That could fill some needs
+right away.
+
+Then, say we built a site that offered personal profiles to members of
+the Mozilla community.  With the [Activity Stream][] and [PuSH][]
+augmentations, users could connect their profiles with each of the
+other Mozilla sites they use.  That way, whenever they claim a badge
+out there, it gets delivered to their community profile.
+
+### Why bother federating at all?
+
+If the only cross-site goal to build an all-in-one display case for
+badges on a community profile, I could just build JSON feeds and wrap
+them in a JS-based widget. In fact, [a JSON-formatted Activity
+Stream][as-json] will work nicely for that. Drop that into the profile
+page, and we're done.
+
+There are lots of reasons to federate. But, at least one thing not supported by
+this solution are [meta-badges][]. That is, badges awarded for badges.
+
+Let's say you close 100 bugs on Bugzilla, answer 100 questions on
+SUMO, edit 100 pages of documentation on MDN, and author 100 add-ons.
+And, let's say you get badges on the respective sites for all of those
+activities.
+
+Well, now, I'd like to give you a badge on your community profile for
+being a **Mozilla Superhero**. I could just do that by hand, having
+observed all your greatness. But, I'd rather the system just do that
+automatically.
+
+If your community profile treated all your badges from your chosen affiliated
+sites as first-class citizens, then I could build the meta-badge
+trigger right there.
+
+Of course, I could also write a program that monitors badge feeds from
+various sites. Then, use the community profile site's Badger API to
+issue a badge when the conditions are met. But, as maintainer of the
+monitoring program, I'd have to keep track of what feeds where count
+for which people, which could be a mess.
+
+There's still some thinking to do here.
+
+### What about identity and co-opting badges?
+
+I'm still thinking through how someone connects a profile to other
+sites. As in, how can Badger ensure that the owner of the community
+profile is also the owner of a badge claim feed on MDN?  Maybe some
+kind of OAuth dance that results in a [PuSH][] subscription between
+sites?
+
+Consider the least-capable federation case: a Badger-compatible feed
+hosted as a static file on Amazon S3. And, by Badger-compatible, I
+mean an [Activity Stream][] that contains [badge claims][]. You
+shouldn't need my specific implementation of Badger-in-Django to
+produce one of those.
+
+Although [PuSH][] is still the ideal case (I think), occasional
+polling of an [Activity Stream][] feed should still be supported. If a
+user connects that up to their community profile, we just have to take
+their word for it. We'd rely on community members to
+flag stinkers trying to claim badge feeds that aren't theirs.
+
+Beyond that, there's probably some crypto-voodoo we can invoke here,
+for cases where badge claim validity really matters—as opposed to the
+fun and games I have in mind for Mozilla.
+
+### What about the Open Badges Project?
+
+From various conversations over the past year, it sounds to me like
+the [Open Badges Project][] is getting the parts in place to do even
+more interesting federation of badges that gives ownership of the
+badge hub to the user.
+
+In that scenario, you have a backpack in your browser and can carry
+your badge claims with you between sites with no prior coordination
+between the sites themselves. 
+
+This sounds like something in which Badger should be able to
+participate, eventually. If not as a hub, Badger should at least offer
+the tools to create and award badges that work with the user-owned hub
+scheme.
+
+### So, what next?
+
+Now that I've written all this out, I need to hack on it. If you're
+interested in this stuff, let me know. That way, it'll look like
+someone might actually find this stuff handy when I get something
+working!
+
+[as-json]: http://http://activitystrea.ms/specs/json/1.0/
+[meta-badges]: http://decafbad.com/2010/07/badger-article/#section-105
+[activity stream]: http://activitystrea.ms
+[push]: http://code.google.com/p/pubsubhubbub/
+[vagrant]: http://vagrantup.com
+[puppet]: http://pupetlabs.com
+[playdoh]: https://github.com/mozilla/playdoh
+[pinax]: http://pinaxproject.com
+[lettuce]: http://lettuce.it
+[badger-paper]: http://decafbad.com/2010/07/badger-article/
+[badger1]: https://github.com/lmorchard/badger
+[badger2]: https://github.com/lmorchard/badger2
+
+<!-- vim: set wrap wm=5 syntax=mkd textwidth=70: -->
