@@ -165,7 +165,7 @@ interested in this stuff, let me know. That way, it'll look like
 someone might actually find this stuff handy when I get something
 working!
 
-[as-json]: http://http://activitystrea.ms/specs/json/1.0/
+[as-json]: http://activitystrea.ms/specs/json/1.0/
 [meta-badges]: http://decafbad.com/2010/07/badger-article/#section-105
 [activity stream]: http://activitystrea.ms
 [push]: http://code.google.com/p/pubsubhubbub/
