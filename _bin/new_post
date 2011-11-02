@@ -31,7 +31,7 @@ if __name__ == '__main__':
         lines.append('layout: post')
         lines.append('title: "%s"' % title)
         lines.append('tags: []')
-        lines.append('published: false')
+        lines.append('published: true')
         lines.append('date: %s' % today.isoformat())
         lines.append("---\n\n")
         lines.append("**TL;DR**: <em></em>\n\n")
