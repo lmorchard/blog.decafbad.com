@@ -12,6 +12,8 @@ share to Google+. But, the changes seem to have removed most of the
 value from the service for me, so I'm moving on as I was invited to
 do.</em>
 
+<span style="display: block; float: right; text-decoration: none; border: none; margin: 0 0 1em 1em"><img src="{{ site.baseurl }}/images/2011/11/iLoveRSS-white.gif" style="width: 150px" /></span>
+
 ## What happened?
 
 Almost a year ago, I wrote about how my habits had gotten 
