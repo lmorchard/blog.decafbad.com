@@ -49,8 +49,12 @@ I derived from the service had evaporated.
 
 There's a big difference between the way sharing happened on Google
 Reader, and the way it happens now on Google+. The best way I can
-think to explain is that the old way was item-centric and the new
-way is people-centric.
+think to explain is that the old way was item-centric and the new way
+is people-centric.  In other words, *people* seem to be the main
+[social objects][] in Google+, whereas Google Reader used to treat
+*items* that way.
+
+[social objects]: http://www.slideshare.net/jyri/microblogging-tiny-social-objects-on-the-future-of-participatory-media
 
 Before, we all gathered around the news. The headline and summary were
 primary, and our comments were collected after the item. The result
@@ -122,27 +126,30 @@ targeting mechanism for sharing to people, and a filtering mechanism
 for items from people.  That is, I can use a circle to set who sees
 something and I can decide who's stuff I see and when.
 
-But, things that Circles don't do includes:
+But, things that Circles don't do include:
 
-* Letting me filter for what other people send to certain circles
-* Letting other people filter for what I send to certain circles
-* Letting me follow other people's circles without an action on their
-  part
-* Letting other people follow my circles without an action on my part
+* Let me follow Circles without the Circle-owner needing to manage
+  membership - eg. Don't make me send a message saying "I am
+  interested in your ideas and would like to subscribe to your
+  newsletter". RSS doesn't work that way and it's better for it.
+
+* Let me and others filter for what gets sent to specific Circles -
+  eg. I'm in both your "scifi" and "politics" circles, but just show
+  me what you sent to your "scifi" circle.
 
 Google Reader didn't have this to begin with, but what I'm looking for
 is an equivalent to tagging on [pinboard.in][]. For example, if you
 like my taste in [scifi][] but could care less about my views in
-[politics][], you can subscribe to just the tag feeds you want. As
-long as I keep tagging, you don't need to ask me to join a list.
+[politics][], you can subscribe to just the tag feeds you want.
 
-Though I'm happy to tag my shares with topics, the last thing I want
-to do is manage subscriber lists. That's what I'd be doing if I tried
-lumping people into "scifi" or "politics" circles.  And worse than
-that, there's no way for you to even know I have "scifi" or "politics"
-circles and you have no way to join either of them if you wanted to.
+I'm happy to tag my shares with topics; that's beneficial to me for
+search later, and helps interested people besides. But, the last thing
+I want to do is manage subscriber lists. That doesn't scale. There's
+no way for you to even know I have "scifi" or "politics" Circles, and
+you have no way to join either of them without asking for an add. 
 
-I just can't see the value in Circles here.
+Too much coordination, not enough benefit. I just can't see the value
+in people-centric Circles here.
 
 [scifi]: http://pinboard.in/u:deusx/t:scifi
 [politics]: http://pinboard.in/u:deusx/t:politics
