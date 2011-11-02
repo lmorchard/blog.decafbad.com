@@ -81,9 +81,11 @@ day.
 
 What's wrong with that, for me?
 
-1. I don't want to wade through a flood of duplicated, echoed items.
-1. I don't want to engage with the people—at least, not when I'm
-   in a mood to feed on news.
+1. I don't want to wade through a heavily-padded, user-friendly flood
+   of duplicated, echoed items.
+1. I don't want to engage with the people—at least, not when I'm in a
+   mood to feed on news. I want to catch up on what's been put out
+   into the infosphere already, and *then* start talking about it.
 
 The design of Google+—which has spilled over into the Google Reader
 face-lift—is about engagement and not fast & efficient processing of
@@ -91,14 +93,12 @@ the day's news. Engagement in general puts a drag on the task—which
 for me is like a [GTD][], [Inbox Zero][], headline skimming, pattern
 recognition zen thing that might not be everyone's cup of tea.
 
-I want to catch up on what's been put out into the infosphere already,
-and *then* start talking about it.
-
-But, for all I know, as an avowed weirdo and [info freako][], these changes
-may drive Google Reader growth through the roof for mainstream users.
-But, it's no longer a product for me. The changes in sharing have
-removed most of the value for me, because I no longer have the warp
-speed cruise through news that other people used to power for me.
+But, for all I know, avowed weirdo and [info freako][] that I am,
+these changes may drive Google Reader growth through the roof for
+mainstream users.  But, it's no longer a product for me. The changes
+in sharing have removed most of the value for me, because I no longer
+have the warp speed cruise through news that other people used to
+power for me.
 
 [gtd]: http://www.davidco.com/about-gtd
 [inbox zero]: http://inboxzero.com/
