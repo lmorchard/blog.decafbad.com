@@ -27,13 +27,14 @@ meant I started sharing everything everywhere to Reader.
 [google reader]: http://reader.google.com
 
 I also found a replacement for my old del.icio.us network in Google
-Reader's social features. I could follow people, and the the stream of
-things *they* shared and commented on turned into a great stream of
+Reader's social features. I could follow people, and the stream of
+things *they* shared and annotated turned into a great source of
 news curated and pre-filtered by likeminded people.
 
 Well, as it turns out, Google's [recent changes][] to Reader just
 removed all of the above. In exchange, they added a couple of buttons
-to +1 and share items to Google+.
+to +1 and share items to Google+, which streamlines things for them
+and encourages more use of the new service.
 
 [As I wrote][] on Google+, the net result is nothing to stomp and
 shout about, but there's nothing there that makes me happier. As I
@@ -50,7 +51,7 @@ I derived from the service had evaporated.
 There's a big difference between the way sharing happened on Google
 Reader, and the way it happens now on Google+. The best way I can
 think to explain is that the old way was item-centric and the new way
-is people-centric.  In other words, *people* seem to be the main
+is people-centric.  In other words, *people* seem to be the dominant
 [social objects][] in Google+, whereas Google Reader used to treat
 *items* that way.
 
@@ -81,17 +82,19 @@ day.
 What's wrong with that, for me?
 
 1. I don't want to wade through a flood of duplicated, echoed items.
-1. I don't want to engage with the people, I want to cruise through
-   the news.
+1. I don't want to engage with the people—at least, not when I'm
+   in a mood to feed on news.
 
-Now, mind you, I wrote "for me". The design of Google+—which has
-spilled over into the Google Reader face-lift—is about engagement and
-not fast & efficient processing of the day's news. Engagement in
-general slows me down during the task of news reading—which for me is
-like a [GTD][], [Inbox Zero][], pattern recognition zen kind of thing
-that might not be for most people.
+The design of Google+—which has spilled over into the Google Reader
+face-lift—is about engagement and not fast & efficient processing of
+the day's news. Engagement in general puts a drag on the task—which
+for me is like a [GTD][], [Inbox Zero][], headline skimming, pattern
+recognition zen thing that might not be everyone's cup of tea.
 
-For all I know, as an avowed weirdo and [info freako][], these changes
+I want to catch up on what's been put out into the infosphere already,
+and *then* start talking about it.
+
+But, for all I know, as an avowed weirdo and [info freako][], these changes
 may drive Google Reader growth through the roof for mainstream users.
 But, it's no longer a product for me. The changes in sharing have
 removed most of the value for me, because I no longer have the warp
@@ -128,13 +131,13 @@ something and I can decide who's stuff I see and when.
 
 But, things that Circles don't do include:
 
-* Let me follow Circles without the Circle-owner needing to manage
+* Letting me follow Circles without the Circle-owner needing to manage
   membership - eg. Don't make me send a message saying "I am
   interested in your ideas and would like to subscribe to your
   newsletter". RSS doesn't work that way and it's better for it.
 
-* Let me and others filter for what gets sent to specific Circles -
-  eg. I'm in both your "scifi" and "politics" circles, but just show
+* Letting me and others filter for what gets sent to specific Circles
+  - eg. I'm in both your "scifi" and "politics" circles, but just show
   me what you sent to your "scifi" circle.
 
 Google Reader didn't have this to begin with, but what I'm looking for
