@@ -136,8 +136,8 @@ But, things that Circles don't do include:
   interested in your ideas and would like to subscribe to your
   newsletter". RSS doesn't work that way and it's better for it.
 
-* Letting me and others filter for what gets sent to specific Circles
-  - eg. I'm in both your "scifi" and "politics" circles, but just show
+* Letting me and others filter for what gets sent to specific Circles - 
+  eg. I'm in both your "scifi" and "politics" circles, but just show
   me what you sent to your "scifi" circle.
 
 Google Reader didn't have this to begin with, but what I'm looking for
@@ -207,7 +207,7 @@ people who don't want to D.I.Y. entirely:
   like the old [reBlog][] web app—and has some experimental
   cross-instance sharing features.
 
-For me, the funny thing is that I've circled back to my old
+At the end, the funny thing is that I've circled back to my old
 del.icio.us habits and have started tagging items on [pinboard.in][]
 like never before. I'm sure there aren't nearly as many people
 watching me as before on either del.icio.us or Google Reader, but it's
