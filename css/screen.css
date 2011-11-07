@@ -255,10 +255,52 @@ ul.posts {
 
 ul.posts li {
     line-height: 1.75em;
-  }
+}
 
-  ul.posts span {
-      color: #aaa;
-      font-family: Monaco, "Courier New", monospace;
-      font-size: 80%;
-  }
+ul.posts span {
+  color: #aaa;
+  font-family: Monaco, "Courier New", monospace;
+  font-size: 80%;
+}
+
+#comments.archived-comments {
+     border-top: 4px solid #333333;
+     margin: 2em 0pt 3em 0em;
+     padding-top: 1em;
+}
+
+#comments.archived-comments > h3 {
+     margin: 0.5em 0pt 1em 0em;
+}
+
+#comments.archived-comments ul.comments {
+     margin: 0pt 0pt 0pt 3em;
+     padding: 0pt;
+}
+
+#comments.archived-comments ul.comments {
+     margin: 0pt 0pt 0pt 0em;
+}
+
+#comments.archived-comments ul.comments li.comment {
+     list-style: none outside none;
+}
+
+#comments.archived-comments ul.comments li.comment .meta {
+     background: none repeat scroll 0% 0% #EEEEEE;
+     border: 1px solid #DDDDDD;
+     margin: 1em 0pt 0pt;
+     padding: 0.5em;
+     position: relative;
+}
+
+#comments.archived-comments ul.comments li.comment .meta .author img {
+     height: 32px;
+     width: 32px;
+}
+
+#comments.archived-comments ul.comments li.comment .meta .permalink {
+     position: absolute;
+     right: 1em;
+     top: 1em;
+}

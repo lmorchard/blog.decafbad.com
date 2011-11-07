@@ -1,0 +1,21 @@
+import datetime
+import os.path
+
+DATA_DIR = os.path.join(os.path.dirname(__file__), '_data')
+POSTS_DIR = os.path.join(os.path.dirname(__file__), '_posts')
+
+USE_CACHE = False
+
+DISQUS_SECRET_KEY = "(fill me in)"
+DISQUS_PUBLIC_KEY = "(fill me in)"
+DISQUS_FORUM = "(fill me in)"
+
+BASE_URL = "http://decafbad.com/blog/"
+MAX_POST_AGE = datetime.timedelta(days=(30 * 3))
+
+DISQUS_ARCHIVE_TEMPLATES = {
+    # See _bin/archive_disqus_comments.py for the default templates
+    # "root": """ """,
+    # "comments": """ """,
+    # "comment": """ """,
+}
