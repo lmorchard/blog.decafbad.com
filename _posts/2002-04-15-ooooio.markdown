@@ -1,8 +1,9 @@
---- 
-wordpress_id: 70
+---
+comments_archived: true
+date: '2002-04-15T14:54:03-04:00'
 layout: post
 title: A personal server & Multi-threaded vs Async / Event-driven programming
-date: "2002-04-15T14:54:03-04:00"
+wordpress_id: 70
 wordpress_slug: ooooio
 wordpress_url: http://www.decafbad.com/blog/?p=70
 ---
@@ -19,3 +20,31 @@ wordpress_url: http://www.decafbad.com/blog/?p=70
 <p>Anyone tuned in out there with any thoughts?  Mostly thinking out loud right now.</p>
 <!--more-->
 shortname=ooooio
+
+<div id="comments" class="comments archived-comments">
+            <h3>Archived Comments</h3>
+            
+        <ul class="comments">
+            
+        <li class="comment" id="comment-221082996">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href=""><img src="http://www.gravatar.com/avatar.php?gravatar_id=8c9c26bbf07df8085f59ae0f8982a3eb&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="">Ashutosh</a>
+                </div>
+                <a href="#comment-221082996" class="permalink"><time datetime="2002-04-18T04:54:35">2002-04-18T04:54:35</time></a>
+            </div>
+            <div class="content">I've been playing around with exactly the same idea - of a PersonalWebServer with built-in scheduler, object database etc. And again, Perl is my comfort zone. And the lack of decent thread support has been a stumbling block. I have too much work done in top level apps in Perl to change over to Python or anything else.
+
+Anyway, I used threads to invoke a scheduler thread and a http daemon thread as an experiment, and they seem to work pretty fine together.
+
+I plan to keep the Perl object database (presently embedded in my top level apps - using Storable persistant objects indexed using an RDBMS for searches using pre-configured object attributes) as an external server, and plan to get the PersonalWebAppServer to talk to the database server using XML-RPC.</div>
+            
+        </li>
+    
+        </ul>
+    
+        </div>
+    

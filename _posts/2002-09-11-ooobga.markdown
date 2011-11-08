@@ -1,8 +1,9 @@
---- 
-wordpress_id: 248
+---
+comments_archived: true
+date: '2002-09-11T02:27:18-04:00'
 layout: post
 title: From Amiga to Macintosh
-date: "2002-09-11T02:27:18-04:00"
+wordpress_id: 248
 wordpress_slug: ooobga
 wordpress_url: http://www.decafbad.com/blog/?p=248
 ---
@@ -12,3 +13,54 @@ wordpress_url: http://www.decafbad.com/blog/?p=248
 <p>I'm not too worried though - Commodore didn't have anyone like Steve Jobs.</p>
 <!--more-->
 shortname=ooobga
+
+<div id="comments" class="comments archived-comments">
+            <h3>Archived Comments</h3>
+            
+        <ul class="comments">
+            
+        <li class="comment" id="comment-221087444">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href=""><img src="http://www.gravatar.com/avatar.php?gravatar_id=b41fec7e2890cc1dfc61d5c07bd73562&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="">PK</a>
+                </div>
+                <a href="#comment-221087444" class="permalink"><time datetime="2002-09-12T18:46:05">2002-09-12T18:46:05</time></a>
+            </div>
+            <div class="content">ldy #$20
+lda #$20
+
+here:
+tax
+dex
+txa
+jsr $ffd2
+dey
+cpy #$00
+bne here
+end
+
+:-)</div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221087448">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://shawnyeager.com/monolog/"><img src="http://www.gravatar.com/avatar.php?gravatar_id=546b2f1947278db93fa8f7c734876111&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://shawnyeager.com/monolog/">Shawn</a>
+                </div>
+                <a href="#comment-221087448" class="permalink"><time datetime="2002-09-16T21:22:52">2002-09-16T21:22:52</time></a>
+            </div>
+            <div class="content">poke 60540... or something like that.  I forget. ;)  My first computer was a TI-99/4A, but the first computer I really loved was the C64.  Ah, the memories!  And I'm right there with you on the Mac/PC thing.  My PowerBook has my PCs collecting dust.  It's made computing fun again for me.</div>
+            
+        </li>
+    
+        </ul>
+    
+        </div>
+    

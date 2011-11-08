@@ -1,8 +1,9 @@
---- 
-wordpress_id: 404
+---
+comments_archived: true
+date: '2003-04-16T16:40:41-04:00'
 layout: post
 title: OPML vs OML - Fork but don't fight!
-date: "2003-04-16T16:40:41-04:00"
+wordpress_id: 404
 wordpress_slug: opml-vs-oml
 wordpress_url: http://www.decafbad.com/blog/?p=404
 ---
@@ -40,3 +41,124 @@ fork.  Let the best, most demonstratably capable format win.  Meanwhile, I'm sti
 might like multi-dimensional outlining...
 <!--more-->
 shortname=opml_vs_oml
+
+<div id="comments" class="comments archived-comments">
+            <h3>Archived Comments</h3>
+            
+        <ul class="comments">
+            
+        <li class="comment" id="comment-221090274">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://aaronland.net"><img src="http://www.gravatar.com/avatar.php?gravatar_id=9b704dff33489e0ba50f7a6364a8bf5a&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://aaronland.net">Aaron of Montreal</a>
+                </div>
+                <a href="#comment-221090274" class="permalink"><time datetime="2003-04-16T17:47:47">2003-04-16T17:47:47</time></a>
+            </div>
+            <div class="content">Ha ha!
+
+Don't forget otlml ;-)
+
+Why on Earth do people who write outline DTDs (me included) not bake support for XInclude into the spec?</div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221090275">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://dannyayers.com"><img src="http://www.gravatar.com/avatar.php?gravatar_id=24223bb1ce85de0dce358c19a60cdf25&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://dannyayers.com">Danny Ayers</a>
+                </div>
+                <a href="#comment-221090275" class="permalink"><time datetime="2003-04-17T12:49:13">2003-04-17T12:49:13</time></a>
+            </div>
+            <div class="content">I pretty much agree on all points, though I come down solidly in favour of a replacement for OPML. The format is currently like a prototype, one that you would ditch once you'd played with for a day or two. 
+
+If OML works (i.e. folks like yourself point out the grunge) then hopefully we can have a non-proprietry, *validatable* replacement for OPML that can evolve. The OPML list is a joke, Dave moderates out any criticism, while happily promoting dodgy usage on his site (let's all make 404s!). There is a fundamental problem with his 'look at the canopy, not the roots' approach - without roots, before long the tree falls over.
+
+btw, re. multidimensional outlining - tell me what you want! (for Ideagraph)</div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221090276">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://oml.sf.net"><img src="http://www.gravatar.com/avatar.php?gravatar_id=527a02c0012ff2583c9e8654cd2bd97c&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://oml.sf.net">Ray Grieselhuber</a>
+                </div>
+                <a href="#comment-221090276" class="permalink"><time datetime="2003-04-17T14:07:20">2003-04-17T14:07:20</time></a>
+            </div>
+            <div class="content">As the specification originator, I'm glad to see it getting some attention. 
+What we need is exactly the kind of comments that you are making in order to improve the specification. If you are a big user of outliners, join the list and tell us what you want. 
+By the way, XInclude is a great idea. We shall have to take a look at it.
+We are not looking for a fight, just a reasonable specification that is not controlled by one person. Our use of the name OML was admittedly useful from an evangelistic standpoint on one hand, and on the other hand, simply a good name. What else are we going to call it? ;-)</div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221090277">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href=""><img src="http://www.gravatar.com/avatar.php?gravatar_id=b53911af792174097e8acb282414b44c&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="">Bill Kearney</a>
+                </div>
+                <a href="#comment-221090277" class="permalink"><time datetime="2003-04-17T14:53:34">2003-04-17T14:53:34</time></a>
+            </div>
+            <div class="content">I know!  Call it OPML-2.0!
+
+(ducks and runs...)</div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221090279">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://oml.sf.net"><img src="http://www.gravatar.com/avatar.php?gravatar_id=527a02c0012ff2583c9e8654cd2bd97c&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://oml.sf.net">Ray Grieselhuber</a>
+                </div>
+                <a href="#comment-221090279" class="permalink"><time datetime="2003-04-17T14:56:12">2003-04-17T14:56:12</time></a>
+            </div>
+            <div class="content">Ha! That would go over really well!</div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221090280">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://www.decafbad.com"><img src="http://www.gravatar.com/avatar.php?gravatar_id=2ac2cffd36ada8c734b90e02a1e5c1ac&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://www.decafbad.com">l.m.orchard</a>
+                </div>
+                <a href="#comment-221090280" class="permalink"><time datetime="2003-04-17T17:19:58">2003-04-17T17:19:58</time></a>
+            </div>
+            <div class="content">aaron:  Ack!  I did have a nagging notion that I'd forgotten another outliner XML format out there.  And yours was it!</div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221090281">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://www.decafbad.com"><img src="http://www.gravatar.com/avatar.php?gravatar_id=2ac2cffd36ada8c734b90e02a1e5c1ac&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://www.decafbad.com">l.m.orchard</a>
+                </div>
+                <a href="#comment-221090281" class="permalink"><time datetime="2003-04-17T17:20:22">2003-04-17T17:20:22</time></a>
+            </div>
+            <div class="content">/me joins the OML mailing list.  Here's to scouring out the grunge!</div>
+            
+        </li>
+    
+        </ul>
+    
+        </div>
+    

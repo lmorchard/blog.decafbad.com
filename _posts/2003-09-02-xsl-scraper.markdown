@@ -1,8 +1,9 @@
---- 
-wordpress_id: 472
+---
+comments_archived: true
+date: '2003-09-02T00:22:53-04:00'
 layout: post
 title: Using web services and XSLT to scrape RSS from HTML
-date: "2003-09-02T00:22:53-04:00"
+wordpress_id: 472
 wordpress_slug: xsl-scraper
 wordpress_url: http://www.decafbad.com/blog/?p=472
 ---
@@ -34,3 +35,27 @@ For quick gratification, check out these feeds:
 </p>
 <!--more-->
 shortname=xsl_scraper
+
+<div id="comments" class="comments archived-comments">
+            <h3>Archived Comments</h3>
+            
+        <ul class="comments">
+            
+        <li class="comment" id="comment-221082688">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://patrick.lioi.net"><img src="http://www.gravatar.com/avatar.php?gravatar_id=0af1f52a082bc92d355d3fc9b29b4c2e&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://patrick.lioi.net">Patrick Lioi</a>
+                </div>
+                <a href="#comment-221082688" class="permalink"><time datetime="2003-09-03T19:03:03">2003-09-03T19:03:03</time></a>
+            </div>
+            <div class="content">The KurzweilAI.net feed is empty.</div>
+            
+        </li>
+    
+        </ul>
+    
+        </div>
+    

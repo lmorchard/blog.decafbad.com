@@ -1,8 +1,9 @@
---- 
-wordpress_id: 118
+---
+comments_archived: true
+date: '2002-05-07T04:15:00-04:00'
 layout: post
 title: How many blogs do you have, and why?
-date: "2002-05-07T04:15:00-04:00"
+wordpress_id: 118
 wordpress_slug: oooaci
 wordpress_url: http://www.decafbad.com/blog/?p=118
 ---
@@ -15,3 +16,45 @@ wordpress_url: http://www.decafbad.com/blog/?p=118
 <p>On the one hand, its a strange form of self-classification.  On the other, though, it seems to work for me.  Visit <a href="http://www.decafbad.com">0xDECAFBAD</a> to see my vaguely professional high-nerdity.  But if you want to get closer to me as a human being, come visit my <a href="http://deus-x.livejournal.com">LiveJournal</a> and see me and my place in the community there.  If you <i>really</i> want to know me... well, <a href="mailto:deus_x@pobox.com">email me</a> or maybe IM me.  And maybe, just maybe, if you happen to be in town, let's head down to the pub.</p>
 <!--more-->
 shortname=oooaci
+
+<div id="comments" class="comments archived-comments">
+            <h3>Archived Comments</h3>
+            
+        <ul class="comments">
+            
+        <li class="comment" id="comment-221085546">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://markpasc.org"><img src="http://www.gravatar.com/avatar.php?gravatar_id=2fc977e82d9f8395a0f49e6f4958bc84&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://markpasc.org">Mark</a>
+                </div>
+                <a href="#comment-221085546" class="permalink"><time datetime="2002-05-07T16:18:51">2002-05-07T16:18:51</time></a>
+            </div>
+            <div class="content">I have my LiveJournal and my Radio blog, and they're separate kind of like yours (personal/professional), but everything I blog out of Radio's News Aggregator goes into the Radio blog too. The LiveJournal is also a way to say something such that my friends who don't use Radio see it. (I don't think I have any friends who use any other RSS aggregator, hmm.)
+
+Of course, I could also count my Advogato diary, but it just has select items from my Radio blog since I hooked Radio up with an "Advogato" category. (Exploding beakers, there.)
+
+Since LiveJournal is such a nice gated community, I'd wager having a blog and a LiveJournal is more common than having two blogs of one's own.</div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221085547">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://www.unpretty.org"><img src="http://www.gravatar.com/avatar.php?gravatar_id=8cc55b7fff188c267ceeed9cee14c256&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://www.unpretty.org">patrick</a>
+                </div>
+                <a href="#comment-221085547" class="permalink"><time datetime="2002-05-09T23:00:14">2002-05-09T23:00:14</time></a>
+            </div>
+            <div class="content">I have my very plain and simple weblog using Greymatter's original open source CGI script as well as my LiveJournal.  I only use my LiveJournal to view friend's updates.</div>
+            
+        </li>
+    
+        </ul>
+    
+        </div>
+    

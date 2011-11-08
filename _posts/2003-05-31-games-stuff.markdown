@@ -1,8 +1,9 @@
---- 
-wordpress_id: 423
+---
+comments_archived: true
+date: '2003-05-31T15:44:45-04:00'
 layout: post
 title: Don't Call It an Obsession
-date: "2003-05-31T15:44:45-04:00"
+wordpress_id: 423
 wordpress_slug: games-stuff
 wordpress_url: http://www.decafbad.com/blog/?p=423
 ---
@@ -88,3 +89,57 @@ The funny thing is that people still ask me occasionally if I really
 need or use all this stuff.  How could the answer be anything but yes? :)
 <!--more-->
 shortname=games_stuff
+
+<div id="comments" class="comments archived-comments">
+            <h3>Archived Comments</h3>
+            
+        <ul class="comments">
+            
+        <li class="comment" id="comment-221088807">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://trikuare.cx/"><img src="http://www.gravatar.com/avatar.php?gravatar_id=0a5b2c20fe4587a2b0abc3738c953e53&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://trikuare.cx/">magenta</a>
+                </div>
+                <a href="#comment-221088807" class="permalink"><time datetime="2003-06-01T01:27:21">2003-06-01T01:27:21</time></a>
+            </div>
+            <div class="content">Whoa, and all this time I've been reading this, I thought this was just a funny collection of links.  I had no idea you ever actually, like, blogged. :D</div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221088808">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://trikuare.cx/"><img src="http://www.gravatar.com/avatar.php?gravatar_id=0a5b2c20fe4587a2b0abc3738c953e53&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://trikuare.cx/">magenta</a>
+                </div>
+                <a href="#comment-221088808" class="permalink"><time datetime="2003-06-01T01:28:08">2003-06-01T01:28:08</time></a>
+            </div>
+            <div class="content">Whoa, and all this time I've been reading this, I thought this was just a funny collection of links.  I had no idea you ever actually, like, blogged. :D</div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221088811">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://rasterweb.net/raster/"><img src="http://www.gravatar.com/avatar.php?gravatar_id=f659bb22a2e62ccd2cd82c4b52f09ca9&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://rasterweb.net/raster/">pete</a>
+                </div>
+                <a href="#comment-221088811" class="permalink"><time datetime="2003-06-02T13:23:57">2003-06-02T13:23:57</time></a>
+            </div>
+            <div class="content">You sez: "Eventually, I want a house, and a room in this house will be dedicated to the display and use of these machines."
+
+I've got the house bit, but I'm still working on the 2nd part of my dream, the room to contain all of my machines. I mean, what good is having a number of different Apple II models lying around if I can't play Lemonade!</div>
+            
+        </li>
+    
+        </ul>
+    
+        </div>
+    

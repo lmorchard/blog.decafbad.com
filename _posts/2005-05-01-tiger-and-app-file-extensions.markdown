@@ -1,8 +1,9 @@
---- 
-wordpress_id: 635
+---
+comments_archived: true
+date: '2005-05-01T14:31:55-04:00'
 layout: post
 title: Tiger and .app file extensions
-date: "2005-05-01T14:31:55-04:00"
+wordpress_id: 635
 wordpress_slug: tiger-and-app-file-extensions
 wordpress_url: http://www.decafbad.com/blog/?p=635
 ---
@@ -14,3 +15,29 @@ From the [Tiger Details list on Daring Fireball][td]:
 
 [troj]: http://www.atomicbird.com/node/view/28
 [td]: http://daringfireball.net/misc/2005/04/tiger_details
+
+<div id="comments" class="comments archived-comments">
+            <h3>Archived Comments</h3>
+            
+        <ul class="comments">
+            
+        <li class="comment" id="comment-221090558">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href=""><img src="http://www.gravatar.com/avatar.php?gravatar_id=8bcf295bb2e23d6ee0d80710023f2b66&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="">Anonymous</a>
+                </div>
+                <a href="#comment-221090558" class="permalink"><time datetime="2005-05-01T19:14:37">2005-05-01T19:14:37</time></a>
+            </div>
+            <div class="content">Ok, how about not showing the .app extension in the
+Applications folder only, and show it everywhere else, 
+and make it and preference to not show it in Applications.</div>
+            
+        </li>
+    
+        </ul>
+    
+        </div>
+    

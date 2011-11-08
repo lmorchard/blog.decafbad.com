@@ -1,8 +1,10 @@
---- 
-wordpress_id: 661
+---
+comments_archived: true
+date: '2005-06-28T11:53:35-04:00'
 layout: post
-title: Safari RSS databases in Mac OS X Tiger - or Monkeys and Ninjas and Pirates and Robots, oh my!
-date: "2005-06-28T11:53:35-04:00"
+title: Safari RSS databases in Mac OS X Tiger - or Monkeys and Ninjas and
+    Pirates and Robots, oh my!
+wordpress_id: 661
 wordpress_slug: safarirssdb
 wordpress_url: http://www.decafbad.com/blog/?p=661
 ---
@@ -67,3 +69,59 @@ Seems like the Syndication Wars have progressed, and the various sides have enli
 [pvn]: http://daily.stanford.edu/tempo?page=content&id=17374&repository=0001_article
 <!--more-->
 shortname=safarirssdb
+
+<div id="comments" class="comments archived-comments">
+            <h3>Archived Comments</h3>
+            
+        <ul class="comments">
+            
+        <li class="comment" id="comment-221088083">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://www.scifihifi.com"><img src="http://www.gravatar.com/avatar.php?gravatar_id=266511c4b3124a981ccd3b1716e0bb0b&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://www.scifihifi.com">Buzz Andersen</a>
+                </div>
+                <a href="#comment-221088083" class="permalink"><time datetime="2005-06-28T13:42:04">2005-06-28T13:42:04</time></a>
+            </div>
+            <div class="content">Syndication framework doesn't actually use Core Data.  The two were developed concurrently during Tiger, so Syndication wasn't built on top of Core Data.</div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221088085">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://www.zerolives.org"><img src="http://www.gravatar.com/avatar.php?gravatar_id=6e4d4f379af54c22de79175bb9747bc5&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://www.zerolives.org">Phil</a>
+                </div>
+                <a href="#comment-221088085" class="permalink"><time datetime="2005-06-28T14:47:36">2005-06-28T14:47:36</time></a>
+            </div>
+            <div class="content">Wow, this is pretty interesting from a programmer's perspective.</div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221088086">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://mooseyard.com/Jens"><img src="http://www.gravatar.com/avatar.php?gravatar_id=f5364c1bb2137015586ae2820ee24ee9&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://mooseyard.com/Jens">Jens Alfke</a>
+                </div>
+                <a href="#comment-221088086" class="permalink"><time datetime="2005-12-13T18:50:02">2005-12-13T18:50:02</time></a>
+            </div>
+            <div class="content"><p>The column names were inspired by the freebie game <a href="http://www.atomicsockmonkey.com/freebies/MNPR.pdf" rel="nofollow">Monkey, Ninja, Pirate, Robot</a> published by Atomic Sock Monkey. It's fun! Try it!</p>
+
+<p>The fact that there are weird column names was inspired by sqlite's (then-)inability to add columns to existing tables. So the last time I had to break the schema to add a new column, I added four more as a reserve.</p>
+
+<p>Needless to say, the contents, schema and very existence of that database are subject to change without notice, etc. etc.</p></div>
+            
+        </li>
+    
+        </ul>
+    
+        </div>
+    

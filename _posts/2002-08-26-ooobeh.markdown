@@ -1,8 +1,9 @@
---- 
-wordpress_id: 235
+---
+comments_archived: true
+date: '2002-08-26T18:11:12-04:00'
 layout: post
-title: "\"...ideas are fucking worthless.\""
-date: "2002-08-26T18:11:12-04:00"
+title: '"...ideas are fucking worthless."'
+wordpress_id: 235
 wordpress_slug: ooobeh
 wordpress_url: http://www.decafbad.com/blog/?p=235
 ---
@@ -12,3 +13,41 @@ wordpress_url: http://www.decafbad.com/blog/?p=235
 <p>But you can see now, on my <a href="http://www.decafbad.com/twiki/bin/view/Main/Projects">Projects</a> page, that I've been gradually working up and spinning out little hacks and widgets.  Eventually, they combine into bigger widgets, like <a href="http://www.decafbad.com/twiki/bin/view/Main/MTXmlRpcFilterPlugin">MTXmlRpcFilterPlugin</a>.  I'm thinking that this is the way to go.  And, even if/when I do get a grandiose idea, I need to start off releasing the widgets early and show the build up process here in this weblog.  Then, there's some documentation from the start and maybe even some enthusiastic co-conspirators from the start.</p>
 <!--more-->
 shortname=ooobeh
+
+<div id="comments" class="comments archived-comments">
+            <h3>Archived Comments</h3>
+            
+        <ul class="comments">
+            
+        <li class="comment" id="comment-221083399">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://markpasc.org/"><img src="http://www.gravatar.com/avatar.php?gravatar_id=7e91c7ddf6c6db73665d8df9bb55d0d9&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://markpasc.org/">Mark Paschal</a>
+                </div>
+                <a href="#comment-221083399" class="permalink"><time datetime="2002-08-26T20:10:30">2002-08-26T20:10:30</time></a>
+            </div>
+            <div class="content">That's what happened to my Jabber client: I took too long doing it and lost interest, if only because I kept changing what I was doing.</div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221083402">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://vacuum.mi.org"><img src="http://www.gravatar.com/avatar.php?gravatar_id=41961d4385a56ed0724cb621b8814125&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://vacuum.mi.org">Edward Vielmetti</a>
+                </div>
+                <a href="#comment-221083402" class="permalink"><time datetime="2002-11-12T09:39:30">2002-11-12T09:39:30</time></a>
+            </div>
+            <div class="content">Ideas may be useless, but you don't have to build entire cathedrals of code to make a point; some times an aptly named mudball in the right direction does the trick.</div>
+            
+        </li>
+    
+        </ul>
+    
+        </div>
+    

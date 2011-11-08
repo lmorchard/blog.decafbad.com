@@ -1,8 +1,9 @@
---- 
-wordpress_id: 669
+---
+comments_archived: true
+date: '2005-07-18T14:28:19-04:00'
 layout: post
 title: AJAX Testing and Logging
-date: "2005-07-18T14:28:19-04:00"
+wordpress_id: 669
 wordpress_slug: ajax-testing-and-logging
 wordpress_url: http://www.decafbad.com/blog/?p=669
 ---
@@ -56,3 +57,81 @@ It's by no means general or even all that nice to look at, but I've got half a m
 I'll break off here and continue in another post with [the server-side things I started doing with WSGI][next].
 
 [next]: http://www.decafbad.com/blog/2005/07/18/discovering_wsgi_and_xslt_as_middleware
+
+<div id="comments" class="comments archived-comments">
+            <h3>Archived Comments</h3>
+            
+        <ul class="comments">
+            
+        <li class="comment" id="comment-221084940">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://codeswami.com"><img src="http://www.gravatar.com/avatar.php?gravatar_id=0356c6e4c6151f59c9ffe67faad6e1b7&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://codeswami.com">jm3</a>
+                </div>
+                <a href="#comment-221084940" class="permalink"><time datetime="2005-09-06T23:45:28">2005-09-06T23:45:28</time></a>
+            </div>
+            <div class="content">your js Log class is great for conventional, syslog-style logging, i.e. recording exceptional (client-side) events over time during lights-out operation. for the other type of commonly seen JS logging, viz. interactive "alert debugging", there's a neat approach that would be great to wire into your logger: the cache-and-bookmarklet approach [1]? all you do is cache log events locally in a browser in a buffer and then create a bookmarklet that reads and dumps the buffer into the page DOM or a popup, or an alert, etc. basically it's a multiline, on-demand trace console.
+
+[1] http://bob.pythonmac.org/archives/2005/07/03/bookmarklet-based-debugging/</div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221084941">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://www.opennms.org"><img src="http://www.gravatar.com/avatar.php?gravatar_id=2a02f8818ce5a1b3edcbea9e24788885&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://www.opennms.org">brozow</a>
+                </div>
+                <a href="#comment-221084941" class="permalink"><time datetime="2005-09-24T03:11:06">2005-09-24T03:11:06</time></a>
+            </div>
+            <div class="content">Would love to see you enhance the AJAX testing stuff!!!
+
+Thanks for what you've done so far!
+
+Matt</div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221084944">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://log4js.berlios.de/"><img src="http://www.gravatar.com/avatar.php?gravatar_id=30375dd7e40b81bcee779f167b60aa78&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://log4js.berlios.de/">Stephan Strittmatter</a>
+                </div>
+                <a href="#comment-221084944" class="permalink"><time datetime="2005-12-09T10:44:38">2005-12-09T10:44:38</time></a>
+            </div>
+            <div class="content"><p>Probably we could share our knowledge about logging? I created already a project for logging in JavaScript, which is hosted at http://log4js.berlios.de/ and its API is very close to the log4j API.</p>
+
+<p>Currently there is also an Appender to send the logs via AJAX back to the server to log them there.</p></div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221084946">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://techie-baba.blogspot.com/"><img src="http://www.gravatar.com/avatar.php?gravatar_id=dd8888f1fc5d9d94550b327eaf8c575f&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://techie-baba.blogspot.com/">Shanky</a>
+                </div>
+                <a href="#comment-221084946" class="permalink"><time datetime="2007-10-08T16:40:36">2007-10-08T16:40:36</time></a>
+            </div>
+            <div class="content"><p>Sorry if this comment is irrelevant.</p>
+
+<p>Do you know of any AJAX based logging framework using which I can dynamically update the logs on a web-page. </p>
+
+<p>Somewhat similar to writing log.debug("Update log!"); as in log4j. Where if I write something like log.updateScreen("Update Screen"); from my Java code it updates the screen with the log.</p></div>
+            
+        </li>
+    
+        </ul>
+    
+        </div>
+    

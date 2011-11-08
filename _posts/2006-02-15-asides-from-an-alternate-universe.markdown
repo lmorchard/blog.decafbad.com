@@ -1,10 +1,11 @@
---- 
-wordpress_id: 881
+---
+comments_archived: true
+date: '2006-02-15T23:34:57-05:00'
 layout: post
-title: Asides from an alternate universe
-date: "2006-02-15T23:34:57-05:00"
-tags: 
+tags:
 - asides
+title: Asides from an alternate universe
+wordpress_id: 881
 wordpress_slug: asides-from-an-alternate-universe
 wordpress_url: http://decafbad.com/blog/2006/02/15/asides-from-an-alternate-universe
 ---
@@ -26,3 +27,27 @@ wordpress_url: http://decafbad.com/blog/2006/02/15/asides-from-an-alternate-univ
      <span>I'd also like to get back around to adding more things to <a href="http://decafbad.com/trac/wiki/FeedMagick">FeedMagick</a>, such as maybe some Reading List style features to blend multiple feeds from an OPML list into one output feed.  Need to build some cross-format conversion tools.  I could also see a popular links type script joining <a href="http://decafbad.com/2005/12/FeedMagick/">the suite</a>.  These sorts of things seem like they could be a server-side complement to the OPML Editor, especially in cases where I can't run Frontier or the OPML Editor on a server yet PHP is available.</span>
      </li>
      </ul>
+
+<div id="comments" class="comments archived-comments">
+            <h3>Archived Comments</h3>
+            
+        <ul class="comments">
+            
+        <li class="comment" id="comment-221084351">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://vielmetti.typepad.com"><img src="http://www.gravatar.com/avatar.php?gravatar_id=e377f3e2140297d32460ae9a4b38ff98&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://vielmetti.typepad.com">Edward Vielmetti</a>
+                </div>
+                <a href="#comment-221084351" class="permalink"><time datetime="2006-02-16T05:35:54">2006-02-16T05:35:54</time></a>
+            </div>
+            <div class="content"><p>ah, there's nothing like the smell of an alternative universe in the morning.</p></div>
+            
+        </li>
+    
+        </ul>
+    
+        </div>
+    

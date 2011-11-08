@@ -1,8 +1,9 @@
---- 
-wordpress_id: 428
+---
+comments_archived: true
+date: '2003-06-23T14:56:53-04:00'
 layout: post
 title: WWDC (or, I love the net)
-date: "2003-06-23T14:56:53-04:00"
+wordpress_id: 428
 wordpress_slug: wwdc-love-the-web
 wordpress_url: http://www.decafbad.com/blog/?p=428
 ---
@@ -13,3 +14,28 @@ at <a href="http://developer.apple.com/wwdc/" target="_top">WWDC</a> for the <a 
 Except I don't get a free iSight.  Bummer.
 <!--more-->
 shortname=wwdc_love_the_web
+
+<div id="comments" class="comments archived-comments">
+            <h3>Archived Comments</h3>
+            
+        <ul class="comments">
+            
+        <li class="comment" id="comment-221085185">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://www.scifihifi.com"><img src="http://www.gravatar.com/avatar.php?gravatar_id=a97f3ecb15bebb41d330c6e27457378f&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://www.scifihifi.com">Buzz Andersen</a>
+                </div>
+                <a href="#comment-221085185" class="permalink"><time datetime="2003-06-23T16:30:57">2003-06-23T16:30:57</time></a>
+            </div>
+            <div class="content">Hey man,
+I'm there (and blogging) as well!</div>
+            
+        </li>
+    
+        </ul>
+    
+        </div>
+    

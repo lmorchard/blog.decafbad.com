@@ -1,8 +1,9 @@
---- 
-wordpress_id: 356
+---
+comments_archived: true
+date: '2003-01-19T19:03:13-05:00'
 layout: post
 title: I second that sacrilege
-date: "2003-01-19T19:03:13-05:00"
+wordpress_id: 356
 wordpress_slug: ooochg
 wordpress_url: http://www.decafbad.com/blog/?p=356
 ---
@@ -18,3 +19,144 @@ wordpress_url: http://www.decafbad.com/blog/?p=356
 <p>RDF triples at the inode-level anyone?  Heh, heh.</p>
 <!--more-->
 shortname=ooochg
+
+<div id="comments" class="comments archived-comments">
+            <h3>Archived Comments</h3>
+            
+        <ul class="comments">
+            
+        <li class="comment" id="comment-221086231">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://fishbowl.pastiche.org"><img src="http://www.gravatar.com/avatar.php?gravatar_id=07562a116db2503c602d3444d4ccbb54&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://fishbowl.pastiche.org">Charles Miller</a>
+                </div>
+                <a href="#comment-221086231" class="permalink"><time datetime="2003-01-19T22:19:03">2003-01-19T22:19:03</time></a>
+            </div>
+            <div class="content">When BeOS went under, Apple hired their filesystem guy. Remember, Apple tend not to say _anything_ about future directions until they have something Steve Jobs can demo at MacWorld. (c.f. Joel Spolsky's latest essay)</div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221086232">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://webseitz.fluxent.com/wiki"><img src="http://www.gravatar.com/avatar.php?gravatar_id=5a70d939a73fa73603f2a9255ab81d21&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://webseitz.fluxent.com/wiki">BillSeitz</a>
+                </div>
+                <a href="#comment-221086232" class="permalink"><time datetime="2003-01-20T01:11:00">2003-01-20T01:11:00</time></a>
+            </div>
+            <div class="content">I keep waiting for ReiserFS (for linux) to get this...
+http://www.namesys.com/whitepaper.html</div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221086234">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://e4graph.com/blog/"><img src="http://www.gravatar.com/avatar.php?gravatar_id=39f3a70e5f92ad0d8072c7e3a16e3202&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://e4graph.com/blog/">Jacob Levy</a>
+                </div>
+                <a href="#comment-221086234" class="permalink"><time datetime="2003-01-20T04:42:42">2003-01-20T04:42:42</time></a>
+            </div>
+            <div class="content">Check out e4Graph, here
+
+--JYL</div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221086236">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://dannyayers.com"><img src="http://www.gravatar.com/avatar.php?gravatar_id=ac0d01ebb5e438c029c0764064f70827&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://dannyayers.com">Danny</a>
+                </div>
+                <a href="#comment-221086236" class="permalink"><time datetime="2003-01-20T18:27:02">2003-01-20T18:27:02</time></a>
+            </div>
+            <div class="content">I share your annoyance with present file/filing systems!
+
+The main change needed as I see it is to move the emphasis from bookmarks as locators to bookmarks as identifiers (of course somewhere around there needs to be a locator). Given this then it makes things like including the same item in many folders (/categories) easy and doesn't tie you to hierarchical systems.
+
+One of the things I want my Ideagraph project (http://ideagraph.net) to be able to do is to maintain all this stuff in a friendlier (usable!) fashion. Ok, so it's layering on top of the OS but anything's got to be better than the organization Win (even Lin) gives you.</div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221086237">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://jcurious.livejournal.com"><img src="http://www.gravatar.com/avatar.php?gravatar_id=5c0e1fa68033e0b71e14e1ff9b6f2bf1&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://jcurious.livejournal.com">curious</a>
+                </div>
+                <a href="#comment-221086237" class="permalink"><time datetime="2003-01-20T23:31:54">2003-01-20T23:31:54</time></a>
+            </div>
+            <div class="content">here is a kde/sql implementation of that idea from newdocms</div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221086239">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://webseitz.fluxent.com/wiki"><img src="http://www.gravatar.com/avatar.php?gravatar_id=5a70d939a73fa73603f2a9255ab81d21&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://webseitz.fluxent.com/wiki">BillSeitz</a>
+                </div>
+                <a href="#comment-221086239" class="permalink"><time datetime="2003-01-23T20:00:34">2003-01-23T20:00:34</time></a>
+            </div>
+            <div class="content">Maybe this stuff shouldn't be in the OS, in case you want to change OS later!</div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221086240">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://www.fucker.net/spew/"><img src="http://www.gravatar.com/avatar.php?gravatar_id=409d5681415763e28c25affcc3b611b4&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://www.fucker.net/spew/">Tony</a>
+                </div>
+                <a href="#comment-221086240" class="permalink"><time datetime="2003-01-24T17:16:19">2003-01-24T17:16:19</time></a>
+            </div>
+            <div class="content">I abandoned bookmarks for Google by the same principle. Now, my bookmarks consist completely of bookmarklets and a few stray links to local on-disk pages like Python documentation. In fact, I'm wishing that I could create bookmark folders that are fed by Google API powered persistent searches.
+
+Why don't you? There is huge potential in this idea, particularly if the search is distributed across many eclectic researchers/clients. This is actually what I wanted to do for the Google API contest- but, as usual, the idea didn't fit into the requested parameters.
+
+P2P bookmark cluster searches would eliminate the lag of publishing in the associative link loop. Making us, collaboratively, an order of magnitude smarter by virtue of enhanced proximity.
+
+If you don't I will.</div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221086243">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://www.fucker.net/spew/"><img src="http://www.gravatar.com/avatar.php?gravatar_id=409d5681415763e28c25affcc3b611b4&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://www.fucker.net/spew/">Tony</a>
+                </div>
+                <a href="#comment-221086243" class="permalink"><time datetime="2003-01-24T17:16:53">2003-01-24T17:16:53</time></a>
+            </div>
+            <div class="content">I abandoned bookmarks for Google by the same principle. Now, my bookmarks consist completely of bookmarklets and a few stray links to local on-disk pages like Python documentation. In fact, I'm wishing that I could create bookmark folders that are fed by Google API powered persistent searches.
+
+Why don't you? There is huge potential in this idea, particularly if the search is distributed across many eclectic researchers/clients. This is actually what I wanted to do for the Google API contest- but, as usual, the idea didn't fit into the requested parameters.
+
+P2P bookmark cluster searches would eliminate the lag of publishing in the associative link loop. Making us, collaboratively, an order of magnitude smarter by virtue of enhanced proximity.
+
+If you don't I will.</div>
+            
+        </li>
+    
+        </ul>
+    
+        </div>
+    

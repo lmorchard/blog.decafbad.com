@@ -1,9 +1,8 @@
---- 
-wordpress_id: 680
+---
+comments_archived: true
+date: '2005-09-13T19:45:47-04:00'
 layout: post
-title: Hacking RSS and Atom is out!
-date: "2005-09-13T19:45:47-04:00"
-tags: 
+tags:
 - rss
 - syndication
 - writing
@@ -11,6 +10,8 @@ tags:
 - xml
 - books
 - hackingrssandatom
+title: Hacking RSS and Atom is out!
+wordpress_id: 680
 wordpress_slug: hacking-rss-and-atom-is-out
 wordpress_url: http://www.decafbad.com/blog/?p=680
 ---
@@ -35,3 +36,99 @@ For the moment, I'm going to wrap up this post, finish my dinner, and go for a w
 [quick]: http://www.decafbad.com/blog/2005/02/19/writing-no-things-of-epic-import
 [dec04]: http://www.decafbad.com/blog/2004/12/
 [book]: http://www.decafbad.com/blog/2005/04/25/hacking-rss-and-atom-is-a-real-book
+
+<div id="comments" class="comments archived-comments">
+            <h3>Archived Comments</h3>
+            
+        <ul class="comments">
+            
+        <li class="comment" id="comment-221082500">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://monkey.org/~jose/"><img src="http://www.gravatar.com/avatar.php?gravatar_id=d74863ca9c7785cd396379766095036c&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://monkey.org/~jose/">jose</a>
+                </div>
+                <a href="#comment-221082500" class="permalink"><time datetime="2005-09-14T01:03:36">2005-09-14T01:03:36</time></a>
+            </div>
+            <div class="content">congrats, les, if anyone should have written that book it's you. i'm glad to see it's hit the shelves .. now to go find a copy and look it over :)</div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221082501">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://stingthebee.nu"><img src="http://www.gravatar.com/avatar.php?gravatar_id=0c6c4240507baf594a95fd3b25b975d2&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://stingthebee.nu">Jim Renaud</a>
+                </div>
+                <a href="#comment-221082501" class="permalink"><time datetime="2005-09-14T01:54:39">2005-09-14T01:54:39</time></a>
+            </div>
+            <div class="content">Congrats Les. I am gonna need you to autograph mine!!! New site design, new box, new CMS... The world is your oyster!!! It's Les' world, we just live in it!!!</div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221082503">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://www.livejournal.com/users/blackcustard/"><img src="http://www.gravatar.com/avatar.php?gravatar_id=96dd5db5ebd7a91a5df453707ffa8d8d&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://www.livejournal.com/users/blackcustard/">Matt Blackcustard</a>
+                </div>
+                <a href="#comment-221082503" class="permalink"><time datetime="2005-09-14T02:52:08">2005-09-14T02:52:08</time></a>
+            </div>
+            <div class="content">Hell yeah!</div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221082505">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://www.8dot3.com"><img src="http://www.gravatar.com/avatar.php?gravatar_id=2d870e8df3af0d62fa636b336b17cd60&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://www.8dot3.com">Nick</a>
+                </div>
+                <a href="#comment-221082505" class="permalink"><time datetime="2005-09-14T04:15:22">2005-09-14T04:15:22</time></a>
+            </div>
+            <div class="content">Just ordered mine...whens the book signing?..
+
+Congrats man..</div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221082507">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://10500bc.org"><img src="http://www.gravatar.com/avatar.php?gravatar_id=00ceff438a69a964d580f8384debcc0e&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://10500bc.org">nf0</a>
+                </div>
+                <a href="#comment-221082507" class="permalink"><time datetime="2005-09-19T21:41:49">2005-09-19T21:41:49</time></a>
+            </div>
+            <div class="content">I got my copy over the weekend. Some really good work!</div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221082508">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://www.decafbad.com"><img src="http://www.gravatar.com/avatar.php?gravatar_id=2377f34a68801b861c3e54e1301f0dce&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://www.decafbad.com">l.m.orchard</a>
+                </div>
+                <a href="#comment-221082508" class="permalink"><time datetime="2005-09-19T22:50:23">2005-09-19T22:50:23</time></a>
+            </div>
+            <div class="content">nf0: Hooray!  Thanks for the kudos :)</div>
+            
+        </li>
+    
+        </ul>
+    
+        </div>
+    

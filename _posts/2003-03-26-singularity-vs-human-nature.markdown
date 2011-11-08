@@ -1,8 +1,9 @@
---- 
-wordpress_id: 399
+---
+comments_archived: true
+date: '2003-03-26T12:32:49-05:00'
 layout: post
 title: The Singularity vs Human Nature
-date: "2003-03-26T12:32:49-05:00"
+wordpress_id: 399
 wordpress_slug: singularity-vs-human-nature
 wordpress_url: http://www.decafbad.com/blog/?p=399
 ---
@@ -114,3 +115,72 @@ More thinking to do.  Thanks to Disenchanted for making me think this
 far today.  :)
 <!--more-->
 shortname=singularity_vs_human_nature
+
+<div id="comments" class="comments archived-comments">
+            <h3>Archived Comments</h3>
+            
+        <ul class="comments">
+            
+        <li class="comment" id="comment-221086808">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href=""><img src="http://www.gravatar.com/avatar.php?gravatar_id=c462705b91eebbf6281cbe1dccab88e0&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="">Lief Clennon</a>
+                </div>
+                <a href="#comment-221086808" class="permalink"><time datetime="2003-03-27T03:26:17">2003-03-27T03:26:17</time></a>
+            </div>
+            <div class="content">It occurs to me that creating a situation we're not entirely prepared to face would, in fact, be tantamount to forcing ourselves back into Darwinian evolution. There may be a holocaust, but I find it highly unlikely that there will be too few survivors for Earthly sentience to continue.
+
+We may not like it very much. But then, neither did the trilobites. Just depends on how personally you take it all. And of course, as would any selfish little gene, I plan on doing my damnedest to figure out the niche.</div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221086810">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href=""><img src="http://www.gravatar.com/avatar.php?gravatar_id=32df985eb18f8b06ded913879773f886&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="">Jeremy Dunck</a>
+                </div>
+                <a href="#comment-221086810" class="permalink"><time datetime="2003-03-28T17:42:23">2003-03-28T17:42:23</time></a>
+            </div>
+            <div class="content">I've been struggling with this idea for a while.
+
+I've thought about learning some base-level skills such as hunting with bow or woodworking "just in case".
+
+It does seem a matter of time until nuclear winter, airborne, long-incubating fatal virus, smart-enough microbes, or natural selection in the form of a cataclysm.
+
+Agile development has taught me many things, and one of those is that communication and small changes are much more effective than isolation and marksmanship precision.
+
+The human race has been shielding itself for a long time, and I suspect the potential difference will arc before we finish building our happy cocoon.
+
+What to do?
+
+It's a tough question.  Suggestions, such as "allow the diabetics to die", are viewed as morally flawed.  I am conflicted with myself over it, but really... are we -that- confident that we've got a handle on this whole thing?  
+
+Aren't we better off with Darwinism (viz. agile evolution)?</div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221086811">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href=""><img src="http://www.gravatar.com/avatar.php?gravatar_id=e93df1af8d2f460ae04ac265e416e09c&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="">Andrew Kisielius</a>
+                </div>
+                <a href="#comment-221086811" class="permalink"><time datetime="2003-05-20T09:10:11">2003-05-20T09:10:11</time></a>
+            </div>
+            <div class="content">Has anyone ever shouted FIRE in a crowded theatre?  How many people kept their calm and asked where it was?  
+It puzzles me that we as a species are so fatally attracted to confidence; a single leader with charisma and conviction can take a group anywhere.  Obvious examples include Nazi Germany, Soviet Communism, American Democracy...  The idea that there is something fundamentally wrong with our society circulates in whispered tones, always hesitant lest we should say something immoral or politically incorrect.  I shudder to think of the barrage of hate mail when someone seriously suggests that we eliminate the diabetics ... and yet I also shudder to think what we will do when the man on horseback rides into our theatre and shouts "Darwin."</div>
+            
+        </li>
+    
+        </ul>
+    
+        </div>
+    

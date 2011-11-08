@@ -1,10 +1,11 @@
---- 
-wordpress_id: 830
+---
+comments_archived: true
+date: '2006-01-20T00:28:04-05:00'
 layout: post
-title: links for 2006-01-20
-date: "2006-01-20T00:28:04-05:00"
-tags: 
+tags:
 - links
+title: links for 2006-01-20
+wordpress_id: 830
 wordpress_slug: links-for-2006-01-20
 wordpress_url: http://decafbad.com/blog/2006/01/20/links-for-2006-01-20
 ---
@@ -49,3 +50,43 @@ wordpress_url: http://decafbad.com/blog/2006/01/20/links-for-2006-01-20
 		<div class="delicious-tags">(tags: <a href="http://del.icio.us/deusx/web20">web20</a> <a href="http://del.icio.us/deusx/decentralization">decentralization</a>)</div>
 	</li>
 </ul>
+
+<div id="comments" class="comments archived-comments">
+            <h3>Archived Comments</h3>
+            
+        <ul class="comments">
+            
+        <li class="comment" id="comment-221085853">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://www.decafbad.com"><img src="http://www.gravatar.com/avatar.php?gravatar_id=2377f34a68801b861c3e54e1301f0dce&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://www.decafbad.com">l.m.orchard</a>
+                </div>
+                <a href="#comment-221085853" class="permalink"><time datetime="2006-01-23T00:22:46">2006-01-23T00:22:46</time></a>
+            </div>
+            <div class="content"><p>This is a test comment</p></div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221085855">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://www.jm3.net/"><img src="http://disqus.com/api/users/avatars/jm3.jpg"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://www.jm3.net/">John Manoogian III (jm3)</a>
+                </div>
+                <a href="#comment-221085855" class="permalink"><time datetime="2006-01-24T01:30:17">2006-01-24T01:30:17</time></a>
+            </div>
+            <div class="content"><p>this is not a test comment </p>
+
+<p>(was re: this sentence is false.)</p></div>
+            
+        </li>
+    
+        </ul>
+    
+        </div>
+    

@@ -1,9 +1,8 @@
---- 
-wordpress_id: 1937
+---
+comments_archived: true
+date: '2010-07-05T19:00:56-04:00'
 layout: post
-title: Firefox Sync server on Google App Engine
-date: "2010-07-05T19:00:56-04:00"
-tags: 
+tags:
 - webdev
 - firefox
 - google
@@ -12,6 +11,8 @@ tags:
 - mozilla
 - sync
 - appengine
+title: Firefox Sync server on Google App Engine
+wordpress_id: 1937
 wordpress_slug: firefox-sync-server-on-google-app-engine
 wordpress_url: http://decafbad.com/blog/?p=1937
 ---
@@ -62,3 +63,173 @@ Anyway, [check it out][impl] and let me know what you think.
 [july4]: http://en.wikipedia.org/wiki/Independence_Day_%28United_States%29
 [sync]: http://www.mozilla.com/en-US/firefox/sync/
 [servers]: https://services.mozilla.com/
+
+<div id="comments" class="comments archived-comments">
+            <h3>Archived Comments</h3>
+            
+        <ul class="comments">
+            
+        <li class="comment" id="comment-221088097">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://coffeeonthekeyboard.com/"><img src="http://www.gravatar.com/avatar.php?gravatar_id=8371744716a9335eb3dcae228fd9d996&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://coffeeonthekeyboard.com/">James Socol</a>
+                </div>
+                <a href="#comment-221088097" class="permalink"><time datetime="2010-07-06T01:28:02">2010-07-06T01:28:02</time></a>
+            </div>
+            <div class="content"><p>Assuming you already had a network and a Mac Mini or something at home, it would be pretty interesting to run your own small Sync server just to keep your home computers together. Maybe even use localtunnel for when you're away.</p></div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221088102">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://morgamic.com/"><img src="http://www.gravatar.com/avatar.php?gravatar_id=65b020128dafcdb4ef1e5e53c00ed37a&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://morgamic.com/">Mike</a>
+                </div>
+                <a href="#comment-221088102" class="permalink"><time datetime="2010-07-06T01:36:37">2010-07-06T01:36:37</time></a>
+            </div>
+            <div class="content"><p>You are a real-life hero!</p></div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221088105">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://www.decafbad.com"><img src="http://www.gravatar.com/avatar.php?gravatar_id=2377f34a68801b861c3e54e1301f0dce&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://www.decafbad.com">l.m.orchard</a>
+                </div>
+                <a href="#comment-221088105" class="permalink"><time datetime="2010-07-06T01:52:00">2010-07-06T01:52:00</time></a>
+            </div>
+            <div class="content"><p>@James: Yup, exactly that. Maybe even roll in some SSL and UPnP port forwarding for easier setup behind a home router. And, if there were a Windows version, it could run on that cruddy desktop back in the spare room.</p>
+
+<p>@Mike: Naw... this guy is the real hero, <a href="http://twitter.com/johnolilly/status/17765272082" rel="nofollow">even John Lilly agrees</a>!</p>
+
+<p><a href="http://blogs.denverpost.com/celebritybull/2008/09/09/greatest-american-hero-coming-to-the-big-screen/" rel="nofollow"><img src="http://blogs.denverpost.com/celebritybull/files/2008/09/gah.jpg" alt="Greatest American Hero" title="" /></a></p></div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221088106">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href=""><img src="http://www.gravatar.com/avatar.php?gravatar_id=1d18681d9fa9b5d50b209a2a926dfe7d&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="">Crash</a>
+                </div>
+                <a href="#comment-221088106" class="permalink"><time datetime="2010-07-06T09:20:54">2010-07-06T09:20:54</time></a>
+            </div>
+            <div class="content"><p>Is there already a App Id for this tool?</p></div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221088107">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://www.decafbad.com"><img src="http://www.gravatar.com/avatar.php?gravatar_id=2377f34a68801b861c3e54e1301f0dce&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://www.decafbad.com">l.m.orchard</a>
+                </div>
+                <a href="#comment-221088107" class="permalink"><time datetime="2010-07-06T10:18:57">2010-07-06T10:18:57</time></a>
+            </div>
+            <div class="content"><p>@Crash: Sure, there's an app ID for <em>my</em> instance of this sync server. But, as I said in the blog post, I'm not sharing it. At least, not until or unless I get the quota usage down to a point that I wouldn't exhaust the free hosting limits.</p>
+
+<p>It's pretty easy to deploy your own sync server on AppEngine with the source, though.</p></div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221088108">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href=""><img src="http://www.gravatar.com/avatar.php?gravatar_id=85283c3d40ca2b1a70a0f877a570107c&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="">Peter Petrov</a>
+                </div>
+                <a href="#comment-221088108" class="permalink"><time datetime="2010-07-06T13:18:11">2010-07-06T13:18:11</time></a>
+            </div>
+            <div class="content"><p>@Leslie: The app ID of your instance is visible in app.yaml, so you've shared it anyway :)</p></div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221088113">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://www.decafbad.com"><img src="http://www.gravatar.com/avatar.php?gravatar_id=2377f34a68801b861c3e54e1301f0dce&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://www.decafbad.com">l.m.orchard</a>
+                </div>
+                <a href="#comment-221088113" class="permalink"><time datetime="2010-07-06T17:18:47">2010-07-06T17:18:47</time></a>
+            </div>
+            <div class="content"><p>@Peter hah! Right you are! But, at least you had to look at the source of the app first to figure that out :) That is mostly the point of this blog entry after all. Anyone who does that and then uses my installation anyway will probably be sad when I regularly blow away data and eventually make it invite only</p></div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221088115">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href=""><img src="http://www.gravatar.com/avatar.php?gravatar_id=4fd1acfa0c7bd0767a90a30fbba73bfb&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="">Tobias</a>
+                </div>
+                <a href="#comment-221088115" class="permalink"><time datetime="2010-07-07T00:24:41">2010-07-07T00:24:41</time></a>
+            </div>
+            <div class="content"><p>Neat! TyphoonAE http://typhoonae.googlecode.com might help you to build your household appliance.</p></div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221088117">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href=""><img src="http://www.gravatar.com/avatar.php?gravatar_id=3e7e975f0fa432f4ae6604f72c132309&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="">Kumar McMillan</a>
+                </div>
+                <a href="#comment-221088117" class="permalink"><time datetime="2010-07-07T20:59:25">2010-07-07T20:59:25</time></a>
+            </div>
+            <div class="content"><p>Hey Les, this is super cool!  Google App Engine's Datastore API is still very shaky though.  In fact, it's been so bad lately that I've been considering porting one of my heavily used apps over to something else.  Thankfully, this post suggests that fixing the Datastore is their top priority: http://googleappengine.blogspot.com/2010/06/datastore-performance-growing-pains.html</p></div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221088119">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://home.kairo.at/blog/"><img src="http://www.gravatar.com/avatar.php?gravatar_id=59d914ad47e5c3fcd4c89668adcd43a2&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://home.kairo.at/blog/">Robert Kaiser</a>
+                </div>
+                <a href="#comment-221088119" class="permalink"><time datetime="2010-07-07T21:21:51">2010-07-07T21:21:51</time></a>
+            </div>
+            <div class="content"><p>Well, I actually feel more comfortable with my data being on Mozilla servers than on Google servers - even with the decreased trust I have in the Mozilla organization, I'd trust it more than Google any day! ;-)</p></div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221088120">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://blog.chrisarndt.de"><img src="http://www.gravatar.com/avatar.php?gravatar_id=02653ae22d36044e6870c17cf3d5a005&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://blog.chrisarndt.de">Chris Arndt</a>
+                </div>
+                <a href="#comment-221088120" class="permalink"><time datetime="2010-09-28T11:06:55">2010-09-28T11:06:55</time></a>
+            </div>
+            <div class="content"><p>Instead of porting GAE to your desktop, why don't you just port your app to plain Django? Django should run off your desktop with no problems.</p></div>
+            
+        </li>
+    
+        </ul>
+    
+        </div>
+    

@@ -1,10 +1,11 @@
---- 
-wordpress_id: 1473
+---
+comments_archived: true
+date: '2008-12-19T22:35:16-05:00'
 layout: post
-title: The Concise Guide to Dojo is a real book!
-date: "2008-12-19T22:35:16-05:00"
-tags: 
+tags:
 - entries
+title: The Concise Guide to Dojo is a real book!
+wordpress_id: 1473
 wordpress_slug: the-concise-guide-to-dojo-is-a-real-book
 wordpress_url: http://decafbad.com/blog/?p=1473
 ---
@@ -26,3 +27,45 @@ At any rate, [go order a copy][dojobook] for yourself.  Hell, order another few 
 [profjs]: http://www.amazon.com/gp/product/047038459X?ie=UTF8&tag=0xdecafbad01-20&linkCode=as2&camp=1789&c%0D%0Areative=9325&creativeASIN=047038459X
 [dojobook]: http://www.amazon.com/gp/product/0470452021?ie=UTF8&tag=0xdecafbad01-20&linkCode=as2&camp=1789&c%0D%0Areative=9325&creativeASIN=0470452021
 [dojo]: http://dojotoolkit.org/
+
+<div id="comments" class="comments archived-comments">
+            <h3>Archived Comments</h3>
+            
+        <ul class="comments">
+            
+        <li class="comment" id="comment-221087006">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://arapehlivanian.com/"><img src="http://www.gravatar.com/avatar.php?gravatar_id=0303d4d9353cc9a709fc9e31d564dd7d&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://arapehlivanian.com/">Ara Pehlivanian</a>
+                </div>
+                <a href="#comment-221087006" class="permalink"><time datetime="2008-12-21T13:09:04">2008-12-21T13:09:04</time></a>
+            </div>
+            <div class="content"><p>Congratulations!</p></div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221087008">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://www.MOTORCITYBLOG.net.com"><img src="http://www.gravatar.com/avatar.php?gravatar_id=f66360d7b2a341eee93c790ae9378de3&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://www.MOTORCITYBLOG.net.com">MOTORCITYBLOG - Kirk</a>
+                </div>
+                <a href="#comment-221087008" class="permalink"><time datetime="2008-12-24T00:48:35">2008-12-24T00:48:35</time></a>
+            </div>
+            <div class="content"><p>yo from MCB #1 blog in DIETROIT
+we were one of your sites - cool stuff
+cheers happy holidays from the staff at MCB
+congrats on the book...
+;)</p></div>
+            
+        </li>
+    
+        </ul>
+    
+        </div>
+    

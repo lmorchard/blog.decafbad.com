@@ -1,8 +1,9 @@
---- 
-wordpress_id: 120
+---
+comments_archived: true
+date: '2002-05-07T18:17:33-04:00'
 layout: post
 title: Linkbacks, biology, and killer P2P blog plumbing.
-date: "2002-05-07T18:17:33-04:00"
+wordpress_id: 120
 wordpress_slug: oooada
 wordpress_url: http://www.decafbad.com/blog/?p=120
 ---
@@ -17,3 +18,56 @@ wordpress_url: http://www.decafbad.com/blog/?p=120
 </p>
 <!--more-->
 shortname=oooada
+
+<div id="comments" class="comments archived-comments">
+            <h3>Archived Comments</h3>
+            
+        <ul class="comments">
+            
+        <li class="comment" id="comment-221086522">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://www.drop.org/module.php?mod=blog=view=1546"><img src="http://www.gravatar.com/avatar.php?gravatar_id=db952220ac413ad71f36ee34c0df1aa7&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://www.drop.org/module.php?mod=blog=view=1546">J0e</a>
+                </div>
+                <a href="#comment-221086522" class="permalink"><time datetime="2002-05-08T23:49:51">2002-05-08T23:49:51</time></a>
+            </div>
+            <div class="content">Hi,
+I think you've got some very interesting ideas here.  I fed off of your post in a conversation on drop.org.  You can check it out here --> http://www.backflip.com/xtour/fix_set.ihtml</div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221086523">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://www.drop.org"><img src="http://www.gravatar.com/avatar.php?gravatar_id=db952220ac413ad71f36ee34c0df1aa7&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://www.drop.org">J0e</a>
+                </div>
+                <a href="#comment-221086523" class="permalink"><time datetime="2002-05-09T19:55:44">2002-05-09T19:55:44</time></a>
+            </div>
+            <div class="content">hehe... the url to the discussion would actually be --> http://www.drop.org/node.php?id=868</div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221086524">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://p2p.blogs.com"><img src="http://www.gravatar.com/avatar.php?gravatar_id=eb821bff7091e11fc0b45a91295ab315&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://p2p.blogs.com">p2p blog</a>
+                </div>
+                <a href="#comment-221086524" class="permalink"><time datetime="2003-12-31T06:58:49">2003-12-31T06:58:49</time></a>
+            </div>
+            <div class="content">Dunno...seems like centralization is good because it ensures content will always be up.</div>
+            
+        </li>
+    
+        </ul>
+    
+        </div>
+    

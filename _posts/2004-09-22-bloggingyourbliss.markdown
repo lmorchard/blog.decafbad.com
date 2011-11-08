@@ -1,9 +1,14 @@
---- 
-wordpress_id: 557
+---
+comments_archived: true
+date: '2004-09-22T09:54:49-04:00'
+excerpt: 'Maybe I''m a bit too optimistic about noospheric homesteading,
+    but I expect that the pressures of this space will eventually leave
+    only two kinds of bloggers: the ones who get paid enough, and the ones
+    who have to be here because their bliss won''t let them do anything
+    else.'
 layout: post
 title: Blogging your bliss, or blog like no one's watching.
-excerpt: "Maybe I'm a bit too optimistic about noospheric homesteading, but I expect that the pressures of this space will eventually leave only two kinds of bloggers: the ones who get paid enough, and the ones who have to be here because their bliss won't let them do anything else."
-date: "2004-09-22T09:54:49-04:00"
+wordpress_id: 557
 wordpress_slug: bloggingyourbliss
 wordpress_url: http://www.decafbad.com/blog/?p=557
 ---
@@ -37,3 +42,121 @@ Maybe I'm a bit too optimistic about [noospheric homesteading][noosphere], but I
 [transzine]: http://www.decafbad.com/blog/2004/05/25/i_was_a_preteen_transactor_author_wannabe_and_still_am
 <!--more-->
 shortname=bloggingyourbliss
+
+<div id="comments" class="comments archived-comments">
+            <h3>Archived Comments</h3>
+            
+        <ul class="comments">
+            
+        <li class="comment" id="comment-221084985">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://blog.ianbicking.org"><img src="http://www.gravatar.com/avatar.php?gravatar_id=cc8334869c9d2a9e603017f2da805eb3&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://blog.ianbicking.org">Ian Bicking</a>
+                </div>
+                <a href="#comment-221084985" class="permalink"><time datetime="2004-09-22T12:48:42">2004-09-22T12:48:42</time></a>
+            </div>
+            <div class="content">The number of comments is probably related to the length of the article -- people don't want to comment on an article they don't finish, and if it's long even if they do finish it they might feel a need to move on to something else instead of spending more time to comment.</div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221084986">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href=""><img src="http://www.gravatar.com/avatar.php?gravatar_id=8a5273f79cfe7579ad46023f93377aa8&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="">l.m. orchard</a>
+                </div>
+                <a href="#comment-221084986" class="permalink"><time datetime="2004-09-22T13:00:00">2004-09-22T13:00:00</time></a>
+            </div>
+            <div class="content">Ian: That's definitely a good point.  I was trying to think of another example without the length, but none came to mind.  I had this sort of thing happen plenty of times on LiveJournal, where I post one thing that seemed important, post another thing that seemed a throwaway, and get all the comments on the second.
+
+Either way, the point is, don't make the traffic or attention your goal, make the writing your goal and the traffic and attention will come.  You might have some success doing it in reverse for awhile, but it just won't be worth it.</div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221084987">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://george.hotelling.net/"><img src="http://www.gravatar.com/avatar.php?gravatar_id=c7d1c8d2b1a7643236a4661e9a974dee&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://george.hotelling.net/">George</a>
+                </div>
+                <a href="#comment-221084987" class="permalink"><time datetime="2004-09-22T13:17:24">2004-09-22T13:17:24</time></a>
+            </div>
+            <div class="content">Ian's comment sounds like an addition to Warnock's Dilemma. The solution is adding paragraph level comments; people can interject wherever.  
+
+It may just enabling the fisker who should post their retort on their own site and trackback to the original, lengthy piece.</div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221084989">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href=""><img src="http://www.gravatar.com/avatar.php?gravatar_id=8a5273f79cfe7579ad46023f93377aa8&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="">l.m. orchard</a>
+                </div>
+                <a href="#comment-221084989" class="permalink"><time datetime="2004-09-22T13:31:17">2004-09-22T13:31:17</time></a>
+            </div>
+            <div class="content">George:  Heh, I was going to cite Warnock's Dilemma [1], but somewhere along the way while I was not-thinking-while-blogging, I forgot.
+
+[1] Original URL seems missing.  Found a quote here: http://www.rolandTanglao.com/2003/07/14.html#a4838</div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221084990">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://www.mpwilson.com/uccu/"><img src="http://www.gravatar.com/avatar.php?gravatar_id=02ffe238ed68da35e8037df461552234&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://www.mpwilson.com/uccu/">Mad William Flint</a>
+                </div>
+                <a href="#comment-221084990" class="permalink"><time datetime="2004-09-22T13:32:24">2004-09-22T13:32:24</time></a>
+            </div>
+            <div class="content">Now that's a damn fine post right there.
+
+Right on all counts.  
+
+(and what's wrong with drinking, and whoring?)</div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221084991">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://www.individualism.ro/"><img src="http://www.gravatar.com/avatar.php?gravatar_id=93e4fe3eb284825edd0a3b6712494b2e&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://www.individualism.ro/">Gabriel Mihalache</a>
+                </div>
+                <a href="#comment-221084991" class="permalink"><time datetime="2004-09-22T15:37:07">2004-09-22T15:37:07</time></a>
+            </div>
+            <div class="content">William: Nothing, but I *did* say "excessive", and besides, people at work or *gasp* at home are bound to find your blog, even if you write under a pseudonym.</div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221084992">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://www.skipjack.info"><img src="http://www.gravatar.com/avatar.php?gravatar_id=0546eacc913ab1198d1142d3e945b9a4&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://www.skipjack.info">skipjack</a>
+                </div>
+                <a href="#comment-221084992" class="permalink"><time datetime="2004-09-24T05:36:00">2004-09-24T05:36:00</time></a>
+            </div>
+            <div class="content">keep bloggin the way you have, I like it. I really like the coding projects I learn so much from reading your code.</div>
+            
+        </li>
+    
+        </ul>
+    
+        </div>
+    

@@ -1,8 +1,9 @@
---- 
-wordpress_id: 462
+---
+comments_archived: true
+date: '2003-08-16T00:28:41-04:00'
 layout: post
 title: Issues in using SpamBayes to filter news items
-date: "2003-08-16T00:28:41-04:00"
+wordpress_id: 462
 wordpress_slug: bayes-agg-one
 wordpress_url: http://www.decafbad.com/blog/?p=462
 ---
@@ -72,3 +73,29 @@ but as Mark Pilgrim intimated, it&#8217;s not magic.  It&#8217;s just &#8220;adv
 up and expect the computer to know what you mean, retardo!&#8221; </p>
 <!--more-->
 shortname=bayes_agg_one
+
+<div id="comments" class="comments archived-comments">
+            <h3>Archived Comments</h3>
+            
+        <ul class="comments">
+            
+        <li class="comment" id="comment-221088958">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://philringnalda.com"><img src="http://www.gravatar.com/avatar.php?gravatar_id=e68e9944f50a481a64b5a32fdfc02e0d&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://philringnalda.com">Phil Ringnalda</a>
+                </div>
+                <a href="#comment-221088958" class="permalink"><time datetime="2003-08-16T00:54:54">2003-08-16T00:54:54</time></a>
+            </div>
+            <div class="content">If you want to train a spam classifier quick, you've got to feed it spam. If you want to train an aggregator classifier, you've got to subscribe to more crap. I do my best to throw you a really stupid post once a week or so, but you need a bunch of feeds yammering on and on about nothing much.
+
+I'd recommend using MyRSS or Blogstreet (or your own scraper  if you've got one) on a random selection of Blog*Spot blogs: my RandomFreshBlog bookmarklet seems to turn up an unending supply of training material.</div>
+            
+        </li>
+    
+        </ul>
+    
+        </div>
+    

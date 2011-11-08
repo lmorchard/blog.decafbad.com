@@ -1,8 +1,9 @@
---- 
-wordpress_id: 359
+---
+comments_archived: true
+date: '2003-01-20T16:37:18-05:00'
 layout: post
 title: Automated openness versus the script kiddies
-date: "2003-01-20T16:37:18-05:00"
+wordpress_id: 359
 wordpress_slug: ooocio
 wordpress_url: http://www.decafbad.com/blog/?p=359
 ---
@@ -14,3 +15,28 @@ wordpress_url: http://www.decafbad.com/blog/?p=359
 </p>
 <!--more-->
 shortname=ooocio
+
+<div id="comments" class="comments archived-comments">
+            <h3>Archived Comments</h3>
+            
+        <ul class="comments">
+            
+        <li class="comment" id="comment-221091032">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href=""><img src="http://www.gravatar.com/avatar.php?gravatar_id=09ac297c6a1e9136500cdee7f4cbbdb8&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="">Anonamouse</a>
+                </div>
+                <a href="#comment-221091032" class="permalink"><time datetime="2003-01-20T23:37:27">2003-01-20T23:37:27</time></a>
+            </div>
+            <div class="content">It seems your entry is missing a meaningful comment...
+so... "First Post" ;)</div>
+            
+        </li>
+    
+        </ul>
+    
+        </div>
+    

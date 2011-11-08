@@ -1,12 +1,14 @@
---- 
-wordpress_id: 561
+---
+comments_archived: true
+date: '2004-10-08T13:07:49-04:00'
+excerpt: So I had an idea for a quick podcasting listening hack on the way
+    into work this morning.
 layout: post
-title: Using iTunes as a podcast aggregator, with a little help from XSLT
-excerpt: So I had an idea for a quick podcasting listening hack on the way into work this morning.
-date: "2004-10-08T13:07:49-04:00"
-tags: 
+tags:
 - syndication
 - xml
+title: Using iTunes as a podcast aggregator, with a little help from XSLT
+wordpress_id: 561
 wordpress_slug: itunesxslt
 wordpress_url: http://www.decafbad.com/blog/?p=561
 ---
@@ -37,3 +39,27 @@ If this looks useful, maybe I'll work it over a bit more and pair it up with som
 **Update #2:** Another use I just found for this playlist, is on my [Xbox Media Center](http://www.xboxmediacenter.com/).  I generate this playlist via cronjob every few hours, and store it on an SMB share accessible to the XBMC.  Voila!  Listening to podcasts on my stereo system via the Xbox.  Yeah, nothing big, just kind of nifty.
 <!--more-->
 shortname=itunesxslt
+
+<div id="comments" class="comments archived-comments">
+            <h3>Archived Comments</h3>
+            
+        <ul class="comments">
+            
+        <li class="comment" id="comment-221090734">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href=""><img src="http://www.gravatar.com/avatar.php?gravatar_id=a5cae412b649470abb8827c85ef2d4c8&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="">Kevin</a>
+                </div>
+                <a href="#comment-221090734" class="permalink"><time datetime="2004-10-21T10:32:55">2004-10-21T10:32:55</time></a>
+            </div>
+            <div class="content">This is a great idea...  My playlist seems to be formated all wrong, so i need to work on it.  Any advancements on this one?</div>
+            
+        </li>
+    
+        </ul>
+    
+        </div>
+    

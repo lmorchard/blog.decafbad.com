@@ -1,13 +1,17 @@
---- 
-wordpress_id: 543
+---
+comments_archived: true
+date: '2004-08-30T21:37:42-04:00'
+excerpt: Work has been insanely busy lately, but I have made some more progress
+    with [`dbagg3`][dbagg3].  The code is all in CVS, so feel free to take
+    a gander-- I don't have a ton of time for a proper write up, but I do
+    want to spew a little bit.
 layout: post
-title: Making progress on dbagg3
-excerpt: Work has been insanely busy lately, but I have made some more progress with [`dbagg3`][dbagg3].  The code is all in CVS, so feel free to take a gander-- I don't have a ton of time for a proper write up, but I do want to spew a little bit.
-date: "2004-08-30T21:37:42-04:00"
-tags: 
+tags:
 - hacks
 - syndication
 - xml
+title: Making progress on dbagg3
+wordpress_id: 543
 wordpress_slug: dbagg3-makingprogress
 wordpress_url: http://www.decafbad.com/blog/?p=543
 ---
@@ -81,3 +85,27 @@ Oh yeah, and one other thing:  I've been thinking about names better than `dbagg
 [soup]: http://www.decafbad.com/blog/2004/08/23/slicing_and_dicing_to_make_atom_soup_in_dbagg3
 <!--more-->
 shortname=dbagg3_makingprogress
+
+<div id="comments" class="comments archived-comments">
+            <h3>Archived Comments</h3>
+            
+        <ul class="comments">
+            
+        <li class="comment" id="comment-221086277">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href=""><img src="http://www.gravatar.com/avatar.php?gravatar_id=26343060da04d2f84c3fbd726c1158b6&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="">Alan</a>
+                </div>
+                <a href="#comment-221086277" class="permalink"><time datetime="2004-09-01T03:39:10">2004-09-01T03:39:10</time></a>
+            </div>
+            <div class="content">I prefer the dbagg title to feed_anything_. There's feedster, feedburner, feedreader and I'm sure there will be a whole slew more. This needs an original name. It seems similiar to Urchin, which you earlier posted a link to, how about Starfish or maybe Seahorse. ;)</div>
+            
+        </li>
+    
+        </ul>
+    
+        </div>
+    

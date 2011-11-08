@@ -1,8 +1,9 @@
---- 
-wordpress_id: 290
+---
+comments_archived: true
+date: '2002-11-02T03:55:29-05:00'
 layout: post
 title: What the frell is the Semantic Web
-date: "2002-11-02T03:55:29-05:00"
+wordpress_id: 290
 wordpress_slug: ooocae
 wordpress_url: http://www.decafbad.com/blog/?p=290
 ---
@@ -33,3 +34,49 @@ Now, get nuttier and bring in some intelligence with robots that can do some inf
 Whew. There. That's what I think I understand about the Semantic Web.
 <!--more-->
 shortname=ooocae
+
+<div id="comments" class="comments archived-comments">
+            <h3>Archived Comments</h3>
+            
+        <ul class="comments">
+            
+        <li class="comment" id="comment-221085082">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://www.fplanque.com/Blog/"><img src="http://www.gravatar.com/avatar.php?gravatar_id=d6a8b6d90049e3e11b3a0f653d52d4c5&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://www.fplanque.com/Blog/">Francois PLANQUE</a>
+                </div>
+                <a href="#comment-221085082" class="permalink"><time datetime="2002-12-15T21:39:30">2002-12-15T21:39:30</time></a>
+            </div>
+            <div class="content">Yope! This explanation should make the concept pretty clear for everyone... 
+
+But there's one little thing I wonder about: you assume so much about what your semantic web client can do, that you could actually go on assuming it can grasp the semantics of any web page without any further tagging, couldn't you? 
+
+just kidding :-))</div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221085084">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://www.completeconfusion.com"><img src="http://www.gravatar.com/avatar.php?gravatar_id=fb354a72721eee78504e0cdca4e0542f&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://www.completeconfusion.com">Russ Johnston</a>
+                </div>
+                <a href="#comment-221085084" class="permalink"><time datetime="2002-12-22T22:51:50">2002-12-22T22:51:50</time></a>
+            </div>
+            <div class="content">For an extension of the semantic web to word meanings you may want to look at:
+
+http://jorl.com/inventions/num/index.htm
+
+Probably the best, first use of this idea would be to add a duplicate metatag in webpages, for keywords, giving the "disambiguating" "number-words" corresponding to the keywords, and helping everybody get the search results they want. No more finding out about Mercury the car, planet, and God when you wanted to know whether your teeth were poisoning you...</div>
+            
+        </li>
+    
+        </ul>
+    
+        </div>
+    

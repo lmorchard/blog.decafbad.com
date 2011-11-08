@@ -1,8 +1,9 @@
---- 
-wordpress_id: 123
+---
+comments_archived: true
+date: '2002-05-09T02:31:30-04:00'
 layout: post
 title: back up and about, limping a bit
-date: "2002-05-09T02:31:30-04:00"
+wordpress_id: 123
 wordpress_slug: oooadd
 wordpress_url: http://www.decafbad.com/blog/?p=123
 ---
@@ -21,3 +22,45 @@ wordpress_url: http://www.decafbad.com/blog/?p=123
 <p>Hmm.. have to think about that co-lo thing.</p>
 <!--more-->
 shortname=oooadd
+
+<div id="comments" class="comments archived-comments">
+            <h3>Archived Comments</h3>
+            
+        <ul class="comments">
+            
+        <li class="comment" id="comment-221090844">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href=""><img src="http://www.gravatar.com/avatar.php?gravatar_id=9cff0151cf8e5b99abeb6d59f66cb8ad&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="">Josh</a>
+                </div>
+                <a href="#comment-221090844" class="permalink"><time datetime="2002-05-09T03:26:19">2002-05-09T03:26:19</time></a>
+            </div>
+            <div class="content">Glad to see your back up. I was a bit worried when i tried to get my daily dose this morning. But you site being down did give me a chance to finish up my phpwiki. After seeing the power of wiki, i've jumped in, and i thank you for making me a believer :)</div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221090845">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://webseitz.fluxent.com/wiki"><img src="http://www.gravatar.com/avatar.php?gravatar_id=2e83224d92ed7f1148f4dd3cdb0e4548&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://webseitz.fluxent.com/wiki">Bill Seitz</a>
+                </div>
+                <a href="#comment-221090845" class="permalink"><time datetime="2002-05-09T17:44:48">2002-05-09T17:44:48</time></a>
+            </div>
+            <div class="content">Can you get DSL or cablemodem at home?
+
+Some sort of dynamic-DNS service could handle the dynamic-IP issue. 
+
+Bandwidth limitations could also be a problem.</div>
+            
+        </li>
+    
+        </ul>
+    
+        </div>
+    

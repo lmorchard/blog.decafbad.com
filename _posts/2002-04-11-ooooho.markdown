@@ -1,8 +1,9 @@
---- 
-wordpress_id: 60
+---
+comments_archived: true
+date: '2002-04-11T04:51:44-04:00'
 layout: post
 title: Sometimes I think Radio UserLand has too much bootstrap
-date: "2002-04-11T04:51:44-04:00"
+wordpress_id: 60
 wordpress_slug: ooooho
 wordpress_url: http://www.decafbad.com/blog/?p=60
 ---
@@ -14,3 +15,35 @@ wordpress_url: http://www.decafbad.com/blog/?p=60
 <p>But I so want Radio to work well.  It's got so many nice ideas in it.  I'm just worried that there's too much bootstrap in there.</p>
 <!--more-->
 shortname=ooooho
+
+<div id="comments" class="comments archived-comments">
+            <h3>Archived Comments</h3>
+            
+        <ul class="comments">
+            
+        <li class="comment" id="comment-221089344">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://radio.weblogs.com/0104369/2002/04/13.html"><img src="http://www.gravatar.com/avatar.php?gravatar_id=9f3f78b261b6f185ec2e996fbd8a2326&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://radio.weblogs.com/0104369/2002/04/13.html">Jon Schull</a>
+                </div>
+                <a href="#comment-221089344" class="permalink"><time datetime="2002-04-14T00:11:17">2002-04-14T00:11:17</time></a>
+            </div>
+            <div class="content">Ive got the same misgiving about Radio, and Ive been thinking about the wiki weblog connection too (so, happy to make your acquaintance ;-).  
+
+However, the pace of development in the Radio space is telling us something too.  In particular, Simon Fells Word-to-Radio-via Soap hack strikes me as an instantly invaluable tool.
+
+Which brings me to Wiki/Weblog/Radio convergences.  Im thinking
+
+*	the most impressively wonderful thing about Radio is the authors ability to work locally site and have the results mirrored on the hosted site.   Its not clear a heavily-collaborated wiki site could or should survive that.
+
+* Why then isnt the solution to build an RSS aggregrator into the wiki so that the contents of subscribed-to weblogs are displayed by the wiki.  (Or are you trying to replace Twiki altogether via Radio?  If so, why?)  Now authors get to continue authoring weblogs in a tool optimized for weblogging and syndicating.  But readers get to read (and even modify!) the syndicated content on a tool optimized for *that*  purpose.</div>
+            
+        </li>
+    
+        </ul>
+    
+        </div>
+    

@@ -1,13 +1,14 @@
---- 
-wordpress_id: 763
+---
+comments_archived: true
+date: '2005-11-02T01:03:10-05:00'
 layout: post
-title: Still Seeking an Exploded Tinderbox for Tiger
-date: "2005-11-02T01:03:10-05:00"
-tags: 
+tags:
 - xoxo
 - tinderbox
 - spotlight
 - tiger
+title: Still Seeking an Exploded Tinderbox for Tiger
+wordpress_id: 763
 wordpress_slug: still-seeking-an-exploded-tinderbox-for-tiger
 wordpress_url: http://decafbad.com/blog/?p=763
 ---
@@ -44,3 +45,140 @@ In this scenario, *the file system is the Tinderbox document*.  Don't want to us
 [tree]: http://decafbad.com/blog/2005/07/02/css-treemaps "Treemaps in CSS"
 [drag]: http://decafbad.com/blog/2005/07/02/drag-the-boxes-stretch-the-lines "DHTML map views"
 [xoxo]: http://developers.technorati.com/wiki/XOXO
+
+<div id="comments" class="comments archived-comments">
+            <h3>Archived Comments</h3>
+            
+        <ul class="comments">
+            
+        <li class="comment" id="comment-221088906">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://robertbrook.com"><img src="http://www.gravatar.com/avatar.php?gravatar_id=760b4002b07650d4ef654f9fc17e8154&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://robertbrook.com">Robert Brook</a>
+                </div>
+                <a href="#comment-221088906" class="permalink"><time datetime="2005-11-04T13:16:12">2005-11-04T13:16:12</time></a>
+            </div>
+            <div class="content"><p>Much as I love Tinderbox, I just can't bring myself to completely trust it. The reasons? Similar to those mentioned below!</p>
+
+<p>http://decafbad.com/blog/2005/11/02/why-proprietary</p>
+
+<p>http://decafbad.com/blog/2005/11/02/why-microsoft</p></div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221088907">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://lee-phillips.org"><img src="http://www.gravatar.com/avatar.php?gravatar_id=0c5348f3fda8b3ebd21dac4cdb617e1e&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://lee-phillips.org">Lee Phillips</a>
+                </div>
+                <a href="#comment-221088907" class="permalink"><time datetime="2005-11-07T15:06:19">2005-11-07T15:06:19</time></a>
+            </div>
+            <div class="content"><p>I have been thinking along these lines, too. A while back I outlined a little kluge that allows you to use external editors with Tinderbox in a fairly transparent way (click on the note and the editor for that note's type opens up). In this way of working the note contents are maintained as external files, and Tinderbox is used to show their relationships:</p>
+
+<p>http://lee-phillips.org/osx/tinderbox/tinderext/index.html</p>
+
+<p>Lately I've been thinking that I would like to write notes using templates (Cheetah, etc.) and store their attributes in a standard database, then have .dot files produced by a python program to visualize relationships. All open-source, and portable to any unix-style system. HTML export would almost come free, using one of python's many web frameworks. You lose Tinderbox's direct manipulation, but you escape from its "universe" (with its non-Cocoa crustiness).</p></div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221088909">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href=""><img src="http://www.gravatar.com/avatar.php?gravatar_id=8e1d126ebdb4c95189c96a998d006c62&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="">John Robert Cornell</a>
+                </div>
+                <a href="#comment-221088909" class="permalink"><time datetime="2005-11-18T17:52:30">2005-11-18T17:52:30</time></a>
+            </div>
+            <div class="content"><p>I've had the same thoughts about exploding Tinderbox for a while. Bruce Horn, one of the original members of the Mac team, is on to something similar: http://www.ingenuitysoftware.com/</p></div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221088913">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href=""><img src="http://www.gravatar.com/avatar.php?gravatar_id=f6cda270091f73aa4bd98739aa3f676e&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="">Dowd McAllister</a>
+                </div>
+                <a href="#comment-221088913" class="permalink"><time datetime="2005-12-23T22:20:57">2005-12-23T22:20:57</time></a>
+            </div>
+            <div class="content"><p>I've been looking for something very similar. I like Tinderbox's simplicity and power, but for a while now, I've thought the tool would be easier to implement in Smalltalk http://www.squeak.org/</p>
+
+<p>I'm just waiting around for Croquet http://www.opencroquet.org/ , honestly. Once that is released, I think the tool we're looking for would be almost trivial to build. (my ideal version of the tool includes network awareness and collaboration)</p></div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221088918">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href=""><img src="http://www.gravatar.com/avatar.php?gravatar_id=96d8316409f72a4bde8cf7ca90fb65e7&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="">Joe Mazz</a>
+                </div>
+                <a href="#comment-221088918" class="permalink"><time datetime="2006-03-20T09:38:28">2006-03-20T09:38:28</time></a>
+            </div>
+            <div class="content"><p>What intruiging ideas you are discussing here! 
+You have struck a chord with my own hesitation to dive head-first into
+Tinderbox (TB)--- the need to import (or re-enter) all my key note
+content into its own "information repository," which even then 
+would be only loosly connected to all the rest of the "notes" 
+in thousands of other files on my computer. 
+Another big limitation is its inabiliy to link notes 
+between TB documents.</p>
+
+<p>It appears that Spotlight+SpotMeta provide the
+GUI to assign arbitray searchable attributes for file content, 
+and SmartFolders provide some of the key functionality of TB agents. 
+And I suppose symlinks in the OS effectively duplicate the primary
+role of TB aliases (notes that can appear in any number of other
+locations in the hierarchy).
+But these still cover only portions of the functionality of Tinderbox.</p>
+
+<p>What would provide the visualization component of TB that 
+represents files as glyphs (at least like TB map view's "boxes", 
+if not something more flexible and graphically rich),  and that
+enables users to interactively create 
+hyperlinks between files by drawing lines between them? 
+Has anyone here come across, or perhaps started developing, a tool that
+can simplify (graphically) creating hyperlinks between UNIX files?
+Under the hood, clearly such a GUI would be making and breaking 
+extended attributes shared in common between selected sets of files
+in the HFS+ file system.</p>
+
+<p>A recent post at macrumors.com suggests our creative friends at Apple
+are perhaps already onto this idea (for Mac OS 10.5?):
+http://forums.macrumors.com/showthread.php?t=156291&amp;page=6</p>
+
+<blockquote>
+  <p>From the rumors I'm hearing about the next version of Spotlight and 
+  the possibility of creating linked relationships between objects, 
+  it should be exciting times.</p>
+</blockquote>
+
+<p>How about the assignment of attributes to the hyperlinks between
+documents (another unique and powerful TB feature)?</p>
+
+<p>And what would represent the TB function of templates and agents for
+automated formatting of selected content for HTML or XML documents by 
+combining information from various files ("notes")? I suppose this could
+be programmed/scripted in any number of ways, using say Python or even
+Automator or AppleScript. </p>
+
+<p>The possibilities truly are endless.</p></div>
+            
+        </li>
+    
+        </ul>
+    
+        </div>
+    

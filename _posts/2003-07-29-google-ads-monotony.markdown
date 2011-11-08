@@ -1,8 +1,9 @@
---- 
-wordpress_id: 451
+---
+comments_archived: true
+date: '2003-07-29T10:33:36-04:00'
 layout: post
 title: Google ads getting monotonous?
-date: "2003-07-29T10:33:36-04:00"
+wordpress_id: 451
 wordpress_slug: google-ads-monotony
 wordpress_url: http://www.decafbad.com/blog/?p=451
 ---
@@ -37,3 +38,71 @@ check out how things look, the Google ad appears to have rotated.
 Is someone watching?  Heh, heh.
 <!--more-->
 shortname=google_ads_monotony
+
+<div id="comments" class="comments archived-comments">
+            <h3>Archived Comments</h3>
+            
+        <ul class="comments">
+            
+        <li class="comment" id="comment-221083041">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://simon.incutio.com/"><img src="http://www.gravatar.com/avatar.php?gravatar_id=02ecb4f56e961dd226352c4dd51eff26&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://simon.incutio.com/">Simon Willison</a>
+                </div>
+                <a href="#comment-221083041" class="permalink"><time datetime="2003-07-29T10:54:48">2003-07-29T10:54:48</time></a>
+            </div>
+            <div class="content">Just so you know, I'm getting ads for XSD tutorials and XML parsing solutions.</div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221083043">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://www.anitarowland.com/"><img src="http://www.gravatar.com/avatar.php?gravatar_id=7b778c54ab68babe147c941eece1b00d&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://www.anitarowland.com/">Anita Rowland</a>
+                </div>
+                <a href="#comment-221083043" class="permalink"><time datetime="2003-07-29T11:30:24">2003-07-29T11:30:24</time></a>
+            </div>
+            <div class="content">maybe this is why using the ads on archive pages for individual posts is a good notion? the topics would be more specific, I think.</div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221083046">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://trikuare.cx/"><img src="http://www.gravatar.com/avatar.php?gravatar_id=0a5b2c20fe4587a2b0abc3738c953e53&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://trikuare.cx/">magenta</a>
+                </div>
+                <a href="#comment-221083046" class="permalink"><time datetime="2003-07-29T15:47:17">2003-07-29T15:47:17</time></a>
+            </div>
+            <div class="content">I think it's funny how on DDRFreak.com they get lots of ads for things like DWI defense lawyers and such.  (DWI is also the name of one of the DDR clones.)
+
+I think they need to work on their targeting metrics a bit more. :D</div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221083048">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href=""><img src="http://www.gravatar.com/avatar.php?gravatar_id=673077cfcaedce7b37ff753d6100560a&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="">John Burton</a>
+                </div>
+                <a href="#comment-221083048" class="permalink"><time datetime="2003-08-01T08:24:37">2003-08-01T08:24:37</time></a>
+            </div>
+            <div class="content">The ads I'm seeing on your page are all for uk computer hardware suppliers. So unless they are all on a big export drive at the moment I image that different people are getting different ads.</div>
+            
+        </li>
+    
+        </ul>
+    
+        </div>
+    

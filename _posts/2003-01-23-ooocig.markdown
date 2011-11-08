@@ -1,8 +1,9 @@
---- 
-wordpress_id: 366
+---
+comments_archived: true
+date: '2003-01-23T22:40:23-05:00'
 layout: post
 title: AppleScript and application services in the closet
-date: "2003-01-23T22:40:23-05:00"
+wordpress_id: 366
 wordpress_slug: ooocig
 wordpress_url: http://www.decafbad.com/blog/?p=366
 ---
@@ -20,3 +21,31 @@ wordpress_url: http://www.decafbad.com/blog/?p=366
 <p>It's good stuff, Apple, show it off.</p>
 <!--more-->
 shortname=ooocig
+
+<div id="comments" class="comments archived-comments">
+            <h3>Archived Comments</h3>
+            
+        <ul class="comments">
+            
+        <li class="comment" id="comment-221086619">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://disco.ucsd.edu/blog/"><img src="http://www.gravatar.com/avatar.php?gravatar_id=3c561e62d8fc9a93d5409bea44cf1231&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://disco.ucsd.edu/blog/">Michael McCracken</a>
+                </div>
+                <a href="#comment-221086619" class="permalink"><time datetime="2003-01-23T23:53:14">2003-01-23T23:53:14</time></a>
+            </div>
+            <div class="content">Hey, if you want to do a cocoa project to make services more visible, you might want to take a look at one of my old projects - I called it Self Service. http://disco.ucsd.edu/blog/computers/apps/SelfService 
+
+The idea was to make Services into floating windows that you could drag and drop to. It works fine, but I keep forgetting to use it. (And Safari doesn't have a service)
+
+If you want the code, just ask.</div>
+            
+        </li>
+    
+        </ul>
+    
+        </div>
+    

@@ -1,8 +1,9 @@
---- 
-wordpress_id: 653
+---
+comments_archived: true
+date: '2005-06-15T12:37:20-04:00'
 layout: post
 title: Spotlight Bummers and the CC Metadata Importer
-date: "2005-06-15T12:37:20-04:00"
+wordpress_id: 653
 wordpress_slug: spotlight-bummers-and-the-cc-metadata-importer
 wordpress_url: http://www.decafbad.com/blog/?p=653
 ---
@@ -148,3 +149,41 @@ kMDItemUsedDates               = (2003-01-22 12:43:35 -0500)
 In case those two floods of metadata set your head spinning, the post-install metadata is lacking items from the pre-install metadata.  I need to uninstall this importer and get my other metadata back.  And, this isn't a slight against the importer--it looks like really cool work.  No, this is a bummer of Spotlight.
 
 *Almost there...*
+
+<div id="comments" class="comments archived-comments">
+            <h3>Archived Comments</h3>
+            
+        <ul class="comments">
+            
+        <li class="comment" id="comment-221088590">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://ulaluma.com/pyx"><img src="http://www.gravatar.com/avatar.php?gravatar_id=9e03aaf8edbe4b2c0d25e30ab9a69ffb&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://ulaluma.com/pyx">Donovan Preston</a>
+                </div>
+                <a href="#comment-221088590" class="permalink"><time datetime="2005-06-15T12:55:56">2005-06-15T12:55:56</time></a>
+            </div>
+            <div class="content">At WWDC I heard some of the Apple developers complaining about this as well. It certainly is a huge shortcoming of spotlight and hopefully it will be addressed soon. Because of this, for example, it would be impossible to have an importer for * which imported the MD5 hash of every file on your system, or something like that.</div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221088591">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://www.fluffy.co.uk/spotmeta/"><img src="http://www.gravatar.com/avatar.php?gravatar_id=a660afb8f1f22ce1b03ad3b532aa05b5&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://www.fluffy.co.uk/spotmeta/">Ben Summers</a>
+                </div>
+                <a href="#comment-221088591" class="permalink"><time datetime="2005-10-20T14:54:46">2005-10-20T14:54:46</time></a>
+            </div>
+            <div class="content"><p>My latest project, SpotMeta, solves this problem. The extension it installs also allows <a href="http://www.fluffy.co.uk/spotmeta/devimporters.html" rel="nofollow">importers to be cascaded</a>.</p></div>
+            
+        </li>
+    
+        </ul>
+    
+        </div>
+    

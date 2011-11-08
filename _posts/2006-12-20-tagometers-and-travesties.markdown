@@ -1,14 +1,15 @@
---- 
-wordpress_id: 1027
+---
+comments_archived: true
+date: '2006-12-20T20:19:56-05:00'
 layout: post
-title: Tagometers and Travesties
-date: "2006-12-20T20:19:56-05:00"
-tags: 
+tags:
 - metablogging
 - delicious
 - json
 - webdev
 - winer
+title: Tagometers and Travesties
+wordpress_id: 1027
 wordpress_slug: tagometers-and-travesties
 wordpress_url: http://decafbad.com/blog/2006/12/20/tagometers-and-travesties
 ---
@@ -37,3 +38,97 @@ Do not taunt [JSON URL feed][jf].
 [del]: http://del.icio.us/
 [ta]: http://blog.del.icio.us/blog/2006/12/the_new_and_tag.html
 [dw]: http://www.scripting.com/2006/12/20.html#godBlessTheReinventers
+
+<div id="comments" class="comments archived-comments">
+            <h3>Archived Comments</h3>
+            
+        <ul class="comments">
+            
+        <li class="comment" id="comment-221090833">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://www.scripting.com/"><img src="http://www.gravatar.com/avatar.php?gravatar_id=2378b474e8eadf5da80e86c2bbc75a74&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://www.scripting.com/">Dave Winer</a>
+                </div>
+                <a href="#comment-221090833" class="permalink"><time datetime="2006-12-21T02:00:51">2006-12-21T02:00:51</time></a>
+            </div>
+            <div class="content"><p>Not sure if I helped your mood or made it worse, but the rant wasn't about you. </p>
+
+<p>http://www.json.org/xml.html</p>
+
+<p>Tell me what you think of that bit of hyperbole. Someone there is trying to undermine a lot of work a lot of people did over a long period of time to get software to interoperate. When you say that's just my issue, you miss the point. It should be everyone's.</p></div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221090834">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://gfmorris.net/"><img src="http://www.gravatar.com/avatar.php?gravatar_id=505e3b39dcea29b3ded74a5494c493eb&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://gfmorris.net/">Geof F. Morris</a>
+                </div>
+                <a href="#comment-221090834" class="permalink"><time datetime="2006-12-21T02:28:32">2006-12-21T02:28:32</time></a>
+            </div>
+            <div class="content"><p>Aw, man.  It should've been "Do not taunt happy JSON URL feed."</p></div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221090836">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://www.decafbad.com"><img src="http://www.gravatar.com/avatar.php?gravatar_id=2377f34a68801b861c3e54e1301f0dce&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://www.decafbad.com">l.m.orchard</a>
+                </div>
+                <a href="#comment-221090836" class="permalink"><time datetime="2006-12-21T02:47:44">2006-12-21T02:47:44</time></a>
+            </div>
+            <div class="content"><p>Honestly, it brightened my mood.  The smiley was neither ironic nor sarcastic.  Something big I helped launch has been stirring an interesting discussion, however tangential my blame in the making.  </p>
+
+<p>Vanity and Carly Simon aside, I know I'm not the main perpetrator of JSON.  I just couldn't resist an opportunity to be a smart ass.  For that I have a <em>sincere</em> apology.  I should probably strike it or delete it now that the giddiness of a major launch and a lot of attention has subsided.</p>
+
+<p>But seriously, what I meant above is not that this is <em>your</em> issue, per se.  This post is really more directed at some comments on your blog post, in bulk.  </p>
+
+<p>Our particular intentions behind using JSON here do not necessarily map to anyone else's expectation from a web service or standards-driven perspective.  It seems like a lot of people are looking at this JSON data since its early release, divorced from it's main consumer:  The Tagometer JS include.  It works for that purpose - and incidentally might help others - but we're not working very hard to support other uses.</p>
+
+<p>Apropos of that, I don't particularly buy the hyperbole about JSON being XML's superior in the general case.  JSON's a brilliant hack, but it's got issues.  And seriously, if anyone thinks that adding and removing script tags on the fly in a browser DOM is the best overall way to go about things...  they should be strung up.  It just so happens that right now, it's the only way to do some things.</p></div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221090837">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://bon.gs"><img src="http://www.gravatar.com/avatar.php?gravatar_id=e8bc54082f8f4894f625bb229265b9bd&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://bon.gs">timb</a>
+                </div>
+                <a href="#comment-221090837" class="permalink"><time datetime="2006-12-21T11:22:52">2006-12-21T11:22:52</time></a>
+            </div>
+            <div class="content"><p>hooray, i'm glad to see the json url feed.</p>
+
+<p>however, i shouldn't have to generate the md5s of the urls i am interested in... i should just be able to give it the actual urls.</p></div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221090838">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://www.jm3.net/"><img src="http://disqus.com/api/users/avatars/jm3.jpg"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://www.jm3.net/">John Manoogian III (jm3)</a>
+                </div>
+                <a href="#comment-221090838" class="permalink"><time datetime="2006-12-30T02:28:08">2006-12-30T02:28:08</time></a>
+            </div>
+            <div class="content"><p>mmmmm, swilling the liquid core...!</p></div>
+            
+        </li>
+    
+        </ul>
+    
+        </div>
+    

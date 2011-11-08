@@ -1,10 +1,11 @@
---- 
-wordpress_id: 701
+---
+comments_archived: true
+date: '2005-09-27T11:27:17-04:00'
 layout: post
-title: Intelligent Design and the cessation of naming of things
-date: "2005-09-27T11:27:17-04:00"
-tags: 
+tags:
 - asides
+title: Intelligent Design and the cessation of naming of things
+wordpress_id: 701
 wordpress_slug: intelligent-design-and-the-cessation-of-naming-of-things
 wordpress_url: http://decafbad.com/blog/?p=701
 ---
@@ -20,3 +21,29 @@ When did God tell you to give up your mind and stop naming things?  Intelligent 
 **Update 2:** Also, because I thought it was so apropos:
 
 <blockquote cite="http://fishbowl.pastiche.org/2005/09/30/intelligent_design_and_me">And He’s not going to create a Universe based on rational laws, then not want us to practice our rationality.</blockquote><small style="text-align:right; display:block">Source: <a href="http://fishbowl.pastiche.org/2005/09/30/intelligent_design_and_me">The Fishbowl: Intelligent Design and Me</a></small><br />
+
+<div id="comments" class="comments archived-comments">
+            <h3>Archived Comments</h3>
+            
+        <ul class="comments">
+            
+        <li class="comment" id="comment-221086427">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://singe.rucus.net/"><img src="http://www.gravatar.com/avatar.php?gravatar_id=70f4c3580e61128421cd3899a2dcf6f1&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://singe.rucus.net/">Dominic White</a>
+                </div>
+                <a href="#comment-221086427" class="permalink"><time datetime="2005-09-29T19:58:40">2005-09-29T19:58:40</time></a>
+            </div>
+            <div class="content"><p>Have a look at http://talkorigins.net/ it has all sorts of interesting refutations of intelligent design. It is a great place to point people who believe it to.</p>
+
+<p>Also if you Google about, you can find Pope John Paul's encyclical on evolutions, which says it isn't inconsistent with Christianity.</p></div>
+            
+        </li>
+    
+        </ul>
+    
+        </div>
+    

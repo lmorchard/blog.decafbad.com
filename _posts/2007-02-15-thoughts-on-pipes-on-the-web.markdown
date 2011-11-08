@@ -1,15 +1,16 @@
---- 
-wordpress_id: 1038
+---
+comments_archived: true
+date: '2007-02-15T03:09:56-05:00'
 layout: post
-title: Thoughts on Pipes on the Web
-date: "2007-02-15T03:09:56-05:00"
-tags: 
+tags:
 - webdev
 - rss
 - mashups
 - atom
 - yahoo
 - feedmagick
+title: Thoughts on Pipes on the Web
+wordpress_id: 1038
 wordpress_slug: thoughts-on-pipes-on-the-web
 wordpress_url: http://decafbad.com/blog/2007/02/15/thoughts-on-pipes-on-the-web
 ---
@@ -38,3 +39,45 @@ So, it's not you, it's me.  I think I've got a serious deficit of enthusiasm for
 [xrfp]: http://www.decafbad.com/twiki/bin/view/Main/XmlRpcFilteringPipe
 [pipes]: http://pipes.yahoo.com/
 [mt]: http://decafbad.com/trac/browser/trunk/hacking_rss_and_atom/ch15_popular_links.py
+
+<div id="comments" class="comments archived-comments">
+            <h3>Archived Comments</h3>
+            
+        <ul class="comments">
+            
+        <li class="comment" id="comment-221086705">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href=""><img src="http://www.gravatar.com/avatar.php?gravatar_id=390bc3dca83aea14b31f821e51a4400b&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="">Kenneth</a>
+                </div>
+                <a href="#comment-221086705" class="permalink"><time datetime="2007-02-15T14:06:37">2007-02-15T14:06:37</time></a>
+            </div>
+            <div class="content"><p>http://yakubovich.blogspot.com/2007/01/visipipe-visual-version-of-core-utils.html</p>
+
+<p>Might have been buried in all the buzz about Yahoo, but this sounds like a neat idea.</p>
+
+<p><a href="http://proessays.com">Kenneth Writer</a></p></div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221086707">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://jeffdaly.wordpress.com/"><img src="http://www.gravatar.com/avatar.php?gravatar_id=f2e613837687c930227127a7b0267dd0&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://jeffdaly.wordpress.com/">Jeff Daly</a>
+                </div>
+                <a href="#comment-221086707" class="permalink"><time datetime="2007-02-16T01:08:54">2007-02-16T01:08:54</time></a>
+            </div>
+            <div class="content"><p>You're not alone. I was excited when I learned about Pipes, but ultimately I was let down by the lack of parsing tools. Pipes is seriously limited without any XPath/regular expression parsing capabilities. Fortunately, there is a post on XPath in the feature request page.</p></div>
+            
+        </li>
+    
+        </ul>
+    
+        </div>
+    

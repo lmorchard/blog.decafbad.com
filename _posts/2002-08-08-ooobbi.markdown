@@ -1,8 +1,9 @@
---- 
-wordpress_id: 208
+---
+comments_archived: true
+date: '2002-08-08T15:39:31-04:00'
 layout: post
 title: Summer's almost over
-date: "2002-08-08T15:39:31-04:00"
+wordpress_id: 208
 wordpress_slug: ooobbi
 wordpress_url: http://www.decafbad.com/blog/?p=208
 ---
@@ -12,3 +13,41 @@ wordpress_url: http://www.decafbad.com/blog/?p=208
 <p>So Summer has been just a nice, long nap in a hammock.  Time to start making the coffee.  (Not decaf, of course.)</p>
 <!--more-->
 shortname=ooobbi
+
+<div id="comments" class="comments archived-comments">
+            <h3>Archived Comments</h3>
+            
+        <ul class="comments">
+            
+        <li class="comment" id="comment-221085909">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://surfmind.com"><img src="http://www.gravatar.com/avatar.php?gravatar_id=1bdc4684f34167b972b4ab6da571e1f6&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://surfmind.com">Andyed</a>
+                </div>
+                <a href="#comment-221085909" class="permalink"><time datetime="2002-08-09T00:44:59">2002-08-09T00:44:59</time></a>
+            </div>
+            <div class="content">My vote is on the pipeline... I'd really love to get glossary expansion in OPML rendering.</div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221085910">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://www.decafbad.com"><img src="http://www.gravatar.com/avatar.php?gravatar_id=2ac2cffd36ada8c734b90e02a1e5c1ac&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://www.decafbad.com">l.m.orchard</a>
+                </div>
+                <a href="#comment-221085910" class="permalink"><time datetime="2002-08-09T13:39:30">2002-08-09T13:39:30</time></a>
+            </div>
+            <div class="content">And here I thought no one remembered my lil pipeline experiments. :)  I should get back to playing with them, since I thought they had some really neat promise</div>
+            
+        </li>
+    
+        </ul>
+    
+        </div>
+    

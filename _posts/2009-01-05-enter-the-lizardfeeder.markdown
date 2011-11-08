@@ -1,9 +1,8 @@
---- 
-wordpress_id: 1533
+---
+comments_archived: true
+date: '2009-01-05T19:01:54-05:00'
 layout: post
-title: Enter the LizardFeeder
-date: "2009-01-05T19:01:54-05:00"
-tags: 
+tags:
 - json
 - webdev
 - rss
@@ -12,6 +11,8 @@ tags:
 - mozilla
 - lizardfeeder
 - activitystreams
+title: Enter the LizardFeeder
+wordpress_id: 1533
 wordpress_slug: enter-the-lizardfeeder
 wordpress_url: http://decafbad.com/blog/?p=1533
 ---
@@ -58,3 +59,129 @@ So, take a look, [check it out][lizardfeeder], and let me know what you think!
 [about]: http://blog.mozilla.com/about_mozilla/
 [tree]: http://blog.lizardwrangler.com/2008/07/29/the-mozilla-tree/
 [requests]: https://bugzilla.mozilla.org/show_bug.cgi?id=469838
+
+<div id="comments" class="comments archived-comments">
+            <h3>Archived Comments</h3>
+            
+        <ul class="comments">
+            
+        <li class="comment" id="comment-221083355">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href=""><img src="http://www.gravatar.com/avatar.php?gravatar_id=eb4ef8f72f933b04a27b118070ac538e&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="">dria</a>
+                </div>
+                <a href="#comment-221083355" class="permalink"><time datetime="2009-01-06T01:26:18">2009-01-06T01:26:18</time></a>
+            </div>
+            <div class="content"><p>Is there a list of what sources are already being read by the LizardFeeder anywhere?  I scanned through the various links here but didn't see anything obvious :)</p></div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221083356">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://www.decafbad.com"><img src="http://www.gravatar.com/avatar.php?gravatar_id=2377f34a68801b861c3e54e1301f0dce&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://www.decafbad.com">l.m.orchard</a>
+                </div>
+                <a href="#comment-221083356" class="permalink"><time datetime="2009-01-06T01:37:15">2009-01-06T01:37:15</time></a>
+            </div>
+            <div class="content"><p>Yeah, that part could use some improvement.  There's a monster list here:</p>
+
+<p>http://feeds.mozilla.com/sources.opml</p></div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221083358">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://briks.si"><img src="http://www.gravatar.com/avatar.php?gravatar_id=315c86c9c01a5ced617aa58ef641902d&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://briks.si">Brian King</a>
+                </div>
+                <a href="#comment-221083358" class="permalink"><time datetime="2009-01-06T10:11:46">2009-01-06T10:11:46</time></a>
+            </div>
+            <div class="content"><p>Excellent stuff. I was going to ask about access to the list of sources for each category, but Dria beat me to it.</p></div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221083359">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://www.decafbad.com"><img src="http://www.gravatar.com/avatar.php?gravatar_id=2377f34a68801b861c3e54e1301f0dce&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://www.decafbad.com">l.m.orchard</a>
+                </div>
+                <a href="#comment-221083359" class="permalink"><time datetime="2009-01-06T15:26:50">2009-01-06T15:26:50</time></a>
+            </div>
+            <div class="content"><p>Actually, it occurs to me that this config file might work as a more readable version of the list of sources:</p>
+
+<p>https://svn.mozilla.org/projects/lizardfeeder/trunk/conf/config.ini-dist</p>
+
+<p>There's also this, which is where most of the previous list came from: </p>
+
+<p>https://svn.mozilla.org/projects/lizardfeeder/trunk/conf/hg-feeds.opml-dist</p></div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221083360">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://ozten.myopenid.com/"><img src="http://www.gravatar.com/avatar.php?gravatar_id=4021c2acfc5b98b6dfe2d0ec26432ce1&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://ozten.myopenid.com/">Austin King</a>
+                </div>
+                <a href="#comment-221083360" class="permalink"><time datetime="2009-01-06T20:55:52">2009-01-06T20:55:52</time></a>
+            </div>
+            <div class="content"><p>Thanks for the background surrounding lizard feeder. Great post!</p>
+
+<p>+1 Dria and Brian</p>
+
+<p>Maybe make the title of the link to the OPML more descriptive than just "Feeds" and/or link to it in the body of the UI too and write something around it to encourage other's visualizations.</p>
+
+<p>Awesome work Les.</p></div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221083361">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href=""><img src="http://www.gravatar.com/avatar.php?gravatar_id=a1c5374b594738e98be48f7f193443b3&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="">Sanjay Parekh</a>
+                </div>
+                <a href="#comment-221083361" class="permalink"><time datetime="2009-02-04T20:38:04">2009-02-04T20:38:04</time></a>
+            </div>
+            <div class="content"><p>Is the AJAX UI available anywhere for download?  I'd like to hack it for another use altogether.  Great visualization and great application.  Good job.</p></div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221083362">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href=""><img src="http://www.gravatar.com/avatar.php?gravatar_id=7881dcee98d7df7e89939afd191c92ce&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="">Deen Seth.</a>
+                </div>
+                <a href="#comment-221083362" class="permalink"><time datetime="2009-09-16T18:21:02">2009-09-16T18:21:02</time></a>
+            </div>
+            <div class="content"><p>This is a very good idea.  Can we accomplish the same result using Yahoo Pipe?  Do you plan to add events from Bugzilla, and mailing list to the feed?</p>
+
+<p>I am more interested in development activities.  There aren't much in code category.</p>
+
+<p>I am interested in analyzing development related events.</p></div>
+            
+        </li>
+    
+        </ul>
+    
+        </div>
+    

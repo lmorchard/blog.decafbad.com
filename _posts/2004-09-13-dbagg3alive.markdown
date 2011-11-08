@@ -1,12 +1,18 @@
---- 
-wordpress_id: 546
+---
+comments_archived: true
+date: '2004-09-13T18:11:41-04:00'
+excerpt: So at this point, it's all URLs and barely working HTML, but it's
+    exciting to me at least.  And it's dogfood for me, since I'm using this
+    crud to get my daily (hourly?) fix.  Pretty soon, I'll be diving into
+    wrapping more of a proper usable web app around this, with user management
+    and stuff that works in MSIE.  Until then, maybe someone else will see
+    this and catch a buzz from it.
 layout: post
-title: Early dbagg3 demo is alive and kicking
-excerpt: So at this point, it's all URLs and barely working HTML, but it's exciting to me at least.  And it's dogfood for me, since I'm using this crud to get my daily (hourly?) fix.  Pretty soon, I'll be diving into wrapping more of a proper usable web app around this, with user management and stuff that works in MSIE.  Until then, maybe someone else will see this and catch a buzz from it.
-date: "2004-09-13T18:11:41-04:00"
-tags: 
+tags:
 - syndication
 - xml
+title: Early dbagg3 demo is alive and kicking
+wordpress_id: 546
 wordpress_slug: dbagg3alive
 wordpress_url: http://www.decafbad.com/blog/?p=546
 ---
@@ -74,3 +80,52 @@ Stay tuned.
 [bloglines]: http://www.bloglines.com/
 <!--more-->
 shortname=dbagg3alive
+
+<div id="comments" class="comments archived-comments">
+            <h3>Archived Comments</h3>
+            
+        <ul class="comments">
+            
+        <li class="comment" id="comment-221090566">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href=""><img src="http://www.gravatar.com/avatar.php?gravatar_id=e1cc8e7103bb0f77a7d7abf91b1a961b&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="">Christopher</a>
+                </div>
+                <a href="#comment-221090566" class="permalink"><time datetime="2004-09-14T09:40:02">2004-09-14T09:40:02</time></a>
+            </div>
+            <div class="content">Very cool! Keep this up. I'm looking forward to your final version :)</div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221090567">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://notizen.typepad.com"><img src="http://www.gravatar.com/avatar.php?gravatar_id=005509858f6bec19f23d989ff9228724&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://notizen.typepad.com">Markus Breuer</a>
+                </div>
+                <a href="#comment-221090567" class="permalink"><time datetime="2004-09-15T12:48:19">2004-09-15T12:48:19</time></a>
+            </div>
+            <div class="content">Could not find the Trackback-URL. So here my two-cents-worth as a comment:
+
+Leslie Michael Orchard (of Decafbad) did it again. He has a demo of his latest projekt online: Dbagg3 (a.k.a . FeedReactor?) I am very impressed. It is still in its embryonic state but show great promise. 
+
+The current demo may look unimpressing to the uninitiated but actually implements already a lot of functionality in a rather light package. All this functionality can be accessed elegantly through the REST-API.
+
+[...]
+
+I am looking into integrating dbagg3 into my own feedbox-project (see here). I hope Leslie aggrees with us doing some tinkering around ...
+
+... in more detail 
+LINK: http://notizen.typepad.com/aus_der_provinz/2004/09/cool_new_embryo.html</div>
+            
+        </li>
+    
+        </ul>
+    
+        </div>
+    

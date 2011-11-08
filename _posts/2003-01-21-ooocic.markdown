@@ -1,8 +1,9 @@
---- 
-wordpress_id: 362
+---
+comments_archived: true
+date: '2003-01-21T13:03:09-05:00'
 layout: post
 title: Why Moblog?
-date: "2003-01-21T13:03:09-05:00"
+wordpress_id: 362
 wordpress_slug: ooocic
 wordpress_url: http://www.decafbad.com/blog/?p=362
 ---
@@ -12,3 +13,43 @@ wordpress_url: http://www.decafbad.com/blog/?p=362
 <p>Anyway, after all the fun of connecting various bits together, you always come back to finding a reason to use it if you hadn't had one to begin with.  Sometimes the reason ends up being that it's just fun to play with bits connected together, and that someone somewhere might just find the result interesting.  No one's forcing anyone to look at all the pictures of the world's cats, you know?</p>
 <!--more-->
 shortname=ooocic
+
+<div id="comments" class="comments archived-comments">
+            <h3>Archived Comments</h3>
+            
+        <ul class="comments">
+            
+        <li class="comment" id="comment-221084892">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://stevenf.com/"><img src="http://www.gravatar.com/avatar.php?gravatar_id=f510366ec3ac7bf4a95992134b63fb68&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://stevenf.com/">Steven Frank</a>
+                </div>
+                <a href="#comment-221084892" class="permalink"><time datetime="2003-01-22T17:05:58">2003-01-22T17:05:58</time></a>
+            </div>
+            <div class="content">Agreed!  Blogged photos and little multimedia clips don't have to be "important", as long as they are in some way interesting.  The view out of your office window is probably the most boring thing in the world to you, but to someone who has never seen it before, it might be interesting.    
+
+I always get complaints about the frequency of cat pictures on snapclub.com but you gotta take the bad with the god.  :)</div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221084893">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://stevenf.com/"><img src="http://www.gravatar.com/avatar.php?gravatar_id=f510366ec3ac7bf4a95992134b63fb68&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://stevenf.com/">Steven Frank</a>
+                </div>
+                <a href="#comment-221084893" class="permalink"><time datetime="2003-01-22T17:08:16">2003-01-22T17:08:16</time></a>
+            </div>
+            <div class="content">uh, "good", not "god"</div>
+            
+        </li>
+    
+        </ul>
+    
+        </div>
+    

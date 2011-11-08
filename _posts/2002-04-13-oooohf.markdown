@@ -1,8 +1,9 @@
---- 
-wordpress_id: 66
+---
+comments_archived: true
+date: '2002-04-13T18:04:32-04:00'
 layout: post
 title: What to do about the Google API
-date: "2002-04-13T18:04:32-04:00"
+wordpress_id: 66
 wordpress_slug: oooohf
 wordpress_url: http://www.decafbad.com/blog/?p=66
 ---
@@ -12,3 +13,49 @@ wordpress_url: http://www.decafbad.com/blog/?p=66
 <p>Not that this is unexpected or a bad thing or a statement of derision.  Their Alpha Geeks made the service available, and now its up to the world Alpha Geeks to turn it into magic.  I'm just waiting and thinking though...  the AG's are churning out all permutations of language bindings, alternative interfaces, and weavings of the service into other apps.  This is the first stage of play.  I don't know that I'll feel like playing much yet.  So I'll watch, and maybe tinker a bit, but mostly be thinking about what the next stage of play will become.</p>
 <!--more-->
 shortname=oooohf
+
+<div id="comments" class="comments archived-comments">
+            <h3>Archived Comments</h3>
+            
+        <ul class="comments">
+            
+        <li class="comment" id="comment-221090292">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://IAwiki.net/"><img src="http://www.gravatar.com/avatar.php?gravatar_id=92ffcf37d534a7e60938bc270f750979&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://IAwiki.net/">Eric Scheid</a>
+                </div>
+                <a href="#comment-221090292" class="permalink"><time datetime="2002-04-14T01:05:34">2002-04-14T01:05:34</time></a>
+            </div>
+            <div class="content">tracerlock?
+
+http://tracerlock.com/</div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221090293">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://www.decafbad.com"><img src="http://www.gravatar.com/avatar.php?gravatar_id=2ac2cffd36ada8c734b90e02a1e5c1ac&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://www.decafbad.com">l.m.orchard</a>
+                </div>
+                <a href="#comment-221090293" class="permalink"><time datetime="2002-04-15T00:45:47">2002-04-15T00:45:47</time></a>
+            </div>
+            <div class="content">Okay...  Just trying to think how one might do this with the Google search API.
+
+Forget for the moment that the "demo" API is limited to 10 search results.  So I make a search and download all 186,000 or however many results come up for my terms.  I store these.  A specified number of minutes later I perform the search again and download the 186,123 results that come up for my search.  I run a diff between these and have my changes.
+
+Seems like downloading those hundreds of thousands of search results, a periodic times, possibly by dozens to hundreds of users of the app, will be nasty and undesirable.
+
+I suppose some pooling of terms and centrallizing the searching into another app would maybe help cushion this...  but something seems itchy and wrong about this to me.</div>
+            
+        </li>
+    
+        </ul>
+    
+        </div>
+    

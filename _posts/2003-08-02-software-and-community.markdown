@@ -1,8 +1,9 @@
---- 
-wordpress_id: 456
+---
+comments_archived: true
+date: '2003-08-02T16:22:27-04:00'
 layout: post
 title: Software and Community
-date: "2003-08-02T16:22:27-04:00"
+wordpress_id: 456
 wordpress_slug: software-and-community
 wordpress_url: http://www.decafbad.com/blog/?p=456
 ---
@@ -19,3 +20,45 @@ wordpress_url: http://www.decafbad.com/blog/?p=456
 	<p>Hmm.</p>
 <!--more-->
 shortname=software_and_community
+
+<div id="comments" class="comments archived-comments">
+            <h3>Archived Comments</h3>
+            
+        <ul class="comments">
+            
+        <li class="comment" id="comment-221082749">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://www.thok.org"><img src="http://www.gravatar.com/avatar.php?gravatar_id=8668a7917f70b35cb2b99bf101316468&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://www.thok.org">Mark Eichin</a>
+                </div>
+                <a href="#comment-221082749" class="permalink"><time datetime="2003-08-02T16:57:52">2003-08-02T16:57:52</time></a>
+            </div>
+            <div class="content">I found EuroPython a great way to hook into the python community, since so many of the notables (and not-so-notables) were there.  I hope to drag myself to one of the US python conferences too (since I live here :)
+
+After years in the perl community (I've recently gotten email requests for code that I wrote under perl 3) (but also distant from it in more recent times) I've found the python community (as it centers around comp.lang.python) to be receptive and polite, as well as creative.  It's a little less insane - I remember the glee with which s/foo/bar/eieio was received, when marc -at- mit discovered it - but still exciting and useful...
+
+Of course, I've only been in python-space since January 2003.</div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221082750">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://www.stonehenge.com/merlyn/"><img src="http://www.gravatar.com/avatar.php?gravatar_id=fc79316f72b984535d99411e12ea71db&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://www.stonehenge.com/merlyn/">Randal L. Schwartz</a>
+                </div>
+                <a href="#comment-221082750" class="permalink"><time datetime="2003-08-02T20:36:30">2003-08-02T20:36:30</time></a>
+            </div>
+            <div class="content">If you're ever in the same city as me, I'd be happy to have a beer with you.  See http://www.stonehenge.com/merlyn/dot-plan.txt for my travel schedule.</div>
+            
+        </li>
+    
+        </ul>
+    
+        </div>
+    

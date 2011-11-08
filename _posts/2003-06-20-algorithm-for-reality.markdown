@@ -1,8 +1,9 @@
---- 
-wordpress_id: 427
+---
+comments_archived: true
+date: '2003-06-20T19:39:57-04:00'
 layout: post
 title: About That Algorithm
-date: "2003-06-20T19:39:57-04:00"
+wordpress_id: 427
 wordpress_slug: algorithm-for-reality
 wordpress_url: http://www.decafbad.com/blog/?p=427
 ---
@@ -38,3 +39,43 @@ Hmm.  Well, just to be safe, I won't try the alternate "Step in front of a bus
 and see what happens" test.
 <!--more-->
 shortname=algorithm_for_reality
+
+<div id="comments" class="comments archived-comments">
+            <h3>Archived Comments</h3>
+            
+        <ul class="comments">
+            
+        <li class="comment" id="comment-221088409">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://blog.germuska.com"><img src="http://www.gravatar.com/avatar.php?gravatar_id=7d24bd5afe2de32b37477268ab66edd8&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://blog.germuska.com">Joe Germuska</a>
+                </div>
+                <a href="#comment-221088409" class="permalink"><time datetime="2003-06-23T00:02:55">2003-06-23T00:02:55</time></a>
+            </div>
+            <div class="content">A generally accepted technique for determining if you are dreaming or not is to read some text, look away, and then attempt to read the same text.  Apparently something about the way the dreaming brain processes text makes it impossible for it to present the same thing twice.
+
+I don't know if this holds for hallucinations, which of course, aren't the same as dreams.  But it's safer than stepping in front of a bus.</div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221088411">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://ironmonkey.blogspot.com"><img src="http://www.gravatar.com/avatar.php?gravatar_id=083fc6c2f9383f0f8365b2100d465b2b&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://ironmonkey.blogspot.com">Tom</a>
+                </div>
+                <a href="#comment-221088411" class="permalink"><time datetime="2003-07-07T14:35:59">2003-07-07T14:35:59</time></a>
+            </div>
+            <div class="content">This won't tell you whether you are in the Matrix, since the simulated calculator in the Matrix would work just fine.</div>
+            
+        </li>
+    
+        </ul>
+    
+        </div>
+    

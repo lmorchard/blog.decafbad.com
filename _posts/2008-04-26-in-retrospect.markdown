@@ -1,10 +1,11 @@
---- 
-wordpress_id: 1089
+---
+comments_archived: true
+date: '2008-04-26T13:52:52-04:00'
 layout: post
-title: In retrospect
-date: "2008-04-26T13:52:52-04:00"
-tags: 
+tags:
 - entries
+title: In retrospect
+wordpress_id: 1089
 wordpress_slug: in-retrospect
 wordpress_url: http://decafbad.com/blog/?p=1089
 ---
@@ -72,3 +73,37 @@ But, waking things up here is something I'd like to make part of that transition
 [moblogging]: http://decafbad.com/blog/2002/09/07/ooobgo
 [profjs]: http://www.wiley.com/WileyCDA/WileyTitle/productCd-047038459X.html
 [yahoomojo]: http://decafbad.com/blog/2005/03/18/briefly-briefly
+
+<div id="comments" class="comments archived-comments">
+            <h3>Archived Comments</h3>
+            
+        <ul class="comments">
+            
+        <li class="comment" id="comment-221087645">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://mpwilson.com/"><img src="http://www.gravatar.com/avatar.php?gravatar_id=e79b5fc97a604e3b1b41c158e9d61267&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://mpwilson.com/">Mike Wilson</a>
+                </div>
+                <a href="#comment-221087645" class="permalink"><time datetime="2008-04-27T03:45:47">2008-04-27T03:45:47</time></a>
+            </div>
+            <div class="content"><p>Interesting.  In six years it never occurred to me you were interested in help.  I always just thought you were posting about stuff you were working on in the basement.</p>
+
+<p>From wiki blog hybrids and amphetadesk mods, to Agent Frank, outliners and the rest.  It's all stuff that's run hauntingly parallel to things I've had the energy to start but only half the motivation required to finish.</p>
+
+<p>Of course I'm sorta just casting this out in to the void but what the hell.</p>
+
+<p>Let me know.</p>
+
+<ul>
+<li>MWF</li>
+</ul></div>
+            
+        </li>
+    
+        </ul>
+    
+        </div>
+    

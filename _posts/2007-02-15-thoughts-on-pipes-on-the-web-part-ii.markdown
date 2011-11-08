@@ -1,15 +1,16 @@
---- 
-wordpress_id: 1039
+---
+comments_archived: true
+date: '2007-02-15T03:49:56-05:00'
 layout: post
-title: Thoughts on Pipes on the Web - Part II
-date: "2007-02-15T03:49:56-05:00"
-tags: 
+tags:
 - webdev
 - rss
 - mashups
 - atom
 - yahoo
 - feedmagick
+title: Thoughts on Pipes on the Web - Part II
+wordpress_id: 1039
 wordpress_slug: thoughts-on-pipes-on-the-web-part-ii
 wordpress_url: http://decafbad.com/blog/2007/02/15/thoughts-on-pipes-on-the-web-part-ii
 ---
@@ -42,3 +43,41 @@ And, of course, I think I'm just a little hacked out and tired of whizbang new s
 [feedmagick]: http://decafbad.com/trac/wiki/FeedMagick
 [pipes]: http://pipes.yahoo.com/
 [part1]: http://decafbad.com/blog/2007/02/15/thoughts-on-pipes-on-the-web
+
+<div id="comments" class="comments archived-comments">
+            <h3>Archived Comments</h3>
+            
+        <ul class="comments">
+            
+        <li class="comment" id="comment-221090511">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://journal.2manyjohns.com"><img src="http://www.gravatar.com/avatar.php?gravatar_id=d9670e63de2bba834c5a725193702718&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://journal.2manyjohns.com">John Evans</a>
+                </div>
+                <a href="#comment-221090511" class="permalink"><time datetime="2007-02-15T13:59:01">2007-02-15T13:59:01</time></a>
+            </div>
+            <div class="content"><p>The thing that struck me about Pipes is that it seemed rather limiting to someone who can code but too geeky to someone who can't. Maybe I am wrong but I wonder that once the hype dies down who exactly the audience will be long term.</p></div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221090512">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://sturob.com/"><img src="http://www.gravatar.com/avatar.php?gravatar_id=66681517af9a0a62c1044b16a528b7e3&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://sturob.com/">Stuart Robinson</a>
+                </div>
+                <a href="#comment-221090512" class="permalink"><time datetime="2007-02-15T19:35:41">2007-02-15T19:35:41</time></a>
+            </div>
+            <div class="content"><p>Don't be so apologetic! Conceptually it's cool, but the UI quickly becomes frustrating for anyone with text-based coding experience. I guess this is the web's visual basic and we are all going to be more interested in it's perl.</p></div>
+            
+        </li>
+    
+        </ul>
+    
+        </div>
+    

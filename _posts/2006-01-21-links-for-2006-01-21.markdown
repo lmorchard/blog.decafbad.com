@@ -1,10 +1,11 @@
---- 
-wordpress_id: 832
+---
+comments_archived: true
+date: '2006-01-21T00:26:54-05:00'
 layout: post
-title: links for 2006-01-21
-date: "2006-01-21T00:26:54-05:00"
-tags: 
+tags:
 - links
+title: links for 2006-01-21
+wordpress_id: 832
 wordpress_slug: links-for-2006-01-21
 wordpress_url: http://decafbad.com/blog/2006/01/21/links-for-2006-01-21
 ---
@@ -60,3 +61,29 @@ wordpress_url: http://decafbad.com/blog/2006/01/21/links-for-2006-01-21
 		<div class="delicious-tags">(tags: <a href="http://del.icio.us/deusx/frontier">frontier</a> <a href="http://del.icio.us/deusx/webdev">webdev</a> <a href="http://del.icio.us/deusx/usertalk">usertalk</a> <a href="http://del.icio.us/deusx/userland">userland</a> <a href="http://del.icio.us/deusx/programming">programming</a>)</div>
 	</li>
 </ul>
+
+<div id="comments" class="comments archived-comments">
+            <h3>Archived Comments</h3>
+            
+        <ul class="comments">
+            
+        <li class="comment" id="comment-221086725">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://blog.benjolo.com/"><img src="http://www.gravatar.com/avatar.php?gravatar_id=aa47c0554c6c54a8c3502f76b9a3d0cf&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://blog.benjolo.com/">Ben Margolin</a>
+                </div>
+                <a href="#comment-221086725" class="permalink"><time datetime="2006-01-21T07:06:13">2006-01-21T07:06:13</time></a>
+            </div>
+            <div class="content"><p>There's some really interesting stuff in here today... and funnily enough, I thought the ones from the previous day were looked pretty dull :-) </p>
+
+<p>I do think this is a cool feature, though!</p></div>
+            
+        </li>
+    
+        </ul>
+    
+        </div>
+    

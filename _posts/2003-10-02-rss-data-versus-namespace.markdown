@@ -1,8 +1,9 @@
---- 
-wordpress_id: 488
+---
+comments_archived: true
+date: '2003-10-02T11:52:00-04:00'
 layout: post
 title: An example of an RSS 2.0 namespace versus RSS-Data usage
-date: "2003-10-02T11:52:00-04:00"
+wordpress_id: 488
 wordpress_slug: rss-data-versus-namespace
 wordpress_url: http://www.decafbad.com/blog/?p=488
 ---
@@ -203,3 +204,123 @@ Then, I transliterated things into what I understand of RSS-Data:
 &lt;/rss&gt;</pre>
 <!--more-->
 shortname=rss_data_versus_namespace
+
+<div id="comments" class="comments archived-comments">
+            <h3>Archived Comments</h3>
+            
+        <ul class="comments">
+            
+        <li class="comment" id="comment-221087864">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://zoe.nu/"><img src="http://www.gravatar.com/avatar.php?gravatar_id=2d3d8732d4a17d4ad7513b127ce055e7&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://zoe.nu/">Zoe</a>
+                </div>
+                <a href="#comment-221087864" class="permalink"><time datetime="2003-10-02T12:25:19">2003-10-02T12:25:19</time></a>
+            </div>
+            <div class="content">Hehe... :) Good work. 
+
+This demonstration should put this RSS-Data nonsense to rest.
+
+Nothing like a good example...</div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221087866">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://icite.net/blog/"><img src="http://www.gravatar.com/avatar.php?gravatar_id=9c8bd9e7e240a5917219fba15f0a10f4&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://icite.net/blog/">Jay Fienberg</a>
+                </div>
+                <a href="#comment-221087866" class="permalink"><time datetime="2003-10-02T12:41:14">2003-10-02T12:41:14</time></a>
+            </div>
+            <div class="content">Thanks for building a good example comparison--very useful and helpful to the discussion</div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221087868">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://www.myelin.co.nz/post/"><img src="http://www.gravatar.com/avatar.php?gravatar_id=79d809dc2d0441ef44efc6ad1a1429eb&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://www.myelin.co.nz/post/">Phillip Pearson</a>
+                </div>
+                <a href="#comment-221087868" class="permalink"><time datetime="2003-10-02T17:48:09">2003-10-02T17:48:09</time></a>
+            </div>
+            <div class="content">Here's code to parse the RSS-Data version:
+
+http://www.myelin.co.nz/post/2003/10/3/#200310031</div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221087869">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://www.davidgalbraith.org"><img src="http://www.gravatar.com/avatar.php?gravatar_id=30d76b8340ace48320c3cc24927543aa&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://www.davidgalbraith.org">David Galbraith</a>
+                </div>
+                <a href="#comment-221087869" class="permalink"><time datetime="2003-10-02T18:08:36">2003-10-02T18:08:36</time></a>
+            </div>
+            <div class="content">Heh - nothing like actually seeing something. And surely if you use a schema version of RSS you would get the extra information about the metadata without having to put it inline with the feed itself?</div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221087870">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://www.myelin.co.nz/post/"><img src="http://www.gravatar.com/avatar.php?gravatar_id=79d809dc2d0441ef44efc6ad1a1429eb&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://www.myelin.co.nz/post/">Phillip Pearson</a>
+                </div>
+                <a href="#comment-221087870" class="permalink"><time datetime="2003-10-02T18:18:13">2003-10-02T18:18:13</time></a>
+            </div>
+            <div class="content">And here's code to parse the namespace version:
+
+http://www.myelin.co.nz/post/2003/10/3/#200310032</div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221087871">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://dannyayers.com"><img src="http://www.gravatar.com/avatar.php?gravatar_id=ac0d01ebb5e438c029c0764064f70827&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://dannyayers.com">Danny</a>
+                </div>
+                <a href="#comment-221087871" class="permalink"><time datetime="2003-10-03T07:22:16">2003-10-03T07:22:16</time></a>
+            </div>
+            <div class="content">I've done a first-shot at this in RDF/XML :
+
+http://dannyayers.com/archives/001908.html
+
+Compare and contrast with the RSS-Data version (especially in terms of readibility, simplicity etc ;-)</div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221087872">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href=""><img src="http://www.gravatar.com/avatar.php?gravatar_id=8f8684b971819df3daca507573d78894&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="">Michael Thorne</a>
+                </div>
+                <a href="#comment-221087872" class="permalink"><time datetime="2003-10-21T17:15:09">2003-10-21T17:15:09</time></a>
+            </div>
+            <div class="content">Just started looking into the RSS-Data format and lightly read over your samples.  What I noticed first off was there was no currency definition.  I believe this would be a critical component of international business. mxt</div>
+            
+        </li>
+    
+        </ul>
+    
+        </div>
+    

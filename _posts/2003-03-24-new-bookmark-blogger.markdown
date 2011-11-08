@@ -1,8 +1,9 @@
---- 
-wordpress_id: 397
+---
+comments_archived: true
+date: '2003-03-24T15:29:20-05:00'
 layout: post
 title: New release of BookmarkBlogger available
-date: "2003-03-24T15:29:20-05:00"
+wordpress_id: 397
 wordpress_slug: new-bookmark-blogger
 wordpress_url: http://www.decafbad.com/blog/?p=397
 ---
@@ -20,3 +21,27 @@ try turning both this and the <a href="http://www.decafbad.com/twiki/bin/view/Ma
 and <a href="http://www.decafbad.com/twiki/bin/view/Main/AgentFrank">AgentFrank</a> plugin packages.
 <!--more-->
 shortname=new_bookmark_blogger
+
+<div id="comments" class="comments archived-comments">
+            <h3>Archived Comments</h3>
+            
+        <ul class="comments">
+            
+        <li class="comment" id="comment-221085726">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://www.10500bc.org"><img src="http://www.gravatar.com/avatar.php?gravatar_id=6492f173a7059ece309f7d670ff44e95&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://www.10500bc.org">nf0</a>
+                </div>
+                <a href="#comment-221085726" class="permalink"><time datetime="2003-03-24T15:54:03">2003-03-24T15:54:03</time></a>
+            </div>
+            <div class="content">Thanks les can't wait to give this a try. I really like doing the nightly link thing myself. I'm glad you've written the little gem.</div>
+            
+        </li>
+    
+        </ul>
+    
+        </div>
+    

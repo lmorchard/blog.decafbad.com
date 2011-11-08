@@ -1,9 +1,15 @@
---- 
-wordpress_id: 576
+---
+comments_archived: true
+date: '2004-12-13T13:26:45-05:00'
+excerpt: You don't want to use a metal lathe in your living room, and you
+    wouldn't want to let just anyone loose on the thing unless they knew
+    what they were doing.  As shop in junior high taught me, a lathe is
+    powerful tool capable of doing quite a variety of things.  Some of those
+    things leave you with jewelry and maybe more tools, and other (mis-)uses
+    leave you with nasty injuries.
 layout: post
 title: The Meta Lathe
-excerpt: You don't want to use a metal lathe in your living room, and you wouldn't want to let just anyone loose on the thing unless they knew what they were doing.  As shop in junior high taught me, a lathe is powerful tool capable of doing quite a variety of things.  Some of those things leave you with jewelry and maybe more tools, and other (mis-)uses leave you with nasty injuries.
-date: "2004-12-13T13:26:45-05:00"
+wordpress_id: 576
 wordpress_slug: the-meta-lathe
 wordpress_url: http://www.decafbad.com/blog/?p=576
 ---
@@ -18,7 +24,6 @@ If you'll pardon the bad pun, a general-purpose computer is a &#8220;**meta lath
 For instance, consider a worm that finds its way into a system via security holes in Internet Explorer, which then goes on to link infected systems together into a remotely-controlled attack network.  Somehow I doubt that that was a feature ever proposed on whiteboards in Redmond, but the meta lathe is flexible enough to oblige nonetheless.
 
 Means and Ends All Tangled Up
------------------------------
 
 So, we've got all these people using meta lathes in their living rooms, [in their laps][laptops], and in coffee shops-- and an alarming lot of them have no idea what those suckers can do.  Most of them aren't trained meta lathe technicians, nor do they want to be.  Mostly, they just want to live better, be happier and more productive, talk to each other, maybe play some games.  For them, the computer should melt into the fabric of their lives while they get on with *doing other things*.  It's only a few odd ducks, including alpha geeks like myself, who want to crack things open, go meta, and turn the machine back upon itself.  
 
@@ -50,3 +55,79 @@ Problem is, the modern descendants of VisiCalc and WordStar have yet to be separ
 [jini_endofdesktop]: http://www.artima.com/jini/jiniology/vision2.html
 [home_motor]: http://gc.sfc.keio.ac.jp/class/2003_gc00001/slides/15/15.html
 [home_motor_search]: http://www.google.com/search?q=+%22Home+Motor%22+%248.75+catalog+-domain&#38;btnG=Search
+
+<div id="comments" class="comments archived-comments">
+            <h3>Archived Comments</h3>
+            
+        <ul class="comments">
+            
+        <li class="comment" id="comment-221085925">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://rasterweb.net/raster/"><img src="http://www.gravatar.com/avatar.php?gravatar_id=db0fab74bcb564ebb09295498b892fb6&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://rasterweb.net/raster/">Pete Prodoehl</a>
+                </div>
+                <a href="#comment-221085925" class="permalink"><time datetime="2004-12-13T14:03:16">2004-12-13T14:03:16</time></a>
+            </div>
+            <div class="content">You know, it's a tough call. We're geeks and we *want* a meta lathe type computer where the possibilities are wide open, and I always hear about these people who just want a deviced that does email, and can browse the web. And play music. And games... ;)
+
+Look at cell phones. Used to be they made calls. Now they can do email, and can browse the web. And play music. And games... ;)
+
+Round and round we go. I sort of feel like the computer cat is out of the bag and putting it back in will be no easy task.</div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221085926">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://webseitz.fluxent.com/wiki"><img src="http://www.gravatar.com/avatar.php?gravatar_id=8157a5907b244071cda98ba5aa7a9635&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://webseitz.fluxent.com/wiki">Bill Seitz</a>
+                </div>
+                <a href="#comment-221085926" class="permalink"><time datetime="2004-12-13T14:31:40">2004-12-13T14:31:40</time></a>
+            </div>
+            <div class="content">The contrary concern is: if "the market" becomes "JavaRazors" or whatever the new ThinClient gets named, will the market for more open machines get so small that the prices go way up, or the market disappears altogether (as some are predicting for the PDA, as the cell-phone takes on many of its functions, though less well)....</div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221085927">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://kristopherjohnson.blogspot.com/"><img src="http://www.gravatar.com/avatar.php?gravatar_id=94316c708a352c88a9ca083db9bb72a7&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://kristopherjohnson.blogspot.com/">Kris Johnson</a>
+                </div>
+                <a href="#comment-221085927" class="permalink"><time datetime="2004-12-13T18:45:02">2004-12-13T18:45:02</time></a>
+            </div>
+            <div class="content">It makes sense to buy appliances for those purposes that require associated hardware: a wireless routers, video game systems, media players, and file servers each have specialized hardware that doesn't belong in every user's computer/monitor/whatever.
+
+However, the idea of having each application hosted in its own dedicated device makes less sense. I have over 100 applications on my personal computer. Would I want to replace them with a rack of 100 devices? No! We don't all have basements where we can hide this stuff.
+
+Exchanging Microsoft Office data with other applications is hard enough as it is. If my Office data was in a locked box, accessible only through its network API, it would be even less useful.
+
+It would be nice to make all our "stuff" (data, software, hardware) available to us from whatever device we are using, or which is best suited to the task. However, the way to achieve this is not to get rid of the general-purpose computers. A better approach would be to improve the interoperability between the applications in the computer and the devices in the outside world.</div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221085929">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://www.thok.org/bloggery"><img src="http://www.gravatar.com/avatar.php?gravatar_id=2545d4ff0ba72eb5d5979186f4b02d85&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://www.thok.org/bloggery">Mark Eichin</a>
+                </div>
+                <a href="#comment-221085929" class="permalink"><time datetime="2004-12-15T00:03:32">2004-12-15T00:03:32</time></a>
+            </div>
+            <div class="content">Of course, these days, you probably don't want the home lathe either, just an account with emachineshop or some other easy cad-to-fab-to-fedex service :-)  I can't quite bring myself to stretch that into a Web Services metaphor, though...</div>
+            
+        </li>
+    
+        </ul>
+    
+        </div>
+    

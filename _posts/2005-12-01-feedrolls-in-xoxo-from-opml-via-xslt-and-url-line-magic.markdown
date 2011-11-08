@@ -1,10 +1,11 @@
---- 
-wordpress_id: 787
+---
+comments_archived: true
+date: '2005-12-01T08:06:07-05:00'
 layout: post
-title: Feedrolls in XOXO from OPML via XSLT and URL-line Magic
-date: "2005-12-01T08:06:07-05:00"
-tags: 
+tags:
 - asides
+title: Feedrolls in XOXO from OPML via XSLT and URL-line Magic
+wordpress_id: 787
 wordpress_slug: feedrolls-in-xoxo-from-opml-via-xslt-and-url-line-magic
 wordpress_url: http://decafbad.com/blog/?p=787
 ---
@@ -30,3 +31,45 @@ But, for what it's worth, view source on that feedroll.  I came up with a tentat
 [opml]: http://decafbad.com/2005/11/gopher-ng/feedroll.opml
 [ul]: http://207.22.26.166/bytecols/2001-08-15.html
 [blogroll]: http://decafbad.com/blog/2005/11/27/subscriptions-are-attention-but-what-about-blogrolls
+
+<div id="comments" class="comments archived-comments">
+            <h3>Archived Comments</h3>
+            
+        <ul class="comments">
+            
+        <li class="comment" id="comment-221085280">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://epeus.bogspot.com"><img src="http://www.gravatar.com/avatar.php?gravatar_id=e1b4d65a6a4b7901f078d5c8c198e9f3&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://epeus.bogspot.com">Kevin Marks</a>
+                </div>
+                <a href="#comment-221085280" class="permalink"><time datetime="2005-12-02T00:44:07">2005-12-02T00:44:07</time></a>
+            </div>
+            <div class="content"><p>It's being served with
+Content-Type: application/xml
+and an &lt;?xml version="1.0" encoding="utf-8"?&gt; heading.</p>
+
+<p>If you make doctype header that should persuade firefox and safari to show it as html.</p></div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221085281">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://www.decafbad.com"><img src="http://www.gravatar.com/avatar.php?gravatar_id=2377f34a68801b861c3e54e1301f0dce&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://www.decafbad.com">l.m.orchard</a>
+                </div>
+                <a href="#comment-221085281" class="permalink"><time datetime="2005-12-02T01:57:36">2005-12-02T01:57:36</time></a>
+            </div>
+            <div class="content"><p>@Kevin:  D'oh.  It's the little things I always forget.  That, and the big things.  Thanks for the reminder!</p></div>
+            
+        </li>
+    
+        </ul>
+    
+        </div>
+    

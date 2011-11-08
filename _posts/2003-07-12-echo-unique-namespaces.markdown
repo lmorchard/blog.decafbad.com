@@ -1,8 +1,9 @@
---- 
-wordpress_id: 441
+---
+comments_archived: true
+date: '2003-07-12T13:36:50-04:00'
 layout: post
 title: On tag uniqueness and versioning in Pie/Echo feeds
-date: "2003-07-12T13:36:50-04:00"
+wordpress_id: 441
 wordpress_slug: echo-unique-namespaces
 wordpress_url: http://www.decafbad.com/blog/?p=441
 ---
@@ -61,3 +62,43 @@ but how difficult would it be to use the namespace and tag together
 as key, rather than the tag alone?
 <!--more-->
 shortname=echo_unique_namespaces
+
+<div id="comments" class="comments archived-comments">
+            <h3>Archived Comments</h3>
+            
+        <ul class="comments">
+            
+        <li class="comment" id="comment-221082343">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href=""><img src="http://www.gravatar.com/avatar.php?gravatar_id=dc59c5ba9a8aa0a6225d9959eea3b7f3&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="">Dave Winer</a>
+                </div>
+                <a href="#comment-221082343" class="permalink"><time datetime="2003-07-13T19:34:52">2003-07-13T19:34:52</time></a>
+            </div>
+            <div class="content">Easy but ugly.</div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221082345">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://mah.everybody.org/weblog/"><img src="http://www.gravatar.com/avatar.php?gravatar_id=59e08b5b7c8ed1c82b20144ba8e65967&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://mah.everybody.org/weblog/">Mark "Hex" Hershberger</a>
+                </div>
+                <a href="#comment-221082345" class="permalink"><time datetime="2003-07-14T16:27:46">2003-07-14T16:27:46</time></a>
+            </div>
+            <div class="content">I added namespace support to Emacs' xml.el recently.  It wasn't difficult at all.  Instead of parsing [feed xmlns:e="uri"]...[/feed], into '(feed ...), I parsed it into '({uri}feed ...).  Namespace processing doesn't happen without a switch set to enable it, so it is completely backwards compatible.
+
+So, while I haven't looked at how Radio parses stuff either, I think it wouldn't be that hard to add.  And it doesn't have to be ugly, either.</div>
+            
+        </li>
+    
+        </ul>
+    
+        </div>
+    

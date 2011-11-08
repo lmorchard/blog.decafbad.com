@@ -1,15 +1,16 @@
---- 
-wordpress_id: 740
+---
+comments_archived: true
+date: '2005-10-20T23:45:54-04:00'
 layout: post
-title: Time-release Syndication
-date: "2005-10-20T23:45:54-04:00"
-tags: 
+tags:
 - rss
 - syndication
 - atom
 - rest
 - http
 - podcasting
+title: Time-release Syndication
+wordpress_id: 740
 wordpress_slug: time-release-syndication
 wordpress_url: http://decafbad.com/blog/?p=740
 ---
@@ -33,3 +34,75 @@ Or, maybe I'll have a pile of pre-prepared content in a folder and munge that in
 [anc]: http://www.project-daemon.net/
 [sw]: http://simon.incutio.com/archive/2004/09/01/track
 [rb]: http://www.russellbeattie.com/notebook/1008220.html
+
+<div id="comments" class="comments archived-comments">
+            <h3>Archived Comments</h3>
+            
+        <ul class="comments">
+            
+        <li class="comment" id="comment-221086694">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://laughingmeme.org"><img src="http://www.gravatar.com/avatar.php?gravatar_id=01457d1a0f0e533062cd0d1033fb4d7a&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://laughingmeme.org">kellan</a>
+                </div>
+                <a href="#comment-221086694" class="permalink"><time datetime="2005-10-21T04:16:34">2005-10-21T04:16:34</time></a>
+            </div>
+            <div class="content"><p>My favorite example of this is Matt Webb's service which offers <a href="http://interconnected.org/home/more/lightcone/" rel="nofollow">RSS feed of your personal light cone</a></p></div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221086695">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href=""><img src="http://www.gravatar.com/avatar.php?gravatar_id=a0b347907bfaf05694805210ec595d6c&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="">Martin Atkins</a>
+                </div>
+                <a href="#comment-221086695" class="permalink"><time datetime="2005-10-21T07:06:00">2005-10-21T07:06:00</time></a>
+            </div>
+            <div class="content"><p>This scheme falls down in two ways. Firstly, people have a tendency to share URLs, and when they do they tend to just take whatever's in their user-agent (your timestamped URL) rather than your pretty entry point URL that lives only on some HTML page somewhere.</p>
+
+<p>Secondly, lots of people use "shared aggregators", which reduces load on your server but requires that everyone is seeing the same content.</p>
+
+<p>It's a nice idea, though. Its a shame that syndication tech ended up making it so tricky.</p></div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221086696">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://www.decafbad.com"><img src="http://www.gravatar.com/avatar.php?gravatar_id=2377f34a68801b861c3e54e1301f0dce&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://www.decafbad.com">l.m.orchard</a>
+                </div>
+                <a href="#comment-221086696" class="permalink"><time datetime="2005-10-21T10:54:22">2005-10-21T10:54:22</time></a>
+            </div>
+            <div class="content"><p>@Kellan: Heh, I thought that one was kinda silly, but neat... It's in my subscription list.</p>
+
+<p>@Martin: D'oh, that's right.  Even podcasts are being heard via shared aggregators now like Odeo.</p></div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221086697">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://rasterweb.net/raster/"><img src="http://www.gravatar.com/avatar.php?gravatar_id=db0fab74bcb564ebb09295498b892fb6&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://rasterweb.net/raster/">Pete Prodoehl</a>
+                </div>
+                <a href="#comment-221086697" class="permalink"><time datetime="2005-10-21T17:14:17">2005-10-21T17:14:17</time></a>
+            </div>
+            <div class="content"><p>Delta Park Project is a podcast that provides you with your own RSS feed url. I'm not exactly sure what they do with it, but for now I trust them not to do any evil.</p></div>
+            
+        </li>
+    
+        </ul>
+    
+        </div>
+    

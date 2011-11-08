@@ -1,8 +1,9 @@
---- 
-wordpress_id: 424
+---
+comments_archived: true
+date: '2003-06-02T16:10:33-04:00'
 layout: post
 title: Blo.gs Pings Gone Wild
-date: "2003-06-02T16:10:33-04:00"
+wordpress_id: 424
 wordpress_slug: blo-gs-gone-wild
 wordpress_url: http://www.decafbad.com/blog/?p=424
 ---
@@ -49,3 +50,27 @@ is not the greatest choice for a usage pattern.
 So... longwinded post, but I think the realizations are valuable.
 <!--more-->
 shortname=blo_gs_gone_wild
+
+<div id="comments" class="comments archived-comments">
+            <h3>Archived Comments</h3>
+            
+        <ul class="comments">
+            
+        <li class="comment" id="comment-221083912">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://trikuare.cx/"><img src="http://www.gravatar.com/avatar.php?gravatar_id=0a5b2c20fe4587a2b0abc3738c953e53&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://trikuare.cx/">magenta</a>
+                </div>
+                <a href="#comment-221083912" class="permalink"><time datetime="2003-06-05T00:29:21">2003-06-05T00:29:21</time></a>
+            </div>
+            <div class="content">What would be really nice is if the blo.gs response page made clever use of CSS like the W3C validator, by putting one (and, of course, only one) &lt;div id="result" class="valid"&gt; (or class="error") in the response, with the actual error message inside.  Makes it really easy to write a bulk-validation script.</div>
+            
+        </li>
+    
+        </ul>
+    
+        </div>
+    

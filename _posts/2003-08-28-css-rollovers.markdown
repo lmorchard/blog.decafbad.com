@@ -1,8 +1,9 @@
---- 
-wordpress_id: 468
+---
+comments_archived: true
+date: '2003-08-28T21:41:54-04:00'
 layout: post
 title: CSS, Background Images, and Rollovers
-date: "2003-08-28T21:41:54-04:00"
+wordpress_id: 468
 wordpress_slug: css-rollovers
 wordpress_url: http://www.decafbad.com/blog/?p=468
 ---
@@ -13,3 +14,31 @@ wordpress_url: http://www.decafbad.com/blog/?p=468
 	<p>Now I just have to break free of the rest of my <span class="caps">HTML</span> crutches, circa 1996.</p>
 <!--more-->
 shortname=css_rollovers
+
+<div id="comments" class="comments archived-comments">
+            <h3>Archived Comments</h3>
+            
+        <ul class="comments">
+            
+        <li class="comment" id="comment-221083562">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://stormsweeper.net/mindspill/"><img src="http://www.gravatar.com/avatar.php?gravatar_id=680ed7c3702b9ab80e619ee519f7fabf&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://stormsweeper.net/mindspill/">anthony</a>
+                </div>
+                <a href="#comment-221083562" class="permalink"><time datetime="2003-08-29T01:09:37">2003-08-29T01:09:37</time></a>
+            </div>
+            <div class="content">The :hover pseudoelement only works for anchor tags in MSIE, just so you know. There's workarounds for it, but they're all pretty ugly. 
+
+The strange implementation of CSS in Internet Explorer is one of my greater headaches. Just wait until you start trying to position elements using float.
+
+(PS: I'm the anthony from the FC list, found your site linked from Greg's)</div>
+            
+        </li>
+    
+        </ul>
+    
+        </div>
+    

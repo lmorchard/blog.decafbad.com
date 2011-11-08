@@ -1,8 +1,9 @@
---- 
-wordpress_id: 324
+---
+comments_archived: true
+date: '2002-12-11T18:42:35-05:00'
 layout: post
 title: FOAF and LiveJournal user info pages
-date: "2002-12-11T18:42:35-05:00"
+wordpress_id: 324
 wordpress_slug: oooceo
 wordpress_url: http://www.decafbad.com/blog/?p=324
 ---
@@ -15,3 +16,29 @@ wordpress_url: http://www.decafbad.com/blog/?p=324
 <p>More study to come...</p>
 <!--more-->
 shortname=oooceo
+
+<div id="comments" class="comments archived-comments">
+            <h3>Archived Comments</h3>
+            
+        <ul class="comments">
+            
+        <li class="comment" id="comment-221087171">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://philringnalda.com"><img src="http://www.gravatar.com/avatar.php?gravatar_id=e68e9944f50a481a64b5a32fdfc02e0d&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://philringnalda.com">Phil Ringnalda</a>
+                </div>
+                <a href="#comment-221087171" class="permalink"><time datetime="2002-12-12T05:26:00">2002-12-12T05:26:00</time></a>
+            </div>
+            <div class="content">Mmmm, intertwingly: I went over to the rdfweb-dev Yahoo Group to get a link to the recent discussion of IM links in FOAF, but ended up with the link to a LJ suggestion for FOAF instead.
+
+The IM thread starts at message 453, shortly after the discussion of foaf:beerTokens died down (the best part of FOAF is that, unlike so many other bits of RDF/RSS/XML, it's fun and everybody seems to enjoy playing with it).</div>
+            
+        </li>
+    
+        </ul>
+    
+        </div>
+    

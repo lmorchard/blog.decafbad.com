@@ -1,8 +1,9 @@
---- 
-wordpress_id: 405
+---
+comments_archived: true
+date: '2003-04-21T14:30:20-04:00'
 layout: post
 title: Further Bitchun Reading...
-date: "2003-04-21T14:30:20-04:00"
+wordpress_id: 405
 wordpress_slug: down-and-out
 wordpress_url: http://www.decafbad.com/blog/?p=405
 ---
@@ -71,3 +72,75 @@ tales from the same Bitchun universe.
 Better to get some practice in before jamming in someone else's club.
 <!--more-->
 shortname=down_and_out
+
+<div id="comments" class="comments archived-comments">
+            <h3>Archived Comments</h3>
+            
+        <ul class="comments">
+            
+        <li class="comment" id="comment-221088177">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href=""><img src="http://www.gravatar.com/avatar.php?gravatar_id=af9aaec8a780cf03de305603eae6e243&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="">Mart</a>
+                </div>
+                <a href="#comment-221088177" class="permalink"><time datetime="2003-04-21T16:48:09">2003-04-21T16:48:09</time></a>
+            </div>
+            <div class="content">Sorry this is unrelated to what I'm responding to, but...
+
+I just noticed you've replaced your RSS file with an English message explaining that it has moved. Would it not make more sense to give an HTTP Moved Permanantly response so that software can automatically make the update? You could even do both so that shoddy software (which doesn't heed the HTTP response) will display the English message.
+
+All sensible aggregators should be able to deal with Moved Permanently.</div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221088179">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://blog.raena.net"><img src="http://www.gravatar.com/avatar.php?gravatar_id=eef2bbd8dd12efdf0674e0e274702587&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://blog.raena.net">Raena Armitage</a>
+                </div>
+                <a href="#comment-221088179" class="permalink"><time datetime="2003-04-22T11:25:38">2003-04-22T11:25:38</time></a>
+            </div>
+            <div class="content">Whuffie was easily the best part of that book.  It appeals to my social-justice side: pricks lose.</div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221088182">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://www.decafbad.com"><img src="http://www.gravatar.com/avatar.php?gravatar_id=2ac2cffd36ada8c734b90e02a1e5c1ac&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://www.decafbad.com">l.m.orchard</a>
+                </div>
+                <a href="#comment-221088182" class="permalink"><time datetime="2003-04-22T11:59:14">2003-04-22T11:59:14</time></a>
+            </div>
+            <div class="content">Makes me wonder how the US is going to recover all the Whuffie that Shrub's blown on things.  :(</div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221088183">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://advogato.org/person/mbrubeck/"><img src="http://www.gravatar.com/avatar.php?gravatar_id=eabca9ecf7258f220a05177b1606e622&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://advogato.org/person/mbrubeck/">Matt Brubeck</a>
+                </div>
+                <a href="#comment-221088183" class="permalink"><time datetime="2003-04-25T14:20:46">2003-04-25T14:20:46</time></a>
+            </div>
+            <div class="content">I've always liked Iain M. Banks' "Culture" series as an imaginative vision of a post-scarity society.  Though most of the novels deal with people outside or on the fringes of the Culture, so we get only a partial view of the Culture's post-mortal world.
+
+The recent "Look to Windward" would be a good place to start on the series (and an excellent novel in its own right, as well).</div>
+            
+        </li>
+    
+        </ul>
+    
+        </div>
+    

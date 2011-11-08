@@ -1,8 +1,9 @@
---- 
-wordpress_id: 205
+---
+comments_archived: true
+date: '2002-08-05T17:31:52-04:00'
 layout: post
-title: "AmphetaDesk and Outlines: Together again"
-date: "2002-08-05T17:31:52-04:00"
+title: 'AmphetaDesk and Outlines: Together again'
+wordpress_id: 205
 wordpress_slug: ooobbf
 wordpress_url: http://www.decafbad.com/blog/?p=205
 ---
@@ -12,3 +13,97 @@ wordpress_url: http://www.decafbad.com/blog/?p=205
 <p><b>Update 2:</b> I think I've fixed the showstoppers, as I will write <a href="http://www.decafbad.com/news_archives/000228.phtml#000228">here in the future</a>.  So, I've taken the liberty of going back in time and replacing the tarball here with the fixed one in case anyone has linked to this story.  Enjoy!</p>
 <!--more-->
 shortname=ooobbf
+
+<div id="comments" class="comments archived-comments">
+            <h3>Archived Comments</h3>
+            
+        <ul class="comments">
+            
+        <li class="comment" id="comment-221083576">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://www.furrygoat.com"><img src="http://www.gravatar.com/avatar.php?gravatar_id=53617e52a0ccf29f19c750e312df0f31&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://www.furrygoat.com">Steve</a>
+                </div>
+                <a href="#comment-221083576" class="permalink"><time datetime="2002-08-06T02:42:27">2002-08-06T02:42:27</time></a>
+            </div>
+            <div class="content">Still no go. Been trying to install, get an error: (deleted some text)Can't locate lib.pm in @INC 
+
+Is lib.pm included someplace? I couldnt seem to find it in the distro.</div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221083577">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://www.disobey.com"><img src="http://www.gravatar.com/avatar.php?gravatar_id=7c86a3bdffadc965eb444f588c24a3f3&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://www.disobey.com">Morbus Iff</a>
+                </div>
+                <a href="#comment-221083577" class="permalink"><time datetime="2002-08-06T11:41:54">2002-08-06T11:41:54</time></a>
+            </div>
+            <div class="content">Steve,
+
+Open up your templates/default/index.html file - you should see something in there about "use lib". Simply add a "#" character in front of that line, save the file, and then refresh the page in AmphetaDesk, and that should get you a little further.</div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221083579">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://www.furrygoat.com"><img src="http://www.gravatar.com/avatar.php?gravatar_id=53617e52a0ccf29f19c750e312df0f31&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://www.furrygoat.com">Steve</a>
+                </div>
+                <a href="#comment-221083579" class="permalink"><time datetime="2002-08-06T12:54:10">2002-08-06T12:54:10</time></a>
+            </div>
+            <div class="content">Ok, that did it. Comments:
+
+So far, looks pretty good. What's the official definition of: (S:1 C:0 A:0.00)?</div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221083580">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://www.furrygoat.com"><img src="http://www.gravatar.com/avatar.php?gravatar_id=53617e52a0ccf29f19c750e312df0f31&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://www.furrygoat.com">Steve</a>
+                </div>
+                <a href="#comment-221083580" class="permalink"><time datetime="2002-08-06T12:54:19">2002-08-06T12:54:19</time></a>
+            </div>
+            <div class="content">Ok, that did it. 
+
+So far, looks pretty good. What's the official definition of: (S:1 C:0 A:0.00)?</div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221083581">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://www.decafbad.com"><img src="http://www.gravatar.com/avatar.php?gravatar_id=2ac2cffd36ada8c734b90e02a1e5c1ac&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://www.decafbad.com">l.m.orchard</a>
+                </div>
+                <a href="#comment-221083581" class="permalink"><time datetime="2002-08-06T13:52:11">2002-08-06T13:52:11</time></a>
+            </div>
+            <div class="content">I thought I should put a legend somewhere for that, but of course I forgot.  :)  Here's the missing legend:
+
+S: # of times seen
+
+C: # of times clicked
+
+A: Hours since first seen</div>
+            
+        </li>
+    
+        </ul>
+    
+        </div>
+    

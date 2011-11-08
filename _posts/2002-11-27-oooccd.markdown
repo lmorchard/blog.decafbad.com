@@ -1,8 +1,9 @@
---- 
-wordpress_id: 309
+---
+comments_archived: true
+date: '2002-11-27T16:05:02-05:00'
 layout: post
-title: "XML-RPC case study redux, Part II: REST and I"
-date: "2002-11-27T16:05:02-05:00"
+title: 'XML-RPC case study redux, Part II: REST and I'
+wordpress_id: 309
 wordpress_slug: oooccd
 wordpress_url: http://www.decafbad.com/blog/?p=309
 ---
@@ -41,3 +42,31 @@ In explaining <a href="http://www.decafbad.com/twiki/bin/view/Main/XmlRpc">XmlRp
 But for now, it seems that the ability to throw a random unknown web developer an API and a URL with less than 30 minutes' accompanying discussion, and get results, seems to work for us.
 <!--more-->
 shortname=oooccd
+
+<div id="comments" class="comments archived-comments">
+            <h3>Archived Comments</h3>
+            
+        <ul class="comments">
+            
+        <li class="comment" id="comment-221084102">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://www.prescod.net"><img src="http://www.gravatar.com/avatar.php?gravatar_id=6c04a6792c6196149d2f9e14894a8b6d&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://www.prescod.net">Paul Prescod</a>
+                </div>
+                <a href="#comment-221084102" class="permalink"><time datetime="2002-11-28T00:39:52">2002-11-28T00:39:52</time></a>
+            </div>
+            <div class="content">It seems that XML-RPC is the right choice for your situation. That doesn't mean that I accept that REST is "ivory tower" because it requires an understanding of XML and HTTP. These are two technologies that most real network application developers already know and will need to know going into the future. The gist of your story is that the people consuming your application are not network application developers and do not need the extensibility, flexibility and XML-integration of the REST model. REST may be ivory tower-ish compared to XML-RPC as Visual Basic is ivory-towerish to the Excel "programmer" and Python to the Visual Basic programmer and Lisp to the Python programmer and Mercury to the Lisp programmer.
+
+If XML-RPC solved 80% of the data integration problems out there, then I would agree that it would be ivory towerish to spend too much effort on the remaining 20%. But that is not true. Web Services have made such a miniscule impact in our day to day lives because they solve less than 20% of the integration problems they were supposed to solve (rough guess). Conversely, the Blog world would crash to a halt without REST (in its HTML,  RSS and Trackback incarnations).
+
+For the 20% that XML-RPC solves, by all means use it! I have.</div>
+            
+        </li>
+    
+        </ul>
+    
+        </div>
+    

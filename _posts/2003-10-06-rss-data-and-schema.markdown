@@ -1,8 +1,9 @@
---- 
-wordpress_id: 493
+---
+comments_archived: true
+date: '2003-10-06T18:52:44-04:00'
 layout: post
-title: "RSS-Data and Schema: Thinking about structure and data"
-date: "2003-10-06T18:52:44-04:00"
+title: 'RSS-Data and Schema: Thinking about structure and data'
+wordpress_id: 493
 wordpress_slug: rss-data-and-schema
 wordpress_url: http://www.decafbad.com/blog/?p=493
 ---
@@ -79,3 +80,27 @@ I don't think I'm thrilled with RSS-Data.  But if you're going to use RSS-Data a
 Thanks for bearing with me through this much-longer-than-usual post.  :)
 <!--more-->
 shortname=rss_data_and_schema
+
+<div id="comments" class="comments archived-comments">
+            <h3>Archived Comments</h3>
+            
+        <ul class="comments">
+            
+        <li class="comment" id="comment-221086629">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://therealadam.com"><img src="http://www.gravatar.com/avatar.php?gravatar_id=b205857010d759de7e2c8cb592b01dd5&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://therealadam.com">Adam Keys</a>
+                </div>
+                <a href="#comment-221086629" class="permalink"><time datetime="2003-10-06T23:03:14">2003-10-06T23:03:14</time></a>
+            </div>
+            <div class="content">This is absolutely brilliant.  I'd been wanting to get into RSS-Data tonight and this is the perfect jumping off point.  Unfortunately there are so many jumping off points you've offered, I'm afraid I'll bog down in the research.  Ah, life is difficult.  So many technologies, so little time.</div>
+            
+        </li>
+    
+        </ul>
+    
+        </div>
+    

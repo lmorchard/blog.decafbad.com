@@ -1,8 +1,9 @@
---- 
-wordpress_id: 724
+---
+comments_archived: true
+date: '2005-10-07T18:02:23-04:00'
 layout: post
-title: "Google Reader: Big, blue, chunky water-wings"
-date: "2005-10-07T18:02:23-04:00"
+title: 'Google Reader: Big, blue, chunky water-wings'
+wordpress_id: 724
 wordpress_slug: google-reader-big-blue-chunky-water-wings
 wordpress_url: http://decafbad.com/blog/?p=724
 ---
@@ -36,3 +37,27 @@ No, my subscriptions are the rapids in the [river of news][river] and these wate
 [gr]: http://www.google.com/reader/ "Google Reader, it's buzztastic!"
 [att]: http://interconnected.org/home/2005/10/02/attenuation_is "Have I mentioned lately how much I appreciate Matt Webb's site and the fact that he takes the time to annotate each link?"
 [pop]: http://decafbad.com/trac/browser/trunk/hacking_rss_and_atom/ch15_popular_links.py "Like the script?  Buy the book."
+
+<div id="comments" class="comments archived-comments">
+            <h3>Archived Comments</h3>
+            
+        <ul class="comments">
+            
+        <li class="comment" id="comment-221089382">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href=""><img src="http://www.gravatar.com/avatar.php?gravatar_id=267c40d86909e5e2f947f700ff34105a&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="">Ben Mason</a>
+                </div>
+                <a href="#comment-221089382" class="permalink"><time datetime="2005-10-07T22:40:07">2005-10-07T22:40:07</time></a>
+            </div>
+            <div class="content"><p>the google new reader <a href="http://flickr.com/photos/su1droot/50299167/" rel="nofollow">HATED</a> my OPML from bloglines with is arounf 150 deep.</p></div>
+            
+        </li>
+    
+        </ul>
+    
+        </div>
+    

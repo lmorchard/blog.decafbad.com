@@ -1,8 +1,9 @@
---- 
-wordpress_id: 613
+---
+comments_archived: true
+date: '2005-03-17T06:45:24-05:00'
 layout: post
 title: Roleplaying Editors and Dreams
-date: "2005-03-17T06:45:24-05:00"
+wordpress_id: 613
 wordpress_slug: roleplaying-editors-and-dreams
 wordpress_url: http://www.decafbad.com/blog/?p=613
 ---
@@ -21,3 +22,61 @@ wordpress_url: http://www.decafbad.com/blog/?p=613
   
 [mrf]:http://www.michrenfest.com/
 [larp]:http://en.wikipedia.org/wiki/LARP
+
+<div id="comments" class="comments archived-comments">
+            <h3>Archived Comments</h3>
+            
+        <ul class="comments">
+            
+        <li class="comment" id="comment-221083867">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://fatcaterpillar.org/"><img src="http://www.gravatar.com/avatar.php?gravatar_id=b43edc5c93b4a2f069d2eb1b44239af4&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://fatcaterpillar.org/">Stewart Johnson</a>
+                </div>
+                <a href="#comment-221083867" class="permalink"><time datetime="2005-03-18T03:04:19">2005-03-18T03:04:19</time></a>
+            </div>
+            <div class="content">Two very helpful vim things that really accelerated my vim learning (I never did figure out how to do these in emacs):
+
+(1) Substitute:
+
+substitute on the current line:
+
+:s/search for this/replace with this/
+
+substitute on all lines:
+
+:%s/search for this/replace with this/
+
+find all matches on each line, not just the first one:
+
+:%s/search for this/replace with this/g
+
+prompt to confirm each replace:
+
+:%s/search/replace/gc
+
+case insensitive 
+
+:%s/search/replace/gi
+
+:help substitute for more
+
+(2) Execute commands on matching lines
+
+:normal command means to execute commands as if you typed them in, eg: 'dd' or 'yyp', etc. With standard {range} operators, you can use :normal to execute a command on every matching line:
+
+delete every line that contains the word "foo"
+
+:/foo/normal dd
+
+I find :normal _really_ useful.</div>
+            
+        </li>
+    
+        </ul>
+    
+        </div>
+    

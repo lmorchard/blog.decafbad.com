@@ -1,8 +1,9 @@
---- 
-wordpress_id: 641
+---
+comments_archived: true
+date: '2005-05-05T11:08:42-04:00'
 layout: post
 title: The right place for data in your feed
-date: "2005-05-05T11:08:42-04:00"
+wordpress_id: 641
 wordpress_slug: the-right-place-for-data-in-your-feed
 wordpress_url: http://www.decafbad.com/blog/?p=641
 ---
@@ -36,3 +37,81 @@ Okay... I think all that made sense.  I had to get that spewed out of my head be
 [me]: http://web.resource.org/rss/1.0/modules/event/
 [rvw]: http://www.pmbrowser.info/wiki.pl?RVW
 [mf]: http://developers.technorati.com/wiki/MicroFormats
+
+<div id="comments" class="comments archived-comments">
+            <h3>Archived Comments</h3>
+            
+        <ul class="comments">
+            
+        <li class="comment" id="comment-221085746">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://laughingmeme.org"><img src="http://www.gravatar.com/avatar.php?gravatar_id=01457d1a0f0e533062cd0d1033fb4d7a&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://laughingmeme.org">kellan</a>
+                </div>
+                <a href="#comment-221085746" class="permalink"><time datetime="2005-05-05T14:05:54">2005-05-05T14:05:54</time></a>
+            </div>
+            <div class="content">I'm a fan of microformats, but this seems so wrong.  microformats are a "worse is better" solution for getting rich data onto the web for people without better tools then a simple CMS.  their useful to large scale aggregators (e.g. pubsub or technorati) who are already maintaining crawlers. (though I think the really promise doesn't lie with generalist, but domain specific aggregators developed by small affinity groups)
+
+If you do have good enough tools to provide the data in a more structured way then by all means *do* it, more elegant, easier to consume, more meaningful, less ambiguous, easier to grok, etc. 
+
+mod_event is *much* more useful then hCalendar in the context of feeds, but perhaps its non-obvious because you're thinking of it from the context of S-to-P (site to person) syndication, but where it comes in very useful is S-to-S (site to site) syndication, the original RSS design goal.
+
+additionally the joy of XML means you can mix in other namespaces to enrich mod_event's intentionally limited expressiveness.  in particular we've played with mixing in vCard and geo namespaces to get more specific
+
+as for your last question, i've seen several hundred feeds with mod_event, but i'm kind of odd like that :)</div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221085747">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://www.myelin.co.nz/post/"><img src="http://www.gravatar.com/avatar.php?gravatar_id=475a543984769e9890f8dc0091f602c3&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://www.myelin.co.nz/post/">Phillip Pearson</a>
+                </div>
+                <a href="#comment-221085747" class="permalink"><time datetime="2005-05-05T20:17:32">2005-05-05T20:17:32</time></a>
+            </div>
+            <div class="content">Exactly -- from the perspective of trying to maximize usefulness, it's great to put your "semantic markup" in both the feed and the data.
+
+It depends on your target market, of course... if nobody will ever scrape your site but you have an aggregator of calendar events watching your feed like a hawk, then the feed is most important.
+
+But if you're just kicking off a new market, you might as well do it in a way that makes the most sense for the future...which is what this seems to be.</div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221085748">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://tantek.com/log/"><img src="http://www.gravatar.com/avatar.php?gravatar_id=02cd45622e90350cc061aaaa02229195&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://tantek.com/log/">Tantek</a>
+                </div>
+                <a href="#comment-221085748" class="permalink"><time datetime="2005-05-08T12:42:02">2005-05-08T12:42:02</time></a>
+            </div>
+            <div class="content">You've made an excellent observation.
+
+Does one have to request permission from the envelope makers before one writes a letter in a different way? 
+
+Does it make sense to ask everyone to write envelopes differently just because you've figured out a new way to write letters or new things to put in your letters?
+
+Does it make sense to feel obligated to duplicate the information in your letter on the envelope as well?
+
+Of course not.
+
+In many ways, feeds are nothing more than another medium for passing messages, and just as there was no need to change nor extend TCP/IP to handle HTTP or HTML for that matter, there is no need to change RSS/Atom to handle new types of content which are well described by portable microformats.
+
+Tantek
+
+P.S. I can't believe anyone used the word "joy" and "namespaces" in the same sentence (other than to make that observation).  :)</div>
+            
+        </li>
+    
+        </ul>
+    
+        </div>
+    

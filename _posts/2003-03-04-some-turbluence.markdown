@@ -1,8 +1,9 @@
---- 
-wordpress_id: 386
+---
+comments_archived: true
+date: '2003-03-04T10:02:00-05:00'
 layout: post
 title: Heading through some turbulence, folks.
-date: "2003-03-04T10:02:00-05:00"
+wordpress_id: 386
 wordpress_slug: some-turbluence
 wordpress_url: http://www.decafbad.com/blog/?p=386
 ---
@@ -19,3 +20,27 @@ I've got an error log rolling in one window, and I'm keeping an eye on comments 
 email.  Hopefully all this will be nice and smooth before the end of the week.
 <!--more-->
 shortname=some_turbluence
+
+<div id="comments" class="comments archived-comments">
+            <h3>Archived Comments</h3>
+            
+        <ul class="comments">
+            
+        <li class="comment" id="comment-221085740">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://www.decafbad.com"><img src="http://www.gravatar.com/avatar.php?gravatar_id=2ac2cffd36ada8c734b90e02a1e5c1ac&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://www.decafbad.com">l.m.orchard</a>
+                </div>
+                <a href="#comment-221085740" class="permalink"><time datetime="2003-03-04T13:28:43">2003-03-04T13:28:43</time></a>
+            </div>
+            <div class="content">values.</div>
+            
+        </li>
+    
+        </ul>
+    
+        </div>
+    

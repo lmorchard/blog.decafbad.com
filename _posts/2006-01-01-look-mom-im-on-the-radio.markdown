@@ -1,10 +1,11 @@
---- 
-wordpress_id: 813
+---
+comments_archived: true
+date: '2006-01-01T20:37:18-05:00'
 layout: post
-title: Look, Mom, I'm on the radio!
-date: "2006-01-01T20:37:18-05:00"
-tags: 
+tags:
 - asides
+title: Look, Mom, I'm on the radio!
+wordpress_id: 813
 wordpress_slug: look-mom-im-on-the-radio
 wordpress_url: http://decafbad.com/blog/?p=813
 ---
@@ -18,3 +19,27 @@ It's the first time I've been asked to take part in something like this, so I wa
 [coa]: http://computeroutlook.com/audiostudio.html
 [cop]: http://www.computeroutlook.com/rssfeed/Weekly_Shows-Computer_Outlook_Radio_Talk_Show.xml
 [book]: http://www.amazon.com/exec/obidos/ASIN/0764597582/0xdecafbad01-20?creative=327641&camp=14573&link_code=as1
+
+<div id="comments" class="comments archived-comments">
+            <h3>Archived Comments</h3>
+            
+        <ul class="comments">
+            
+        <li class="comment" id="comment-221083354">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://rasterweb.net/raster/"><img src="http://www.gravatar.com/avatar.php?gravatar_id=db0fab74bcb564ebb09295498b892fb6&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://rasterweb.net/raster/">Pete Prodoehl</a>
+                </div>
+                <a href="#comment-221083354" class="permalink"><time datetime="2006-04-25T15:30:35">2006-04-25T15:30:35</time></a>
+            </div>
+            <div class="content"><p>I finally got to listen to it, nice job... weird show though. :)</p></div>
+            
+        </li>
+    
+        </ul>
+    
+        </div>
+    

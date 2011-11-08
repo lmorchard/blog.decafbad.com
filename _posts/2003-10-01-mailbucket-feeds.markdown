@@ -1,8 +1,9 @@
---- 
-wordpress_id: 485
+---
+comments_archived: true
+date: '2003-10-01T11:34:25-04:00'
 layout: post
 title: Mailbucket syndication feeds
-date: "2003-10-01T11:34:25-04:00"
+wordpress_id: 485
 wordpress_slug: mailbucket-feeds
 wordpress_url: http://www.decafbad.com/blog/?p=485
 ---
@@ -27,3 +28,27 @@ A few feeds I've set up:
 </ul>
 <!--more-->
 shortname=mailbucket_feeds
+
+<div id="comments" class="comments archived-comments">
+            <h3>Archived Comments</h3>
+            
+        <ul class="comments">
+            
+        <li class="comment" id="comment-221086433">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://www.10500bc.org"><img src="http://www.gravatar.com/avatar.php?gravatar_id=6492f173a7059ece309f7d670ff44e95&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://www.10500bc.org">nf0</a>
+                </div>
+                <a href="#comment-221086433" class="permalink"><time datetime="2003-10-01T14:25:16">2003-10-01T14:25:16</time></a>
+            </div>
+            <div class="content">Great idea. We continue to shove more things into our aggregators since we spend so much time there.</div>
+            
+        </li>
+    
+        </ul>
+    
+        </div>
+    

@@ -1,9 +1,13 @@
---- 
-wordpress_id: 588
+---
+comments_archived: true
+date: '2005-02-19T22:18:29-05:00'
+excerpt: Anyway, I'm still out here, still alive.  Just working my ass off
+    and neglecting just about everything else in my life.  But, the smoke's
+    starting to clear, so hopefully friends and family (and you, dear reader)
+    will begin to hear more from me soon.
 layout: post
 title: Writing No Things of Epic Import
-excerpt: Anyway, I'm still out here, still alive.  Just working my ass off and neglecting just about everything else in my life.  But, the smoke's starting to clear, so hopefully friends and family (and you, dear reader) will begin to hear more from me soon.
-date: "2005-02-19T22:18:29-05:00"
+wordpress_id: 588
 wordpress_slug: writing-no-things-of-epic-import
 wordpress_url: http://www.decafbad.com/blog/?p=588
 ---
@@ -26,3 +30,47 @@ Anyway, I'm still out here, still alive.  Just working my ass off and neglecting
 
 [ecto]: http://ecto.kung-foo.tv/
 [tuples]: http://www.decafbad.com/blog/2005/01/12/the_blogosphere_as_a_tuple_space
+
+<div id="comments" class="comments archived-comments">
+            <h3>Archived Comments</h3>
+            
+        <ul class="comments">
+            
+        <li class="comment" id="comment-221084628">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://www.thok.org/bloggery"><img src="http://www.gravatar.com/avatar.php?gravatar_id=2545d4ff0ba72eb5d5979186f4b02d85&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://www.thok.org/bloggery">Mark Eichin</a>
+                </div>
+                <a href="#comment-221084628" class="permalink"><time datetime="2005-02-20T14:49:45">2005-02-20T14:49:45</time></a>
+            </div>
+            <div class="content">A friend and I recently had a discussion of the amount of effort it took to actually push things out into a blog, and how he'd gotten it down to a few keystrokes and yet there was still an energy barrier. After a brief digression into Raskin-style "no keystroke" interfaces, we realized that there was a lot of stuff that we just send to our friends on zephyr (instant messaging with group channels and very low overhead) that people without such a channel would blog instead - and that perhaps having a chat to blog converter would be useful. I've certainly seen IRC "bots" that produce link-blogs from everything that goes by on the channel, this would be more conversation-oriented... anyway, it all "chimed" with your "sentence-blogging" comments and posting-by-im.</div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221084629">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://kennethhunt.com"><img src="http://www.gravatar.com/avatar.php?gravatar_id=9b8ea315cc1b2de28e883e091e943dd2&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://kennethhunt.com">Kenneth</a>
+                </div>
+                <a href="#comment-221084629" class="permalink"><time datetime="2005-02-22T08:21:41">2005-02-22T08:21:41</time></a>
+            </div>
+            <div class="content">Your silence has been noted. It's nice to see you surfacing again.
+
+Short is sweet. I'm reminded of Richard P. Gabriel's insistence that periodic output of poetry enhanced the creativity of the authors.
+
+Perhaps you should be dashing off haiku's!
+
+Have Fun!</div>
+            
+        </li>
+    
+        </ul>
+    
+        </div>
+    

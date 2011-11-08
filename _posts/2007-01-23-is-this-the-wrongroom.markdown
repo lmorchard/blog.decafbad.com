@@ -1,8 +1,9 @@
---- 
-wordpress_id: 1037
+---
+comments_archived: true
+date: '2007-01-23T00:54:11-05:00'
 layout: post
 title: Is this the WrongRoom?
-date: "2007-01-23T00:54:11-05:00"
+wordpress_id: 1037
 wordpress_slug: is-this-the-wrongroom
 wordpress_url: http://decafbad.com/blog/2007/01/23/is-this-the-wrongroom
 ---
@@ -22,3 +23,79 @@ Maybe I should just shell out for [a Tinderbox upgrade][tinderbox] and get down 
 [yak]: http://www.catb.org/~esr/jargon/html/Y/yak-shaving.html
 [undo]: http://decafbad.com/trac/changeset/765
 [XoxoOutliner]: http://decafbad.com/trac/wiki/XoxoOutliner
+
+<div id="comments" class="comments archived-comments">
+            <h3>Archived Comments</h3>
+            
+        <ul class="comments">
+            
+        <li class="comment" id="comment-221086555">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://www.gibberish.com/"><img src="http://www.gravatar.com/avatar.php?gravatar_id=2cfbcaa782895f851891596f49ea7709&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://www.gibberish.com/">misuba</a>
+                </div>
+                <a href="#comment-221086555" class="permalink"><time datetime="2007-01-24T22:53:55">2007-01-24T22:53:55</time></a>
+            </div>
+            <div class="content"><p>If you could maybe put some brief notes in Trac on how to install and play with this a bit, I for one would appreciate it.</p></div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221086556">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://codinginparadise.org"><img src="http://www.gravatar.com/avatar.php?gravatar_id=96da1b3d8858bfa0306b7c55d3e48270&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://codinginparadise.org">Brad Neuberg</a>
+                </div>
+                <a href="#comment-221086556" class="permalink"><time datetime="2007-01-26T10:40:18">2007-01-26T10:40:18</time></a>
+            </div>
+            <div class="content"><p>I <em>really</em> want XoXoOutliner to hook into HyperScope.... I'm tired of the number of hoops it takes me to write outlines and then bring them into HyperScope, and I'd love that to be just one step. XoXoOutliner doesn't have to be "just another editor"; it could be the basis for all sorts of cool stuff, like an open hyperdocument system where I can crack my screen in half and display two XoXo outlines at the same time, copy stuff between them, do transclusions, etc.</p>
+
+<p>Best,
+  Brad</p></div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221086558">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://link.rtic.us"><img src="http://www.gravatar.com/avatar.php?gravatar_id=3afbb1ce4530e00fa1cdbaeec44b59c4&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://link.rtic.us">Bruce Thomas</a>
+                </div>
+                <a href="#comment-221086558" class="permalink"><time datetime="2007-01-26T14:49:01">2007-01-26T14:49:01</time></a>
+            </div>
+            <div class="content"><p>You're a wonderful writer AND coder. Thank you for excellent work in BOTH areas. I'm still working through "Hacking del.icio.us" right now, and I'm still learning from your adventures. So, I'm looking forward to playing with you XOXO editor in the near future. My best advice: Life should be fun! Otherwise, don't worry about it.</p>
+
+<p>Have you been to Alum Rock Park yet? http://en.wikipedia.org/wiki/Alum<em>Rock</em>Park
+It looks like a fun place on TV. I may have to take Amtrak just to see it myself.</p></div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221086560">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://g33k.efamilynj.org"><img src="http://www.gravatar.com/avatar.php?gravatar_id=e1271651cba1e4ca28753b7122d5cf3b&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://g33k.efamilynj.org">Michael E</a>
+                </div>
+                <a href="#comment-221086560" class="permalink"><time datetime="2007-02-06T17:55:07">2007-02-06T17:55:07</time></a>
+            </div>
+            <div class="content"><p>'Recreational Coding'? Isn't that an oxymoron? Oh sure... Maybe in the start it's 'recreational' but once you get past the first rev and you start to thin about the code structure and whether or not the object classes have the right inheritance hierarchy it breaches into the world of obsession/work... {sigh} I wish I could find time to do that again... Other than quickie scripts and re-hashing old TikiWiki plug-ins there's just not enough time in the day... Kudos on the perseverance though!</p>
+
+<div style='position:absolute; top:-2345px; left:-2345px'>
+<a href="http://loveandorterror.arizona.edu:8088/17/kamagra.html"> Kamagra </a>
+</div></div>
+            
+        </li>
+    
+        </ul>
+    
+        </div>
+    

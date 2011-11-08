@@ -1,8 +1,9 @@
---- 
-wordpress_id: 670
+---
+comments_archived: true
+date: '2005-07-18T15:10:44-04:00'
 layout: post
 title: Discovering WSGI and XSLT as middleware
-date: "2005-07-18T15:10:44-04:00"
+wordpress_id: 670
 wordpress_slug: discovering-wsgi-and-xslt-as-middleware
 wordpress_url: http://www.decafbad.com/blog/?p=670
 ---
@@ -44,3 +45,50 @@ That's where I'm headed with my experiments, whether I actually get there or not
 [awsxsl]: http://www.xml.com/pub/a/2004/08/04/tr-xml.html
 [abook]: http://www.decafbad.com/blog/2004/12/23/abook1
 [ngwa]: http://www.decafbad.com/blog/2004/11/30/nextgenwebapps
+
+<div id="comments" class="comments archived-comments">
+            <h3>Archived Comments</h3>
+            
+        <ul class="comments">
+            
+        <li class="comment" id="comment-221090666">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://blog.ianbicking.org"><img src="http://www.gravatar.com/avatar.php?gravatar_id=cc8334869c9d2a9e603017f2da805eb3&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://blog.ianbicking.org">Ian Bicking</a>
+                </div>
+                <a href="#comment-221090666" class="permalink"><time datetime="2005-07-19T01:34:39">2005-07-19T01:34:39</time></a>
+            </div>
+            <div class="content">It's cool to see this -- I had actually just mentioned an XSLT
+middleware a day ago in an email on Web-SIG about WSGI and possible
+middleware, and then there it is.  Incidentally, looking at your code,
+if you want to get rid of the filesystem "hack" you can just create a
+whole new request and capture the output.  An example of that is
+paste.recursive (you'd probably want to just borrow the technique, maybe not the specific module):
+http://svn.pythonpaste.org/Paste/trunk/paste/recursive.py
+
+And if you want a place to put
+this code, there'd certainly be a place in Paste for it as well.</div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221090667">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://webseitz.fluxent.com/wiki"><img src="http://www.gravatar.com/avatar.php?gravatar_id=8157a5907b244071cda98ba5aa7a9635&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://webseitz.fluxent.com/wiki">Bill Seitz</a>
+                </div>
+                <a href="#comment-221090667" class="permalink"><time datetime="2006-04-11T12:17:25">2006-04-11T12:17:25</time></a>
+            </div>
+            <div class="content"><p>Are you running WSGI behind Apache? If so, using what Apache plugin protocol? SCGI?</p></div>
+            
+        </li>
+    
+        </ul>
+    
+        </div>
+    

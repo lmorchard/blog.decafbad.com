@@ -1,8 +1,9 @@
---- 
-wordpress_id: 316
+---
+comments_archived: true
+date: '2002-12-03T13:43:20-05:00'
 layout: post
-title: "XML-RPC case study redux, Part III: I'll shut up after this."
-date: "2002-12-03T13:43:20-05:00"
+title: 'XML-RPC case study redux, Part III: I''ll shut up after this.'
+wordpress_id: 316
 wordpress_slug: ooocdb
 wordpress_url: http://www.decafbad.com/blog/?p=316
 ---
@@ -15,3 +16,45 @@ wordpress_url: http://www.decafbad.com/blog/?p=316
 </p>
 <!--more-->
 shortname=ooocdb
+
+<div id="comments" class="comments archived-comments">
+            <h3>Archived Comments</h3>
+            
+        <ul class="comments">
+            
+        <li class="comment" id="comment-221090492">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://www.scripting.com/"><img src="http://www.gravatar.com/avatar.php?gravatar_id=dc59c5ba9a8aa0a6225d9959eea3b7f3&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://www.scripting.com/">Dave Winer</a>
+                </div>
+                <a href="#comment-221090492" class="permalink"><time datetime="2002-12-08T17:53:49">2002-12-08T17:53:49</time></a>
+            </div>
+            <div class="content">Pretty arrogant if you ask me. What has LM Orchard contributed to the world? Add more value, less bluster and bullshit.</div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221090494">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://www.decafbad.com"><img src="http://www.gravatar.com/avatar.php?gravatar_id=2ac2cffd36ada8c734b90e02a1e5c1ac&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://www.decafbad.com">l.m.orchard</a>
+                </div>
+                <a href="#comment-221090494" class="permalink"><time datetime="2002-12-09T01:40:53">2002-12-09T01:40:53</time></a>
+            </div>
+            <div class="content">Your comment confuses me.  
+
+I've written that your work has helped me and given me food for thought - despite other disagreements I may have with you.  And I've written that a tool of yours I've come to consider imperfect has, nonetheless, worked perfectly for me.  These things remind me that I don't know it all and have much to learn and hash out.  If this is bluster and bullshit, I certainly didn't intend it as such.
+
+As for my contributions and value - I'd like to think I'm doing something right in this field, given that I still have a well-paying job and a non-zero readership of my weblog.</div>
+            
+        </li>
+    
+        </ul>
+    
+        </div>
+    

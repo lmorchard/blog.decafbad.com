@@ -1,14 +1,15 @@
---- 
-wordpress_id: 736
+---
+comments_archived: true
+date: '2005-10-16T01:35:46-04:00'
 layout: post
-title: Serenity is a Big Damn Roller Coaster
-date: "2005-10-16T01:35:46-04:00"
-tags: 
+tags:
 - scifi
 - entertainment
 - whedon
 - movies
 - serenity
+title: Serenity is a Big Damn Roller Coaster
+wordpress_id: 736
 wordpress_slug: serenity-is-a-big-damn-roller-coaster
 wordpress_url: http://decafbad.com/blog/?p=736
 ---
@@ -50,3 +51,109 @@ Some quick, fully spoiled thoughts:
 
 [ser]: http://www.serenitymovie.com/
 [enter]: http://decafbad.com/blog/2005/09/26/let-there-be-no-serenity-1701b
+
+<div id="comments" class="comments archived-comments">
+            <h3>Archived Comments</h3>
+            
+        <ul class="comments">
+            
+        <li class="comment" id="comment-221087613">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://admin.support.journurl.com/"><img src="http://www.gravatar.com/avatar.php?gravatar_id=5f89d3df08b8dedac1a0fde900a586db&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://admin.support.journurl.com/">Roger Benningfield</a>
+                </div>
+                <a href="#comment-221087613" class="permalink"><time datetime="2005-10-16T05:59:32">2005-10-16T05:59:32</time></a>
+            </div>
+            <div class="content"><p>My wife and I were both deeply disappointed by Serenity... and part of it is was the treatment of Wolver-- I mean, River. To my mind, her character was completely trivialized as Joss recycled yet another plotline from 70-80's X-Men stories. </p>
+
+<p>RE: the guys with the blue gloves... see the Serenity prequel for more on them.</p>
+
+<p>http://www.amazon.com/gp/product/1593074492</p></div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221087615">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href=""><img src="http://www.gravatar.com/avatar.php?gravatar_id=3949d56aa8ed2bac8eb26df54a837505&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="">Roger Espinosa</a>
+                </div>
+                <a href="#comment-221087615" class="permalink"><time datetime="2005-10-17T00:31:06">2005-10-17T00:31:06</time></a>
+            </div>
+            <div class="content"><p>Heh --- it was <em>your</em> post about "pulling an Enterprise-D" that I was thinking about when we saw Serenity last week. I thought "They're doing it! They're wrecking the ship!" and then that harpoon came and for once I really <em>wanted</em> someone to find the Deux Ex Machina switch that'd turn back time. <em>Sniff.</em></p></div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221087617">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://www.dissociatedpress.net/"><img src="http://disqus.com/api/users/avatars/JoeBrockmeier.jpg"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://www.dissociatedpress.net/">Joe Brockmeier</a>
+                </div>
+                <a href="#comment-221087617" class="permalink"><time datetime="2005-10-17T19:25:23">2005-10-17T19:25:23</time></a>
+            </div>
+            <div class="content"><p>I feel the same way - the first movie, perhaps since Star Wars, that I wanted to watch again as soon as it was over the first time. I think Wash's death traumatized some of the Firefly fans (one guy I talked to asked "why would you do that to yourself?" when I told him that I planned to see it again) but it's what makes Whedon's stories believable -- people actually die, in pointless ways that make the stories more real. Sadder, perhaps, but more real. </p>
+
+<p>Based on its box office performance, I'm not optimistic that there will be a Serenity II -- but if not, it was a very suitable way to close the book on those characters.</p></div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221087620">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href=""><img src="http://www.gravatar.com/avatar.php?gravatar_id=821395fe70906c8290df7f18ac4ac6cf&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="">rick</a>
+                </div>
+                <a href="#comment-221087620" class="permalink"><time datetime="2005-10-20T21:27:32">2005-10-20T21:27:32</time></a>
+            </div>
+            <div class="content"><p>I too wanted to see the Blue Gloves.  I thought the prequel story was weak closure on that thread.</p>
+
+<p>If there is a Serenity 2, they better find someone to fill Wash's void.  He was my favorite of the series...  </p>
+
+<p>I am a leaf on the wind</p></div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221087627">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://www.jm3.net/"><img src="http://disqus.com/api/users/avatars/jm3.jpg"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://www.jm3.net/">John Manoogian III (jm3)</a>
+                </div>
+                <a href="#comment-221087627" class="permalink"><time datetime="2005-10-23T13:39:44">2005-10-23T13:39:44</time></a>
+            </div>
+            <div class="content"><p>hate to say it (well, not really i don't... :-), but: told you so.</p></div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221087628">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://linebreaks.com/blog"><img src="http://www.gravatar.com/avatar.php?gravatar_id=c34787bfa95b5e1dece09cca57f07aed&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://linebreaks.com/blog">Mike</a>
+                </div>
+                <a href="#comment-221087628" class="permalink"><time datetime="2005-10-24T02:21:34">2005-10-24T02:21:34</time></a>
+            </div>
+            <div class="content"><p>I remember a theatre director once telling me that you shouldn't have a gun on stage because everyone knows it's not going to go off. I thought of this when Wash was killed (after my heart broke) - the gun went off this time. And then I had the same thought you did: <em>Damn, they might all die. Mal may lose, after all this.</em> You have to respect that lack of conceit, that unwillingness to be precious, on Whedon's part.</p>
+
+<p>But, sadly, I think it was also a signal to all the fans: There will be no encore.</p></div>
+            
+        </li>
+    
+        </ul>
+    
+        </div>
+    

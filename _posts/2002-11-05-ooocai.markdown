@@ -1,8 +1,9 @@
---- 
-wordpress_id: 294
+---
+comments_archived: true
+date: '2002-11-05T15:12:43-05:00'
 layout: post
 title: Why the frell hasn't the Semantic Web bloomed yet?
-date: "2002-11-05T15:12:43-05:00"
+wordpress_id: 294
 wordpress_slug: ooocai
 wordpress_url: http://www.decafbad.com/blog/?p=294
 ---
@@ -17,3 +18,41 @@ But from my occasional stops by the farm, looking over the fence, I see equipmen
 I guess what I'm getting at is that the Semantic Web just doesn't yet seem to me to be sufficiently dirty enough for the grassroots to grow.  But I'm still unsure about this assertion.  Need to play more.
 <!--more-->
 shortname=ooocai
+
+<div id="comments" class="comments archived-comments">
+            <h3>Archived Comments</h3>
+            
+        <ul class="comments">
+            
+        <li class="comment" id="comment-221083414">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://www.teledyn.com/mt/"><img src="http://www.gravatar.com/avatar.php?gravatar_id=2a79113935d97d5a47d3b54e01be3347&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://www.teledyn.com/mt/">mrG</a>
+                </div>
+                <a href="#comment-221083414" class="permalink"><time datetime="2002-11-05T17:38:53">2002-11-05T17:38:53</time></a>
+            </div>
+            <div class="content">Actually, I don't see semantic mycelia all over the place!</div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221083415">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://radio.weblogs.com/0113759/"><img src="http://www.gravatar.com/avatar.php?gravatar_id=1d82ae1013529b2c68607d77d2626ec1&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://radio.weblogs.com/0113759/">Seth Russell</a>
+                </div>
+                <a href="#comment-221083415" class="permalink"><time datetime="2002-11-06T18:02:56">2002-11-06T18:02:56</time></a>
+            </div>
+            <div class="content">I made a posting in my blog re your posting above.  I'm not sure how that gets back to you except this underpost here.</div>
+            
+        </li>
+    
+        </ul>
+    
+        </div>
+    

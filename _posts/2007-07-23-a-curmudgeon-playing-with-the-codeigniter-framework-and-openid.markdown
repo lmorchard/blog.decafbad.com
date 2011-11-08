@@ -1,9 +1,8 @@
---- 
-wordpress_id: 1059
+---
+comments_archived: true
+date: '2007-07-23T10:37:33-04:00'
 layout: post
-title: A Curmudgeon Playing with the CodeIgniter Framework and OpenID
-date: "2007-07-23T10:37:33-04:00"
-tags: 
+tags:
 - webdev
 - php
 - zend
@@ -12,6 +11,8 @@ tags:
 - cakephp
 - openid
 - codeigniter
+title: A Curmudgeon Playing with the CodeIgniter Framework and OpenID
+wordpress_id: 1059
 wordpress_slug: a-curmudgeon-playing-with-the-codeigniter-framework-and-openid
 wordpress_url: http://decafbad.com/blog/2007/07/23/a-curmudgeon-playing-with-the-codeigniter-framework-and-openid
 ---
@@ -26,3 +27,61 @@ wordpress_url: http://decafbad.com/blog/2007/07/23/a-curmudgeon-playing-with-the
 <p>The next thing I want to do is work more on profile managment, offer some of the <a href="http://openid.net/specs/openid-simple-registration-extension-1_1-01.html">OpenID Simple Registration</a> fields, and look into <a href="http://drnicwilliams.com/2007/07/20/one-app-one-user-account-and-multiple-openids/">supporting multiple auth IDs linked to the same user profile</a>.</p>
 <p>It might also be fun to do something like "<a href="http://simonwillison.net/2007/Jul/13/">catalogue the sites that a user logs into and automatically construct a homepage</a>."  Overall, I've got some vague notional ideas to build a personal status collector and maybe some federated social networking and messaging stuff.  But, one hack at a time.</p>
 <p>Hopefully, I'll get this code I've got so far into better shape and commit to my SVN repository.  Sooner than later, otherwise it'll never get off my dev box.</p>
+
+<div id="comments" class="comments archived-comments">
+            <h3>Archived Comments</h3>
+            
+        <ul class="comments">
+            
+        <li class="comment" id="comment-221087156">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://plasmasturm.org/"><img src="http://www.gravatar.com/avatar.php?gravatar_id=e17949267bbfe21a0fadf1bbf00592b4&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://plasmasturm.org/">Aristotle Pagaltzis</a>
+                </div>
+                <a href="#comment-221087156" class="permalink"><time datetime="2007-07-24T01:34:03">2007-07-24T01:34:03</time></a>
+            </div>
+            <div class="content"><p>Hmm, a system that treats its own OpenIDs just like any other OpenID and considers them foreign credentials for which it creates a new account seems… weird. It seems it should recognize its own OpenIDs and map them back to the corresponding username.</p></div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221087158">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://www.elroyjetson.org"><img src="http://www.gravatar.com/avatar.php?gravatar_id=4a34cf8d239b6589024fc004cfdad5b8&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://www.elroyjetson.org">Elroy Jetson</a>
+                </div>
+                <a href="#comment-221087158" class="permalink"><time datetime="2007-08-24T20:51:24">2007-08-24T20:51:24</time></a>
+            </div>
+            <div class="content"><p>Thanks for pointing this framework out.  Some how it had slipped through my fingers.</p>
+
+<p>I have tried them all and was (maybe still am) close to dumping php for ruby and the rails framework.</p>
+
+<p>Once I started digging into rails all the php frameworks just seemed like awkward teenagers that have to do everything their own way just to prove that they are different.</p>
+
+<p>codeIgniter is small.  Simple to setup and, so far anyway, seems about as elegant as you are going to get using php.</p></div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221087159">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href=""><img src="http://www.gravatar.com/avatar.php?gravatar_id=7b2554252993cc349aa4671cdc751985&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="">Cody Ray</a>
+                </div>
+                <a href="#comment-221087159" class="permalink"><time datetime="2008-06-03T21:30:09">2008-06-03T21:30:09</time></a>
+            </div>
+            <div class="content"><p>Did you ever put this into your SVN? I can't seem to find it through Trac.</p></div>
+            
+        </li>
+    
+        </ul>
+    
+        </div>
+    

@@ -1,14 +1,15 @@
---- 
-wordpress_id: 782
+---
+comments_archived: true
+date: '2005-11-27T16:29:53-05:00'
 layout: post
-title: Subscriptions are attention, but what about blogrolls?
-date: "2005-11-27T16:29:53-05:00"
-tags: 
+tags:
 - rss
 - microformats
 - opml
 - attention
 - privacy
+title: Subscriptions are attention, but what about blogrolls?
+wordpress_id: 782
 wordpress_slug: subscriptions-are-attention-but-what-about-blogrolls
 wordpress_url: http://decafbad.com/blog/?p=782
 ---
@@ -39,3 +40,53 @@ Maybe [microformats][] are the new XML-geekery, but I don't want a new, "cleaner
 [radio]: http://radio.userland.com/
 [radioblogroll]: http://radio.outliners.com/blogRollOutliner
 [microformats]: http://www.microformats.org/
+
+<div id="comments" class="comments archived-comments">
+            <h3>Archived Comments</h3>
+            
+        <ul class="comments">
+            
+        <li class="comment" id="comment-221082960">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://plasmasturm.org/"><img src="http://www.gravatar.com/avatar.php?gravatar_id=e17949267bbfe21a0fadf1bbf00592b4&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://plasmasturm.org/">Aristotle Pagaltzis</a>
+                </div>
+                <a href="#comment-221082960" class="permalink"><time datetime="2005-11-27T21:37:59">2005-11-27T21:37:59</time></a>
+            </div>
+            <div class="content"><p>Check out <a href="http://copia.ogbuji.net/blog/" rel="nofollow">Uche Ogbuji</a>'s pertinent posts:</p>
+
+<ol>
+<li><a href="http://copia.ogbuji.net/blog/2005-11-14/I_already_" rel="nofollow">I already said OPML is crap, right? I had to hack through another reminder today.</a></li>
+<li><a href="http://copia.ogbuji.net/blog/2005-11-15/I_must_be_" rel="nofollow">I must be missing something about XOXO (and maybe microformats in general)</a></li>
+<li><a href="http://copia.ogbuji.net/blog/2005-11-16/Does_it_co" rel="nofollow">XOXO versus Atom versus XBEL for Web feed lists?</a></li>
+</ol></div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221082961">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://oo2contml.sf.net"><img src="http://www.gravatar.com/avatar.php?gravatar_id=a5d42c1ccacf33c72fd502fe1bb5ffa9&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://oo2contml.sf.net">Adam Lindsay</a>
+                </div>
+                <a href="#comment-221082961" class="permalink"><time datetime="2005-11-28T11:48:40">2005-11-28T11:48:40</time></a>
+            </div>
+            <div class="content"><blockquote>
+  <p>My aggregator’s OPML export is private data for interchange between my other aggregators.</p>
+</blockquote>
+
+<p>See, that's where you've lost me. Regardless of OPML's suckiness (yes, I've gazed on it, first hand), export/import interchange formats are precisely the sort of thing to be open standards. I spent many of the prime years of my life working on MPEG, and that, if anything, was my take-home message. The interchange/glue formats are precisely what need to be scrutinised and kept in public view.</p>
+
+<p>Is OPML good for anything else? Not really. Should it be promoted for all one's outlining needs? Not really. Does XOXO have an easy time of gaining mindshare, considering most people's miniscule outlining needs? Not really.</p></div>
+            
+        </li>
+    
+        </ul>
+    
+        </div>
+    

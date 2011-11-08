@@ -1,9 +1,14 @@
---- 
-wordpress_id: 519
+---
+comments_archived: true
+date: '2004-05-03T06:39:05-04:00'
+excerpt: Well, it did seem quiet, but it's comforting in an odd way that
+    RSS Wars are still raging as I wander back into the blogosphere.  I
+    suggest that all that Atom haters out there put on some RSS-colored
+    glasses and forget there ever was an Atom.  XSLT and URL-as-command-line
+    to the rescue!
 layout: post
 title: Put on your RSS-colored glasses and forget about Atom
-excerpt: Well, it did seem quiet, but it's comforting in an odd way that RSS Wars are still raging as I wander back into the blogosphere.  I suggest that all that Atom haters out there put on some RSS-colored glasses and forget there ever was an Atom.  XSLT and URL-as-command-line to the rescue!
-date: "2004-05-03T06:39:05-04:00"
+wordpress_id: 519
 wordpress_slug: put-on-your-rss-colored-glasses-and-forget-about-atom
 wordpress_url: http://www.decafbad.com/blog/?p=519
 ---
@@ -42,3 +47,195 @@ But, I digress...
 [response]: http://www.decafbad.com/blog/2004/05/02/feed_validation_confusion#comment-1113
 [lastpost]: http://www.decafbad.com/blog/2004/05/02/feed_validation_confusion
 [quiet]: http://www.decafbad.com/blog/2004/04/29/has_it_been_quiet
+
+<div id="comments" class="comments archived-comments">
+            <h3>Archived Comments</h3>
+            
+        <ul class="comments">
+            
+        <li class="comment" id="comment-221086567">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://admin.support.journurl.com/"><img src="http://www.gravatar.com/avatar.php?gravatar_id=5f89d3df08b8dedac1a0fde900a586db&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://admin.support.journurl.com/">Roger Benningfield</a>
+                </div>
+                <a href="#comment-221086567" class="permalink"><time datetime="2004-05-03T12:59:04">2004-05-03T12:59:04</time></a>
+            </div>
+            <div class="content">I dunno about anyone else, but that's *exactly* how I plan to deal with Atom until it's a finalized IETF thingie sometime in 2005 or 2006. You certainly don't deserve bludgeoning for suggesting it. 
+
+I may not like the Atom Process, but I *do* appreciate practical, straightforward solutions to problems... and in a world where Atom exists, transforming it into RSS is just that.
+
+BTW, on previewing this comment, I spotted the following error at the bottom of the page:
+
+MT::App::Comments=HASH(0x834cf4c) Use of uninitialized value in sprintf at /www/www.decafbad.com/docs/mt/lib/MT/Template/Context.pm line 1187.</div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221086568">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href=""><img src="http://www.gravatar.com/avatar.php?gravatar_id=8bcf295bb2e23d6ee0d80710023f2b66&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="">Anonymous</a>
+                </div>
+                <a href="#comment-221086568" class="permalink"><time datetime="2004-05-03T20:17:35">2004-05-03T20:17:35</time></a>
+            </div>
+            <div class="content">Hey there. I'm the first of the two guys offering an Atom conversion service and I'm here for just yet another shameless plug: the XSL which runs my service is public and anybody can play with it with tools such as xsltproc. It's over here:
+
+http://cavedoni.com/2004/02/rss1.xsl
+
+End of the show.</div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221086569">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://cavedoni.com/"><img src="http://www.gravatar.com/avatar.php?gravatar_id=111a3fad55b9de66f2050502f98216bb&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://cavedoni.com/">Antonio Cavedoni</a>
+                </div>
+                <a href="#comment-221086569" class="permalink"><time datetime="2004-05-03T20:20:21">2004-05-03T20:20:21</time></a>
+            </div>
+            <div class="content">Broken broken broken: I did put my name, email address and URL in there but MT somehow mangled it. Anyway, my name is Antonio Cavedoni and I often go on IRC by the nickname "verbosus".</div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221086570">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://www.libraryplanet.com/"><img src="http://www.gravatar.com/avatar.php?gravatar_id=2dc6776d772d1ff3e230578b0e61406b&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://www.libraryplanet.com/">Michael Pate</a>
+                </div>
+                <a href="#comment-221086570" class="permalink"><time datetime="2004-05-03T22:06:46">2004-05-03T22:06:46</time></a>
+            </div>
+            <div class="content">"It means you can forget about Atom. Whenever you see an Atom feed, just put on your RSS-colored glasses."
+
+Of course, it is just as possible as to forget as RSS.
+
+http://www.libraryplanet.com/2004/03/2</div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221086572">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://www.decafbad.com/blog"><img src="http://www.gravatar.com/avatar.php?gravatar_id=8a5273f79cfe7579ad46023f93377aa8&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://www.decafbad.com/blog">l.m.orchard</a>
+                </div>
+                <a href="#comment-221086572" class="permalink"><time datetime="2004-05-03T22:27:41">2004-05-03T22:27:41</time></a>
+            </div>
+            <div class="content">Michael: SHH! I don't want to get into that!  (Heh, heh)</div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221086573">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://houseofwarwick.com"><img src="http://www.gravatar.com/avatar.php?gravatar_id=3b7464f178b85c3902a97f91a40893b6&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://houseofwarwick.com">Steve Kirks</a>
+                </div>
+                <a href="#comment-221086573" class="permalink"><time datetime="2004-05-04T06:53:09">2004-05-04T06:53:09</time></a>
+            </div>
+            <div class="content">Leslie:
+
+Welcome back--I've kept you in my aggregator, specifically because of the writing and the clever graphic on the site "When I Grow Up I Want To Be".
+
+Right now, RSS is fine for me.  Maybe Atom is the answer to the unasked question of the future.  By the way, I read Mark Pilgrim's site using a site called 2rss
+
+http://www.2rss.com/atom2rss.php?atom=http://diveintomark.org/xml/atom.xml</div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221086576">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://www.healyourchurchwebsite.com/archives/001170.shtml"><img src="http://www.gravatar.com/avatar.php?gravatar_id=6a9d199a4357aa0710e47616878fb6ee&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://www.healyourchurchwebsite.com/archives/001170.shtml">Mean Dean</a>
+                </div>
+                <a href="#comment-221086576" class="permalink"><time datetime="2004-05-05T19:22:49">2004-05-05T19:22:49</time></a>
+            </div>
+            <div class="content">Man, where is Rodney King when you need him ... 
+
+"Can't we all just get along ..."
+
+I commented about this confusion back in Febrary (click on my name for article). Personally, I list both formats because I'd rather not deal with zealot-mail from either side of the argument.
+
+Personally, I do thing if Pilgrim can get an XSLT defined soas 'one transform fits all browsers' then I suspect you might see this quickly implemented by Blogger and MT. How the RSS camp will respond ... I dunno.
+
+ ... then again, I've been wrong before.</div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221086577">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://manero.org/weblog/"><img src="http://www.gravatar.com/avatar.php?gravatar_id=2897451ea3a16a3894aa1a12403eecac&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://manero.org/weblog/">Tony</a>
+                </div>
+                <a href="#comment-221086577" class="permalink"><time datetime="2004-05-11T19:58:09">2004-05-11T19:58:09</time></a>
+            </div>
+            <div class="content">I get a 403 forbidden error when trying to snarf Mark Pilgrim's Atom feed with a Java http client. What an ass.</div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221086578">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://www.awasu.com"><img src="http://www.gravatar.com/avatar.php?gravatar_id=ca19d3db701081576b02a6cd783fce3b&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://www.awasu.com">Taka</a>
+                </div>
+                <a href="#comment-221086578" class="permalink"><time datetime="2004-05-20T09:04:55">2004-05-20T09:04:55</time></a>
+            </div>
+            <div class="content">We've had an XSLT processor in Awasu for a while but it's much more than just a NeatLikeDigitalWatches idea. Anything that provides information as XML e.g. web services can be converted to RSS and monitored in Awasu. That's a mighty powerful feature IMHO :-)</div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221086581">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://www.deceptykhan.com"><img src="http://www.gravatar.com/avatar.php?gravatar_id=6eb3b676ac20239be918a825ac94b2d5&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://www.deceptykhan.com">nick</a>
+                </div>
+                <a href="#comment-221086581" class="permalink"><time datetime="2004-05-21T02:37:09">2004-05-21T02:37:09</time></a>
+            </div>
+            <div class="content">I'm surprised no one  has mentioned FeedBurner (http://www.feedburner.com/) as a (free) way to convert Atom to RSS (any flavor) and vice-versa. They even have a feature to "pretty up" the raw XML so it can be viewed in a normal web browser when Random Q. Someuser goes "Gee, im going to click on this orange button to see what it does". Anyways, I love it & use it to 'burn' my Blogger generated Atom feeds to RSS 2.0 (http://feeds.feedburner.com/dkhan) - It even picked up my favicon!</div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221086582">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href=""><img src="http://www.gravatar.com/avatar.php?gravatar_id=37d5e24633b915c5542bd1d8acab065e&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="">kL</a>
+                </div>
+                <a href="#comment-221086582" class="permalink"><time datetime="2006-05-01T22:48:54">2006-05-01T22:48:54</time></a>
+            </div>
+            <div class="content"><p>Atom 0.3 is a bit dated by now, but there's <a href="http://atom.geekhood.net" title="XSLT converts Atom to RSS" rel="nofollow">same thing for Atom 1.0 to RSS2.0</a></p></div>
+            
+        </li>
+    
+        </ul>
+    
+        </div>
+    

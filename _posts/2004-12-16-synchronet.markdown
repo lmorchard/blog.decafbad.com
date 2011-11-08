@@ -1,11 +1,12 @@
---- 
-wordpress_id: 579
-layout: post
-title: Synchronet BBS Software, Tidal Pools, and On-Ramps
+---
+comments_archived: true
+date: '2004-12-16T10:19:03-05:00'
 excerpt: At least Finland isn't a long distance call anymore.
-date: "2004-12-16T10:19:03-05:00"
-tags: 
+layout: post
+tags:
 - oldschool
+title: Synchronet BBS Software, Tidal Pools, and On-Ramps
+wordpress_id: 579
 wordpress_slug: synchronet
 wordpress_url: http://www.decafbad.com/blog/?p=579
 ---
@@ -31,3 +32,41 @@ It was really neat to see the mish-mash of people all drawn together by geograph
 But, at least Finland isn't a long distance call these days.
 <!--more-->
 shortname=synchronet
+
+<div id="comments" class="comments archived-comments">
+            <h3>Archived Comments</h3>
+            
+        <ul class="comments">
+            
+        <li class="comment" id="comment-221086440">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://www.bloglines.com/blog/knight37"><img src="http://www.gravatar.com/avatar.php?gravatar_id=72f925855f5fa72d2049f9472264164f&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://www.bloglines.com/blog/knight37">knight37</a>
+                </div>
+                <a href="#comment-221086440" class="permalink"><time datetime="2004-12-16T11:18:24">2004-12-16T11:18:24</time></a>
+            </div>
+            <div class="content">Back in "the day" I ran a BBS dedicated to RPG gaming and programming, called "The Wyrm's Byte". We had cool ansi-graphic art. We had doors games. Trade Wars, BRE, and some others. We had a download section but not much was on it. And we ran Fidonet (sort of like Usenet but using a different protocol and shared among BBSes), Vnet (RPG-oriented net that used Fido technology), and CandyNet (also RPG-centric net that used Fido tech). This was a great hobby, I had lots of fun. But, it seems like in this day and age, I'd rather just run a web site than try to do a full fledged BBS. What could I really offer using BBS software that I can't do on a website? Other than maybe doors games, but I'd rather play World of Warcraft or Half-Life 2 multi than those.</div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221086442">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href=""><img src="http://www.gravatar.com/avatar.php?gravatar_id=c80cacc8feb903332fc8939c80ae495e&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="">ArcAiN6</a>
+                </div>
+                <a href="#comment-221086442" class="permalink"><time datetime="2006-09-05T20:02:16">2006-09-05T20:02:16</time></a>
+            </div>
+            <div class="content"><p>Synchronet is easy peasy, i'm currently running it, and i love the thing.. :)</p></div>
+            
+        </li>
+    
+        </ul>
+    
+        </div>
+    

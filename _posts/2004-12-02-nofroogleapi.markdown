@@ -1,9 +1,11 @@
---- 
-wordpress_id: 569
+---
+comments_archived: true
+date: '2004-12-02T09:48:38-05:00'
+excerpt: You know what I was just thinking?  Why doesn't Froogle have an
+    API like Amazon?
 layout: post
 title: Where's the Froogle API?
-excerpt: You know what I was just thinking?  Why doesn't Froogle have an API like Amazon?
-date: "2004-12-02T09:48:38-05:00"
+wordpress_id: 569
 wordpress_slug: nofroogleapi
 wordpress_url: http://www.decafbad.com/blog/?p=569
 ---
@@ -14,3 +16,27 @@ But, since my mind's been on shopping a bit, I've been checking out Froogle.  Di
 But, no!  There's no API, and I'm feeling too lazy to hack any screen scraper web robots together.  So.  I'm probably weird for this being the deciding factor, but for now, Amazon retains my patronage.  Funny thing is, although it's a mild form of data lock-in, Amazon *does* have an API and I can scoop up my wishlist items whenever I feel like it.  It's just that there'd be no convenient place to put them right now.
 <!--more-->
 shortname=nofroogleapi
+
+<div id="comments" class="comments archived-comments">
+            <h3>Archived Comments</h3>
+            
+        <ul class="comments">
+            
+        <li class="comment" id="comment-221086955">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://www.metawishlist.com"><img src="http://www.gravatar.com/avatar.php?gravatar_id=52fa4279ac7fb335344075b11be0dcea&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://www.metawishlist.com">Alex</a>
+                </div>
+                <a href="#comment-221086955" class="permalink"><time datetime="2005-04-18T03:43:34">2005-04-18T03:43:34</time></a>
+            </div>
+            <div class="content">Look no further than MetaWishlist.com. You can import your Amazon Wish List there and use the bookmarklet to add items from any vendor.</div>
+            
+        </li>
+    
+        </ul>
+    
+        </div>
+    

@@ -1,13 +1,14 @@
---- 
-wordpress_id: 1699
+---
+comments_archived: true
+date: '2009-01-23T11:59:54-05:00'
 layout: post
-title: 7 facts about me
-date: "2009-01-23T11:59:54-05:00"
-tags: 
+tags:
 - entries
 - mozilla
 - 7things
 - memes
+title: 7 facts about me
+wordpress_id: 1699
 wordpress_slug: 7-facts-about-me
 wordpress_url: http://decafbad.com/blog/?p=1699
 ---
@@ -52,3 +53,89 @@ Now, for your random facts, after the jump:
 [Per Ben Hearsum][ben], I think I'll make this a leaf node in the meme spanning the [Mozillasphere][].  In a quick 5 minute search, it looks like most blogging Mozillans have already been tagged, and I'm not going to spread the contagion outside the organization.  :)
 
 
+
+<div id="comments" class="comments archived-comments">
+            <h3>Archived Comments</h3>
+            
+        <ul class="comments">
+            
+        <li class="comment" id="comment-221082669">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://djst.org/blog/"><img src="http://www.gravatar.com/avatar.php?gravatar_id=c373b563731bfba5dae207e3f66539dd&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://djst.org/blog/">David Tenser</a>
+                </div>
+                <a href="#comment-221082669" class="permalink"><time datetime="2009-01-23T18:26:51">2009-01-23T18:26:51</time></a>
+            </div>
+            <div class="content"><p>Re #5, I just realized how annoying my "les is more" jokes must be! I need to figure out how I can deliver these high class jokes in a more subtle way while still being able to entertain myself. Maybe I could just think about the phrase instead?</p>
+
+<p>Re #7, I couldn't agree more!</p></div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221082671">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://www.decafbad.com"><img src="http://www.gravatar.com/avatar.php?gravatar_id=2377f34a68801b861c3e54e1301f0dce&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://www.decafbad.com">l.m.orchard</a>
+                </div>
+                <a href="#comment-221082671" class="permalink"><time datetime="2009-01-23T19:20:44">2009-01-23T19:20:44</time></a>
+            </div>
+            <div class="content"><p>@David: Heh, heh.  The "les is more" jokes aren't really annoying - they've just kind of graduated up to a bigger meta-joke that I've gotten used to.  :)  No worries!</p></div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221082672">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://gfmorris.net/"><img src="http://www.gravatar.com/avatar.php?gravatar_id=505e3b39dcea29b3ded74a5494c493eb&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://gfmorris.net/">Geof F. Morris</a>
+                </div>
+                <a href="#comment-221082672" class="permalink"><time datetime="2009-01-24T00:15:47">2009-01-24T00:15:47</time></a>
+            </div>
+            <div class="content"><p>I had always read you talking about CPAP and just thought you were crazy ... then I had an NPSG and got mine.  HOLY CRAP YOU ARE NOT KIDDING.</p></div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221082676">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://pattimst3k.livejournal.com/"><img src="http://www.gravatar.com/avatar.php?gravatar_id=404400e23c8a644635e9eeeec19a2175&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://pattimst3k.livejournal.com/">http://pattimst3k.livejournal.</a>
+                </div>
+                <a href="#comment-221082676" class="permalink"><time datetime="2009-01-24T03:59:30">2009-01-24T03:59:30</time></a>
+            </div>
+            <div class="content"><p></p><p>When did you and your wife meet? I met my husband on line back in 1999 when people still thought that you only met psychopaths on the internet.  No one could understand it...until Jeff explained how picky I am and then it made sense :)
+Hopheads rule!!&lt;/p
+TeacherPatti</p></div>
+            
+        </li>
+    
+        <li class="comment" id="comment-225605269">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://www.cpapandsupplies.com/images/infographic/cpap.png"><img src="http://www.gravatar.com/avatar.php?gravatar_id=0cbd1bbbd946fdec40b30dd68d414999&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://www.cpapandsupplies.com/images/infographic/cpap.png">Easysleeper</a>
+                </div>
+                <a href="#comment-225605269" class="permalink"><time datetime="2011-06-14T10:01:28">2011-06-14T10:01:28</time></a>
+            </div>
+            <div class="content">I am so glad that you talk about your sleep apnea and CPAP machine as openly as you do.
+
+People shouldn't be ashamed of it! </div>
+            
+        </li>
+    
+        </ul>
+    
+        </div>
+    

@@ -1,8 +1,9 @@
---- 
-wordpress_id: 177
+---
+comments_archived: true
+date: '2002-06-13T15:02:20-04:00'
 layout: post
 title: How to know when not to worry before grokking?
-date: "2002-06-13T15:02:20-04:00"
+wordpress_id: 177
 wordpress_slug: oooaih
 wordpress_url: http://www.decafbad.com/blog/?p=177
 ---
@@ -19,3 +20,31 @@ wordpress_url: http://www.decafbad.com/blog/?p=177
 <p>Hmm.  Back to drawing barcharts...</p>
 <!--more-->
 shortname=oooaih
+
+<div id="comments" class="comments archived-comments">
+            <h3>Archived Comments</h3>
+            
+        <ul class="comments">
+            
+        <li class="comment" id="comment-221084155">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://rtnl.org.uk"><img src="http://www.gravatar.com/avatar.php?gravatar_id=57d9b82f55c3808a61fa52bfedd9b10c&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://rtnl.org.uk">colin_zr</a>
+                </div>
+                <a href="#comment-221084155" class="permalink"><time datetime="2002-06-14T16:57:51">2002-06-14T16:57:51</time></a>
+            </div>
+            <div class="content">You're not the only one who's been baffled by XSLT. I love it now, but when I was learning it I found myself struggling a bit. The key is to learn some functional programming (maybe using Lisp or Haskell) and then everything will become much clearer. If you don't have any previous experience of functional programming then XSLT will seem strange and difficult. It's just a matter of getting that experience and learning to think like a functional programmer.
+
+The reason why you shouldn't use a scripting language such as Perl or Python is that XSLT handles XML really nicely, and scripting languages tend not to handle it so well. The reason you shouldn't use a template system is that none of them will be as powerful. I'm currently writing a blogging tool and (for obscure reasons) I'm restricting myself to Perl and using the HTML::Template module, so I have first-hand experience of both of these problems. I keep on wishing I could switch to XSLT.
+
+As for using two-stage recursive algorithms, that's wizardry that you don't need to worry about right now. If you want the sum of a list of numbers, just use a simple recursive algorithm. Only think about alternative methods when you run into a problem with the simple method.</div>
+            
+        </li>
+    
+        </ul>
+    
+        </div>
+    

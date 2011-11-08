@@ -1,8 +1,9 @@
---- 
-wordpress_id: 438
+---
+comments_archived: true
+date: '2003-07-07T12:40:13-04:00'
 layout: post
 title: Is the magic in RSS, or in Syndication?
-date: "2003-07-07T12:40:13-04:00"
+wordpress_id: 438
 wordpress_slug: syndications-formats
 wordpress_url: http://www.decafbad.com/blog/?p=438
 ---
@@ -107,3 +108,74 @@ very shiny bits, or many bribes.
 I mean, that's what it takes to get my cats to do anything.
 <!--more-->
 shortname=syndications_formats
+
+<div id="comments" class="comments archived-comments">
+            <h3>Archived Comments</h3>
+            
+        <ul class="comments">
+            
+        <li class="comment" id="comment-221088195">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://www.voidstar.com"><img src="http://www.gravatar.com/avatar.php?gravatar_id=4ca7f18e6a976271f93b665a6a84cec4&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://www.voidstar.com">Julian Bond</a>
+                </div>
+                <a href="#comment-221088195" class="permalink"><time datetime="2003-07-07T14:54:28">2003-07-07T14:54:28</time></a>
+            </div>
+            <div class="content">The only thing that wound me up about Mark P's little jest of removing link, and the only thing that winds me up about Dave W's problems with explaining what he thinks link should be used for, is that they're both messing with the old lizardbrain core in one way or another. As long as we all go on supporting CITLD (Channel, Item, item.link, item.title, item.description), RSS will continue to grow, no matter what we call it and no matter what we add to it.
+
+Don't break the core.</div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221088198">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://www.michaelbernstein.com"><img src="http://www.gravatar.com/avatar.php?gravatar_id=d43258bf8e56395266b3f2e2ad64344e&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://www.michaelbernstein.com">Michael Bernstein</a>
+                </div>
+                <a href="#comment-221088198" class="permalink"><time datetime="2003-07-07T17:18:24">2003-07-07T17:18:24</time></a>
+            </div>
+            <div class="content">Some 'pavement' comments:
+
+http://scriptingnews.userland.com/weblogsearch/?q=pavement</div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221088200">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://diveintomark.org/"><img src="http://www.gravatar.com/avatar.php?gravatar_id=2fc977e82d9f8395a0f49e6f4958bc84&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://diveintomark.org/">Mark</a>
+                </div>
+                <a href="#comment-221088200" class="permalink"><time datetime="2003-07-07T18:30:29">2003-07-07T18:30:29</time></a>
+            </div>
+            <div class="content">I'm working on updating my ultra-liberal parser to handle (not-)Echo as well.</div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221088202">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://webseitz.fluxent.com/wiki"><img src="http://www.gravatar.com/avatar.php?gravatar_id=5a70d939a73fa73603f2a9255ab81d21&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://webseitz.fluxent.com/wiki">BillSeitz</a>
+                </div>
+                <a href="#comment-221088202" class="permalink"><time datetime="2003-07-07T18:42:38">2003-07-07T18:42:38</time></a>
+            </div>
+            <div class="content">I braindumped some possible bad scenarios at the bottom of:
+http://webseitz.fluxent.com/wiki/EchoStandards</div>
+            
+        </li>
+    
+        </ul>
+    
+        </div>
+    

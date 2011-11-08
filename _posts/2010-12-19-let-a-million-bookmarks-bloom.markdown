@@ -1,15 +1,16 @@
---- 
-wordpress_id: 1952
+---
+comments_archived: true
+date: '2010-12-19T16:26:38-05:00'
 layout: post
-title: Let a million bookmarks bloom
-date: "2010-12-19T16:26:38-05:00"
-tags: 
+tags:
 - delicious
 - bookmarks
 - feeds
 - entries
 - pubsubhubbub
 - rsscloud
+title: Let a million bookmarks bloom
+wordpress_id: 1952
 wordpress_slug: let-a-million-bookmarks-bloom
 wordpress_url: http://decafbad.com/blog/?p=1952
 ---
@@ -114,3 +115,127 @@ You don't need a central blog server to have a Google. And you don't need a Deli
 Seriously, hosting is getting cheaper and easier. Use it and host your own. Yeah, cheap is not free, but is what you're doing worthless to you? There are interesting alternatives that don't involve handing everything over to someone who doesn't actually care about you and your stuff.
 
 And, if it turns out that social bookmarking settles down into a small but highly involved niche of curators, so much the better that they keep their own lights on.
+
+<div id="comments" class="comments archived-comments">
+            <h3>Archived Comments</h3>
+            
+        <ul class="comments">
+            
+        <li class="comment" id="comment-221087678">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://workbench.cadenhead.org/"><img src="http://www.gravatar.com/avatar.php?gravatar_id=70fe121c9172e9882762d7f28f233567&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://workbench.cadenhead.org/">Rogers Cadenhead</a>
+                </div>
+                <a href="#comment-221087678" class="permalink"><time datetime="2010-12-20T05:44:29">2010-12-20T05:44:29</time></a>
+            </div>
+            <div class="content"><p>Hosting is cheap.</p>
+
+<p>Running web applications on your own server securely and reliably is expensive, assuming you value your own time.</p></div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221087680">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href=""><img src="http://www.gravatar.com/avatar.php?gravatar_id=bb266673ec59acafd5d3ed68238551a5&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="">JB</a>
+                </div>
+                <a href="#comment-221087680" class="permalink"><time datetime="2010-12-20T10:05:58">2010-12-20T10:05:58</time></a>
+            </div>
+            <div class="content"><p>I really like this article.
+There should indeed be a system where you can self-host your bookmarks with some CMS and a centralized site for less techy people. All of these bookmarks would be somehow merged to produce intelligent data.
+Kind of what Automattic does with WordPress.org and WordPress.com.</p>
+
+<p>Aside, this new Delicious system should have a more "sharing" side with ability for networkers to comment on each bookmark, "redeli" the bookmark (like retweet), etc... Unite bookmark and twitter functions - What Yahoo! should have try to developp during these past five years and failed to.
+I already tried to find some link posted in the past in my Twitter stream, and it made me really angry and frustrated. And I didn't succeed. Twitter is nice but still has a too bad signal-to-noise ratio : Tweets are way too much passing, impossible to organized, and replies are not enough differentiated from normal tweet.</p>
+
+<p>What could be an ideal way to go is a WordPress plugin. Based on already there custom post type system, tags system, comments sytem...
+WordPress is already a successful product, widely used. It would make easier the process of leaving current doomed delicious to a decentralized system.</p>
+
+<p>And Automattic should integrate this plugin to their WordPress.com blogs. They even would not have to buy Delicious to Yahoo!, just spread the word and invite people to subscribe to their service and import their delicious data.</p>
+
+<p>Finally, imagine that Automattic creates a subdomain of wordpress.com where all the data (bookmarks and data) would be gathered. The plugin on self hosted blogs would propose to the owner to share his personal bookmarks data with this website via an API.
+A network could be based on wordpress.com optional subscription.</p>
+
+<p>I don't have any personal or business interest in Automattic (just a WordPress user) but it seems the perfect way to go.</p></div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221087684">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://www.decafbad.com"><img src="http://www.gravatar.com/avatar.php?gravatar_id=2377f34a68801b861c3e54e1301f0dce&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://www.decafbad.com">l.m.orchard</a>
+                </div>
+                <a href="#comment-221087684" class="permalink"><time datetime="2010-12-20T16:49:26">2010-12-20T16:49:26</time></a>
+            </div>
+            <div class="content"><p>@Rogers: Yeah, I totally glossed over the horrors of sysadmin work and security. I'm kind of bipolar that way. I'm very optimistic about the stuff you can do with all this cheap capacity. But, then, I get my 5th XSS bug of the day to fix and want to change careers. </p>
+
+<p>I tend to think that cheap/disposable VMs and things like Google App Engine can make it easier, though. You can pay for &amp; run just enough to run your app, hopefully keep the maintenance needs down and minimize the attack surface.</p>
+
+<p>I don't think it's that bad for small self-hosted sites like I'm talking about, but then I have a high threshold for crap.</p></div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221087685">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://webseitz.fluxent.com/wiki"><img src="http://www.gravatar.com/avatar.php?gravatar_id=1d7a7610cb0f02de44be3c4186f82ac3&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://webseitz.fluxent.com/wiki">Bill Seitz</a>
+                </div>
+                <a href="#comment-221087685" class="permalink"><time datetime="2010-12-20T20:09:41">2010-12-20T20:09:41</time></a>
+            </div>
+            <div class="content"><p>I'm not feeling that optimistic about things like GoogleAppEngine these days. </p>
+
+<ol>
+<li><p>How much is GAE mattering to anyone these days? What does that imply for its long-term survival?</p></li>
+<li><p>WikiLeaks/TOS etc.</p></li>
+</ol></div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221087686">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://www.decafbad.com"><img src="http://www.gravatar.com/avatar.php?gravatar_id=2377f34a68801b861c3e54e1301f0dce&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://www.decafbad.com">l.m.orchard</a>
+                </div>
+                <a href="#comment-221087686" class="permalink"><time datetime="2010-12-21T02:26:18">2010-12-21T02:26:18</time></a>
+            </div>
+            <div class="content"><p>@Bill: Well, GAE is mattering to me insofar as it's a decent place to deploy quick python web apps. Of course, that might be bad, since quick python apps aren't really taking advantage of the whole BigTable thing.</p>
+
+<p>As for wikileaks, well... <a href="http://rc3.org/2010/12/03/somebody-can-always-cut-you-off/" rel="nofollow">Somebody can always cut you off</a></p></div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221087688">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://evan.status.net/"><img src="http://www.gravatar.com/avatar.php?gravatar_id=d54b3146dc0b7e92cf252e508c280abd&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://evan.status.net/">Evan Prodromou</a>
+                </div>
+                <a href="#comment-221087688" class="permalink"><time datetime="2010-12-22T17:55:13">2010-12-22T17:55:13</time></a>
+            </div>
+            <div class="content"><p>I'd love to get your comments on the Bookmark extension we're working on for StatusNet. It uses OStatus (http://ostatus.org/) for distributing bookmarks (that's PuSH + Activity Streams + Salmon) and the Bookmark object type for AS.</p>
+
+<p>It's shaping up nicely; I'm going to set up a sample site for testing v v soon.</p></div>
+            
+        </li>
+    
+        </ul>
+    
+        </div>
+    

@@ -1,8 +1,9 @@
---- 
-wordpress_id: 393
+---
+comments_archived: true
+date: '2003-03-17T08:57:42-05:00'
 layout: post
-title: "Happy Trails to Me, I'm Job-Free: Week One"
-date: "2003-03-17T08:57:42-05:00"
+title: 'Happy Trails to Me, I''m Job-Free: Week One'
+wordpress_id: 393
 wordpress_slug: first-week-off
 wordpress_url: http://www.decafbad.com/blog/?p=393
 ---
@@ -84,3 +85,101 @@ Well, back to searching and my first baby steps with .NET - wish me
 luck.  And if you happen to be in town, stop by and say haloo.
 <!--more-->
 shortname=first_week_off
+
+<div id="comments" class="comments archived-comments">
+            <h3>Archived Comments</h3>
+            
+        <ul class="comments">
+            
+        <li class="comment" id="comment-221082654">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://www.joegrossberg.com"><img src="http://www.gravatar.com/avatar.php?gravatar_id=a74de86470c1376d27cb3a3186b7a9d2&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://www.joegrossberg.com">Joe Grossberg</a>
+                </div>
+                <a href="#comment-221082654" class="permalink"><time datetime="2003-03-17T10:50:22">2003-03-17T10:50:22</time></a>
+            </div>
+            <div class="content">Good luck. Did you at least get a severance package (e.g. 2 weeks' pay and unused vacation time)?
+
+If it makes you feel any better, I have a friend who didn't get paid for a month (first pay period, they claimed there was "a problem with the bank" that they were working out; second one, they said money was tight and they were looking for funding). So he got left with nothing, except being towards the end of a long line of creditors. Ugh.</div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221082655">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://www.larkware.com/"><img src="http://www.gravatar.com/avatar.php?gravatar_id=8dd4f313e5a537b0549659c3a90a4887&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://www.larkware.com/">Mike Gunderloy</a>
+                </div>
+                <a href="#comment-221082655" class="permalink"><time datetime="2003-03-17T10:51:31">2003-03-17T10:51:31</time></a>
+            </div>
+            <div class="content">Freelancing sucks. But it sucks much less than working for anyone else.</div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221082656">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://www.decafbad.com"><img src="http://www.gravatar.com/avatar.php?gravatar_id=2ac2cffd36ada8c734b90e02a1e5c1ac&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://www.decafbad.com">l.m.orchard</a>
+                </div>
+                <a href="#comment-221082656" class="permalink"><time datetime="2003-03-17T11:16:27">2003-03-17T11:16:27</time></a>
+            </div>
+            <div class="content">Actually, they gave me a very decent severance package.  Not enough for me to take any European vacations (heh, heh), but enough to turn my job search panic level down a few notches.  So things could be *much* worse.</div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221082657">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href=""><img src="http://www.gravatar.com/avatar.php?gravatar_id=53d4100cc82179a69e211bc5bc69887a&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="">Sean Cull</a>
+                </div>
+                <a href="#comment-221082657" class="permalink"><time datetime="2003-03-17T16:15:33">2003-03-17T16:15:33</time></a>
+            </div>
+            <div class="content">Sorry to hear about the job. I recently got laid off too. Same old thing, compaby got bought out and they didn't need all our staff. Regarding .NET, I'm also learning it. I'd be curious to know your thoughts on it after a week or two of tinkering with it. I look forward to reading your future posts.
+
+Oh, and regarding Metroid Prime... I can see how you could easily kill six hours on it. When I rented it, initially I didn't stop for 7 or 8. Very good game. :)</div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221082660">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://www.greatestphysicists.com"><img src="http://www.gravatar.com/avatar.php?gravatar_id=ee7427a87c4e11522ce505a784b33147&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://www.greatestphysicists.com">Fred Hurb</a>
+                </div>
+                <a href="#comment-221082660" class="permalink"><time datetime="2003-09-30T11:39:57">2003-09-30T11:39:57</time></a>
+            </div>
+            <div class="content">I always wanted to work from (but not at) a coffee shop.</div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221082662">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://www.greatestphysicists.com"><img src="http://www.gravatar.com/avatar.php?gravatar_id=ee7427a87c4e11522ce505a784b33147&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://www.greatestphysicists.com">Fred Hurb</a>
+                </div>
+                <a href="#comment-221082662" class="permalink"><time datetime="2003-09-30T11:40:39">2003-09-30T11:40:39</time></a>
+            </div>
+            <div class="content">I always wanted to work from (but not at) a coffee shop.</div>
+            
+        </li>
+    
+        </ul>
+    
+        </div>
+    

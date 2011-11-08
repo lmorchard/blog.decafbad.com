@@ -1,12 +1,20 @@
---- 
-wordpress_id: 539
+---
+comments_archived: true
+date: '2004-08-23T18:52:06-04:00'
+excerpt: I've been putting more work into dbagg3, but I'm getting hung up
+    on the database.  Well, actually I'm getting hung up on the subject
+    of XML storage, query, and retrieval in general-- but at present, I'm
+    trying to cram all this data into MySQL and SQLite databases.  But,
+    my tendencies as an abstraction astronaut and my lack of database savvy
+    are tying me (and my data) in knots.  I kept meaning to write a bit
+    Atom (and XML in general) with regard to database storage and query,
+    so maybe now's the time.
 layout: post
-title: Slicing and Dicing to Make Atom Soup in dbagg3
-excerpt: I've been putting more work into dbagg3, but I'm getting hung up on the database.  Well, actually I'm getting hung up on the subject of XML storage, query, and retrieval in general-- but at present, I'm trying to cram all this data into MySQL and SQLite databases.  But, my tendencies as an abstraction astronaut and my lack of database savvy are tying me (and my data) in knots.  I kept meaning to write a bit Atom (and XML in general) with regard to database storage and query, so maybe now's the time.
-date: "2004-08-23T18:52:06-04:00"
-tags: 
+tags:
 - syndication
 - xml
+title: Slicing and Dicing to Make Atom Soup in dbagg3
+wordpress_id: 539
 wordpress_slug: slicing-and-dicing-to-make-atom-soup-in-dbagg3
 wordpress_url: http://www.decafbad.com/blog/?p=539
 ---
@@ -63,3 +71,126 @@ So... what do you think?
 [dbagg3]: http://www.decafbad.com/cvs/dbagg3/
 [dbagg3_sql]: http://www.decafbad.com/2004/08/dbagg3.sql
 [xpathudell]: http://webservices.xml.com/pub/a/ws/2003/04/15/semanticblog.html
+
+<div id="comments" class="comments archived-comments">
+            <h3>Archived Comments</h3>
+            
+        <ul class="comments">
+            
+        <li class="comment" id="comment-221082837">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://franklinmint.fm"><img src="http://www.gravatar.com/avatar.php?gravatar_id=b9ed774661a22ff8797a1e0e24f0baf3&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://franklinmint.fm">Robert Sayre</a>
+                </div>
+                <a href="#comment-221082837" class="permalink"><time datetime="2004-08-23T19:23:19">2004-08-23T19:23:19</time></a>
+            </div>
+            <div class="content">FYI: Apple's upcoming SafariRSS uses XQuery to parse feeds. The Tiger version of NSXML includes XQuery as well.</div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221082838">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href=""><img src="http://www.gravatar.com/avatar.php?gravatar_id=719ad7cfa24c00bbcaa8030427dd8743&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="">bear</a>
+                </div>
+                <a href="#comment-221082838" class="permalink"><time datetime="2004-08-23T21:16:42">2004-08-23T21:16:42</time></a>
+            </div>
+            <div class="content">Not knowing what errors you are getting during the dbxml build means my comment will be generic but I hope it is still useful.
+
+The OSAF people are using dbxml as their back-end data store and their build process works on os/x (what I use) - I can forward the makefile or just compare notes if that is useful to you.
+
+thanks for your great writing</div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221082839">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://randomthoughts.vandorp.ca/WK/blog"><img src="http://www.gravatar.com/avatar.php?gravatar_id=0a9028b800da9db6932c2f026d50847b&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://randomthoughts.vandorp.ca/WK/blog">Darryl</a>
+                </div>
+                <a href="#comment-221082839" class="permalink"><time datetime="2004-08-24T04:27:51">2004-08-24T04:27:51</time></a>
+            </div>
+            <div class="content">Try a recipe by Kimbro Staken 
+http://www.xmldatabases.org/movabletype/archives/000267.html</div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221082840">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://simon.incutio.com/"><img src="http://www.gravatar.com/avatar.php?gravatar_id=02ecb4f56e961dd226352c4dd51eff26&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://simon.incutio.com/">Simon Willison</a>
+                </div>
+                <a href="#comment-221082840" class="permalink"><time datetime="2004-08-24T18:27:33">2004-08-24T18:27:33</time></a>
+            </div>
+            <div class="content">Unfortunately, the XPath extension for PostgreSQL seems to be vapourware. As far as I know it exists only as a mention in the blog entry you linked to - the guy never released it. I'd love to be proved wrong - I'd really like to use it for a whole bunch of different things.</div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221082841">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://www.throwingbeans.org"><img src="http://www.gravatar.com/avatar.php?gravatar_id=96bc90c98bc78316eda53f6d1dbfa0f6&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://www.throwingbeans.org">Tom Dyson</a>
+                </div>
+                <a href="#comment-221082841" class="permalink"><time datetime="2004-08-25T21:10:17">2004-08-25T21:10:17</time></a>
+            </div>
+            <div class="content">The XPath extensions for Postgres are certainly not vapourware: we're using them in a content management environment for several high-profile websites. The extensions are available as part of the Postgres 8 beta download, where you'll find them in source code form in the contrib/xml directory. If you need help installing the functions, let me know - we have compiled them successfully on Debian, RedHat, OS X and Windows.</div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221082842">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://dannyayers.com"><img src="http://www.gravatar.com/avatar.php?gravatar_id=7028f422ca6da0180de6c9d922a3228f&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://dannyayers.com">Danny</a>
+                </div>
+                <a href="#comment-221082842" class="permalink"><time datetime="2004-09-08T22:03:05">2004-09-08T22:03:05</time></a>
+            </div>
+            <div class="content">I've not tried that kind of data size with RDF either, though am assured kit like Kowari can handle it.
+
+A possible compromise approach might be to use SQL storage directly for core syndication stuff, with RDF at the side. 
+
+Vaguely relevant blogged stuff:
+
+http://dannyayers.com/archives/2004/08/10/extending-the-capabilities-of-content-management-systems-with-rdf/
+
+another possibility is using a triplestore on top of SQL, you end up with views/queries like this:
+
+http://dannyayers.com/archives/2004/07/14/all-in-a-days-work/</div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221082843">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://netapps.muohio.edu/blogs/darcusb/darcusb/"><img src="http://www.gravatar.com/avatar.php?gravatar_id=8043a49e7e80eef7672fa2be09b51473&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://netapps.muohio.edu/blogs/darcusb/darcusb/">Bruce</a>
+                </div>
+                <a href="#comment-221082843" class="permalink"><time datetime="2005-02-24T03:16:48">2005-02-24T03:16:48</time></a>
+            </div>
+            <div class="content">You might take a look at BDB XML again.  I recall having problems compiling v1 on Mac OS X too, but had no such problems with v2.  And it addds XQuery to the mix.</div>
+            
+        </li>
+    
+        </ul>
+    
+        </div>
+    

@@ -1,8 +1,9 @@
---- 
-wordpress_id: 627
+---
+comments_archived: true
+date: '2005-04-26T20:18:49-04:00'
 layout: post
 title: Mentions and Bribes
-date: "2005-04-26T20:18:49-04:00"
+wordpress_id: 627
 wordpress_slug: mentions-and-bribes
 wordpress_url: http://www.decafbad.com/blog/?p=627
 ---
@@ -27,3 +28,41 @@ wordpress_url: http://www.decafbad.com/blog/?p=627
 
 [dw]: http://www.reallysimplesyndication.com/2005/04/26
 [gnc]: http://www.geeknewscentral.com/podcasts/
+
+<div id="comments" class="comments archived-comments">
+            <h3>Archived Comments</h3>
+            
+        <ul class="comments">
+            
+        <li class="comment" id="comment-221091034">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href=""><img src="http://www.gravatar.com/avatar.php?gravatar_id=547a40fc1027d9388ce5ba52c888a2f8&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="">julian.bond</a>
+                </div>
+                <a href="#comment-221091034" class="permalink"><time datetime="2005-04-27T03:39:04">2005-04-27T03:39:04</time></a>
+            </div>
+            <div class="content">I think you hit the nail on the head. I'll happily blog for money. Please! But there's just one catch. I've got to like your product and be impressed by it. Either that or really hate your product in which case I'll flame it unmercifully. What I won't do is write something about a product I have no opinion about purely for financial gain. And the real reason is that I can't be bothered and don't have the time.</div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221091036">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://plasmasturm.org/"><img src="http://www.gravatar.com/avatar.php?gravatar_id=e17949267bbfe21a0fadf1bbf00592b4&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://plasmasturm.org/">Aristotle Pagaltzis</a>
+                </div>
+                <a href="#comment-221091036" class="permalink"><time datetime="2005-04-27T11:22:42">2005-04-27T11:22:42</time></a>
+            </div>
+            <div class="content">It&#8217;s not selling out, so long as you believe in it and can put yourself behind it. Getting paid != selling out. To sell out means to lend your voice to whatever will give you money, regardless of what you think about it.</div>
+            
+        </li>
+    
+        </ul>
+    
+        </div>
+    

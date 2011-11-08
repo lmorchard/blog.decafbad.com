@@ -1,15 +1,16 @@
---- 
-wordpress_id: 720
+---
+comments_archived: true
+date: '2005-10-06T22:50:44-04:00'
 layout: post
-title: Threshold, the sci-fi with 5 blades?
-date: "2005-10-06T22:50:44-04:00"
-tags: 
+tags:
 - asides
 - scifi
 - entertainment
 - writing
 - podcasting
 - television
+title: Threshold, the sci-fi with 5 blades?
+wordpress_id: 720
 wordpress_slug: threshold-the-sci-fi-with-5-blades
 wordpress_url: http://decafbad.com/blog/?p=720
 ---
@@ -31,3 +32,43 @@ Yeah, I think about this crap too much sometimes.  Whenever I get around to writ
 [th]: http://www.cbs.com/primetime/threshold/
 [ss]: http://decafbad.com/blog/2005/10/05/ancestor-rocks-like-a-creepy-rocking-thing
 [razor]: http://www.theonion.com/content/node/33930
+
+<div id="comments" class="comments archived-comments">
+            <h3>Archived Comments</h3>
+            
+        <ul class="comments">
+            
+        <li class="comment" id="comment-221090552">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://sporkmonger.com"><img src="http://www.gravatar.com/avatar.php?gravatar_id=56ee28134dd0776825445e3551979b14&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://sporkmonger.com">Bob Aman</a>
+                </div>
+                <a href="#comment-221090552" class="permalink"><time datetime="2005-10-07T16:55:05">2005-10-07T16:55:05</time></a>
+            </div>
+            <div class="content"><p>In a particularly bad episode of "Walker: Texas Ranger", Chuck Norris had to do battle to the death with a genetically-enhanced thug who had triple-helix DNA.  He was all bullet-proof and big and stuff, so Chuck tossed him out a window into like a pile of welding tanks and then he blew him up!  Or something like that.  I wasn't paying attention.</p>
+
+<p>Then Walker went back to kicking normal unenhanced thugs in the head like usual.</p></div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221090554">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://www.decafbad.com"><img src="http://www.gravatar.com/avatar.php?gravatar_id=2377f34a68801b861c3e54e1301f0dce&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://www.decafbad.com">l.m.orchard</a>
+                </div>
+                <a href="#comment-221090554" class="permalink"><time datetime="2005-10-07T17:22:25">2005-10-07T17:22:25</time></a>
+            </div>
+            <div class="content"><p>That almost sounds like Walker had Real Ultimate Power, though last I knew, he wasn't a Ninja.</p></div>
+            
+        </li>
+    
+        </ul>
+    
+        </div>
+    

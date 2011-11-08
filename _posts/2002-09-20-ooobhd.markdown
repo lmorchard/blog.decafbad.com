@@ -1,8 +1,9 @@
---- 
-wordpress_id: 260
+---
+comments_archived: true
+date: '2002-09-20T17:17:25-04:00'
 layout: post
 title: I'm finally timeshifting radio again
-date: "2002-09-20T17:17:25-04:00"
+wordpress_id: 260
 wordpress_slug: ooobhd
 wordpress_url: http://www.decafbad.com/blog/?p=260
 ---
@@ -48,3 +49,41 @@ $OSA -e "$TELL stop recording"
 $OSA -e "$TELL quit"</pre>
 <!--more-->
 shortname=ooobhd
+
+<div id="comments" class="comments archived-comments">
+            <h3>Archived Comments</h3>
+            
+        <ul class="comments">
+            
+        <li class="comment" id="comment-221089849">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://shawnyeager.com/monolog/"><img src="http://www.gravatar.com/avatar.php?gravatar_id=546b2f1947278db93fa8f7c734876111&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://shawnyeager.com/monolog/">Shawn</a>
+                </div>
+                <a href="#comment-221089849" class="permalink"><time datetime="2002-09-20T19:33:08">2002-09-20T19:33:08</time></a>
+            </div>
+            <div class="content">Damnation, that's cool as all hell.  As you said, UNIX and OS X rock.</div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221089851">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://www.redmonk.net"><img src="http://www.gravatar.com/avatar.php?gravatar_id=f5d280e17d5f7340d7d1dc6728c5a335&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://www.redmonk.net">Steve Ivy</a>
+                </div>
+                <a href="#comment-221089851" class="permalink"><time datetime="2002-09-20T19:52:25">2002-09-20T19:52:25</time></a>
+            </div>
+            <div class="content">Heh, One more example of poking our computers into everyday life again. This is awesome.</div>
+            
+        </li>
+    
+        </ul>
+    
+        </div>
+    

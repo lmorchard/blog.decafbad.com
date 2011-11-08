@@ -1,9 +1,11 @@
---- 
-wordpress_id: 577
+---
+comments_archived: true
+date: '2004-12-13T15:28:56-05:00'
+excerpt: I've already ditched a central desktop computer, and sometimes
+    this makes me feel like I'm living in the future.
 layout: post
 title: On Exploding PCs and Appliance Relationships
-excerpt: I've already ditched a central desktop computer, and sometimes this makes me feel like I'm living in the future.
-date: "2004-12-13T15:28:56-05:00"
+wordpress_id: 577
 wordpress_slug: on-exploding-pcs-and-appliance-relationships
 wordpress_url: http://www.decafbad.com/blog/?p=577
 ---
@@ -30,3 +32,55 @@ Say instead the macro wants to fire off a million spam email messages.  Well, le
 More likely would be someone trying to compromise the MailStation via a maliciously-constructed email message.  But, in this case, maybe the single-task simplicity of the device would make it easier to prevent such exploit availability in the first place.  Avoid scriptable email transmission in a consumer device, watch out for buffer overruns or use managed code and virtual machines, reduce down to zero any possibility of sending an email without direct user input.
 
 There's a lot of work that would need to be done here to get the right balance between inter-appliance paranoia and end-user convenience, but I think that simpler task-focused devices isolated from each other but linked by task-centered agreements could go a long way toward killing the free-for-all playground environment spyware and virus authors have today.  Get all of the eggs out of one shared basket.  I expect some of the things I'm thinking could be (and probably are) put in place today on general-purpose computers, but I have a lot of good hunches about benefits imparted by lots of simpler limited-purpose appliances.
+
+<div id="comments" class="comments archived-comments">
+            <h3>Archived Comments</h3>
+            
+        <ul class="comments">
+            
+        <li class="comment" id="comment-221086734">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://www.furrygoat.com"><img src="http://www.gravatar.com/avatar.php?gravatar_id=95ffb2598210ed1959f55d7a53f825dc&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://www.furrygoat.com">Steve</a>
+                </div>
+                <a href="#comment-221086734" class="permalink"><time datetime="2004-12-13T17:27:05">2004-12-13T17:27:05</time></a>
+            </div>
+            <div class="content">TOTALLY agree on your thoughts on where computers/appliances will merge.
+
+I had the NSLU2, but just ordered this guy: http://www.furrygoat.com/2004/12/asus_wlan_hard_.html .. It's a HD enclosure with 802.11g/Lan/USB, but, here's the neat bit: supports UPNP (more here: http://www.tomsnetworking.com/Reviews-179-ProdID-WLHDD25-2.php) - I'm wondering if it will support the home electronics upnp so you can stream photos/videos/etc to a consumer player from it.
+
+Of course, the firmware is GPL, so I'm sure someone will hack out an iTunes/Tivo/etc server for it.</div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221086735">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://www.sencer.de"><img src="http://www.gravatar.com/avatar.php?gravatar_id=0e94b4d4662542b91df48f0ff3b36d26&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://www.sencer.de">Sencer</a>
+                </div>
+                <a href="#comment-221086735" class="permalink"><time datetime="2004-12-13T18:24:41">2004-12-13T18:24:41</time></a>
+            </div>
+            <div class="content">>What’s great about this is that each device 
+>generally does just one thing, does it well, and 
+>does it without much fuss or interference with 
+>the workings of the other devices.
+
+I think you are throwing together a couple of unrelated things here. The Router could swallow up your Linux Box, because the Router is supposed to do work in the background, it doesn't want interaction, this does not work for most of the things a PC is used for. I would say that the most interesting things "being done" with a PC actually need interaction (and thus an interface), the "dumb" background things are usually just supportive (or secondary) activities that are, well, secondary, and only ever have arisen as sub-tasks while trying to achieve primary purposes (things that require interaction).
+
+All those primary purposes of a PC are interaction based, thus need display and input, and I don't think that people are willing to move to different displays and different input devices for every task they want to do. We have a lot of "legacy devices", that we are using a lot, because that's what we are used to, but I don't think they are going to multiply further, when we already have all the stuff at our fingertips.
+
+I would like to note that you are using a hacked X-Box, that is a specialized tool, re-programmed to be a (more) general purpose tool. 
+The fact that all of your machines are doing different things are self-imposed barriers, not hardware/software-limitations, which I think would makes a lot of people very skeptical.</div>
+            
+        </li>
+    
+        </ul>
+    
+        </div>
+    

@@ -1,8 +1,9 @@
---- 
-wordpress_id: 437
+---
+comments_archived: true
+date: '2003-07-07T11:54:14-04:00'
 layout: post
 title: Washed Up, Huh?
-date: "2003-07-07T11:54:14-04:00"
+wordpress_id: 437
 wordpress_slug: washed-up-huh
 wordpress_url: http://www.decafbad.com/blog/?p=437
 ---
@@ -72,3 +73,107 @@ So, as far as I see, I'd personally be happy to have Tim Bray write
 about me like this in public.
 <!--more-->
 shortname=washed_up_huh
+
+<div id="comments" class="comments archived-comments">
+            <h3>Archived Comments</h3>
+            
+        <ul class="comments">
+            
+        <li class="comment" id="comment-221085556">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href=""><img src="http://www.gravatar.com/avatar.php?gravatar_id=dc59c5ba9a8aa0a6225d9959eea3b7f3&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="">Dave Winer</a>
+                </div>
+                <a href="#comment-221085556" class="permalink"><time datetime="2003-07-07T12:23:31">2003-07-07T12:23:31</time></a>
+            </div>
+            <div class="content">Les, here's the clue: I'm not you.</div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221085557">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href=""><img src="http://www.gravatar.com/avatar.php?gravatar_id=468c6b5110ed4bea9c148cf736744c43&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="">Jim</a>
+                </div>
+                <a href="#comment-221085557" class="permalink"><time datetime="2003-07-07T14:50:09">2003-07-07T14:50:09</time></a>
+            </div>
+            <div class="content">Give up on trying to find reason in Dave's little outbursts.  It's gotten to the point where you can't even rebut his points because they make no sense.
+
+As far as I can tell, if you acknowledge the fact that some people don't get on with him, or disagree with him some way, you are personally insulting him and being cruel.
+
+I'm sorry, but that is logically rude, and I refuse to be trolled.
+
+http://www.earlham.edu/~peters/writing/rudeness.htm</div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221085558">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://www.michaelbernstein.com"><img src="http://www.gravatar.com/avatar.php?gravatar_id=d43258bf8e56395266b3f2e2ad64344e&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://www.michaelbernstein.com">Michael Bernstein</a>
+                </div>
+                <a href="#comment-221085558" class="permalink"><time datetime="2003-07-07T15:50:41">2003-07-07T15:50:41</time></a>
+            </div>
+            <div class="content">One possible conclusion is that Dave, upon hearing or reading the name 'Charles Goldfarb' mentally transposes it with the phrase 'washed up old fart', or something similar.
+
+Another possibility is that someone forwarded the link to him with a nastified (and/or gloating) commentary or summary, and he was reacting to that, rather than Tim's actual posting.</div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221085559">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://www.michaelbernstein.com"><img src="http://www.gravatar.com/avatar.php?gravatar_id=d43258bf8e56395266b3f2e2ad64344e&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://www.michaelbernstein.com">Michael Bernstein</a>
+                </div>
+                <a href="#comment-221085559" class="permalink"><time datetime="2003-07-07T15:57:12">2003-07-07T15:57:12</time></a>
+            </div>
+            <div class="content">I should also mention that there may be something in Tim's posting that I (and most other people, apparently) just don't see, but which is there nontheless. If there is, I'd like Dave to point to it and explain it. I'm not usually so dense as to miss a blatant subtext, but I must allow for the possibility that this is one of those times.</div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221085560">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://diveintomark.org/"><img src="http://www.gravatar.com/avatar.php?gravatar_id=2fc977e82d9f8395a0f49e6f4958bc84&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://diveintomark.org/">Mark</a>
+                </div>
+                <a href="#comment-221085560" class="permalink"><time datetime="2003-07-07T18:33:02">2003-07-07T18:33:02</time></a>
+            </div>
+            <div class="content">Dave, all you're doing is lowering our Winer Numbers.
+
+Moving on...</div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221085562">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://www.docuverse.com/blog/donpark/"><img src="http://www.gravatar.com/avatar.php?gravatar_id=e2c330b69214a3d1da5bcd3752ba3b07&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://www.docuverse.com/blog/donpark/">Don Park</a>
+                </div>
+                <a href="#comment-221085562" class="permalink"><time datetime="2003-07-07T20:43:58">2003-07-07T20:43:58</time></a>
+            </div>
+            <div class="content">I hope this doesn't hurt Dave's feelings again, but I also think Dave simply misunderstood or read too much between the lines which is why I recommended his post to others in my own blog in the first place.  I have met Charles Goldfarb and found him to be a likeable and respectable old fart just as I think of Churchill as a great admirable old fart (I have fits whenever I imagine him as a young buck :-).  At 41, I have fears of being washed up, but I know that if I do, it will be me who decides when I am washed up.  Speaking of washed up, can we please wash this ugly episode out of our mind now?</div>
+            
+        </li>
+    
+        </ul>
+    
+        </div>
+    

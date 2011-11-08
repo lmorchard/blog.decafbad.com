@@ -1,8 +1,9 @@
---- 
-wordpress_id: 307
+---
+comments_archived: true
+date: '2002-11-26T13:46:07-05:00'
 layout: post
 title: XML-RPC, a mini case study
-date: "2002-11-26T13:46:07-05:00"
+wordpress_id: 307
 wordpress_slug: oooccb
 wordpress_url: http://www.decafbad.com/blog/?p=307
 ---
@@ -27,3 +28,117 @@ I'll adore <a href="http://www.decafbad.com/twiki/bin/view/Main/REST">REST</a> i
 Anyway, this is sounding like a bad infomercial and I need to get back to work.  But I had to toss out this bit of anecdotal dross in favor of <a href="http://www.decafbad.com/twiki/bin/view/Main/XmlRpc">XmlRpc</a>.
 <!--more-->
 shortname=oooccb
+
+<div id="comments" class="comments archived-comments">
+            <h3>Archived Comments</h3>
+            
+        <ul class="comments">
+            
+        <li class="comment" id="comment-221085436">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href=""><img src="http://www.gravatar.com/avatar.php?gravatar_id=f62aedd5a22327cb4b3d8cc7f94022a4&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="">Joh</a>
+                </div>
+                <a href="#comment-221085436" class="permalink"><time datetime="2002-11-26T23:55:01">2002-11-26T23:55:01</time></a>
+            </div>
+            <div class="content">...unless your client is in China and oops, Dave forgot to mention that since Radio can't do Unicode, the XmlRpc spec only uses ASCII strings. (also oops for Russia, Africa, Arabia (ok, you guys gonna throw bombs at them anyway) and all others who sometimes use non-american characters).
+
+Damn, then.
+
+That's why non-american companies tend to use SOAP. If XmlRpc (and most implementations) would not unnecessarily exclude 2+ byte characters, which have been specified in the XML-spec (XML is Unicode) by the way, it would be fine. I can't sell an API for hotels in a country where my software can't spell the name of a customer... "does your name have an english spelling, sir?"</div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221085438">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href=""><img src="http://www.gravatar.com/avatar.php?gravatar_id=673077cfcaedce7b37ff753d6100560a&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="">John Burton</a>
+                </div>
+                <a href="#comment-221085438" class="permalink"><time datetime="2002-11-27T10:46:15">2002-11-27T10:46:15</time></a>
+            </div>
+            <div class="content">Well you can just go ahead and use XmlRpc and UTF-8 encode your unicode strings. Which might be a technical violation of the spec but seems to work well enough in practice.
+
+Or encode strings as int arrays containing unicode characters?</div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221085439">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href=""><img src="http://www.gravatar.com/avatar.php?gravatar_id=673077cfcaedce7b37ff753d6100560a&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="">John Burton</a>
+                </div>
+                <a href="#comment-221085439" class="permalink"><time datetime="2002-11-27T11:10:07">2002-11-27T11:10:07</time></a>
+            </div>
+            <div class="content">I'd like to build XmlRpc server functionallity into an application we have, but can't find a c++ server library that works under windows (as opposed to unix). Does anyone know of one, or will I have to do it miyself it I want this?</div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221085440">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://www.prescod.net"><img src="http://www.gravatar.com/avatar.php?gravatar_id=6c04a6792c6196149d2f9e14894a8b6d&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://www.prescod.net">Paul Prescod</a>
+                </div>
+                <a href="#comment-221085440" class="permalink"><time datetime="2002-11-27T11:35:24">2002-11-27T11:35:24</time></a>
+            </div>
+            <div class="content">I've posted some thoughts: http://www.blogstream.com/pauls/1038403139</div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221085441">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://www.decafbad.com"><img src="http://www.gravatar.com/avatar.php?gravatar_id=2ac2cffd36ada8c734b90e02a1e5c1ac&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://www.decafbad.com">l.m.orchard</a>
+                </div>
+                <a href="#comment-221085441" class="permalink"><time datetime="2002-11-27T12:39:23">2002-11-27T12:39:23</time></a>
+            </div>
+            <div class="content">I was about to say that the Unicode issue hasn't been one for us, because we don't really have anything for human consumption in our APIs.  That is, no presentation strings or words or sentences.
+
+But then I had to think about that - we do simple shared sign-up & login via XML-RPC.  If we had to do such a promotion globally, we might have problems with login names and passwords.
+
+I'm sure there're more landmines awaiting my feet.</div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221085442">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://www.imasy.or.jp/~tai/"><img src="http://www.gravatar.com/avatar.php?gravatar_id=6fd6efdf72c549f7be0089182c40861e&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://www.imasy.or.jp/~tai/">Taisuke Yamada</a>
+                </div>
+                <a href="#comment-221085442" class="permalink"><time datetime="2002-11-28T07:18:48">2002-11-28T07:18:48</time></a>
+            </div>
+            <div class="content">While Unicode in XML-RPC is surely an issue of original specification, that is not a practical one as most implementations never bother to enforce that limitation (why limit it when underlying XML processor allows _any_ charset encoding?).
+
+Now, regarding REST and XML-RPC, I too agree that Dave's comment on REST was bit off. OTOH, I think I can understand why he sees XML-RPC based design is more appropriate (for his goal) than REST-style design.
+
+While REST focuses on defining set of accessible resources, XML-RPC focuses on defining set of callable interfaces.
+
+Traditional programming is about "programming by contract", and in many languages, that means defining set of interfaces (API). Many developers are just so much trained to have this API-centric world view, and adopting REST means there's a need to tweak their heads a little.
+
+I think it could be argued that this use of "set of resources" is almost same as using multiple objects in OO language. Whole service is constructed by interaction of multiple live objects (resources), and each object (resource) has set of interfaces to be called. I believe REST principle requires you to break up service into smaller set of objects until eash object only needs to implement minimal set of standard interface. But what's puzzling me right now is the way to "expose" selected micro-objects as URI-addressable resource. This is probably more of a problem of toolkit implementation, but it's currently just awkward to me.
+
+Unless RESTful implementation brings easy way to do it, XML-RPC will be understood *much* faster by developers than REST-style programming model. I'm wondering if this is going to be a typical "worse-is-better" case.</div>
+            
+        </li>
+    
+        </ul>
+    
+        </div>
+    

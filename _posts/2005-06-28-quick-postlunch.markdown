@@ -1,8 +1,9 @@
---- 
-wordpress_id: 662
+---
+comments_archived: true
+date: '2005-06-28T13:59:32-04:00'
 layout: post
 title: Quick post-lunch OS X and iTunes dribblings
-date: "2005-06-28T13:59:32-04:00"
+wordpress_id: 662
 wordpress_slug: quick-postlunch
 wordpress_url: http://www.decafbad.com/blog/?p=662
 ---
@@ -38,3 +39,59 @@ wordpress_url: http://www.decafbad.com/blog/?p=662
   And yeah, I know about `/usr/bin/plutil`--but, yuck.
 <!--more-->
 shortname=quick_postlunch
+
+<div id="comments" class="comments archived-comments">
+            <h3>Archived Comments</h3>
+            
+        <ul class="comments">
+            
+        <li class="comment" id="comment-221090119">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://rasterweb.net/"><img src="http://www.gravatar.com/avatar.php?gravatar_id=db0fab74bcb564ebb09295498b892fb6&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://rasterweb.net/">Pete Prodoehl</a>
+                </div>
+                <a href="#comment-221090119" class="permalink"><time datetime="2005-06-28T14:38:04">2005-06-28T14:38:04</time></a>
+            </div>
+            <div class="content">Podcasting in iTunes *is* interesting, if just for the fact that Apple is now pushing out a podcasting client to *millions* of desktops, making podcatching easy as (Apple) pie.</div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221090120">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://naeblis.cx/rtomayko/"><img src="http://www.gravatar.com/avatar.php?gravatar_id=abfc88b96ae18c85ba7aac3bded2ec5e&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://naeblis.cx/rtomayko/">Ryan Tomayko</a>
+                </div>
+                <a href="#comment-221090120" class="permalink"><time datetime="2005-06-28T14:46:14">2005-06-28T14:46:14</time></a>
+            </div>
+            <div class="content">WARNING: This is a mandatory vi vs. emacs comment. I have absolutely no control of myself right now and apologize for leaving this comment as I fully understand that it will have zero impact on anyone's religious attachment.
+
+Emacs can edit binary plist files.. na-nana-nana-naaaaa!
+
+http://www.macosxhints.com/article.php?story=20050526162847879&lsrc=osxh</div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221090121">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href=""><img src="http://www.gravatar.com/avatar.php?gravatar_id=eb7f2a3ba74af37415ab7df101a86c75&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="">l.m. orchard</a>
+                </div>
+                <a href="#comment-221090121" class="permalink"><time datetime="2005-06-28T14:52:00">2005-06-28T14:52:00</time></a>
+            </div>
+            <div class="content">Ryan: Bah, I was once an emacs user, but I just fell out of the need to use an editor that can not only edit binary plist files but also likely play a good game of Go while I'm waiting for builds to finish.  :)   Phbbtbt!</div>
+            
+        </li>
+    
+        </ul>
+    
+        </div>
+    

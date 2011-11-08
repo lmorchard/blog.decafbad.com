@@ -1,9 +1,8 @@
---- 
-wordpress_id: 1450
+---
+comments_archived: true
+date: '2008-11-01T15:23:23-04:00'
 layout: post
-title: An unnecessary Template Attribute Language
-date: "2008-11-01T15:23:23-04:00"
-tags: 
+tags:
 - webdev
 - js
 - javascript
@@ -13,6 +12,8 @@ tags:
 - zpt
 - tal
 - templates
+title: An unnecessary Template Attribute Language
+wordpress_id: 1450
 wordpress_slug: an-unnecessary-template-attribute-language
 wordpress_url: http://decafbad.com/blog/?p=1450
 ---
@@ -72,3 +73,53 @@ Of course, *plain* is a relative term here.
 [jqtal]: http://github.com/lmorchard/jquery-tal-template/tree/master
 [lizardfeeder]: http://svn.mozilla.org/projects/lizardfeeder/trunk/
 [thing]: http://github.com/lmorchard/jquery-tal-template/tree/master/jquery.taltemplate.js
+
+<div id="comments" class="comments archived-comments">
+            <h3>Archived Comments</h3>
+            
+        <ul class="comments">
+            
+        <li class="comment" id="comment-221083366">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href=""><img src="http://www.gravatar.com/avatar.php?gravatar_id=3f398029eea744ce9ba9147aab627557&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="">brad clements</a>
+                </div>
+                <a href="#comment-221083366" class="permalink"><time datetime="2008-11-03T21:26:42">2008-11-03T21:26:42</time></a>
+            </div>
+            <div class="content"><p>Groan,</p>
+
+<p>Too bad I haven't had a chance to finish documenting (and tweaking) the ATALi project.</p>
+
+<p>It's a collection of Alternative TAL Implementations.</p>
+
+<p>It currently has TAL for xslt (server side using libxslt directly or via lxml with metal support)</p>
+
+<p>and TAL for javascript (no libraries needed, though it does recognize mochikit iterators, no metal)</p>
+
+<p>https://launchpad.net/atali</p></div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221083367">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://www.jm3.net/"><img src="http://disqus.com/api/users/avatars/jm3.jpg"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://www.jm3.net/">John Manoogian III (jm3)</a>
+                </div>
+                <a href="#comment-221083367" class="permalink"><time datetime="2008-11-24T18:51:17">2008-11-24T18:51:17</time></a>
+            </div>
+            <div class="content"><p>Have you seen "trimpath"?</p>
+
+<p>http://code.google.com/p/trimpath/wiki/JavaScriptTemplates</p></div>
+            
+        </li>
+    
+        </ul>
+    
+        </div>
+    

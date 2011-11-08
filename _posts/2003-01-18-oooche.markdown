@@ -1,8 +1,9 @@
---- 
-wordpress_id: 355
+---
+comments_archived: true
+date: '2003-01-18T04:10:51-05:00'
 layout: post
-title: "Safari: Good riddance to tabs, if there's something better"
-date: "2003-01-18T04:10:51-05:00"
+title: 'Safari: Good riddance to tabs, if there''s something better'
+wordpress_id: 355
 wordpress_slug: oooche
 wordpress_url: http://www.decafbad.com/blog/?p=355
 ---
@@ -11,3 +12,69 @@ wordpress_url: http://www.decafbad.com/blog/?p=355
 <p>Anyway, I say: tabs can go, but give me a sidebar.</p>
 <!--more-->
 shortname=oooche
+
+<div id="comments" class="comments archived-comments">
+            <h3>Archived Comments</h3>
+            
+        <ul class="comments">
+            
+        <li class="comment" id="comment-221090393">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://www.newsisfree.com/blog/"><img src="http://www.gravatar.com/avatar.php?gravatar_id=4a5b040f2724d29c0cabfceb49c21e44&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://www.newsisfree.com/blog/">Mike Krus</a>
+                </div>
+                <a href="#comment-221090393" class="permalink"><time datetime="2003-01-18T04:43:22">2003-01-18T04:43:22</time></a>
+            </div>
+            <div class="content">you can use cmd- to switch between opened windows of the active application...</div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221090394">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://www.wondersquirrel.net"><img src="http://www.gravatar.com/avatar.php?gravatar_id=75dbbf57a574d8445968c52823abc316&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://www.wondersquirrel.net">brian</a>
+                </div>
+                <a href="#comment-221090394" class="permalink"><time datetime="2003-01-18T05:02:18">2003-01-18T05:02:18</time></a>
+            </div>
+            <div class="content">yep, that mockup depicts a scheme that would work well for me. and i'm using safari exclusively now as well. i had been using netscape 7 as my primary broswer, but safari is just so much faster, and for some reason i can't quite articulate it just feels, overall, "cleaner" than any other browser. perhaps it's just less convoluted with "features" than any other browser? at any rate, ie is definitely collecting dust from lack of use, i'm glad to say.</div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221090395">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href=""><img src="http://www.gravatar.com/avatar.php?gravatar_id=9583aa697a53d1b9878a975d539701bf&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="">anon</a>
+                </div>
+                <a href="#comment-221090395" class="permalink"><time datetime="2003-01-18T06:20:55">2003-01-18T06:20:55</time></a>
+            </div>
+            <div class="content">But surely that is tabs, only down the side instead of along the top (and taking up more room, because of the blank space at the bottom)?</div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221090397">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://www.submitresponse.co.uk"><img src="http://www.gravatar.com/avatar.php?gravatar_id=2fe8ed8d2fa948647b27029421433c9c&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://www.submitresponse.co.uk">Jack</a>
+                </div>
+                <a href="#comment-221090397" class="permalink"><time datetime="2003-04-18T15:56:32">2003-04-18T15:56:32</time></a>
+            </div>
+            <div class="content">I'm not sure I understand why 'tabs' down the side is better than tabs up top either, unless you really need twenty-odd pages open, but you could acheive a similar effect by running Pith - http://www.blacktree.com/apps/index.html - and positioning your browser window accordingly. Okay, so it's not all that neat and tidy, but that setup worked fine for me until the builds of Safari with tabbed browsing were released.</div>
+            
+        </li>
+    
+        </ul>
+    
+        </div>
+    

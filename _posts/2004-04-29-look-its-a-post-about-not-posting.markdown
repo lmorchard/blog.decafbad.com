@@ -1,9 +1,12 @@
---- 
-wordpress_id: 515
+---
+comments_archived: true
+date: '2004-04-29T01:06:57-04:00'
+excerpt: Yeah, so this blog thing.  I finally switched it over to the stuff
+    I've been fiddling with in silence for months - and then I proceeded
+    to immediately shut back up.
 layout: post
 title: Look, it's a post about not posting!
-excerpt: Yeah, so this blog thing.  I finally switched it over to the stuff I've been fiddling with in silence for months - and then I proceeded to immediately shut back up.
-date: "2004-04-29T01:06:57-04:00"
+wordpress_id: 515
 wordpress_slug: look-its-a-post-about-not-posting
 wordpress_url: http://www.decafbad.com/blog/?p=515
 ---
@@ -30,3 +33,89 @@ Whew.  Heh.  So I just managed to post about my non-posting.  How do you like th
 [asset]: http://diveintomark.org/archives/2004/03/20/assets
 [process]: http://www.randsinrepose.com/archives/2004/02/19/weblog_writing.html
 [tinderbox]: http://www.eastgate.com/Tinderbox/
+
+<div id="comments" class="comments archived-comments">
+            <h3>Archived Comments</h3>
+            
+        <ul class="comments">
+            
+        <li class="comment" id="comment-221088566">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://halfass.com"><img src="http://www.gravatar.com/avatar.php?gravatar_id=057c407b2bbfa3cdb3e930bc7131a07f&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://halfass.com">Scott Partee</a>
+                </div>
+                <a href="#comment-221088566" class="permalink"><time datetime="2004-04-29T15:24:33">2004-04-29T15:24:33</time></a>
+            </div>
+            <div class="content">Just came back after a while of non-reading due to work and blah.  GREAT new design.  Congrats.  I've sub'd to the RSS feed, so I'll be back!</div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221088568">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://www.mpwilson.com/uccu/"><img src="http://www.gravatar.com/avatar.php?gravatar_id=99b77c34a0e26fd04a058f8c2dbab290&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://www.mpwilson.com/uccu/">Mad William Flint</a>
+                </div>
+                <a href="#comment-221088568" class="permalink"><time datetime="2004-04-29T19:59:38">2004-04-29T19:59:38</time></a>
+            </div>
+            <div class="content">I tend to find that the quality and frequency of my blogging is inversely proportional to the degree to which I care.</div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221088569">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://rasterweb.net/raster/"><img src="http://www.gravatar.com/avatar.php?gravatar_id=db0fab74bcb564ebb09295498b892fb6&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://rasterweb.net/raster/">Pete Prodoehl</a>
+                </div>
+                <a href="#comment-221088569" class="permalink"><time datetime="2004-04-29T20:29:50">2004-04-29T20:29:50</time></a>
+            </div>
+            <div class="content">I occasionally think the same thing, but it quickly passes. ;) 
+
+Just write your opinion on some technology or your latest programming challenge or discovery, or whatever... 
+
+Get the ball (mouse?) rolling!</div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221088570">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://tmp.i.am"><img src="http://www.gravatar.com/avatar.php?gravatar_id=a5e2cf749e4720ef80589121b59f802f&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://tmp.i.am">Doug L.</a>
+                </div>
+                <a href="#comment-221088570" class="permalink"><time datetime="2004-05-01T02:35:48">2004-05-01T02:35:48</time></a>
+            </div>
+            <div class="content">This ceramics story -- Quality vs quantity -- Just Do It.   Writing is like that.  See http://www.roundourhouse.com/blog/archives/000187.html  and the links from it.</div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221088571">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://www.decafbad.com/blog"><img src="http://www.gravatar.com/avatar.php?gravatar_id=8a5273f79cfe7579ad46023f93377aa8&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://www.decafbad.com/blog">l.m.orchard</a>
+                </div>
+                <a href="#comment-221088571" class="permalink"><time datetime="2004-05-03T19:02:28">2004-05-03T19:02:28</time></a>
+            </div>
+            <div class="content">Er, and the golden goose flies at midnight.
+
+Were you calling me an ear-wagging ass, or was that not supposed to make sense?</div>
+            
+        </li>
+    
+        </ul>
+    
+        </div>
+    

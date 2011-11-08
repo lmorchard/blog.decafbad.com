@@ -1,8 +1,9 @@
---- 
-wordpress_id: 107
+---
+comments_archived: true
+date: '2002-04-26T17:48:33-04:00'
 layout: post
-title: "REST: What's it good for?  Part Deux"
-date: "2002-04-26T17:48:33-04:00"
+title: 'REST: What''s it good for?  Part Deux'
+wordpress_id: 107
 wordpress_slug: oooabg
 wordpress_url: http://www.decafbad.com/blog/?p=107
 ---
@@ -23,3 +24,75 @@ wordpress_url: http://www.decafbad.com/blog/?p=107
 <p>Hmm.</p>
 <!--more-->
 shortname=oooabg
+
+<div id="comments" class="comments archived-comments">
+            <h3>Archived Comments</h3>
+            
+        <ul class="comments">
+            
+        <li class="comment" id="comment-221085579">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href=""><img src="http://www.gravatar.com/avatar.php?gravatar_id=989c4ddf929db7556b199fedf7d9a405&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="">pb</a>
+                </div>
+                <a href="#comment-221085579" class="permalink"><time datetime="2002-04-26T18:14:55">2002-04-26T18:14:55</time></a>
+            </div>
+            <div class="content">Why not POST/GET requests with key=value pairs as a response. Done. Forget the PUT and DELETE. You're just making a function call. Forget XML formatted response since so few environments come with XML parsing. The average function call returns so little data that key=value pairs are more than adequate. And everyone already knows how to do this stuff.</div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221085580">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://chris.wiw.org/"><img src="http://www.gravatar.com/avatar.php?gravatar_id=41a3710dfca25cec2382a08ffb7cdba5&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://chris.wiw.org/">Christopher Heschong</a>
+                </div>
+                <a href="#comment-221085580" class="permalink"><time datetime="2002-04-26T19:19:33">2002-04-26T19:19:33</time></a>
+            </div>
+            <div class="content">pb, how do you represent arrays?  Or multi-dimensional arrays?  Or note that something is an integer instead of a string?</div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221085582">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://www.markbaker.ca"><img src="http://www.gravatar.com/avatar.php?gravatar_id=51dc7f1116f78b622bd1cdd733b6c03a&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://www.markbaker.ca">Mark Baker</a>
+                </div>
+                <a href="#comment-221085582" class="permalink"><time datetime="2002-04-26T19:46:19">2002-04-26T19:46:19</time></a>
+            </div>
+            <div class="content">deus_x, that's pretty much exactly right.  The only clarification I'd make is that you might POST an email address (in plain text, or application/x-www-form-urlencoded, or XML if you want) to http://myhost/promotion/players in order to create a new player.  That POST could return a HTTP 201 response with the Location header set to the URI of that new player (if it succeeded).
+
+MB</div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221085584">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://www.decafbad.com"><img src="http://www.gravatar.com/avatar.php?gravatar_id=2ac2cffd36ada8c734b90e02a1e5c1ac&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://www.decafbad.com">l.m.orchard</a>
+                </div>
+                <a href="#comment-221085584" class="permalink"><time datetime="2002-04-27T12:54:38">2002-04-27T12:54:38</time></a>
+            </div>
+            <div class="content">pb: 
+
+Well, that's exactly how I did things with flash games-- POST/GET requests with key/value pairs which responded with key/value pairs.  Like Christopher says, this started to fall apart when I needed richer data structures.
+
+As for REST, it seems that their idea is to not make function calls.  What you do with REST is to treat URIs more like database resources, on which you perform SELECT (GET), INSERT (POST), UPDATE (PUT) and DELETE (DELETE).  So instead of calling an award_points method on my player object, I UPDATE (PUT) points on the points resource of my player (represented by URI).</div>
+            
+        </li>
+    
+        </ul>
+    
+        </div>
+    

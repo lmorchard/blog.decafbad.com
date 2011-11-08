@@ -1,12 +1,13 @@
---- 
-wordpress_id: 1124
+---
+comments_archived: true
+date: '2008-05-18T00:18:09-04:00'
 layout: post
-title: Markdown, Oh the Humanity
-date: "2008-05-18T00:18:09-04:00"
-tags: 
+tags:
 - metablogging
 - entries
 - markdown
+title: Markdown, Oh the Humanity
+wordpress_id: 1124
 wordpress_slug: markdown-oh-the-humanity
 wordpress_url: http://decafbad.com/blog/?p=1124
 ---
@@ -46,3 +47,166 @@ Anyway, I'll expend as many brain cells as it takes to not need to compose raw H
 [yak shaving]: http://en.wikipedia.org/wiki/Yak_shaving
 [bucket]: http://decafbad.com/bucket/
 
+
+<div id="comments" class="comments archived-comments">
+            <h3>Archived Comments</h3>
+            
+        <ul class="comments">
+            
+        <li class="comment" id="comment-221085294">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://megalar.890m.com/blog/"><img src="http://www.gravatar.com/avatar.php?gravatar_id=750dbcc9cc192bfad37a3daa4edf139e&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://megalar.890m.com/blog/">megalar</a>
+                </div>
+                <a href="#comment-221085294" class="permalink"><time datetime="2008-05-18T22:19:07">2008-05-18T22:19:07</time></a>
+            </div>
+            <div class="content"><p>I couldn't agree more on this dude. As for people like Jeff Atwood... well, pffft. I grow tired of the "real programmers" do this or that mentality and while I'm a regular reader of Coding Horror, I hear alot of that garbage there. Fortunately I have excellent noise filters for my idea factory so it doesn't make much of an impression. 
+peace.</p></div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221085296">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://spindrop.us"><img src="http://www.gravatar.com/avatar.php?gravatar_id=dce6951264f7d72429a9964e1756dad3&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://spindrop.us">Dave Dash</a>
+                </div>
+                <a href="#comment-221085296" class="permalink"><time datetime="2008-05-19T21:54:42">2008-05-19T21:54:42</time></a>
+            </div>
+            <div class="content"><p>I use Markdown everywhere as well.  I am not sure about the technical arguments against it, but personally, it does a lot less damage than wysiwyg.</p>
+
+<p>In fact, it's nice in that it gives you control without sacrificing readability.</p></div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221085297">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://the-inbetween.com"><img src="http://www.gravatar.com/avatar.php?gravatar_id=ef9c6d643edd502e1122fd930580119d&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://the-inbetween.com">n0wak</a>
+                </div>
+                <a href="#comment-221085297" class="permalink"><time datetime="2008-05-22T19:15:36">2008-05-22T19:15:36</time></a>
+            </div>
+            <div class="content"><p>I dunno, I'm not a fan. By using underscores and brackets, instead of full tags, it has a tendency to break down a lot. Which has, thusly, prompted http://fuckingmarkdown.com/ in frustration.</p>
+
+<p>It's too clunky and requires as much user involvement to get it working 100% of the time as simple HTML or BBCode. Nothing more frustrating than posting a URL with an underscore in it and having markdown convert those underscores into italics, breaking the whole damned thing.</p></div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221085299">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://plasmasturm.org/"><img src="http://www.gravatar.com/avatar.php?gravatar_id=e17949267bbfe21a0fadf1bbf00592b4&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://plasmasturm.org/">Aristotle Pagaltzis</a>
+                </div>
+                <a href="#comment-221085299" class="permalink"><time datetime="2008-05-23T09:14:33">2008-05-23T09:14:33</time></a>
+            </div>
+            <div class="content"><p>Of course, if you put the URL in angle brackets, Markdown will refrain from touching it at all. Likewise for file- and variable names in backticks. That said, John Gruber has repeatedly said that he considers the underscore issue a bug, and the next release will fix this so internal underscores inside words will not trigger emphasis markup.</p>
+
+<p>So that particular issue, pain in the bottom as it can on rare occasions be, is easy to work around now and will completely vanish in the future.</p></div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221085301">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href=""><img src="http://www.gravatar.com/avatar.php?gravatar_id=1d6eeb33a8d967f618301516bba16521&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="">gavin</a>
+                </div>
+                <a href="#comment-221085301" class="permalink"><time datetime="2008-06-28T00:53:01">2008-06-28T00:53:01</time></a>
+            </div>
+            <div class="content"><p>Doesn't markdown lack necessary things for being a template engine? (similar to Smarty)</p>
+
+<p>I mean, <code>${some_variable}</code> to echo a variable, and <code>if/else</code>, and <code>foreach</code> an array?</p>
+
+<p>Or, do you just use something like PHP's  and use PHP's if/else/foreach?  Or Ruby or Python, etc, I mean.</p></div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221085304">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://www.decafbad.com"><img src="http://www.gravatar.com/avatar.php?gravatar_id=2377f34a68801b861c3e54e1301f0dce&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://www.decafbad.com">l.m.orchard</a>
+                </div>
+                <a href="#comment-221085304" class="permalink"><time datetime="2008-06-29T00:11:21">2008-06-29T00:11:21</time></a>
+            </div>
+            <div class="content"><p>@gavin:  Markdown's not a template engine, it's like wiki text or "smart ASCII"  It's a set of rules allowing users to write in plain text that later gets converted to HTML.  No logic or variables or control structures involved.</p></div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221085306">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://blog.unitedheroes.net"><img src="http://www.gravatar.com/avatar.php?gravatar_id=43cf82e91f47d50b616aae028f212dac&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://blog.unitedheroes.net">jr</a>
+                </div>
+                <a href="#comment-221085306" class="permalink"><time datetime="2008-06-29T02:18:36">2008-06-29T02:18:36</time></a>
+            </div>
+            <div class="content"><p>Meh. I use HTML because that's my preferred syntax of choice. I have a vested interest in using it because I don't want to learn a "simpler" form that requires me learning something different, solely because it's different and therefore involves learning.</p>
+
+<p>That's not to say that Markdown, WikiScript, LaTEX, or using in-lined emacs command syntax is any more or less valid than HTML or whatever other syntax someone else has a vested interest in using.</p>
+
+<p>The only thing that matters is whether or not the output of said syntax methodology is readable with zero effort on my part. </p>
+
+<p>(Heck, you could code this using straight MIME encoded UNICODE variables for all I care at that point.)</p></div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221085309">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://semafour.net/"><img src="http://www.gravatar.com/avatar.php?gravatar_id=b4bc237bed991e960f43a16ca91ce098&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://semafour.net/">Joseph Kern</a>
+                </div>
+                <a href="#comment-221085309" class="permalink"><time datetime="2009-06-18T11:41:08">2009-06-18T11:41:08</time></a>
+            </div>
+            <div class="content"><p>If you wish you could write books in markdown, checkout pandoc. It's a Markdown to html,latex,pdf,etc,etc. converter written in haskell.</p></div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221085311">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href=""><img src="http://www.gravatar.com/avatar.php?gravatar_id=7e9254455b1d37dcec07eefa362e5c1a&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="">Simon</a>
+                </div>
+                <a href="#comment-221085311" class="permalink"><time datetime="2010-01-17T17:32:40">2010-01-17T17:32:40</time></a>
+            </div>
+            <div class="content"><p>I'm new to the markdown languages, and must say there are a plethora of them. Can I ask if you guys are still using markdown or whether you've switched to something else? Also, what think ye of multimarkdown and Pandoc?</p>
+
+<p>My constant hassle with markdown is it's inability to align images, or am I missing something?</p>
+
+<p>I totally agree that tags inhibit creative writing. I can hand code HTML/CSS, but I can't write anything decent whilst doing it. The other major pain with tags is that the flow of your original document is crap. Markdown leaves you with a readable document.</p>
+
+<p>My only difficulty is that I want to take things one step further and use it for all my writing needs. Markdown hasn't seen any development in a while and the missing image manipulation is an issue for me, especially as most blogs contain images.</p>
+
+<p>I have some 3000 pages of MS Word documents that I need to find another format for so if anyone things any of these markup languages are up to it it would be great to hear.</p>
+
+<p>sorry for writing so much!</p></div>
+            
+        </li>
+    
+        </ul>
+    
+        </div>
+    

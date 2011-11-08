@@ -1,8 +1,9 @@
---- 
-wordpress_id: 663
+---
+comments_archived: true
+date: '2005-06-28T23:21:42-04:00'
 layout: post
 title: Building a proper shared syndication feed foundation
-date: "2005-06-28T23:21:42-04:00"
+wordpress_id: 663
 wordpress_slug: building-a-proper-shared-syndication-feed-foundation
 wordpress_url: http://www.decafbad.com/blog/?p=663
 ---
@@ -87,3 +88,89 @@ I'm not sure what quite to do with feeds in a shared way, now and for the future
 All in all, maybe it's just enough to download and cache the raw feeds.
 
 I'll post this now, but I'm still thinking about all of this...
+
+<div id="comments" class="comments archived-comments">
+            <h3>Archived Comments</h3>
+            
+        <ul class="comments">
+            
+        <li class="comment" id="comment-221090388">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://dannyayers.com"><img src="http://www.gravatar.com/avatar.php?gravatar_id=7028f422ca6da0180de6c9d922a3228f&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://dannyayers.com">Danny</a>
+                </div>
+                <a href="#comment-221090388" class="permalink"><time datetime="2005-06-29T04:29:39">2005-06-29T04:29:39</time></a>
+            </div>
+            <div class="content">I'm very much looking forward to hearing what you come up with. 
+
+Rather predictably I'm opting for the RDF store approach, but that's not to say the other approaches don't have their merits. Jon Udell (search his blog) has done some interesting work with feed data stored as XML, basically using XPath as the query language. It works, but I would suggest that he's tied to the XML structure too much. A year ago I might have gone for a hybrid RDF/RDBMS approach, with the core RSS material being contained in fixed tables bridged across to an RDF interface (somehow) to allow FOAF etc. But two factors put me off that idea now - the RSS 2.0 extensions that have appeared in recent weeks and SPARQL! Having a SQL-like query language that can be used against an RDF store (with XSLT-able results) really does simplify matters. Performance is likely to be an issue but I'm hoping a bit of filtering & caching will help there. I'm getting feed data into the store currently using XSLT (to RDF/XML), it's ok but the setup I've got could be a lot more modular.
+
+I think Microsoft have got things partly right in their RSS Longhorn architecture, separating out the "Sync Engine". But in the data handling there's heavy use of objects, which I don't think should be needed when you can do things declaratively using SQL or SPARQL. Their object model is limited, I can guarantee that'll turn into a big ball of mud ;-)
+
+What I'm intrigued by is the potential for using multiple stores on different hosts. My immediate target being a fairly big aggregator/store on a remote server and a shiny-GUI client tool with more limited storage that selectively addresses the remote store. But I'm still at early-experiment stage.</div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221090389">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://plasmasturm.org/"><img src="http://www.gravatar.com/avatar.php?gravatar_id=e17949267bbfe21a0fadf1bbf00592b4&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://plasmasturm.org/">Aristotle Pagaltzis</a>
+                </div>
+                <a href="#comment-221090389" class="permalink"><time datetime="2005-06-29T07:16:38">2005-06-29T07:16:38</time></a>
+            </div>
+            <div class="content">I use [Liferea](http://liferea.sf.net/) as my desktop aggregator (it's a bit basic, but works very well), which uses LibXML to parse feeds. You'd be surprised (or not) how many of them are valid XML. The only issue that comes up regularly is charset brokenness.
+
+Also, I've found that most people, if told that their feed is broken, will thank you for the note and proceed to fix it. Those who aren't technically savvy enough to fix their feeds generally don't *have* malformed ones to begin with because they use some ready-made webblogging tool -- and those tend to have correct feed generation by default.
+
+So if all your repair kit does is check and fix the feed encoding, then you should almost never see any bogosity.</div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221090390">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://webseitz.fluxent.com/wiki"><img src="http://www.gravatar.com/avatar.php?gravatar_id=8157a5907b244071cda98ba5aa7a9635&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://webseitz.fluxent.com/wiki">Bill Seitz</a>
+                </div>
+                <a href="#comment-221090390" class="permalink"><time datetime="2005-09-23T17:58:08">2005-09-23T17:58:08</time></a>
+            </div>
+            <div class="content">If you're going to store chunks as BLOBs, would it just make more sense to store them in the filesystem? Put the meta-data in the SQL db, but just have a filename handle to get to the ultimate content.
+
+Then you really have recoverability, etc.
+
+Though it increases the risk that you'll do something tacky and update a file without triggering an update of the meta-data, etc. but you could do the same thing regardless of the infrastructure layer...
+
+(Probably-not-related, an interview with Hans Reiser I read recently included him saying that BLOBs are a bad thing. But I didn't track down his reference documents....)</div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221090391">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://www.decafbad.com"><img src="http://www.gravatar.com/avatar.php?gravatar_id=2377f34a68801b861c3e54e1301f0dce&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://www.decafbad.com">l.m.orchard</a>
+                </div>
+                <a href="#comment-221090391" class="permalink"><time datetime="2005-09-23T18:14:57">2005-09-23T18:14:57</time></a>
+            </div>
+            <div class="content">Bill:  What's funny is that I've actually started doing something along those lines with something I named FeedSpool.
+
+http://decafbad.com/svn/trunk/feedspool/
+
+Feeds fetched and stored on the filesystem--shortly thereafter sliced into entries, one per file.  I base file and folder names on MD5 hashes of feed URLs and entry ID/content.  Also considering leaving SQL out of the picture altogether, store per-user metadata on the filesystem, maybe indexed for searchability with Berkeley DB or Lucene.</div>
+            
+        </li>
+    
+        </ul>
+    
+        </div>
+    

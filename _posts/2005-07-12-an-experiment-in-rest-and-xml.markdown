@@ -1,8 +1,9 @@
---- 
-wordpress_id: 668
+---
+comments_archived: true
+date: '2005-07-12T23:10:38-04:00'
 layout: post
 title: An Experiment in REST and XML
-date: "2005-07-12T23:10:38-04:00"
+wordpress_id: 668
 wordpress_slug: an-experiment-in-rest-and-xml
 wordpress_url: http://www.decafbad.com/blog/?p=668
 ---
@@ -37,3 +38,27 @@ There's not much there yet, and some of it is half broken stuff I hope to make w
 [qmpara]: http://www.quirksmode.org/dom/cms.html
 [outliner]: http://www.decafbad.com/blog/2005/07/12/xoxo_outliner_experiment
 [curl]: http://curl.haxx.se
+
+<div id="comments" class="comments archived-comments">
+            <h3>Archived Comments</h3>
+            
+        <ul class="comments">
+            
+        <li class="comment" id="comment-221089233">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://www.perceive.net"><img src="http://www.gravatar.com/avatar.php?gravatar_id=535a458afd969143ed08a916a805333f&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://www.perceive.net">Eric Vitiello</a>
+                </div>
+                <a href="#comment-221089233" class="permalink"><time datetime="2005-08-05T09:13:57">2005-08-05T09:13:57</time></a>
+            </div>
+            <div class="content">Ok, here's an idea.  I've been using TiddlyWiki to keep track of my brain, GTD type things, and anything else that comes to mind.  I was looking at the time it would take to build something very similar to what you have done -- TiddlyWiki stores all of it's data within itself, and is a perfectly portable wiki completely implemented in javascript.  I can use it on my laptop with no internet connection whatsoever.  I would like to sync it up to a databse though, so that I can access teh same data form other computers.  I think what you're building might work pefcetly for this.</div>
+            
+        </li>
+    
+        </ul>
+    
+        </div>
+    

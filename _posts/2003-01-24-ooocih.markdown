@@ -1,8 +1,9 @@
---- 
-wordpress_id: 367
+---
+comments_archived: true
+date: '2003-01-24T02:12:39-05:00'
 layout: post
 title: BeanShell rocks - and, oh yeah, a personal proxy in Java
-date: "2003-01-24T02:12:39-05:00"
+wordpress_id: 367
 wordpress_slug: ooocih
 wordpress_url: http://www.decafbad.com/blog/?p=367
 ---
@@ -12,3 +13,27 @@ wordpress_url: http://www.decafbad.com/blog/?p=367
 <p>Fun stuff, and so easy.  But, sorry, no further code from me yet.  It's very ugly, and barely works, but it's just a sketchpad at the moment.  I hope to have a little something before the end of the month to pass around, should anyone still be interested.</p>
 <!--more-->
 shortname=ooocih
+
+<div id="comments" class="comments archived-comments">
+            <h3>Archived Comments</h3>
+            
+        <ul class="comments">
+            
+        <li class="comment" id="comment-221086319">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://www.a1e1blog.com"><img src="http://www.gravatar.com/avatar.php?gravatar_id=e1dd9659ab197d276c87cc80116f73e0&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://www.a1e1blog.com">Ewan Grantham</a>
+                </div>
+                <a href="#comment-221086319" class="permalink"><time datetime="2003-01-24T14:46:23">2003-01-24T14:46:23</time></a>
+            </div>
+            <div class="content">Consider me to still be interested and looking forward to testing the personal proxy (though on a WinXP machine)...</div>
+            
+        </li>
+    
+        </ul>
+    
+        </div>
+    

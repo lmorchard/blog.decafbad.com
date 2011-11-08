@@ -1,10 +1,11 @@
---- 
-wordpress_id: 781
+---
+comments_archived: true
+date: '2005-11-27T14:02:01-05:00'
 layout: post
-title: I wish it were in XOXO
-date: "2005-11-27T14:02:01-05:00"
-tags: 
+tags:
 - asides
+title: I wish it were in XOXO
+wordpress_id: 781
 wordpress_slug: i-wish-it-were-in-xoxo
 wordpress_url: http://decafbad.com/blog/?p=781
 ---
@@ -34,3 +35,57 @@ As for authoring tools?  At the moment, I can't think of a specific outliner tha
 [brow]: http://www.opmlmanager.com/opmlbrowser/
 [neat]: http://www.decafbad.com/twiki/bin/view/Main/NeatLikeDigitalWatches
 [xsl]: http://decafbad.com/trac/browser/trunk/GopherNext/opml-to-xoxo.xsl
+
+<div id="comments" class="comments archived-comments">
+            <h3>Archived Comments</h3>
+            
+        <ul class="comments">
+            
+        <li class="comment" id="comment-221087307">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://blogs.msdn.com/alexbarn"><img src="http://www.gravatar.com/avatar.php?gravatar_id=21c52c601a99b219564e74837aca0aca&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://blogs.msdn.com/alexbarn">Alex Barnett</a>
+                </div>
+                <a href="#comment-221087307" class="permalink"><time datetime="2005-11-27T22:56:26">2005-11-27T22:56:26</time></a>
+            </div>
+            <div class="content"><p>You are right, I should have pointed to the opml file too. Here you go:</p>
+
+<p>http://www.opmlmanager.com/opml/alexbarnett.opml</p></div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221087309">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://www.decafbad.com"><img src="http://www.gravatar.com/avatar.php?gravatar_id=2377f34a68801b861c3e54e1301f0dce&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://www.decafbad.com">l.m.orchard</a>
+                </div>
+                <a href="#comment-221087309" class="permalink"><time datetime="2005-11-27T23:44:13">2005-11-27T23:44:13</time></a>
+            </div>
+            <div class="content"><p>Alex:  Thanks for the URL, and for humoring my rant!</p></div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221087310">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://msittig.wubi.org/"><img src="http://www.gravatar.com/avatar.php?gravatar_id=a233a0b9bf67e939e7575b36e626744d&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://msittig.wubi.org/">Micah</a>
+                </div>
+                <a href="#comment-221087310" class="permalink"><time datetime="2005-11-28T04:50:17">2005-11-28T04:50:17</time></a>
+            </div>
+            <div class="content"><p><a href="http://www.aaronsw.com/weblog/wishlist" rel="nofollow">Aaron Swart's birthday wishlist</a> is in XOXO too.  I wonder if he knows that. (<a href="http://msittig.freeshell.org/wishlist" rel="nofollow">Mine</a>'s not.)</p></div>
+            
+        </li>
+    
+        </ul>
+    
+        </div>
+    

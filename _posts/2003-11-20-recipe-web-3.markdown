@@ -1,8 +1,9 @@
---- 
-wordpress_id: 508
+---
+comments_archived: true
+date: '2003-11-20T11:34:09-05:00'
 layout: post
 title: Building the Recipe Web III
-date: "2003-11-20T11:34:09-05:00"
+wordpress_id: 508
 wordpress_slug: recipe-web-3
 wordpress_url: http://www.decafbad.com/blog/?p=508
 ---
@@ -31,3 +32,29 @@ wordpress_url: http://www.decafbad.com/blog/?p=508
 	<p>So, just sharing some thoughts here.  I&#8217;m excited to see more varieties of micro-content shared between the people of the web, but the thing I see least talked about is how this stuff will be authored.  I read about data formats and all that, but in terms of user interface, we haven&#8217;t progressed much past the <span class="caps">HTML</span> textarea.  Also, I often see handwaving and assumptions that the content is really pretty simple -- but as Troy Hakala would tell you, not even something as &#8220;simple&#8221; as a recipe is a slam dunk in terms of digestion by a machine.  There needs to be some happy medium between a natural human expression of information, and the rigorous structuring required by a machine, mediated by good user interface.</p>
 <!--more-->
 shortname=recipe_web_3
+
+<div id="comments" class="comments archived-comments">
+            <h3>Archived Comments</h3>
+            
+        <ul class="comments">
+            
+        <li class="comment" id="comment-221090410">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href=""><img src="http://www.gravatar.com/avatar.php?gravatar_id=941b31363609ee1e6144ee4ef937a290&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="">blaine</a>
+                </div>
+                <a href="#comment-221090410" class="permalink"><time datetime="2004-04-27T04:15:17">2004-04-27T04:15:17</time></a>
+            </div>
+            <div class="content">This makes sense; I've also been wanting to do something like this for some time, but alas, it's waaaaay down on my list of priorities.
+
+However, I think it would be best if RecipeZaar just opened up their parser; I really, really hate having to rely on web services for basic tasks. Both as a programmer/user, and as a system administrator ("Why's it broken??! Fix it!").</div>
+            
+        </li>
+    
+        </ul>
+    
+        </div>
+    

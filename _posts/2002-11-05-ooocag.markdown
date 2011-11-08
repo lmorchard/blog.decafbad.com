@@ -1,8 +1,9 @@
---- 
-wordpress_id: 292
+---
+comments_archived: true
+date: '2002-11-05T01:47:19-05:00'
 layout: post
 title: Note to self & things to do
-date: "2002-11-05T01:47:19-05:00"
+wordpress_id: 292
 wordpress_slug: ooocag
 wordpress_url: http://www.decafbad.com/blog/?p=292
 ---
@@ -31,3 +32,27 @@ Mental/public note, things to catch up on soon as the Death March and surgery is
 <i>Update:</i> Copied things over to <a href="http://www.decafbad.com/twiki/bin/view/Main/LesOrchardToDo">LesOrchardToDo</a>
 <!--more-->
 shortname=ooocag
+
+<div id="comments" class="comments archived-comments">
+            <h3>Archived Comments</h3>
+            
+        <ul class="comments">
+            
+        <li class="comment" id="comment-221083421">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://www.disobey.com/"><img src="http://www.gravatar.com/avatar.php?gravatar_id=7c86a3bdffadc965eb444f588c24a3f3&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://www.disobey.com/">Morbus Iff</a>
+                </div>
+                <a href="#comment-221083421" class="permalink"><time datetime="2002-11-05T14:52:01">2002-11-05T14:52:01</time></a>
+            </div>
+            <div class="content">Damn right, hobo.</div>
+            
+        </li>
+    
+        </ul>
+    
+        </div>
+    

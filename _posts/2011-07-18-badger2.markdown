@@ -1,9 +1,15 @@
 ---
+comments_archived: true
+date: '2011-07-18T15:03:13.030951'
 layout: post
-title: "Badger 2: Return of the Mustelidae"
-tags: [badger, social, python, mozilla, django]
 published: true
-date: 2011-07-18T15:03:13.030951
+tags:
+- badger
+- social
+- python
+- mozilla
+- django
+title: 'Badger 2: Return of the Mustelidae'
 ---
 
 **TL;DR**: <em>A year ago, I said I wanted to build a badging service
@@ -179,3 +185,115 @@ working!
 [badger2]: https://github.com/lmorchard/badger2
 
 <!-- vim: set wrap wm=5 syntax=mkd textwidth=70: -->
+
+<div id="comments" class="comments archived-comments">
+            <h3>Archived Comments</h3>
+            
+        <ul class="comments">
+            
+        <li class="comment" id="comment-256743407">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href=""><img src="http://www.gravatar.com/avatar.php?gravatar_id=afd2a7efeaad01509a571bae031dfc5c&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="">David Boswell</a>
+                </div>
+                <a href="#comment-256743407" class="permalink"><time datetime="2011-07-19T01:18:24">2011-07-19T01:18:24</time></a>
+            </div>
+            <div class="content">Very cool to see an update on Badger.  I'm definitely interested in this and would love to see something like this show up in the Mozillians phonebook that will be ready soonish :)
+
+David</div>
+            
+        </li>
+    
+        <li class="comment" id="comment-257292756">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://briks.si"><img src="http://www.gravatar.com/avatar.php?gravatar_id=29e2f1888cdcc9c451d32ab902d5a19c&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://briks.si">Brian King</a>
+                </div>
+                <a href="#comment-257292756" class="permalink"><time datetime="2011-07-19T15:12:01">2011-07-19T15:12:01</time></a>
+            </div>
+            <div class="content">Over at the Mozilla Reps program, we are discussing the possible use of badges - https://wiki.mozilla.org/ReMo</div>
+            
+        </li>
+    
+        <li class="comment" id="comment-257331862">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://kanai.net/weblog/"><img src="http://disqus.com/api/users/avatars/gkanai.jpg"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://kanai.net/weblog/">Gen Kanai</a>
+                </div>
+                <a href="#comment-257331862" class="permalink"><time datetime="2011-07-19T15:48:22">2011-07-19T15:48:22</time></a>
+            </div>
+            <div class="content">Agreed with DBos. Would love to see Badger as an official service, especially with the new Campus Reps program that Jason Haas is rebooting as well as with the Mozilla Representatives program. Also you might get a badge for contributing to the Join Mozilla program? So many great uses for us.</div>
+            
+        </li>
+    
+        <li class="comment" id="comment-278082903">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href=""><img src="http://disqus.com/api/users/avatars/interstar.jpg"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="">interstar</a>
+                </div>
+                <a href="#comment-278082903" class="permalink"><time datetime="2011-08-05T03:15:39">2011-08-05T03:15:39</time></a>
+            </div>
+            <div class="content">Hi Les,
+
+Very very interesting. 
+
+I was just thinking that there needed to be something like the Open Badges project today. (I'd even got as far as knocking up a data-model in web2py.) And then I saw this.
+
+I quickly cloned and tried out your app with an ordinary Django project but it's blowing up without jingo and I guess other Playdoh related modules. Are you committed to Playdoh for Badger2 ?
+
+</div>
+            
+        <ul class="comments">
+            
+        <li class="comment" id="comment-278514925">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://decafbad.com/"><img src="http://disqus.com/api/users/avatars/lmorchard.jpg"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://decafbad.com/">Les Orchard</a>
+                </div>
+                <a href="#comment-278514925" class="permalink"><time datetime="2011-08-05T18:05:31">2011-08-05T18:05:31</time></a>
+            </div>
+            <div class="content">I'm committed to Playdoh insofar as my initial users will probably be my co-workers at Mozilla, who are all building Playdoh-based sites.
+
+But, there's no reason why it shouldn't eventually work with vanilla Django. It's using core template loaders and shortcuts, so switching over to standard stuff shouldn't be an issue for the views and models.
+
+I'm hoping at some point to put together some more Django-conventional template tags and templates toward that end, unless someone gets to it before me in a pull request (patches welcome!). Really, I think the template tags are the more important thing, since any templates out of the box will likely get overridden on a real site.</div>
+            
+        </li>
+    
+        </ul>
+    
+        </li>
+    
+        <li class="comment" id="comment-301119028">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://www.integrating-technology.org/"><img src="http://disqus.com/api/users/avatars/nelliemuller.jpg"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://www.integrating-technology.org/">Dr. Nellie Deutsch</a>
+                </div>
+                <a href="#comment-301119028" class="permalink"><time datetime="2011-09-02T14:07:45">2011-09-02T14:07:45</time></a>
+            </div>
+            <div class="content">I love the idea, Leslie.  I've been heading a self-funded organization that provides free online professional development workshops for educators around the world since 2006. We need badges for our graduates.  Let me know how I can be of help. </div>
+            
+        </li>
+    
+        </ul>
+    
+        </div>
+    

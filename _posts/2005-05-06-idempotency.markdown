@@ -1,8 +1,9 @@
---- 
-wordpress_id: 642
+---
+comments_archived: true
+date: '2005-05-06T19:51:54-04:00'
 layout: post
-title: "Idempotency: It's not just for APIs (or, the web is an API)"
-date: "2005-05-06T19:51:54-04:00"
+title: 'Idempotency: It''s not just for APIs (or, the web is an API)'
+wordpress_id: 642
 wordpress_slug: idempotency
 wordpress_url: http://www.decafbad.com/blog/?p=642
 ---
@@ -42,3 +43,47 @@ Bah, I say.  Maybe it's time to start actually, really paying attention to this?
 [nsf]: http://37signals.com/svn/archives2/google_web_accelerator_hey_not_so_fast_an_alert_for_web_app_designers.php
 <!--more-->
 shortname=idempotency
+
+<div id="comments" class="comments archived-comments">
+            <h3>Archived Comments</h3>
+            
+        <ul class="comments">
+            
+        <li class="comment" id="comment-221087601">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://www.dehora.net/journal/"><img src="http://www.gravatar.com/avatar.php?gravatar_id=c802ceff4c3e8e80b04e8a789d7e88ba&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://www.dehora.net/journal/">Bill de hOra</a>
+                </div>
+                <a href="#comment-221087601" class="permalink"><time datetime="2005-05-06T20:52:02">2005-05-06T20:52:02</time></a>
+            </div>
+            <div class="content">"So, like... uh... Did Google build their accelerator that way just to provide a dramatic example of why explanations of REST focus repeatedly (to the annoyance of some) on the fact that the HTTP GET method is specified as and should be implemented as idempotent?"
+
+I reckon they might have done just that:
+
+http://www.dehora.net/journal/2005/05/only_the_paranoid_survive.html</div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221087605">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://plasmasturm.org/"><img src="http://www.gravatar.com/avatar.php?gravatar_id=e17949267bbfe21a0fadf1bbf00592b4&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://plasmasturm.org/">Aristotle Pagaltzis</a>
+                </div>
+                <a href="#comment-221087605" class="permalink"><time datetime="2005-05-08T13:11:45">2005-05-08T13:11:45</time></a>
+            </div>
+            <div class="content">The problem with "javascript:do_foo()" is that it'll break for people who have no Javascript &#8211; obviously.
+
+[It's not at all hard to have our cake and eat it](http://plasmasturm.org/log/292/), though.</div>
+            
+        </li>
+    
+        </ul>
+    
+        </div>
+    

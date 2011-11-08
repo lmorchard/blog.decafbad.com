@@ -1,8 +1,9 @@
---- 
-wordpress_id: 202
+---
+comments_archived: true
+date: '2002-07-31T14:04:46-04:00'
 layout: post
 title: AmphetaDesk + Outlines + iTunes 3, the next iteration
-date: "2002-07-31T14:04:46-04:00"
+wordpress_id: 202
 wordpress_slug: ooobbc
 wordpress_url: http://www.decafbad.com/blog/?p=202
 ---
@@ -11,3 +12,45 @@ wordpress_url: http://www.decafbad.com/blog/?p=202
 <p>I also want to add some "karma" features so that, beyond metrics of age, visits, and appearances, you can add your own manual rating and opinion to the process of sorting and show/hide.  And then there's the idea of categories/playlists I want to steal from iTunes as well.  But, I might just clean up what I have by this weekend and do the early release thing so you can all cheer or jeer it at will.  I also need to drop back into the <a href="http://www.decafbad.com/twiki/bin/view/Main/AmphetaDesk">AmphetaDesk</a> dev crowd.  I miss those guys...</p>
 <!--more-->
 shortname=ooobbc
+
+<div id="comments" class="comments archived-comments">
+            <h3>Archived Comments</h3>
+            
+        <ul class="comments">
+            
+        <li class="comment" id="comment-221089241">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://www.furrygoat.com"><img src="http://www.gravatar.com/avatar.php?gravatar_id=53617e52a0ccf29f19c750e312df0f31&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://www.furrygoat.com">Steve</a>
+                </div>
+                <a href="#comment-221089241" class="permalink"><time datetime="2002-07-31T15:15:41">2002-07-31T15:15:41</time></a>
+            </div>
+            <div class="content">Very cool stuff! Cant wait to see it. I've been toying with the idea of "favorites" aswell with PocketFeed (that you mentioned in the original article). I've found that while useful to have the content with me, without some automated intelligence to it's organization, it's a big blob of blog data.</div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221089243">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://jeremy.zawodny.com/blog/"><img src="http://www.gravatar.com/avatar.php?gravatar_id=c7aeda8ae5621d97ec1b1f7b7c20822e&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://jeremy.zawodny.com/blog/">Jeremy Zawodny</a>
+                </div>
+                <a href="#comment-221089243" class="permalink"><time datetime="2002-08-04T09:59:14">2002-08-04T09:59:14</time></a>
+            </div>
+            <div class="content">Oh, come on.  Post it already! :-)
+
+I can't wait to play with in.  I'm writing about AmphetaDesk for Linux Magazine, and it'be nice to mention some of this stuff too.
+
+Jeremy</div>
+            
+        </li>
+    
+        </ul>
+    
+        </div>
+    

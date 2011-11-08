@@ -1,10 +1,11 @@
---- 
-wordpress_id: 847
+---
+comments_archived: true
+date: '2006-02-01T00:26:16-05:00'
 layout: post
-title: links for 2006-02-01
-date: "2006-02-01T00:26:16-05:00"
-tags: 
+tags:
 - links
+title: links for 2006-02-01
+wordpress_id: 847
 wordpress_slug: links-for-2006-02-01
 wordpress_url: http://decafbad.com/blog/2006/02/01/links-for-2006-02-01
 ---
@@ -89,3 +90,71 @@ wordpress_url: http://decafbad.com/blog/2006/02/01/links-for-2006-02-01
 		<div class="delicious-tags">(tags: <a href="http://del.icio.us/deusx/rss">rss</a> <a href="http://del.icio.us/deusx/syndication">syndication</a> <a href="http://del.icio.us/deusx/hackingfeeds">hackingfeeds</a> <a href="http://del.icio.us/deusx/msft">msft</a>)</div>
 	</li>
 </ul>
+
+<div id="comments" class="comments archived-comments">
+            <h3>Archived Comments</h3>
+            
+        <ul class="comments">
+            
+        <li class="comment" id="comment-221084134">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://www.annezelenka.com"><img src="http://www.gravatar.com/avatar.php?gravatar_id=a17837517aa34572e477fe0ddc4d4995&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://www.annezelenka.com">Anne Zelenka</a>
+                </div>
+                <a href="#comment-221084134" class="permalink"><time datetime="2006-02-01T19:16:40">2006-02-01T19:16:40</time></a>
+            </div>
+            <div class="content"><p>Geez, I don't know if I like that you're now posting your daily links. Your feed happens to be one of the first in my feedreader because it's in my favorites folder and because it starts with a zero (that was crafty of you). I can barely get beyond it because I'm clicking through on all these links. This stuff is not what I'd get from my other feeds so I can't count on seeing it elsewhere. Darn you to heck, Orchard.</p></div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221084135">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://www.decafbad.com"><img src="http://www.gravatar.com/avatar.php?gravatar_id=2377f34a68801b861c3e54e1301f0dce&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://www.decafbad.com">l.m.orchard</a>
+                </div>
+                <a href="#comment-221084135" class="permalink"><time datetime="2006-02-01T23:16:51">2006-02-01T23:16:51</time></a>
+            </div>
+            <div class="content"><p>Anne: Heh, heh.  You know, the 0 in my site's name wasn't planned for that purpose, but my alphabetic superiority has come in handy more than once. :)  </p>
+
+<p>As for the links, I turned on the daily posting feature partly for research for the new book, but also because I felt like a big chunk of my daily brain dump was missing from here.  But, I'm still trying to decide if I like these summaries, if they should be individual posts (as I'd originally intended and use sporadically on <a href="http://hackingfeeds.com" rel="nofollow">Hacking Feeds</a>), or if they should stay separate.</p>
+
+<p>But, for what it's worth, if you'd like to spread the 0xDECAFBAD experience out over your reading lists, my WordPress install offers category feeds:</p>
+
+<ul>
+<li><a href="http://decafbad.com/blog/category/asides/feed" rel="nofollow">http://decafbad.com/blog/category/asides/feed</a></li>
+<li><a href="http://decafbad.com/blog/category/links/feed" rel="nofollow">http://decafbad.com/blog/category/links/feed</a></li>
+<li><a href="http://decafbad.com/blog/category/essays/feed" rel="nofollow">http://decafbad.com/blog/category/essays/feed</a></li>
+</ul>
+
+<p>I keep meaning to document / display that somewhere...  at any rate, nice to see you around here again!</p></div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221084137">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://www.annezelenka.com"><img src="http://www.gravatar.com/avatar.php?gravatar_id=a17837517aa34572e477fe0ddc4d4995&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://www.annezelenka.com">Anne Zelenka</a>
+                </div>
+                <a href="#comment-221084137" class="permalink"><time datetime="2006-02-02T22:38:39">2006-02-02T22:38:39</time></a>
+            </div>
+            <div class="content"><p>Crap, man, you have another blog? About feeds?</p>
+
+<p>Get yer' information overload here, folks!</p>
+
+<p>Seriously, I'm glad you're posting the links. I was interested to see that two women were appointed to the RSS Advisory Board and I blogged it for BlogHer. I didn't come across that anywhere else in my feeds so for now you appear to be an orthogonal source among my subscriptions.</p></div>
+            
+        </li>
+    
+        </ul>
+    
+        </div>
+    

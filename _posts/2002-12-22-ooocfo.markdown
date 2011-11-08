@@ -1,8 +1,9 @@
---- 
-wordpress_id: 334
+---
+comments_archived: true
+date: '2002-12-22T22:24:41-05:00'
 layout: post
-title: "On joining the FSF: The first actually useful membership card?"
-date: "2002-12-22T22:24:41-05:00"
+title: 'On joining the FSF: The first actually useful membership card?'
+wordpress_id: 334
 wordpress_slug: ooocfo
 wordpress_url: http://www.decafbad.com/blog/?p=334
 ---
@@ -13,3 +14,34 @@ So, not only can you give a little something back to a project from which most o
 (Oh, and this entry is a test of the <a href="http://ranchero.com/software/netnewswire/">NetNewsWire Pro Beta</a> weblog editor.  This is only a test.)
 <!--more-->
 shortname=ooocfo
+
+<div id="comments" class="comments archived-comments">
+            <h3>Archived Comments</h3>
+            
+        <ul class="comments">
+            
+        <li class="comment" id="comment-221087661">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href=""><img src="http://www.gravatar.com/avatar.php?gravatar_id=11a9052fbb87efa5d8b2129f91a78ad8&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="">mutaal</a>
+                </div>
+                <a href="#comment-221087661" class="permalink"><time datetime="2004-05-03T23:55:06">2004-05-03T23:55:06</time></a>
+            </div>
+            <div class="content">dear sir 
+
+ i need the membership card of my name 
+ name ABDUL MUTAAL.
+ please send all information of 
+ this card.
+my addresss is
+ARMY PUBLIC SCHOOL SUKKUR, SIND, PAKISTAN.</div>
+            
+        </li>
+    
+        </ul>
+    
+        </div>
+    

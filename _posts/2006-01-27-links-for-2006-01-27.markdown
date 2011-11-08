@@ -1,10 +1,11 @@
---- 
-wordpress_id: 840
+---
+comments_archived: true
+date: '2006-01-27T00:22:24-05:00'
 layout: post
-title: links for 2006-01-27
-date: "2006-01-27T00:22:24-05:00"
-tags: 
+tags:
 - links
+title: links for 2006-01-27
+wordpress_id: 840
 wordpress_slug: links-for-2006-01-27
 wordpress_url: http://decafbad.com/blog/2006/01/27/links-for-2006-01-27
 ---
@@ -50,3 +51,29 @@ wordpress_url: http://decafbad.com/blog/2006/01/27/links-for-2006-01-27
 		<div class="delicious-tags">(tags: <a href="http://del.icio.us/deusx/gaming">gaming</a> <a href="http://del.icio.us/deusx/nintendo">nintendo</a> <a href="http://del.icio.us/deusx/mobile">mobile</a>)</div>
 	</li>
 </ul>
+
+<div id="comments" class="comments archived-comments">
+            <h3>Archived Comments</h3>
+            
+        <ul class="comments">
+            
+        <li class="comment" id="comment-221087120">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://www.bipolarplanet.com/~void/"><img src="http://www.gravatar.com/avatar.php?gravatar_id=fba031c462dca108e930e732a7a38bee&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://www.bipolarplanet.com/~void/">Leslie</a>
+                </div>
+                <a href="#comment-221087120" class="permalink"><time datetime="2006-01-29T18:24:39">2006-01-29T18:24:39</time></a>
+            </div>
+            <div class="content"><p>Wait!  despair.com owns the frownie!</p>
+
+<p>http://www.despair.com/demotivators/frownonthis.html</p></div>
+            
+        </li>
+    
+        </ul>
+    
+        </div>
+    

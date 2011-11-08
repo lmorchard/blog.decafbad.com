@@ -1,8 +1,9 @@
---- 
-wordpress_id: 609
+---
+comments_archived: true
+date: '2005-03-08T09:41:06-05:00'
 layout: post
 title: Doctor Demento as Podcast?
-date: "2005-03-08T09:41:06-05:00"
+wordpress_id: 609
 wordpress_slug: doctor-demento-as-podcast
 wordpress_url: http://www.decafbad.com/blog/?p=609
 ---
@@ -20,3 +21,70 @@ wordpress_url: http://www.decafbad.com/blog/?p=609
 [demento2]:http://www.thedoctordementoshow.com/
 [demento]:http://www.drdemento.com/
 [unison]:http://www.panic.com/unison/
+
+<div id="comments" class="comments archived-comments">
+            <h3>Archived Comments</h3>
+            
+        <ul class="comments">
+            
+        <li class="comment" id="comment-221088440">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://www.cpfeifer.org"><img src="http://www.gravatar.com/avatar.php?gravatar_id=c151414548b154fbedcfe0e304a3e711&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://www.cpfeifer.org">Craig</a>
+                </div>
+                <a href="#comment-221088440" class="permalink"><time datetime="2005-03-08T11:04:46">2005-03-08T11:04:46</time></a>
+            </div>
+            <div class="content">I'd love a podcast of car talk and prairie home companion, but I figure I'd get the smackdown as well. There is a service, http://www.radiotime.com/ that is like tivo for radio. You pick the program and it records it as an MP3. I'm thinking i could probably hook it up myself but I'm far too lazy to do it.</div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221088442">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href=""><img src="http://www.gravatar.com/avatar.php?gravatar_id=1fdafb0d60d62e3529475d2c4107006d&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="">Jason</a>
+                </div>
+                <a href="#comment-221088442" class="permalink"><time datetime="2005-10-18T21:26:13">2005-10-18T21:26:13</time></a>
+            </div>
+            <div class="content"><p>I'd be the first of many to sign up to a demento podcast.
+go for it or it'll be a frantic "boot to the head"</p></div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221088445">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href=""><img src="http://www.gravatar.com/avatar.php?gravatar_id=96261f4cb752d424d786a42ee123acae&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="">Chas</a>
+                </div>
+                <a href="#comment-221088445" class="permalink"><time datetime="2006-08-13T14:45:32">2006-08-13T14:45:32</time></a>
+            </div>
+            <div class="content"><p>Great idea.  Dr. demento as a podcast would be great!!!  Go for it...</p></div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221088448">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href=""><img src="http://www.gravatar.com/avatar.php?gravatar_id=6df274d7c6cbe47f28dcb6f0860c1ccb&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="">Miles</a>
+                </div>
+                <a href="#comment-221088448" class="permalink"><time datetime="2008-03-01T07:25:06">2008-03-01T07:25:06</time></a>
+            </div>
+            <div class="content"><p>Ditto: Dr Demento podcast would be great, maybe just the funny 5 of something once a week; or just the first hour</p></div>
+            
+        </li>
+    
+        </ul>
+    
+        </div>
+    

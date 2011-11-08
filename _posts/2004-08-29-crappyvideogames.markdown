@@ -1,11 +1,14 @@
---- 
-wordpress_id: 542
+---
+comments_archived: true
+date: '2004-08-29T22:52:48-04:00'
+excerpt: It all makes me almost wish for a kink in Moore's Law that stalls
+    the progress of dazzling hardware and forces developers back to being
+    clever with their resources and game ideas.
 layout: post
-title: Crappy video games to get more expensive to produce
-excerpt: It all makes me almost wish for a kink in Moore's Law that stalls the progress of dazzling hardware and forces developers back to being clever with their resources and game ideas.
-date: "2004-08-29T22:52:48-04:00"
-tags: 
+tags:
 - gaming
+title: Crappy video games to get more expensive to produce
+wordpress_id: 542
 wordpress_slug: crappyvideogames
 wordpress_url: http://www.decafbad.com/blog/?p=542
 ---
@@ -31,3 +34,43 @@ It all makes me almost wish for a kink in Moore's Law that stalls the progress o
 Meanwhile, my girlfriend and I will be playing massive amounts of <a href="http://www.neo-geo.com/reviews/neo-reviews/md3/md3.html">Magical Drop III</a>.
 <!--more-->
 shortname=crappyvideogames
+
+<div id="comments" class="comments archived-comments">
+            <h3>Archived Comments</h3>
+            
+        <ul class="comments">
+            
+        <li class="comment" id="comment-221090864">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://www.valcohen.com"><img src="http://www.gravatar.com/avatar.php?gravatar_id=1f182510ae4c51df63e11d0b069ad439&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://www.valcohen.com">Val</a>
+                </div>
+                <a href="#comment-221090864" class="permalink"><time datetime="2004-08-30T00:30:14">2004-08-30T00:30:14</time></a>
+            </div>
+            <div class="content">I generally agree, tho I love a lot of games for their eye-candy like I love (well, at least like, or wll pay to see) a lot of movies strictly for thier eye-candy (as opposed to a good story, acting, etc.)
+
+But, re your wish for a more constrained environment in which to draw out developers' creativity: it strikes me we're starting to see this with the mobile environments. The cellphones Russell Beattie describes are severely restricted compared to today's monster desktop/video-card setups that comprise even bargain-basement PCs (tho Russ DOES today talk about getting a 512MB memory card for his phone -- size of a thumbnail -- for about $100. The constraints won't be there for long -- enjoy while you can!)</div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221090866">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href=""><img src="http://www.gravatar.com/avatar.php?gravatar_id=4a5d522f073b25af74daa13b4a161730&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="">byran connor</a>
+                </div>
+                <a href="#comment-221090866" class="permalink"><time datetime="2005-03-09T12:20:22">2005-03-09T12:20:22</time></a>
+            </div>
+            <div class="content">Hey your right man.  Tetris and Nintendo, Sonic and Sega, dude those games kicked a$$ andnow a days game makers do get side tracked by all the fancy stuff an what not.The only new game that i played and liked all the way through was halo 1.  Then all the other games i got for my xbox blowed except the fact that soul calibur was alrighty, but game makers or whatever they're called need to do a better job with their plot and game play...peace out and keep on playin the old school games.</div>
+            
+        </li>
+    
+        </ul>
+    
+        </div>
+    

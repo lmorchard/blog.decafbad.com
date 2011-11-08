@@ -1,10 +1,11 @@
---- 
-wordpress_id: 1496
+---
+comments_archived: true
+date: '2009-01-05T14:09:22-05:00'
 layout: post
-title: Three Years in Review
-date: "2009-01-05T14:09:22-05:00"
-tags: 
+tags:
 - entries
+title: Three Years in Review
+wordpress_id: 1496
 wordpress_slug: three-years-in-review
 wordpress_url: http://decafbad.com/blog/?p=1496
 ---
@@ -61,3 +62,45 @@ Finally, more than half a year later, I'm still at Mozilla and they seem to like
 And, that's pretty much the past 3 years' exhausting adventure so far... [what's next][resolutions]?
 
 [resolutions]: http://decafbad.com/blog/2009/01/05/resolutions
+
+<div id="comments" class="comments archived-comments">
+            <h3>Archived Comments</h3>
+            
+        <ul class="comments">
+            
+        <li class="comment" id="comment-221082757">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://delicious.com/davedash"><img src="http://www.gravatar.com/avatar.php?gravatar_id=dce6951264f7d72429a9964e1756dad3&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://delicious.com/davedash">Dave Dash</a>
+                </div>
+                <a href="#comment-221082757" class="permalink"><time datetime="2009-01-06T05:45:10">2009-01-06T05:45:10</time></a>
+            </div>
+            <div class="content"><p>I'm glad we had you on the team.  You deserved to be as much (if not more) a part of that celebration as people who were there.  I'm glad for your sake you made the decision that was best for you though.</p>
+
+<p>It's funny how Chris and I will talk about some problem with the architecture of the frontend code and sure enough we'll find a bug that you filed that echoes the same sentiment ;)</p>
+
+<p>Happy New Years.  Have a great 2009.</p></div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221082758">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://www.decafbad.com"><img src="http://www.gravatar.com/avatar.php?gravatar_id=2377f34a68801b861c3e54e1301f0dce&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://www.decafbad.com">l.m.orchard</a>
+                </div>
+                <a href="#comment-221082758" class="permalink"><time datetime="2009-01-06T15:23:09">2009-01-06T15:23:09</time></a>
+            </div>
+            <div class="content"><p>@Dave: Aw shucks, man, thanks.  :)  I've got to say, as a civilian user of Delicious, I'm glad you guys are still taking care of business.  Whatever frustrations I had with the process, I was happy being on the team with you.</p></div>
+            
+        </li>
+    
+        </ul>
+    
+        </div>
+    

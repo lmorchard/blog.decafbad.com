@@ -1,8 +1,9 @@
---- 
-wordpress_id: 618
+---
+comments_archived: true
+date: '2005-03-19T12:07:18-05:00'
 layout: post
 title: Kicking the habit, rather than yourself
-date: "2005-03-19T12:07:18-05:00"
+wordpress_id: 618
 wordpress_slug: kicking-the-habit-rather-than-yourself
 wordpress_url: http://www.decafbad.com/blog/?p=618
 ---
@@ -20,3 +21,29 @@ wordpress_url: http://www.decafbad.com/blog/?p=618
 
 [habit]:http://www.decafbad.com/blog/2002/06/24/ooobod
 [smoke]:http://archive.scripting.com/2005/03/10#notThatIveBeenCountingOrAnything
+
+<div id="comments" class="comments archived-comments">
+            <h3>Archived Comments</h3>
+            
+        <ul class="comments">
+            
+        <li class="comment" id="comment-221086474">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://lr2.com/"><img src="http://www.gravatar.com/avatar.php?gravatar_id=fcb68974d7905521d2a161853a8637b1&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://lr2.com/">Anton</a>
+                </div>
+                <a href="#comment-221086474" class="permalink"><time datetime="2005-03-19T22:56:47">2005-03-19T22:56:47</time></a>
+            </div>
+            <div class="content">Congrats!
+
+I quit on New Years just over 3 years ago.  I'm so happy that I did.  I think it took me about 2 years to get over it completely.</div>
+            
+        </li>
+    
+        </ul>
+    
+        </div>
+    

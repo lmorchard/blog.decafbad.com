@@ -1,8 +1,9 @@
---- 
-wordpress_id: 495
+---
+comments_archived: true
+date: '2003-10-08T08:30:52-04:00'
 layout: post
 title: Microcontent and RSS-Data
-date: "2003-10-08T08:30:52-04:00"
+wordpress_id: 495
 wordpress_slug: microcontent-and-rss-data
 wordpress_url: http://www.decafbad.com/blog/?p=495
 ---
@@ -70,3 +71,63 @@ What's the RSS-Data magic that improves on all the above?
 </p>
 <!--more-->
 shortname=microcontent_and_rss_data
+
+<div id="comments" class="comments archived-comments">
+            <h3>Archived Comments</h3>
+            
+        <ul class="comments">
+            
+        <li class="comment" id="comment-221085572">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://dannyayers.com"><img src="http://www.gravatar.com/avatar.php?gravatar_id=ac0d01ebb5e438c029c0764064f70827&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://dannyayers.com">Danny</a>
+                </div>
+                <a href="#comment-221085572" class="permalink"><time datetime="2003-10-08T13:47:50">2003-10-08T13:47:50</time></a>
+            </div>
+            <div class="content">I did one too! A review vocab that is (I only did it as a demo, but Leigh used it in FOAF-a-matic for music and *blogs*, so I've started treating it proper).
+
+http://ideagraph.net/xmlns/rev/
+blog note:
+http://dannyayers.com/ideagraph-blog/archives/cat_vocabularies.html
+
+Re. RSS 2.0 extensions, I recently did a bit of Googling myself:
+
+http://dannyayers.com/archives/001713.html
+
+(in short, they're not getting used much)</div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221085574">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://admin.support.journurl.com/"><img src="http://www.gravatar.com/avatar.php?gravatar_id=4df556273eae91df768e9af6e4efdfcc&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://admin.support.journurl.com/">Roger Benningfield</a>
+                </div>
+                <a href="#comment-221085574" class="permalink"><time datetime="2003-10-09T02:03:01">2003-10-09T02:03:01</time></a>
+            </div>
+            <div class="content">Les: There's a recurring theme in a few of your recent entries that I think it pretty important to consider... extended metadata in RSS is, so far, sort of a flop. The central elements of title, description, and date are so easy to adapt to so many applications that *any* kind of extension (namespaces, RDF, or RSS-Data) may be more trouble than 90% of the folks out there are willing to endure. In the grand scheme, streamlining something like RSS subscriptions or subscription management is probably *way* more important than finding ways to wedge new information into existing feeds. So ultimately, we may be debating an edge case's edge case.
+
+But assuming for the moment that there's actually a point to all of this :) , and in answer to your entry...
+
+Les: "You'll still need to do the same sort of modeling and structure work that the authors of all the above have done. It's always nicer to have someone else do homework for you."
+
+Why would I design my application's internal database, for example, around what some random group/person thinks a book review should look like? My development environment has efficiencies and potholes to consider. My application has different expectations for user input and behavior. My users have needs that may not track with the mainstream.
+
+I fundamentally disagree with that sort of thinking... it's one of the big reasons that I tend to lose interest in some XML/blogging/whatever projects. (Atom being a recent, prominent example.) There often seems to come a point where data-modeling fans stop talking about ways to translate what I'm saying into something we both understand and start telling me to change my native language to suit their notions of order and purity.
+
+Now, as I sit here typing this, it occurs to me that RSS-Data could be the exact same thing in reverse. It's possible that some of it's appeal to me may boil down to a desire to project *my* priorities on to other folks. It's a bit hypocritical of me to be irritated by people who want to tell me how to design my app and then turn around and tell someone else, "Hey, if you want at my data, you'll just have to accomodate my internal structure in your app."
+
+I hope you're proud of yourself, Les. You're about to make me change my mind by inadvertantly poking my guilty conscience with a stick. :D</div>
+            
+        </li>
+    
+        </ul>
+    
+        </div>
+    

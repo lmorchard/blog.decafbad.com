@@ -1,8 +1,9 @@
---- 
-wordpress_id: 629
+---
+comments_archived: true
+date: '2005-04-27T10:40:17-04:00'
 layout: post
 title: Atom Format Versioning After Last Call?
-date: "2005-04-27T10:40:17-04:00"
+wordpress_id: 629
 wordpress_slug: atom-format-versioning-after-last-call
 wordpress_url: http://www.decafbad.com/blog/?p=629
 ---
@@ -29,3 +30,44 @@ Rather than jump onto the mailing list or something and ask what's likely a well
 [nsver]: http://www.decafbad.com/blog/2003/07/12/echo_unique_namespaces
 [lastcall]: http://www.tbray.org/ongoing/When/200x/2005/04/20/Atom-Format-Last-Call
 [book]: http://www.decafbad.com/blog/2005/04/25/hacking_rss_and_atom_is_a_real_book
+
+<div id="comments" class="comments archived-comments">
+            <h3>Archived Comments</h3>
+            
+        <ul class="comments">
+            
+        <li class="comment" id="comment-221089981">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://www.intertwingly.net/blog/"><img src="http://www.gravatar.com/avatar.php?gravatar_id=e2dda5e47fccc5ff0daa87debf48162b&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://www.intertwingly.net/blog/">Sam Ruby</a>
+                </div>
+                <a href="#comment-221089981" class="permalink"><time datetime="2005-04-27T12:19:34">2005-04-27T12:19:34</time></a>
+            </div>
+            <div class="content">You found the correct area of the spec.  Also related: 
+
+http://www.intertwingly.net/wiki/pie/PaceRemoveVersionAttr
+http://www.intertwingly.net/blog/2005/04/21/Atom-Format-Last-Call</div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221089983">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://www.kbcafe.com"><img src="http://www.gravatar.com/avatar.php?gravatar_id=b02f842303e275bacf9a66c710b2ee8a&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://www.kbcafe.com">Randy Charles Morin</a>
+                </div>
+                <a href="#comment-221089983" class="permalink"><time datetime="2005-04-28T15:57:10">2005-04-28T15:57:10</time></a>
+            </div>
+            <div class="content">I don't understand this version by namespace thingy. It would seem to me that versioning by namespace is gonna mean recoding every client for every version of the spec. Unfortunately, like yourself, I dropped out of the Atom noise list long ago.</div>
+            
+        </li>
+    
+        </ul>
+    
+        </div>
+    

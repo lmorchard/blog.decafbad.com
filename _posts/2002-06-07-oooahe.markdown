@@ -1,8 +1,9 @@
---- 
-wordpress_id: 164
+---
+comments_archived: true
+date: '2002-06-07T12:19:37-04:00'
 layout: post
-title: "More autodiscovery for bots: Finding weblogs via RSS referers"
-date: "2002-06-07T12:19:37-04:00"
+title: 'More autodiscovery for bots: Finding weblogs via RSS referers'
+wordpress_id: 164
 wordpress_slug: oooahe
 wordpress_url: http://www.decafbad.com/blog/?p=164
 ---
@@ -14,3 +15,53 @@ wordpress_url: http://www.decafbad.com/blog/?p=164
 <p>Anyway, let me know what you think.</p>
 <!--more-->
 shortname=oooahe
+
+<div id="comments" class="comments archived-comments">
+            <h3>Archived Comments</h3>
+            
+        <ul class="comments">
+            
+        <li class="comment" id="comment-221083051">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://www.10500bc.org"><img src="http://www.gravatar.com/avatar.php?gravatar_id=2a158ec6895b9af4ce255febfe69ffee&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://www.10500bc.org">Josh Cooper</a>
+                </div>
+                <a href="#comment-221083051" class="permalink"><time datetime="2002-06-07T14:35:16">2002-06-07T14:35:16</time></a>
+            </div>
+            <div class="content">I like the userWeblog idea. If all the toolkits out there
+would use it that would be good for us rock bangers.
+
+I agree on the LINK tag being on every page also. I'm gonna
+go ahead and add it to all my templates as well.
+
+Of course if a site is already using a LINK tag, then your
+agent could always pull the feed, then get the site link
+directly from that. This of course is only good for those
+sites that do use the LINK tag and have it on all there
+pages.
+
+Over all I think its a great idea enriching the weblog community.</div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221083052">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://www.10500bc.org"><img src="http://www.gravatar.com/avatar.php?gravatar_id=2a158ec6895b9af4ce255febfe69ffee&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://www.10500bc.org">Josh Cooper</a>
+                </div>
+                <a href="#comment-221083052" class="permalink"><time datetime="2002-06-07T14:42:02">2002-06-07T14:42:02</time></a>
+            </div>
+            <div class="content">doh! I was in a dreamland when i made the 3 statement. That has nothing todo with what your trying to solve just another problem, you still have to know where the referer is coming from. first. Anyway I better go find a Red Bull and wake up some more.</div>
+            
+        </li>
+    
+        </ul>
+    
+        </div>
+    

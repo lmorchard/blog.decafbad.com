@@ -1,8 +1,9 @@
---- 
-wordpress_id: 425
+---
+comments_archived: true
+date: '2003-06-13T19:06:40-04:00'
 layout: post
 title: Newly Digital in 1983
-date: "2003-06-13T19:06:40-04:00"
+wordpress_id: 425
 wordpress_slug: newly-digital
 wordpress_url: http://www.decafbad.com/blog/?p=425
 ---
@@ -167,3 +168,43 @@ since.  I love to feel my mind stretch, and I love to take things
 apart and see what's inside.
 <!--more-->
 shortname=newly_digital
+
+<div id="comments" class="comments archived-comments">
+            <h3>Archived Comments</h3>
+            
+        <ul class="comments">
+            
+        <li class="comment" id="comment-221082790">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://stevenf.com/"><img src="http://www.gravatar.com/avatar.php?gravatar_id=ae2c0b2d1d3219cac5409a77a1c99fb2&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://stevenf.com/">stevenf</a>
+                </div>
+                <a href="#comment-221082790" class="permalink"><time datetime="2003-06-11T21:04:17">2003-06-11T21:04:17</time></a>
+            </div>
+            <div class="content">David Ahl's BASIC Computer Games!  I think I still have that somewhere, the one with the red cover.
+
+All the games were written for PC-flavored BASIC, so I remember having to make adjustments on the fly for Applesoft on our family's II+.</div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221082792">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://www.jaquay.org"><img src="http://www.gravatar.com/avatar.php?gravatar_id=8fcae98683d844eedb4dd4562e2b05e3&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://www.jaquay.org">djaquay</a>
+                </div>
+                <a href="#comment-221082792" class="permalink"><time datetime="2003-06-12T09:12:41">2003-06-12T09:12:41</time></a>
+            </div>
+            <div class="content">What complete fun!  Thanks for posting that...</div>
+            
+        </li>
+    
+        </ul>
+    
+        </div>
+    

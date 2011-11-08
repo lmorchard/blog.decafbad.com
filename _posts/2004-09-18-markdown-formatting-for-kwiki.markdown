@@ -1,11 +1,13 @@
---- 
-wordpress_id: 552
+---
+comments_archived: true
+date: '2004-09-18T19:20:41-04:00'
+excerpt: I just made my first Kwiki formatting plugin, making Markdown formatting
+    available.
 layout: post
-title: Markdown formatting for Kwiki
-excerpt: I just made my first Kwiki formatting plugin, making Markdown formatting available.
-date: "2004-09-18T19:20:41-04:00"
-tags: 
+tags:
 - wiki
+title: Markdown formatting for Kwiki
+wordpress_id: 552
 wordpress_slug: markdown-formatting-for-kwiki
 wordpress_url: http://www.decafbad.com/blog/?p=552
 ---
@@ -41,3 +43,43 @@ And, not that I planned it this way, but I just realized that I'm wearing my [Da
 
 [markdown]: http://daringfireball.net/projects/markdown/
 [tshirt]: http://daringfireball.net/members/
+
+<div id="comments" class="comments archived-comments">
+            <h3>Archived Comments</h3>
+            
+        <ul class="comments">
+            
+        <li class="comment" id="comment-221087548">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://trikuare.cx/"><img src="http://www.gravatar.com/avatar.php?gravatar_id=7d3d1e46aae8ca19855a6026d404b91d&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://trikuare.cx/">fluffy</a>
+                </div>
+                <a href="#comment-221087548" class="permalink"><time datetime="2004-09-18T22:07:23">2004-09-18T22:07:23</time></a>
+            </div>
+            <div class="content">That certainly did seem difficult!
+
+You're on a roll.  Now add in phpBB comment support. ;)</div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221087549">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://pixelcort.com/"><img src="http://www.gravatar.com/avatar.php?gravatar_id=501ebb4805e74dddc5c0b33b16fca819&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://pixelcort.com/">Cortland Klein</a>
+                </div>
+                <a href="#comment-221087549" class="permalink"><time datetime="2005-01-05T23:59:39">2005-01-05T23:59:39</time></a>
+            </div>
+            <div class="content">How can this be applied to Kwiki?</div>
+            
+        </li>
+    
+        </ul>
+    
+        </div>
+    

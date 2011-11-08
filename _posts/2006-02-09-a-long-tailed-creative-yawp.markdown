@@ -1,9 +1,8 @@
---- 
-wordpress_id: 859
+---
+comments_archived: true
+date: '2006-02-09T15:17:09-05:00'
 layout: post
-title: A Long-Tailed Creative Yawp
-date: "2006-02-09T15:17:09-05:00"
-tags: 
+tags:
 - writing
 - podcasting
 - copyfight
@@ -12,6 +11,8 @@ tags:
 - creative
 - creativity
 - future
+title: A Long-Tailed Creative Yawp
+wordpress_id: 859
 wordpress_slug: a-long-tailed-creative-yawp
 wordpress_url: http://decafbad.com/blog/?p=859
 ---
@@ -76,3 +77,59 @@ So anyway, that's the sort of stuff that gets me really excited lately.  And, in
 [mg]: http://davenet.scripting.com/2000/08/27/michegas
 [lt]: http://www.thelongtail.com/about.html
 [bb]: http://arstechnica.com/news.ars/post/20060207-6133.html
+
+<div id="comments" class="comments archived-comments">
+            <h3>Archived Comments</h3>
+            
+        <ul class="comments">
+            
+        <li class="comment" id="comment-221086499">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://advogato.org/person/mbrubeck/"><img src="http://www.gravatar.com/avatar.php?gravatar_id=85232f8499fd6ee91623408fc23835d1&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://advogato.org/person/mbrubeck/">Matt Brubeck</a>
+                </div>
+                <a href="#comment-221086499" class="permalink"><time datetime="2006-02-09T23:19:13">2006-02-09T23:19:13</time></a>
+            </div>
+            <div class="content"><blockquote>
+  <p>"Why do we even have a culture that enshrines such a poisonous unidirectional flow of product to consumer? Scarcity."</p>
+</blockquote>
+
+<p>My friend Patri wrote an interesting piece that gives a different answer to this question:  <em>"Our personal worlds are vastly larger than at any previous time in human history. Our population is much higher, and we are exposed to the best of the best of this huge pool of talent. <a href="http://catallarchy.net/blog/archives/2004/09/14/psychological-impact-of-a-large-well-connected-recorded-world/" rel="nofollow">This can be hard on one’s self-esteem.</a>"</em></p>
+
+<blockquote>
+  <p>"Honestly, I see the entrenchment of universal creativity as one of the few ways the United States can cope with increasingly global markets—we’ve got a bit of a head start in some areas, if we take it."</p>
+</blockquote>
+
+<p>In other words, there are <a href="http://www.wired.com/wired/archive/1.03/streetcred.html?pg=25" rel="nofollow">only four things we do better than anyone else</a>.  :-)</p></div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221086501">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://plasmasturm.org/"><img src="http://www.gravatar.com/avatar.php?gravatar_id=e17949267bbfe21a0fadf1bbf00592b4&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://plasmasturm.org/">Aristotle Pagaltzis</a>
+                </div>
+                <a href="#comment-221086501" class="permalink"><time datetime="2006-02-18T15:15:43">2006-02-18T15:15:43</time></a>
+            </div>
+            <div class="content"><p>Reminds me of the comment I left on Spencer Critchley’s analysis of <a href="http://www.oreillynet.com/digitalmedia/blog/2006/02/how_digital_production_distrib.html" rel="nofollow">How Digital Production &amp; Distribution Are Making Things Worse For Musicians, Not Better</a>. I responded that artists should sell merch, not music:</p>
+
+<blockquote>
+  <p>Comic artists on the ’net have been giving away their art for years, make a living instead by selling merchandise. It works for them, and the ones I know of who made their comic their fulltime job, managed the leap when their fan base hit several thousand regular readers. This sounds like an easy goal for decent musicians who play out.</p>
+  
+  <p>If that model works out, we will probably revert to something more like the pre-MTV days, with many local acts of moderate fame and significantly fewer artists of nationwide/international fame; in a generally much more heterogenous landscape. And now that I’m thinking about this, the more I ponder it, the more attractive it seems in many ways – it could be a renaissance for music.</p>
+</blockquote>
+
+<p>Funny how I arrived at roughly the same vision as you by coming at it from a completely different angle, no?</p></div>
+            
+        </li>
+    
+        </ul>
+    
+        </div>
+    

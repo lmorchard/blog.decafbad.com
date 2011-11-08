@@ -1,9 +1,15 @@
---- 
-wordpress_id: 520
+---
+comments_archived: true
+date: '2004-05-10T21:58:15-04:00'
+excerpt: 'I''ve been tinkering for years now with TiVO-zing my PC, with
+    varying degrees of success.  But, that''s not what I really want.  Lately,
+    I''ve been reading The Invisible Computer by Donald A. Norman, and it''s
+    gotten me thinking: What I really want is a family of entertainment
+    appliances.  I want to make them myself, I want to do it on the cheap,
+    and I don''t want to go to jail.'
 layout: post
 title: Homebrew entertainment appliances - cheap, open, and embattled
-excerpt: "I've been tinkering for years now with TiVO-zing my PC, with varying degrees of success.  But, that's not what I really want.  Lately, I've been reading The Invisible Computer by Donald A. Norman, and it's gotten me thinking: What I really want is a family of entertainment appliances.  I want to make them myself, I want to do it on the cheap, and I don't want to go to jail."
-date: "2004-05-10T21:58:15-04:00"
+wordpress_id: 520
 wordpress_slug: homebrew-entertainment-appliances-cheap-open-and-embattled
 wordpress_url: http://www.decafbad.com/blog/?p=520
 ---
@@ -42,3 +48,93 @@ Wouldn't it be nice if we had a friendly environment for open experimentation wi
 [homebrewpvr]: http://www.decafbad.com/blog/2002/05/07/oooach
 [tivopc]: http://www.decafbad.com/blog/2002/02/27/ooooch
 [pbtv]: http://www.decafbad.com/blog/2003/07/30/powerbook_on_tv
+
+<div id="comments" class="comments archived-comments">
+            <h3>Archived Comments</h3>
+            
+        <ul class="comments">
+            
+        <li class="comment" id="comment-221082794">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href=""><img src="http://www.gravatar.com/avatar.php?gravatar_id=d3520ad50fa42c9319830bd9f0900c5d&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="">John Burton</a>
+                </div>
+                <a href="#comment-221082794" class="permalink"><time datetime="2004-05-10T23:46:04">2004-05-10T23:46:04</time></a>
+            </div>
+            <div class="content">I couldn't cope without my tivo. It's just the best device ever. It's slightly hacked with an ethernet card so I can get video off it, although I rarely bother as I just want to watch the stuff on TV.
+
+But I live in the UK where they stopped selling tivos about 18 months ago so I live in fear that mine will stop working one day and I won't be able to replace it. There just don't seem to be any reasonably alternatives. There is sky+ but it's just not as good in any way as well as being a closed system.
+
+I've tried various experiments with home built tivo equivilents with only some success. I figure that for about 5 times the cost of a real tivo I can have a bigger, noiser box that works nearly as well without the quality of the TV guide tivo provide, and generally not quite as good software that's as nicely integrated into a consumer item rather than a computer.
+
+I did have some sucess with mythtv though but it never worked *really* well.</div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221082796">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://www.livejournal.com/users/missadroit"><img src="http://www.gravatar.com/avatar.php?gravatar_id=aee8a8ca6bd70648d15242ff2b5742b3&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://www.livejournal.com/users/missadroit">Very, Very Patient Girl</a>
+                </div>
+                <a href="#comment-221082796" class="permalink"><time datetime="2004-05-11T00:50:56">2004-05-11T00:50:56</time></a>
+            </div>
+            <div class="content">I *heart* the tinkered xbox because of Automan (amongst other reasons).  That's me!</div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221082797">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://www.decafbad.com/blog/"><img src="http://www.gravatar.com/avatar.php?gravatar_id=8a5273f79cfe7579ad46023f93377aa8&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://www.decafbad.com/blog/">l.m.orchard</a>
+                </div>
+                <a href="#comment-221082797" class="permalink"><time datetime="2004-05-11T01:06:10">2004-05-11T01:06:10</time></a>
+            </div>
+            <div class="content">I *still* want to try to make our own SoapNet for you :)</div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221082798">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://jonnyro.isa-geek.com:88/blog"><img src="http://www.gravatar.com/avatar.php?gravatar_id=8396b991fa1ca07efca1141bf64a9c02&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://jonnyro.isa-geek.com:88/blog">JonnyRo</a>
+                </div>
+                <a href="#comment-221082798" class="permalink"><time datetime="2004-05-11T01:13:42">2004-05-11T01:13:42</time></a>
+            </div>
+            <div class="content">I had similar marginal success with mythtv as well.  Most of my recent problems with it developed from the overly confusing recording codec profiles.
+
+It did however work very nicely over a 100Mbit LAN connection, using on average about 1.6Mb a second continuously.
+
+On the video capture card front, you cant go wrong with a hauppage.  They usually have the internal mixer connected so you can sample sound directly off of the card without using the sound card passthrough cable.  Alternatively you could pick up a cheap ati tv wonder ve for about 40$.</div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221082799">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://pvrguide.no-ip.com"><img src="http://www.gravatar.com/avatar.php?gravatar_id=a013ac050622be854a47770ea921841b&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://pvrguide.no-ip.com">Ed</a>
+                </div>
+                <a href="#comment-221082799" class="permalink"><time datetime="2004-07-07T18:35:54">2004-07-07T18:35:54</time></a>
+            </div>
+            <div class="content">If you run into problems with the install then Http://PVRGuide.no-ip.com offers help installing MythTV and VDR</div>
+            
+        </li>
+    
+        </ul>
+    
+        </div>
+    

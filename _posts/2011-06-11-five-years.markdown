@@ -1,9 +1,13 @@
 ---
+comments_archived: true
+date: '2011-06-11T01:17:34.956177'
 layout: post
-title: "Five years"
-tags: [wedding, marriage, happiness]
 published: true
-date: 2011-06-11T01:17:34.956177
+tags:
+- wedding
+- marriage
+- happiness
+title: Five years
 ---
 <a href="https://www.facebook.com/photo.php?fbid=10150188453817452&set=a.479596472451.261680.698502451&type=1" title="One of Matt Callow's old photos from Facebook, also our wedding"><img src="{{ site.baseurl }}/images/five_years.jpg" style="float:right; width: 50%; margin: 0 0 1em 1em;" /></a>
 
@@ -46,3 +50,51 @@ Alexandra.
 [maxandermas]: http://maps.google.com/maps/place?oe=utf-8&client=firefox-a&ie=UTF8&q=31205+Orchard+Lake+Rd.,+farmington+hills,+mi&fb=1&gl=us&hnear=0x8824b30706ba377b:0xd782c2371992a3fe,Livonia,+MI&cid=3101127947218864059&z=14
 
 <!-- vim: set wrap wm=5 syntax=mkd textwidth=70: -->
+
+<div id="comments" class="comments archived-comments">
+            <h3>Archived Comments</h3>
+            
+        <ul class="comments">
+            
+        <li class="comment" id="comment-224484763">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://groovecoder.com/"><img src="http://disqus.com/api/users/avatars/openid-84477.jpg"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://groovecoder.com/">groovecoder</a>
+                </div>
+                <a href="#comment-224484763" class="permalink"><time datetime="2011-06-12T22:37:41">2011-06-12T22:37:41</time></a>
+            </div>
+            <div class="content">congrats man!</div>
+            
+        </li>
+    
+        <li class="comment" id="comment-240411531">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://kosso.co.uk"><img src="http://disqus.com/api/users/avatars/kosso.jpg"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://kosso.co.uk">kosso</a>
+                </div>
+                <a href="#comment-240411531" class="permalink"><time datetime="2011-07-02T03:51:00">2011-07-02T03:51:00</time></a>
+            </div>
+            <div class="content">*sniff*
+
+tis a beautiful thang. 
+
+i miss having a great woman aside me on my life adventures. 
+
+i wish some people were more easily replaceable. but their beauty is, is that they can't be.
+
+oh well. onwards. alone.
+
+for now.</div>
+            
+        </li>
+    
+        </ul>
+    
+        </div>
+    

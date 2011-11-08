@@ -1,10 +1,11 @@
---- 
-wordpress_id: 849
+---
+comments_archived: true
+date: '2006-02-03T00:27:50-05:00'
 layout: post
-title: links for 2006-02-03
-date: "2006-02-03T00:27:50-05:00"
-tags: 
+tags:
 - links
+title: links for 2006-02-03
+wordpress_id: 849
 wordpress_slug: links-for-2006-02-03
 wordpress_url: http://decafbad.com/blog/2006/02/03/links-for-2006-02-03
 ---
@@ -85,3 +86,41 @@ wordpress_url: http://decafbad.com/blog/2006/02/03/links-for-2006-02-03
 		<div class="delicious-tags">(tags: <a href="http://del.icio.us/deusx/scifi">scifi</a> <a href="http://del.icio.us/deusx/writing">writing</a> <a href="http://del.icio.us/deusx/stories">stories</a>)</div>
 	</li>
 </ul>
+
+<div id="comments" class="comments archived-comments">
+            <h3>Archived Comments</h3>
+            
+        <ul class="comments">
+            
+        <li class="comment" id="comment-221083005">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href=""><img src="http://www.gravatar.com/avatar.php?gravatar_id=a0b347907bfaf05694805210ec595d6c&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="">Martin Atkins</a>
+                </div>
+                <a href="#comment-221083005" class="permalink"><time datetime="2006-02-03T18:09:14">2006-02-03T18:09:14</time></a>
+            </div>
+            <div class="content"><p>If you want a laugh, you should take a look at PHP's create_function function...</p></div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221083008">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://www.decafbad.com"><img src="http://www.gravatar.com/avatar.php?gravatar_id=2377f34a68801b861c3e54e1301f0dce&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://www.decafbad.com">l.m.orchard</a>
+                </div>
+                <a href="#comment-221083008" class="permalink"><time datetime="2006-02-04T02:03:18">2006-02-04T02:03:18</time></a>
+            </div>
+            <div class="content"><p>Gagh... this create_function function makes me sputter and curse.</p></div>
+            
+        </li>
+    
+        </ul>
+    
+        </div>
+    

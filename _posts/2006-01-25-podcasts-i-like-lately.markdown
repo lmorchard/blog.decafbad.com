@@ -1,13 +1,14 @@
---- 
-wordpress_id: 838
+---
+comments_archived: true
+date: '2006-01-25T11:21:34-05:00'
 layout: post
-title: Podcasts I like lately
-date: "2006-01-25T11:21:34-05:00"
-tags: 
+tags:
 - asides
 - scifi
 - writing
 - podcasting
+title: Podcasts I like lately
+wordpress_id: 838
 wordpress_slug: podcasts-i-like-lately
 wordpress_url: http://decafbad.com/blog/?p=838
 ---
@@ -54,3 +55,86 @@ While being crazy busy, I've been thoroughly enjoying these podcasts:
 [drf]: http://doctorfloyd.com/
 [e402]: http://www.doctorfloyd.com/eps/
 [isbw]: http://www.ishouldbewriting.com
+
+<div id="comments" class="comments archived-comments">
+            <h3>Archived Comments</h3>
+            
+        <ul class="comments">
+            
+        <li class="comment" id="comment-221085883">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://www.scottsigler.net"><img src="http://www.gravatar.com/avatar.php?gravatar_id=40267a2ef2b56c42fbb808662a6b3332&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://www.scottsigler.net">Scott Sigler</a>
+                </div>
+                <a href="#comment-221085883" class="permalink"><time datetime="2006-01-27T21:54:59">2006-01-27T21:54:59</time></a>
+            </div>
+            <div class="content"><p>Dude, thanks for the praise! I'm so glad you enjoyed Ancestor.</p>
+
+<p>-Scott-</p></div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221085886">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://www.decafbad.com"><img src="http://www.gravatar.com/avatar.php?gravatar_id=2377f34a68801b861c3e54e1301f0dce&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://www.decafbad.com">l.m.orchard</a>
+                </div>
+                <a href="#comment-221085886" class="permalink"><time datetime="2006-01-28T02:18:45">2006-01-28T02:18:45</time></a>
+            </div>
+            <div class="content"><p>Scott:  You've definitely earned the praise, man!</p></div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221085887">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://www.doctorfloyd.com"><img src="http://www.gravatar.com/avatar.php?gravatar_id=1638106598dd992c01749dac4cbc44eb&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://www.doctorfloyd.com">Dr. Steve</a>
+                </div>
+                <a href="#comment-221085887" class="permalink"><time datetime="2006-02-21T18:42:38">2006-02-21T18:42:38</time></a>
+            </div>
+            <div class="content"><p>Hello!</p>
+
+<p>I just wanted to take a moment to say thank you for directing your readers to The Radio Adventures Of Dr. Floyd.  Even though you obviously forgot to mention it, I am sure you are telling people to listen because of My performances in each episode.  Though, that's just one of those "given" things.  'Humans Need Air To Live' and 'Dr. Steve Is Always Great!'</p>
+
+<p>Anyway, keep listening and stay rotten!</p>
+
+<p>Yours,</p>
+
+<p>Dr. Steve
+Evil Mastermind</p>
+
+<p>P.S.  Fidgert says, "Hello!"</p></div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221085890">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://www.bravemenrun.com"><img src="http://www.gravatar.com/avatar.php?gravatar_id=d204a62de7ef988606e919bb6b15e24b&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://www.bravemenrun.com">Matthew Wayne Selznick</a>
+                </div>
+                <a href="#comment-221085890" class="permalink"><time datetime="2006-03-08T20:11:04">2006-03-08T20:11:04</time></a>
+            </div>
+            <div class="content"><p>I just discovered your mention of my book, "Brave Men Run - A Novel of the Sovereign Era."  Thanks very much!  Now that the podcast is over, I hope you'll contribute to the "Q&amp;A" episode next week!</p>
+
+<p>Many thanks,</p>
+
+<p>Matthew Wayne Selznick</p></div>
+            
+        </li>
+    
+        </ul>
+    
+        </div>
+    

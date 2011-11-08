@@ -1,11 +1,13 @@
---- 
-wordpress_id: 560
+---
+comments_archived: true
+date: '2004-10-07T11:02:49-04:00'
+excerpt: So, over the last day or so, I've found myself falling for the
+    Podcasting hype.
 layout: post
-title: Falling for the Podcasting Hype
-excerpt: So, over the last day or so, I've found myself falling for the Podcasting hype.
-date: "2004-10-07T11:02:49-04:00"
-tags: 
+tags:
 - syndication
+title: Falling for the Podcasting Hype
+wordpress_id: 560
 wordpress_slug: podcastinghype
 wordpress_url: http://www.decafbad.com/blog/?p=560
 ---
@@ -36,3 +38,87 @@ In any case, I think the podcasters are on to something here.  I'll be listening
 [ipodderx]: http://ipodderx.com/
 <!--more-->
 shortname=podcastinghype
+
+<div id="comments" class="comments archived-comments">
+            <h3>Archived Comments</h3>
+            
+        <ul class="comments">
+            
+        <li class="comment" id="comment-221086381">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://rasterweb.net/raster/"><img src="http://www.gravatar.com/avatar.php?gravatar_id=db0fab74bcb564ebb09295498b892fb6&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://rasterweb.net/raster/">Pete Prodoehl</a>
+                </div>
+                <a href="#comment-221086381" class="permalink"><time datetime="2004-10-07T12:19:31">2004-10-07T12:19:31</time></a>
+            </div>
+            <div class="content">I knew we'd interest you at some point...
+
+"Mad Computer Scientist Radio" anyone?</div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221086382">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href=""><img src="http://www.gravatar.com/avatar.php?gravatar_id=a69a571df6948f1480bcd96c10d12c7a&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="">l.m.orchard</a>
+                </div>
+                <a href="#comment-221086382" class="permalink"><time datetime="2004-10-07T12:50:20">2004-10-07T12:50:20</time></a>
+            </div>
+            <div class="content">Heh, heh.  Maybe I should start collecting some background noise samples of beakers bubbling and beep-booping computers.</div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221086385">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://IAwiki.net"><img src="http://www.gravatar.com/avatar.php?gravatar_id=cfab0927203baf8da291a8b36e05a177&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://IAwiki.net">eric scheid</a>
+                </div>
+                <a href="#comment-221086385" class="permalink"><time datetime="2004-10-07T13:08:30">2004-10-07T13:08:30</time></a>
+            </div>
+            <div class="content">Datapoint: Eric Rice over at Eric Rice Dot Com has been podcasting traffic reports.</div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221086386">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://www.ericrice.com"><img src="http://www.gravatar.com/avatar.php?gravatar_id=e3827a7c1741cf42d52a0ab0dc2dc9ff&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://www.ericrice.com">Eric Rice</a>
+                </div>
+                <a href="#comment-221086386" class="permalink"><time datetime="2004-10-08T06:11:10">2004-10-08T06:11:10</time></a>
+            </div>
+            <div class="content">Actually, those traffic reports are audioblogs I post to a specific category on my blog when I run across heinous traffic. My podcast (a silly term, but I'll bite---it's just radio) is a separate thing. Just thought I'd throw that out there.</div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221086387">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://www.cpfeifer.org"><img src="http://www.gravatar.com/avatar.php?gravatar_id=c151414548b154fbedcfe0e304a3e711&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://www.cpfeifer.org">Craig</a>
+                </div>
+                <a href="#comment-221086387" class="permalink"><time datetime="2004-10-15T14:45:55">2004-10-15T14:45:55</time></a>
+            </div>
+            <div class="content">I looked at the content available in podcasts and its not compelling enough for me to mess with it. As soon as I can get NPR's "fresh air" via RSS enclosures I'll jump through the properseries of hoops.
+
+Until then, I'll skip it.</div>
+            
+        </li>
+    
+        </ul>
+    
+        </div>
+    

@@ -1,8 +1,9 @@
---- 
-wordpress_id: 649
+---
+comments_archived: true
+date: '2005-06-10T09:53:10-04:00'
 layout: post
 title: Blosxom, Tiger, and Spotlight
-date: "2005-06-10T09:53:10-04:00"
+wordpress_id: 649
 wordpress_slug: blosxom-tiger-and-spotlight
 wordpress_url: http://www.decafbad.com/blog/?p=649
 ---
@@ -38,3 +39,41 @@ But I'd really like to rev things up by including MP3s (podcasts), MOVs (screenc
 Granted, there *is* a lot that these importers supply, which is better than nothing and there are certainly some ways I can think to hack things... But, it's just shy of being great.
 
 [lm]: http://www.cocoabuilder.com/archive/message/cocoa/2005/5/4/134822
+
+<div id="comments" class="comments archived-comments">
+            <h3>Archived Comments</h3>
+            
+        <ul class="comments">
+            
+        <li class="comment" id="comment-221083831">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://plasmasturm.org/"><img src="http://www.gravatar.com/avatar.php?gravatar_id=e17949267bbfe21a0fadf1bbf00592b4&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://plasmasturm.org/">Aristotle Pagaltzis</a>
+                </div>
+                <a href="#comment-221083831" class="permalink"><time datetime="2005-06-11T01:44:42">2005-06-11T01:44:42</time></a>
+            </div>
+            <div class="content">The importer interface is public, right? Is there anything that prevents someone from writing an importer that handles all files, but doesn't actually do anything, and just passes calls through to any number of other importers that it calls on without the aid of Spotlight?</div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221083832">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://www.fluffy.co.uk/spotmeta/"><img src="http://www.gravatar.com/avatar.php?gravatar_id=a660afb8f1f22ce1b03ad3b532aa05b5&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://www.fluffy.co.uk/spotmeta/">Ben Summers</a>
+                </div>
+                <a href="#comment-221083832" class="permalink"><time datetime="2005-10-20T14:58:11">2005-10-20T14:58:11</time></a>
+            </div>
+            <div class="content"><p><a href="http://www.fluffy.co.uk/spotmeta/" rel="nofollow">SpotMeta</a> extends Spotlight so you can add arbitrary metadata. It uses xattrs to store them, and is written in such a way that other developers can easily use them too.</p></div>
+            
+        </li>
+    
+        </ul>
+    
+        </div>
+    

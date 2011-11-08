@@ -1,12 +1,17 @@
---- 
-wordpress_id: 570
+---
+comments_archived: true
+date: '2004-12-02T20:15:52-05:00'
+excerpt: Both ZPT and XSLT very different technologies, but they are often
+    used in similar contexts.  More than once, I've wished that XSLT was
+    as simple as ZPT (i.e. less verbose and intrusive, more document centered),
+    and I've wished that ZPT had some of the features of XSLT (i.e. ability
+    to be used as a transforming filter).
 layout: post
-title: Cross-breeding XSLT and ZPT
-excerpt: Both ZPT and XSLT very different technologies, but they are often used in similar contexts.  More than once, I've wished that XSLT was as simple as ZPT (i.e. less verbose and intrusive, more document centered), and I've wished that ZPT had some of the features of XSLT (i.e. ability to be used as a transforming filter).
-date: "2004-12-02T20:15:52-05:00"
-tags: 
+tags:
 - xml
 - python
+title: Cross-breeding XSLT and ZPT
+wordpress_id: 570
 wordpress_slug: crossbreedingxsltzpt
 wordpress_url: http://www.decafbad.com/blog/?p=570
 ---
@@ -27,3 +32,166 @@ This strikes me as such an obvious idea that someone has to already have done it
 I think this is something I want to look into a bit further at some point.
 <!--more-->
 shortname=crossbreedingxsltzpt
+
+<div id="comments" class="comments archived-comments">
+            <h3>Archived Comments</h3>
+            
+        <ul class="comments">
+            
+        <li class="comment" id="comment-221087930">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://blog.ianbicking.org"><img src="http://www.gravatar.com/avatar.php?gravatar_id=cc8334869c9d2a9e603017f2da805eb3&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://blog.ianbicking.org">Ian Bicking</a>
+                </div>
+                <a href="#comment-221087930" class="permalink"><time datetime="2004-12-04T17:16:09">2004-12-04T17:16:09</time></a>
+            </div>
+            <div class="content">I've been meaning to write about this on my blog, as I've done something similar.
+
+Instead of using XSLT, I've used ZPT for the transformations.  It was an application where the user created a document in a WYSIWYG editor, then we wanted to pull information out of the content -- like a table of contents, or a title.
+
+To do this I parsed the content into a DOM, then put some objects in the ZPT namespace that manipulated it.  For instance, the ToC object took a tag name (through getitem) and returned a list of the content and id of those tags (it created ids if necessary, modifying the content).  Then you could easily create a ToC by looking through and creating anchor tags from, say, all the  tags in the document.  It should be easy to expand with other transformations (all coded in Python, of course).  The actual code was only like 20 lines of Python, maybe less, and easy to understand from both sides (ZPT and Python).</div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221087932">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href=""><img src="http://www.gravatar.com/avatar.php?gravatar_id=14076d6ce3d0e8a0fd751a36d9912df5&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="">Petri Savolainen</a>
+                </div>
+                <a href="#comment-221087932" class="permalink"><time datetime="2004-12-13T05:21:41">2004-12-13T05:21:41</time></a>
+            </div>
+            <div class="content">See http://zope.org/Members/DaddyGravity/PT_XPath
+
+It would be great to have that in SimpleTAL, too.</div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221087935">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://blog.ianbicking.org"><img src="http://www.gravatar.com/avatar.php?gravatar_id=cc8334869c9d2a9e603017f2da805eb3&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://blog.ianbicking.org">Ian Bicking</a>
+                </div>
+                <a href="#comment-221087935" class="permalink"><time datetime="2004-12-13T11:43:33">2004-12-13T11:43:33</time></a>
+            </div>
+            <div class="content">Another thing you might want to look at: in the last few days there's been discussion on the ZPT mailing list about an extension to stylesheets (TERSE) for ZPT that introduces transformations.</div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221087937">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://codeconsult.ch/bertrand"><img src="http://www.gravatar.com/avatar.php?gravatar_id=d244e495717742bd0776b715a45877eb&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://codeconsult.ch/bertrand">Bertrand Delacretaz</a>
+                </div>
+                <a href="#comment-221087937" class="permalink"><time datetime="2004-12-13T15:15:55">2004-12-13T15:15:55</time></a>
+            </div>
+            <div class="content">FYI, people from the Apache Cocoon and BXE projects are working on similar stuff, in the opposite direction: we're taking TAL-like templates and converting them to XSLT, adding simple "match" templates for declarative rules. It's only prototypes and experiments for now, but the results look promising.
+
+More info at
+http://wiki.apache.org/cocoon/HtmlToXsltExperiments
+and
+http://blog.bitflux.ch/archive/further-improvements-on-xsl-tal.html</div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221087939">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://www.manuzhai.nl/"><img src="http://www.gravatar.com/avatar.php?gravatar_id=d62bb8855d45ab52fd5a414f0ca47703&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://www.manuzhai.nl/">Manuzhai</a>
+                </div>
+                <a href="#comment-221087939" class="permalink"><time datetime="2004-12-13T16:07:54">2004-12-13T16:07:54</time></a>
+            </div>
+            <div class="content">I like XSLT a lot, myself, and I have advocated it in the past on my weblog, but it just doesn't seem to be very wide-spread. Which is a pity, I think the world would be much easier if more people used this *standard* way of templating.
+
+One of the bigger problems with it seems to be the verbosity, so I've been thinking of a more compact syntax, kind of like RELAX NG has the .rnc compact stuff. I don't know if it's very feasible, but it seems like that would be not very hard; just have some compact syntax which maps onto a real XSLT-sheet (it could be "compiled" and cached, if need be).</div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221087942">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://www.owlfish.com/weblog/"><img src="http://www.gravatar.com/avatar.php?gravatar_id=377cef4245e0fcbf76e021d9cd253e35&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://www.owlfish.com/weblog/">Colin Stewart</a>
+                </div>
+                <a href="#comment-221087942" class="permalink"><time datetime="2004-12-13T23:47:18">2004-12-13T23:47:18</time></a>
+            </div>
+            <div class="content">Integrating an XPATH implementation into SimpleTAL shouldn't be too hard as the TALES and TAL implementations share a fairly simple interface.  There are 6 methods you'd have to provide to the simpleTAL module and that's about it.
+
+I don't know if XPATH is the right approach though - how would things like tal:define work if the paths were pure XPATH instead of TALES?  Being able to mix XPATH and TALES would work better I think.
+
+A more promising approach would be to integrate ElementTree so that the 'find*' methods were usable from within TALES.  Making it so that '/mydoc/root/find/.//searchElement' works would be fairly easy, but getting '/mydoc/root/find/.//searchElement/attrib/firstAtt' to work would require more co-operation between ElemenTree and SimpleTAL.
+
+I'll have a think about this though as it sounds like a promising approach.</div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221087946">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href=""><img src="http://www.gravatar.com/avatar.php?gravatar_id=d67eea2ce18dd70f4642cb971c2c5ad2&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="">Paul Everitt</a>
+                </div>
+                <a href="#comment-221087946" class="permalink"><time datetime="2004-12-14T00:45:18">2004-12-14T00:45:18</time></a>
+            </div>
+            <div class="content">Chapter 11 of Jeni Tennison's "XSLT and XPath On The Edge" book has a section called "Using Page Templates".  It includes an example of using substitution points.
+
+Like some of the others in this thread, playing with doing merges using DOM IDs and other patterns.  This lets you write "themes" that are simpler than even ZPT, as they contain no non-XHTML namespace elements.
+
+Thanks for the article, which also seems to have brought out some interesting comments and URLs!</div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221087948">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://webseitz.fluxent.com/wiki"><img src="http://www.gravatar.com/avatar.php?gravatar_id=8157a5907b244071cda98ba5aa7a9635&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://webseitz.fluxent.com/wiki">Bill Seitz</a>
+                </div>
+                <a href="#comment-221087948" class="permalink"><time datetime="2004-12-14T20:23:08">2004-12-14T20:23:08</time></a>
+            </div>
+            <div class="content">Don't forget you can run Python within IIS/ASP!
+
+http://webseitz.fluxent.com/articles/PythonViaIis</div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221087950">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://www.owlfish.com/weblog/"><img src="http://www.gravatar.com/avatar.php?gravatar_id=377cef4245e0fcbf76e021d9cd253e35&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://www.owlfish.com/weblog/">Colin Stewart</a>
+                </div>
+                <a href="#comment-221087950" class="permalink"><time datetime="2004-12-15T22:49:30">2004-12-15T22:49:30</time></a>
+            </div>
+            <div class="content">I've put together an experimental build of SimpleTAL that integrates ElementTree to provide some of the XPATH syntax.  It's just an experiment, but see what you think.
+
+(More detail here: http://www.owlfish.com/weblog/2004/12/15122004.html#20:59:59)</div>
+            
+        </li>
+    
+        </ul>
+    
+        </div>
+    

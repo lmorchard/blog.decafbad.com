@@ -1,8 +1,9 @@
---- 
-wordpress_id: 121
+---
+comments_archived: true
+date: '2002-05-07T21:13:17-04:00'
 layout: post
 title: Linkbacks, robots, laziness, the semantic web, and you.
-date: "2002-05-07T21:13:17-04:00"
+wordpress_id: 121
 wordpress_slug: oooadb
 wordpress_url: http://www.decafbad.com/blog/?p=121
 ---
@@ -20,3 +21,75 @@ wordpress_url: http://www.decafbad.com/blog/?p=121
 <p>Of course, the important thing here is laziness.  I'm lazy and want to investigate your link to me with a robot.  But you're lazy too.  There's no way that you'll want to do more work that I do to provide me with the data for my robot to harvest.  So... how to make this as easy as making a link to me is now-- or better yet, can we make it easier to make a richly described link?  That would really set some fires.</p>
 <!--more-->
 shortname=oooadb
+
+<div id="comments" class="comments archived-comments">
+            <h3>Archived Comments</h3>
+            
+        <ul class="comments">
+            
+        <li class="comment" id="comment-221086513">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href=""><img src="http://www.gravatar.com/avatar.php?gravatar_id=03554c556a2a03ab2293bfed889701be&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="">Jason Diamond</a>
+                </div>
+                <a href="#comment-221086513" class="permalink"><time datetime="2002-05-08T21:07:57">2002-05-08T21:07:57</time></a>
+            </div>
+            <div class="content">Scraping information out of comments just seems wrong. This could actually be one of the first practical (and maybe even successful) use cases for RDF.</div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221086514">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://www.decafbad.com"><img src="http://www.gravatar.com/avatar.php?gravatar_id=2ac2cffd36ada8c734b90e02a1e5c1ac&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://www.decafbad.com">l.m.orchard</a>
+                </div>
+                <a href="#comment-221086514" class="permalink"><time datetime="2002-05-08T21:58:40">2002-05-08T21:58:40</time></a>
+            </div>
+            <div class="content">My thoughts precisely!</div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221086515">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://webseitz.fluxent.com/wiki"><img src="http://www.gravatar.com/avatar.php?gravatar_id=2e83224d92ed7f1148f4dd3cdb0e4548&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://webseitz.fluxent.com/wiki">Bill Seitz</a>
+                </div>
+                <a href="#comment-221086515" class="permalink"><time datetime="2002-05-09T20:08:47">2002-05-09T20:08:47</time></a>
+            </div>
+            <div class="content">You don't even need RDF, you could put the same data into metatags with DublinCore names.</div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221086517">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://ncyoung.com"><img src="http://www.gravatar.com/avatar.php?gravatar_id=b50fec9785dad06b9690a928e1144130&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://ncyoung.com">Nathan Young</a>
+                </div>
+                <a href="#comment-221086517" class="permalink"><time datetime="2002-10-11T18:52:54">2002-10-11T18:52:54</time></a>
+            </div>
+            <div class="content">I have recently fallen in love with annotea for this exact reason.  I've created an annotation gateway to my weblog so that if you have an annotea client, you can subscribe to my weblog with it and see my entries as you surf the URLs they apply to.
+
+see:
+
+http://ncyoung.com/permaLink/106
+
+or my URL above, search weblog for annotea.</div>
+            
+        </li>
+    
+        </ul>
+    
+        </div>
+    

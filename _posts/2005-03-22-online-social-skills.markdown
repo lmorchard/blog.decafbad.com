@@ -1,8 +1,9 @@
---- 
-wordpress_id: 622
+---
+comments_archived: true
+date: '2005-03-22T14:22:20-05:00'
 layout: post
 title: Online social skills
-date: "2005-03-22T14:22:20-05:00"
+wordpress_id: 622
 wordpress_slug: online-social-skills
 wordpress_url: http://www.decafbad.com/blog/?p=622
 ---
@@ -31,3 +32,36 @@ wordpress_url: http://www.decafbad.com/blog/?p=622
   Like my Mother years ago, I feel a bit morified that this bubbled up from my subconscious.  I'm afraid of just how true this is about me, and it doesn't seem very good.  In fact, it seems downright dysfunctional to me.
   
   Then again, no one's ever accused me of being any sort of *social dynamo*.
+
+<div id="comments" class="comments archived-comments">
+            <h3>Archived Comments</h3>
+            
+        <ul class="comments">
+            
+        <li class="comment" id="comment-221087010">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://lr2.com/"><img src="http://www.gravatar.com/avatar.php?gravatar_id=fcb68974d7905521d2a161853a8637b1&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://lr2.com/">Anton</a>
+                </div>
+                <a href="#comment-221087010" class="permalink"><time datetime="2005-03-22T18:37:24">2005-03-22T18:37:24</time></a>
+            </div>
+            <div class="content">I know how you feel.  My infatuation with computers started back in 1979, and for the most part if anyone didn't know anything about computers I wouldn't bother getting to know them.
+
+I'm a little better than that now, but not a lot.
+
+My dialog could go somthing like this:
+"So, do you know anything about Linux or web development with open source tools?"
+"No?"
+"Let's find something else to talk about."
+
+Trouble is that I don't follow sports, or prime time TV, so there aren't many subjects to talk about.  Except of course, religion or politics, and that's generally a bad way to get to know anyone.</div>
+            
+        </li>
+    
+        </ul>
+    
+        </div>
+    

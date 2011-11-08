@@ -1,9 +1,8 @@
---- 
-wordpress_id: 1904
+---
+comments_archived: true
+date: '2010-04-07T20:08:44-04:00'
 layout: post
-title: Reviving my C64 history with a uIEC/SD
-date: "2010-04-07T20:08:44-04:00"
-tags: 
+tags:
 - retro
 - oldschool
 - entries
@@ -13,6 +12,8 @@ tags:
 - magic
 - nostalgia
 - commodore
+title: Reviving my C64 history with a uIEC/SD
+wordpress_id: 1904
 wordpress_slug: reviving-my-c64-with-a-uiecsd
 wordpress_url: http://decafbad.com/blog/?p=1904
 ---
@@ -73,3 +74,123 @@ Let me know if that'd be of interest.
 [uiec]: http://www.jbrain.net/products/uIEC%7B47%7DSD.html
 [flickruiec2]: http://www.flickr.com/photos/deusx/4486021636/in/photostream/
 [1541]: http://en.wikipedia.org/wiki/Commodore_1541
+
+<div id="comments" class="comments archived-comments">
+            <h3>Archived Comments</h3>
+            
+        <ul class="comments">
+            
+        <li class="comment" id="comment-221090738">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://jclark.org/weblog/"><img src="http://www.gravatar.com/avatar.php?gravatar_id=d0a9ab4b71ce193e98b7284ca257e327&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://jclark.org/weblog/">Jason Clark</a>
+                </div>
+                <a href="#comment-221090738" class="permalink"><time datetime="2010-04-08T02:37:43">2010-04-08T02:37:43</time></a>
+            </div>
+            <div class="content"><p>There is, at this very moment, a box full of floppies (including plenty of manually hacked 'flippies' made with a hole punch) a 1541 Disk Drive, and at least one but possibly two functioning C-64s, plus various and sundry joysticks, modems, Fast Load Cartridges &amp;tc.,  sitting in my garage, just waiting to be called forth again into the light, as soon as I have an excuse and some time.  Time's in short supply right now, but a post with lots of details would surely be my excuse.</p></div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221090739">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href=""><img src="http://www.gravatar.com/avatar.php?gravatar_id=14a58a8cce4195e8248c6e7b13331e6f&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="">Metal Fatigue</a>
+                </div>
+                <a href="#comment-221090739" class="permalink"><time datetime="2010-04-08T03:07:48">2010-04-08T03:07:48</time></a>
+            </div>
+            <div class="content"><p>I'd definitely like to see a more in-depth post.</p></div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221090741">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://kentbrewster.com/"><img src="http://www.gravatar.com/avatar.php?gravatar_id=2439fcc9b49533342befb7391ef74823&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://kentbrewster.com/">Kent Brewster</a>
+                </div>
+                <a href="#comment-221090741" class="permalink"><time datetime="2010-04-08T04:19:08">2010-04-08T04:19:08</time></a>
+            </div>
+            <div class="content"><p>First program I ever sold was Typo Invaders, a VIC-20 game that appeared in Compute's Gazette in 1983 or so. I've found it online, but every copy has a syntax error on line 60 that I can't fix in the emulator because of keyboard differences. I would be very, very appreciative of a corrected copy, or even a plaintext listing ... I'm pretty sure I invented the learn-to-type-or-be-blown-to-bits game. :)</p></div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221090742">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://www.decafbad.com"><img src="http://www.gravatar.com/avatar.php?gravatar_id=2377f34a68801b861c3e54e1301f0dce&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://www.decafbad.com">l.m.orchard</a>
+                </div>
+                <a href="#comment-221090742" class="permalink"><time datetime="2010-04-08T04:43:21">2010-04-08T04:43:21</time></a>
+            </div>
+            <div class="content"><p>@Kent: Is this what you're looking for?</p>
+
+<p>http://decafbad.com/2010/04/typo-invaders/</p>
+
+<p>I managed to convert the .prg to .txt using a petcat utility that comes with the Vice 64 emulator.  I think I see your syntax error - line 160 has a : that seems out of place.</p>
+
+<p>The keyboard mapping on my Vice emulator under OS X seems not horrible - so if I figure out what that line should be, I could possibly fix it for you and send you a .d64 image with the corrected .prg</p></div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221090743">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://www.decafbad.com"><img src="http://www.gravatar.com/avatar.php?gravatar_id=2377f34a68801b861c3e54e1301f0dce&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://www.decafbad.com">l.m.orchard</a>
+                </div>
+                <a href="#comment-221090743" class="permalink"><time datetime="2010-04-08T05:00:22">2010-04-08T05:00:22</time></a>
+            </div>
+            <div class="content"><p>@Kent: Also, I have a torrent of Compute's Gazette downloading now - claims to have all disks as .d64 and issues as .pdf.  Maybe I'll run across the issue with the original listing in it.</p>
+
+<p>http://thepiratebay.org/torrent/4623812/</p></div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221090745">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://ciarang.com/"><img src="http://www.gravatar.com/avatar.php?gravatar_id=18910207650685d4592d9a6a71528180&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://ciarang.com/">CiaranG</a>
+                </div>
+                <a href="#comment-221090745" class="permalink"><time datetime="2010-04-09T14:51:43">2010-04-09T14:51:43</time></a>
+            </div>
+            <div class="content"><p>Interesting. You've sent me off on a similar obsessive search, and I found the following, which I now must have one of:</p>
+
+<p>http://hxc2001.free.fr/floppy_drive_emulator/index.html</p>
+
+<p>All my old machines are hooked up to PCs in various ways to allow software transfer, but having them standalone with an SD card looks much more interesting.</p></div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221090746">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://www.jeriellsworth.com"><img src="http://www.gravatar.com/avatar.php?gravatar_id=cff70095334bda5964aedb29bb7e0298&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://www.jeriellsworth.com">Jeri Ellsworth</a>
+                </div>
+                <a href="#comment-221090746" class="permalink"><time datetime="2010-08-03T20:46:09">2010-08-03T20:46:09</time></a>
+            </div>
+            <div class="content"><p>Nice!</p></div>
+            
+        </li>
+    
+        </ul>
+    
+        </div>
+    

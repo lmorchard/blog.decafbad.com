@@ -1,8 +1,9 @@
---- 
-wordpress_id: 187
+---
+comments_archived: true
+date: '2002-06-27T14:13:20-04:00'
 layout: post
 title: MT & TrackBack, part the second
-date: "2002-06-27T14:13:20-04:00"
+wordpress_id: 187
 wordpress_slug: oooboh
 wordpress_url: http://www.decafbad.com/blog/?p=187
 ---
@@ -13,3 +14,80 @@ wordpress_url: http://www.decafbad.com/blog/?p=187
 <p>Always looking to get more for less effort.  :)</p>
 <!--more-->
 shortname=oooboh
+
+<div id="comments" class="comments archived-comments">
+            <h3>Archived Comments</h3>
+            
+        <ul class="comments">
+            
+        <li class="comment" id="comment-221083107">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://www.dollarshort.org"><img src="http://www.gravatar.com/avatar.php?gravatar_id=c41a699d85a7375544bf7e6dfd0ccd98&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://www.dollarshort.org">Mena</a>
+                </div>
+                <a href="#comment-221083107" class="permalink"><time datetime="2002-06-27T15:29:26">2002-06-27T15:29:26</time></a>
+            </div>
+            <div class="content">About the categories, we wil want to get to the bottom of that; thankfully you did a backup.
+
+Also, about the bookmarklet. You may be having this same problem as the person in this thread since you downloaded an early version of the distribution:
+
+Bookmarklets won't work
+
+If you want to fix this (or see if it fixes it), download a new version of the distribution and just replace this file:
+lib/MT/App/CMS.pm</div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221083109">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://www.dollarshort.org"><img src="http://www.gravatar.com/avatar.php?gravatar_id=c41a699d85a7375544bf7e6dfd0ccd98&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://www.dollarshort.org">Mena</a>
+                </div>
+                <a href="#comment-221083109" class="permalink"><time datetime="2002-06-27T15:31:36">2002-06-27T15:31:36</time></a>
+            </div>
+            <div class="content">Oh, one more thing. If you also replace:
+
+lib/MT/App/Trackback.pm 
+
+with the latest version in the distribution, you won't have any more blank pings showing up.</div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221083111">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://www.decafbad.com"><img src="http://www.gravatar.com/avatar.php?gravatar_id=2ac2cffd36ada8c734b90e02a1e5c1ac&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://www.decafbad.com">l.m.orchard</a>
+                </div>
+                <a href="#comment-221083111" class="permalink"><time datetime="2002-06-27T17:22:04">2002-06-27T17:22:04</time></a>
+            </div>
+            <div class="content">Now that's customer support :)  Thanks, I'll go grab those fixes in a few minutes.</div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221083112">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://www.robertrainwater.com/"><img src="http://www.gravatar.com/avatar.php?gravatar_id=724b2a7e2687703623f5413e6b2e8976&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://www.robertrainwater.com/">Robert Rainwater</a>
+                </div>
+                <a href="#comment-221083112" class="permalink"><time datetime="2002-06-28T18:23:21">2002-06-28T18:23:21</time></a>
+            </div>
+            <div class="content">I was having a problem with the bookmarklets not showing the ping url as well.  What worked for me was updating LWP::UserAgent on my server.  Now it works fine.</div>
+            
+        </li>
+    
+        </ul>
+    
+        </div>
+    

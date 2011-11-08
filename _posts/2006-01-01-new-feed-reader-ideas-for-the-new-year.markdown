@@ -1,8 +1,9 @@
---- 
-wordpress_id: 812
+---
+comments_archived: true
+date: '2006-01-01T12:34:19-05:00'
 layout: post
 title: New feed reader ideas for the new year?
-date: "2006-01-01T12:34:19-05:00"
+wordpress_id: 812
 wordpress_slug: new-feed-reader-ideas-for-the-new-year
 wordpress_url: http://decafbad.com/blog/?p=812
 ---
@@ -39,3 +40,147 @@ But that's a subject for a follow-up rant involving machine learning, filtering,
 <small style="text-align:right; display:block">Source: <a href="http://blogs.zdnet.com/SAAS/?p=80">» Death of the RSS reader | Software as services | ZDNet.com</a></small>
 
 I'll leave it at that, for now.
+
+<div id="comments" class="comments archived-comments">
+            <h3>Archived Comments</h3>
+            
+        <ul class="comments">
+            
+        <li class="comment" id="comment-221084538">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://steve.osdir.com"><img src="http://www.gravatar.com/avatar.php?gravatar_id=2fd56f4b8b811cef0c17baaa7b0a6c76&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://steve.osdir.com">Steve Mallett</a>
+                </div>
+                <a href="#comment-221084538" class="permalink"><time datetime="2006-01-01T18:02:34">2006-01-01T18:02:34</time></a>
+            </div>
+            <div class="content"><p>One idea I had was to simply prepackage rss in feedreader form for people.  Since so few people use it, or know how to, or will ever bother, one alternative is to simply skip over the learning how and give it to them.  </p>
+
+<p>I've done this with regular, big M, media at 180n.com.  I added user voting on top stories to make it bit more interesting, but you see the idea.  I call it WebRSS.</p></div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221084540">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://theryanking.com"><img src="http://www.gravatar.com/avatar.php?gravatar_id=c846b78a4a4c978fd34ef965320a13b0&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://theryanking.com">ryan king</a>
+                </div>
+                <a href="#comment-221084540" class="permalink"><time datetime="2006-01-02T04:05:25">2006-01-02T04:05:25</time></a>
+            </div>
+            <div class="content"><p>Your reading method is just like the one I use.</p></div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221084542">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://talideon.com/"><img src="http://www.gravatar.com/avatar.php?gravatar_id=e698f564ac90c4c248f1f678caafd624&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://talideon.com/">Keith Gaughan</a>
+                </div>
+                <a href="#comment-221084542" class="permalink"><time datetime="2006-01-02T08:04:00">2006-01-02T08:04:00</time></a>
+            </div>
+            <div class="content"><p>Me, I'm quite happy with River-of-News style readers. What I'd really like is if I could mark items as 'boring' so that similar ones (you could use some form of statistical filtering here) would be banished henceforth. Oh, I'd love that, if only so that I could get away from some of the pointless junk that I end up having to scan through on US politics and religion.</p></div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221084544">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://webseitz.fluxent.com/wiki"><img src="http://www.gravatar.com/avatar.php?gravatar_id=8157a5907b244071cda98ba5aa7a9635&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://webseitz.fluxent.com/wiki">Bill Seitz</a>
+                </div>
+                <a href="#comment-221084544" class="permalink"><time datetime="2006-01-02T13:47:50">2006-01-02T13:47:50</time></a>
+            </div>
+            <div class="content"><p>Yeah, I have Bloglines set up with prioritized folders.</p>
+
+<p>And there can be a quite a backlog in the lower-priority folders. So I wish there was a way to just "show the latest 50 entries across all the feeds in this folder" so I could read what's fresh without having to read or throw away the backlog.</p></div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221084546">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://www.annezelenka.com"><img src="http://www.gravatar.com/avatar.php?gravatar_id=4dbe4cabb90ab41b92d7c85afc8adf96&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://www.annezelenka.com">Anne Z.</a>
+                </div>
+                <a href="#comment-221084546" class="permalink"><time datetime="2006-01-03T03:27:46">2006-01-03T03:27:46</time></a>
+            </div>
+            <div class="content"><p>I follow a tremendous number of mom blogs with an incredibly low signal to noise ratio. I don't want to miss the few good posts but what a pain to read all that dreck. I could really use what you're talking about. Are you thinking of building it? Building that in Python might be more useful than porting your Hacking RSS and Atom code to PHP...</p></div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221084547">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://notd.blogs.com/"><img src="http://www.gravatar.com/avatar.php?gravatar_id=50f0ec004f7766b6550074dcbcd7debc&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://notd.blogs.com/">Frank Steele</a>
+                </div>
+                <a href="#comment-221084547" class="permalink"><time datetime="2006-01-03T06:45:55">2006-01-03T06:45:55</time></a>
+            </div>
+            <div class="content"><p>Besides the inverted pyramid within stories, there's also an inverted pyramid of sorts controlling what you see in the newspaper.</p>
+
+<p>When I worked for my college paper, I loved to "surf" the AP newswire (on our minicomputer terminals!). Around that time, I read "The Media Lab" by Stewart Brand, who pointed out that even a big newspaper prints no more than about 10 percent of the AP stories on their wire.</p>
+
+<p>Then, maybe 10 percent of what gets into the paper actually catches the reader's eye. That means that 1 percent of the potential information flow gets to the average reader, and generally, it's not the right 1 percent. </p>
+
+<p>When I worked for CNN.com, we tried to create a custom news product (called, strangely enough, CustomNews, launched around 1999) that let the reader twiddle a few dials to tune the news that got your attention. You could, for instance, tell the application what sports teams you followed, and set up individualized keywords (I might choose "Apple", "photography", "Honda", "Atlanta", "Tucker, GA"), and stories featuring those keywords would come up in your news.</p>
+
+<p>CNN had a big advantage -- we could rely on metadata included in the newswire. When you're pulling newsfeeds from the web, you have a much richer tapestry, but you don't know much about the threads. </p>
+
+<p>The River of News approach looks to concentrate on maximizing flow, but what we really need, as you suggest, is a way to find the fish in the River of News.</p>
+
+<p>I rely on some keyword feeds from Google News, Feedster, and Blogdigger to get a similar end result, but none of them matches up to a human editor. It's getting to the point, for instance, that I know I can skip surfing Mac news, and rely on John Gruber at Daring Fireball to catch almost anything I would be interested in.</p></div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221084553">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://sporkmonger.com/"><img src="http://www.gravatar.com/avatar.php?gravatar_id=56ee28134dd0776825445e3551979b14&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://sporkmonger.com/">Bob Aman</a>
+                </div>
+                <a href="#comment-221084553" class="permalink"><time datetime="2006-01-07T20:28:44">2006-01-07T20:28:44</time></a>
+            </div>
+            <div class="content"><p>Since it'll likely be quite a while before I get around to implementing it myself (and I'm going to even though I don't know how well it'll work), but I suppose I'll just drop my own idea for a next-gen aggregator.</p>
+
+<p>Aggregator + Bayesian Filter</p>
+
+<p>Each time you read a post you can mark it as interesting or not.  The filter has two buckets, appropriately, the interesting bucket and the uninteresting bucket.  Interesting posts should have certain similar features, usually in the form of buzzwords I would guess, which the filter should be reasonably good at picking out.  And the interesting vs non-interesting sorting capabilities would act as a way of making the "foam" float to the top.  And then one should be able to feel totally unguilty on those busy days when you hit "Mark Uninteresting As Read."</p></div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221084554">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://www.decafbad.com"><img src="http://www.gravatar.com/avatar.php?gravatar_id=2377f34a68801b861c3e54e1301f0dce&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://www.decafbad.com">l.m.orchard</a>
+                </div>
+                <a href="#comment-221084554" class="permalink"><time datetime="2006-01-07T20:50:40">2006-01-07T20:50:40</time></a>
+            </div>
+            <div class="content"><p>Bob: Actually, I included an aggregator with feedback buttons to train a Bayesian filter (Reverend) in Chapter 15 of Hacking RSS and Atom.  It's a no-frills implementation of the idea with room for improvement, but that might be a starting point.  The output of the system is another feed, including items whose score rise above a certain pre-defined threshold.</p>
+
+<p>Personally, I think Bayesian filtering is interesting, but I've been trying off and on to find something a little more effective...</p></div>
+            
+        </li>
+    
+        </ul>
+    
+        </div>
+    

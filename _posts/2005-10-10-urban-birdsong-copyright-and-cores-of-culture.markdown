@@ -1,14 +1,15 @@
---- 
-wordpress_id: 728
+---
+comments_archived: true
+date: '2005-10-10T20:34:20-04:00'
 layout: post
-title: "Urban Birdsong: Copyright and Cores of Culture"
-date: "2005-10-10T20:34:20-04:00"
-tags: 
+tags:
 - music
 - culture
 - copyfight
 - drm
 - copyright
+title: 'Urban Birdsong: Copyright and Cores of Culture'
+wordpress_id: 728
 wordpress_slug: urban-birdsong-copyright-and-cores-of-culture
 wordpress_url: http://decafbad.com/blog/?p=728
 ---
@@ -31,3 +32,43 @@ Anyway, in the end, with all this DRM crap and treating the audience as a gang o
 Whenever I get around to writing and releasing the stories in my head, they'll be *released*.  And in the meantime, I'll continue paying more and more attention to the people who get it—it'll be their birdsong that I'll be repeating.
 
 <!-- tags: music copyright culture drm copyfight -->
+
+<div id="comments" class="comments archived-comments">
+            <h3>Archived Comments</h3>
+            
+        <ul class="comments">
+            
+        <li class="comment" id="comment-221084383">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://plasmasturm.org/"><img src="http://www.gravatar.com/avatar.php?gravatar_id=e17949267bbfe21a0fadf1bbf00592b4&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://plasmasturm.org/">Aristotle Pagaltzis</a>
+                </div>
+                <a href="#comment-221084383" class="permalink"><time datetime="2005-10-11T17:16:10">2005-10-11T17:16:10</time></a>
+            </div>
+            <div class="content"><p>Amen. Thank you.</p></div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221084385">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://plasmasturm.org/"><img src="http://www.gravatar.com/avatar.php?gravatar_id=e17949267bbfe21a0fadf1bbf00592b4&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://plasmasturm.org/">Aristotle Pagaltzis</a>
+                </div>
+                <a href="#comment-221084385" class="permalink"><time datetime="2006-03-10T04:58:12">2006-03-10T04:58:12</time></a>
+            </div>
+            <div class="content"><p>Funny that in that comment, I would use “amen.”</p>
+
+<p>Check out <a href="http://nkhstudio.com/pages/popup_amen.html" rel="nofollow">Can I get an amen?</a>, a 17-minute documentary that traces the life of a particular sample in parallel with the evolution of copyright law. I think you’ll like it.</p></div>
+            
+        </li>
+    
+        </ul>
+    
+        </div>
+    

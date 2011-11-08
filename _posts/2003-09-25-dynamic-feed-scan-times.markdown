@@ -1,8 +1,9 @@
---- 
-wordpress_id: 483
+---
+comments_archived: true
+date: '2003-09-25T22:45:29-04:00'
 layout: post
 title: Dynamic feed polling times for news aggregators
-date: "2003-09-25T22:45:29-04:00"
+wordpress_id: 483
 wordpress_slug: dynamic-feed-scan-times
 wordpress_url: http://www.decafbad.com/blog/?p=483
 ---
@@ -85,3 +86,57 @@ some decently elegant math that could be pulled in here.  :)
 </p>
 <!--more-->
 shortname=dynamic_feed_scan_times
+
+<div id="comments" class="comments archived-comments">
+            <h3>Archived Comments</h3>
+            
+        <ul class="comments">
+            
+        <li class="comment" id="comment-221087768">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://24.102.209.201/weblogs/ben/"><img src="http://www.gravatar.com/avatar.php?gravatar_id=588bdfdda82be46c638d6956c55ebc38&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://24.102.209.201/weblogs/ben/">Gnomon</a>
+                </div>
+                <a href="#comment-221087768" class="permalink"><time datetime="2003-09-26T09:56:09">2003-09-26T09:56:09</time></a>
+            </div>
+            <div class="content">Why not just go the TCP/IP route - Additive Increase / Multiplicative Decrease? Start by setting the check-interval to one hour (or whatever). For each feed, if a new post is found, cut the check-interval for that feed by half; if no new post is found, increase the check-interval by an hour.
+
+It's not optimal, and it won't automagically zero in on the predicted post times of individual feeds, but it strikes a nice balance between bandwidth politeness, update rapidity and conceptual simplicity. The constant values (initial check-interval, check-interval increment, check-interval multiplier) can be tweaked for different behavioural styles.</div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221087769">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://www.decafbad.com/blog"><img src="http://www.gravatar.com/avatar.php?gravatar_id=2ac2cffd36ada8c734b90e02a1e5c1ac&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://www.decafbad.com/blog">l.m.orchard</a>
+                </div>
+                <a href="#comment-221087769" class="permalink"><time datetime="2003-09-26T11:04:24">2003-09-26T11:04:24</time></a>
+            </div>
+            <div class="content">Hmm...  I knew that this was something that someone had already handled somewhere.  :)  I'm just not all that familiar with the details of TCP/IP, but this sounds pretty much like a workable approach I'd like to go with.</div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221087770">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://www.decafbad.com/blog"><img src="http://www.gravatar.com/avatar.php?gravatar_id=2ac2cffd36ada8c734b90e02a1e5c1ac&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://www.decafbad.com/blog">l.m.orchard</a>
+                </div>
+                <a href="#comment-221087770" class="permalink"><time datetime="2003-09-26T11:07:00">2003-09-26T11:07:00</time></a>
+            </div>
+            <div class="content">Oh!  For a second I thought that what you're suggesting was basically what I was already working on with my multiplying/dividing by a factor...  But you're talking about something that ADDS to increase and MULTIPLIES to decrease, which is something much more biased to back off than ramp up, which seems very polite to me.  Yay!</div>
+            
+        </li>
+    
+        </ul>
+    
+        </div>
+    

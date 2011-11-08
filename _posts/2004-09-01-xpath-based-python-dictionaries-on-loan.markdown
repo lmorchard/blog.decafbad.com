@@ -1,12 +1,15 @@
---- 
-wordpress_id: 544
+---
+comments_archived: true
+date: '2004-09-01T06:47:41-04:00'
+excerpt: But, while I'm in the process of wheel reinvention, how about I
+    borrow Kimbro's idea?  I just threw together a quick class called XPathDict,
+    based on libxml2.
 layout: post
-title: XPath based Python dictionaries, on loan
-excerpt: But, while I'm in the process of wheel reinvention, how about I borrow Kimbro's idea?  I just threw together a quick class called XPathDict, based on libxml2.
-date: "2004-09-01T06:47:41-04:00"
-tags: 
+tags:
 - hacks
 - xml
+title: XPath based Python dictionaries, on loan
+wordpress_id: 544
 wordpress_slug: xpath-based-python-dictionaries-on-loan
 wordpress_url: http://www.decafbad.com/blog/?p=544
 ---
@@ -62,3 +65,35 @@ Anyway, while this is neither quite [Native XML Scripting][nativexml] nor XML as
 [syncato]: http://www.syncato.org/
 [kimbro]: http://www.xmldatabases.org/WK/blog
 [xpathdict]: http://www.xmldatabases.org/WK/blog/1964_XPath_based_Python_Dictionaries.item
+
+<div id="comments" class="comments archived-comments">
+            <h3>Archived Comments</h3>
+            
+        <ul class="comments">
+            
+        <li class="comment" id="comment-221090556">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://naeblis.cx"><img src="http://www.gravatar.com/avatar.php?gravatar_id=abfc88b96ae18c85ba7aac3bded2ec5e&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://naeblis.cx">Ryan Tomayko</a>
+                </div>
+                <a href="#comment-221090556" class="permalink"><time datetime="2004-09-01T17:29:27">2004-09-01T17:29:27</time></a>
+            </div>
+            <div class="content">Funny that. I also have one that has survived a couple of failed apps. I have a hard time dropping it to be honest and just keep lugging it around to each new project. 
+
+http://naeblis.cx/cvs/percolator/xb/lib/xpdm.py?rev=HEAD&content-type=text/vnd.viewcvs-markup
+
+It has some pretty big issues. Among other things, creating nodes with namespace support is a little.. ermmm.. not there. But it does a lot of things well like garbage collecting xmlDoc instances (freeDoc), copying nodesets between documents, encoding things when they need to be, etc.
+ 
+Anyway, I wonder if maybe we all might benefit by teaming up on this and try to define what a complete xpathish wrapper atop libxml2 should look like. And really, why limit it to libxml2? I'm of the opinion that the value here is an interface that embraces xpath. The fact that it's running on top of the blazingly fast libxml2 is nice but coding against the XMLTRAMP like interface is the value for me.
+
+So let me see if I can get some time together to whip up a quick comparison of the three implementations. I'll shoot that over to you and Kimbro and we can go from there. If these seem to work best as backyard APIs we like to keep close to us, we'll drop it. However, I think there's a good chance that we can all benefit by combining our efforts.</div>
+            
+        </li>
+    
+        </ul>
+    
+        </div>
+    

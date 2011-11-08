@@ -1,10 +1,11 @@
---- 
-wordpress_id: 852
+---
+comments_archived: true
+date: '2006-02-06T00:26:53-05:00'
 layout: post
-title: links for 2006-02-06
-date: "2006-02-06T00:26:53-05:00"
-tags: 
+tags:
 - links
+title: links for 2006-02-06
+wordpress_id: 852
 wordpress_slug: links-for-2006-02-06
 wordpress_url: http://decafbad.com/blog/2006/02/06/links-for-2006-02-06
 ---
@@ -100,3 +101,27 @@ wordpress_url: http://decafbad.com/blog/2006/02/06/links-for-2006-02-06
 		<div class="delicious-tags">(tags: <a href="http://del.icio.us/deusx/geotagged">geotagged</a> <a href="http://del.icio.us/deusx/sushi">sushi</a> <a href="http://del.icio.us/deusx/food">food</a> <a href="http://del.icio.us/deusx/royaloak">royaloak</a> <a href="http://del.icio.us/deusx/michigan">michigan</a> <a href="http://del.icio.us/deusx/geo:lat=42.487991">geo:lat=42.487991</a> <a href="http://del.icio.us/deusx/geo:long=-83.145412">geo:long=-83.145412</a>)</div>
 	</li>
 </ul>
+
+<div id="comments" class="comments archived-comments">
+            <h3>Archived Comments</h3>
+            
+        <ul class="comments">
+            
+        <li class="comment" id="comment-221090658">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://www.decafbad.com"><img src="http://www.gravatar.com/avatar.php?gravatar_id=2377f34a68801b861c3e54e1301f0dce&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://www.decafbad.com">l.m.orchard</a>
+                </div>
+                <a href="#comment-221090658" class="permalink"><time datetime="2006-02-08T19:10:17">2006-02-08T19:10:17</time></a>
+            </div>
+            <div class="content"><p>This is a test coComment comment.</p></div>
+            
+        </li>
+    
+        </ul>
+    
+        </div>
+    

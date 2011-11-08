@@ -1,13 +1,14 @@
---- 
-wordpress_id: 1506
+---
+comments_archived: true
+date: '2007-09-25T09:54:01-04:00'
 layout: post
-title: Dad
-date: "2007-09-25T09:54:01-04:00"
-tags: 
+tags:
 - entries
 - dad
 - tinkering
 - memories
+title: Dad
+wordpress_id: 1506
 wordpress_slug: dad
 wordpress_url: http://decafbad.com/blog/?p=1506
 ---
@@ -28,3 +29,27 @@ Capturing and post-dating this from <http://blogs.opml.org/decafbad/2007/09/25>
 <p><a name="When:1:53:36PM"></a>Dad as tinkerer - these are the stories I claim in the founding of me.  Relatives on Mom's side always say I got that from him, though I'm pretty sure I got an equal measure of smarts from them.  But, most gadgets I owned as a kid eventually acquired a wrapping of black electrical tape and I associate the scent of molten flux with him and being in his basement.  Perhaps not coincidentally, these are the things I'm most proud of in my own life - the things about being a tinkerer.&nbsp;<a href="/decafbad/2007/09/25#When:1:53:36PM"><img src="http://www.scripting.com/images/2001/09/20/sharpPermaLink3.gif" width="6" height="9" border="0" alt="Permanent link to this item in the archive."></a></p>
 <p><a name="When:1:58:17PM"></a>I've got a whole lot more banging around in my head, but I think this is plenty for now.&nbsp;<a href="/decafbad/2007/09/25#When:1:58:17PM"><img src="http://www.scripting.com/images/2001/09/20/sharpPermaLink3.gif" width="6" height="9" border="0" alt="Permanent link to this item in the archive."></a></p>
 
+
+<div id="comments" class="comments archived-comments">
+            <h3>Archived Comments</h3>
+            
+        <ul class="comments">
+            
+        <li class="comment" id="comment-229905900">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href=""><img src="http://www.gravatar.com/avatar.php?gravatar_id=b40d3c076e9d86a575d9dfb4e30b6790&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="">jenni -les Grandma</a>
+                </div>
+                <a href="#comment-229905900" class="permalink"><time datetime="2011-06-19T17:03:04">2011-06-19T17:03:04</time></a>
+            </div>
+            <div class="content">les , this is a nice tribute to your dad, i know he wasn't the best but he tried hard the best he knew how,and I know he loved you. Im' so glad you are taking control of your life and health. love grandma</div>
+            
+        </li>
+    
+        </ul>
+    
+        </div>
+    

@@ -1,8 +1,9 @@
---- 
-wordpress_id: 375
+---
+comments_archived: true
+date: '2003-02-03T03:39:04-05:00'
 layout: post
 title: Unplugging to find a clock again?
-date: "2003-02-03T03:39:04-05:00"
+wordpress_id: 375
 wordpress_slug: ooodof
 wordpress_url: http://www.decafbad.com/blog/?p=375
 ---
@@ -13,3 +14,27 @@ wordpress_url: http://www.decafbad.com/blog/?p=375
 <p>Good luck, Mark.  I recommend trips to the zoo, and close observation of cats.</p>
 <!--more-->
 shortname=ooodof
+
+<div id="comments" class="comments archived-comments">
+            <h3>Archived Comments</h3>
+            
+        <ul class="comments">
+            
+        <li class="comment" id="comment-221085818">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://jeremy.zawodny.com/blog/"><img src="http://www.gravatar.com/avatar.php?gravatar_id=c7aeda8ae5621d97ec1b1f7b7c20822e&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://jeremy.zawodny.com/blog/">Jeremy Zawodny</a>
+                </div>
+                <a href="#comment-221085818" class="permalink"><time datetime="2003-02-04T02:28:55">2003-02-04T02:28:55</time></a>
+            </div>
+            <div class="content">Things are better at work for me.  A lot more folks are leaving at sane hours, starting families, and gernally being a bit more normal than 3-4 years ago.</div>
+            
+        </li>
+    
+        </ul>
+    
+        </div>
+    

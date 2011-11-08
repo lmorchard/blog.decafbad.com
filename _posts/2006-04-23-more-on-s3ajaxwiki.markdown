@@ -1,8 +1,9 @@
---- 
-wordpress_id: 935
+---
+comments_archived: true
+date: '2006-04-23T13:14:54-04:00'
 layout: post
 title: More on S3AjaxWiki
-date: "2006-04-23T13:14:54-04:00"
+wordpress_id: 935
 wordpress_slug: more-on-s3ajaxwiki
 wordpress_url: http://decafbad.com/blog/2006/04/23/more-on-s3ajaxwiki
 ---
@@ -52,3 +53,160 @@ wordpress_url: http://decafbad.com/blog/2006/04/23/more-on-s3ajaxwiki
      <span>I'd love it if someday I could use all of this stuff to research, plan, organize, and write a book.</span>
      </li>
      </ul>
+
+<div id="comments" class="comments archived-comments">
+            <h3>Archived Comments</h3>
+            
+        <ul class="comments">
+            
+        <li class="comment" id="comment-221086089">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://www.whump.com/"><img src="http://www.gravatar.com/avatar.php?gravatar_id=152a649080e99c313ecae9a34c60d11d&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://www.whump.com/">Bill Humphries</a>
+                </div>
+                <a href="#comment-221086089" class="permalink"><time datetime="2006-04-24T06:18:51">2006-04-24T06:18:51</time></a>
+            </div>
+            <div class="content"><p>Why did you break down DOM Builder into two functions and an initialization call?</p></div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221086090">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://www.decafbad.com"><img src="http://www.gravatar.com/avatar.php?gravatar_id=2377f34a68801b861c3e54e1301f0dce&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://www.decafbad.com">l.m.orchard</a>
+                </div>
+                <a href="#comment-221086090" class="permalink"><time datetime="2006-04-24T10:43:44">2006-04-24T10:43:44</time></a>
+            </div>
+            <div class="content"><p>Bill: Well, mostly because that code was an attempt to recreate Mochikit's DOM construction code apart from all the other facilities it uses to build functions with partially applied argument lists &amp; etc.  I hadn't actually heard of DOM Builder when I first wrote that stuff.  I'll probably swap my code out for that at some point.</p></div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221086091">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://goessner.net"><img src="http://www.gravatar.com/avatar.php?gravatar_id=cfb72e1f74578a324f1f9ea308898111&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://goessner.net">Stefan Gössner</a>
+                </div>
+                <a href="#comment-221086091" class="permalink"><time datetime="2006-04-24T11:38:20">2006-04-24T11:38:20</time></a>
+            </div>
+            <div class="content"><p>This is a very impressive web application  foreshadowing the high potential of online storages.</p>
+
+<p>I like the way, how you reuse and extend Wiky.</p></div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221086093">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://www.ning.com/"><img src="http://www.gravatar.com/avatar.php?gravatar_id=ff95a2cfef087465a32e2232a3c893aa&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://www.ning.com/">Yoz</a>
+                </div>
+                <a href="#comment-221086093" class="permalink"><time datetime="2006-04-24T15:26:40">2006-04-24T15:26:40</time></a>
+            </div>
+            <div class="content"><p>Okay, I know I keep telling you to check out Ning, but with <a href="http://blog.ning.com/2006/04/the_hottest_api_on_the_interne.html" rel="nofollow">the new API stuff we released last week</a> you <em>really really</em> need to check out Ning. It meshes remarkbly well with what you're looking for.</p>
+
+<p>The new API is fully read-write, based on REST and the Atom Publishing Protocol. Other advantages over S3:</p>
+
+<ul>
+<li>Each app has 1GB of public object space and 100MB of private space. Each user can own up to 10 apps for free. Just register, clone an app (or make one from scratch) and you're off.</li>
+<li>With S3 the objects you read and store are flat data - with Ning, they're structured objects...</li>
+<li>... and since they're structured, you can issue GET requests that are more like database queries than simple object fetches (<a href="http://restdemos.ning.com/feeds.php" rel="nofollow">some examples</a>)...</li>
+<li>... which return properly-formed Atom feeds, which you can then run through BadgerFish. (it's how our <a href="http://restdemos.ning.com/embedfeed.php" rel="nofollow">demo widgets</a> work)</li>
+</ul>
+
+<p>That's not to say that S3 doesn't have it's own advantages: it's much better for large (GBs), expandable storage, five-nines high availability and BitTorrent. But the uses to which I'm currently seeing it put - such as your work, and the Greasemonkey ideas - fit Ning very well indeed.</p></div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221086097">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://sporkmonger.com/"><img src="http://www.gravatar.com/avatar.php?gravatar_id=56ee28134dd0776825445e3551979b14&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://sporkmonger.com/">Bob Aman</a>
+                </div>
+                <a href="#comment-221086097" class="permalink"><time datetime="2006-04-24T18:37:00">2006-04-24T18:37:00</time></a>
+            </div>
+            <div class="content"><p>Are there any alternatives out there to innerHTML that are just as easy-to-use, but that actually make use of the standard DOM methods instead?  (Please say yes.)</p></div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221086098">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://www.decafbad.com"><img src="http://www.gravatar.com/avatar.php?gravatar_id=2377f34a68801b861c3e54e1301f0dce&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://www.decafbad.com">l.m.orchard</a>
+                </div>
+                <a href="#comment-221086098" class="permalink"><time datetime="2006-04-24T19:00:45">2006-04-24T19:00:45</time></a>
+            </div>
+            <div class="content"><p>Bob: Alas, no.  The best I can come up with is to maybe run a string containing a document fragment through an XML parser, scoop up the resulting nodes, and transplant them into the page DOM.  I haven't tried that yet, but the idea smells awfully bad to me.</p>
+
+<p>innerHTML isn't really that evil, really.  :)</p></div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221086101">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://webseitz.fluxent.com/wiki"><img src="http://www.gravatar.com/avatar.php?gravatar_id=8157a5907b244071cda98ba5aa7a9635&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://webseitz.fluxent.com/wiki">Bill Seitz</a>
+                </div>
+                <a href="#comment-221086101" class="permalink"><time datetime="2006-04-25T01:34:45">2006-04-25T01:34:45</time></a>
+            </div>
+            <div class="content"><p>Is the new Google Data API a possible alternative?</p></div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221086102">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://www.decafbad.com"><img src="http://www.gravatar.com/avatar.php?gravatar_id=2377f34a68801b861c3e54e1301f0dce&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://www.decafbad.com">l.m.orchard</a>
+                </div>
+                <a href="#comment-221086102" class="permalink"><time datetime="2006-04-25T11:34:48">2006-04-25T11:34:48</time></a>
+            </div>
+            <div class="content"><p>Bill:  It looks like the new Gdata API is basically the Atom Publishing Protocol.  I'd like to target that API sometime soon, too.  I think Ning's got it implemented as well.  Although, at Google, I think the only implementation of Gdata so far is for the new Google Calendar - that is, I haven't seen any Gdrive service launched yet as a generic service offering storage via Gdata to compete with S3.</p></div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221086103">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href=""><img src="http://www.gravatar.com/avatar.php?gravatar_id=36f55c81b271c3e689aae198cb76d9ee&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="">Laurent</a>
+                </div>
+                <a href="#comment-221086103" class="permalink"><time datetime="2006-04-28T23:09:13">2006-04-28T23:09:13</time></a>
+            </div>
+            <div class="content"><p>Hi,
+I'd like to search my documents stored in my s3 account.
+It seems like Amazon doesn't provide a search API.
+But maybe we could add this functionality.
+Any idea if somebody is already working on this?
+Laurent.
+Palo Alto, CA</p></div>
+            
+        </li>
+    
+        </ul>
+    
+        </div>
+    

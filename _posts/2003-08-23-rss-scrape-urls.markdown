@@ -1,8 +1,9 @@
---- 
-wordpress_id: 466
+---
+comments_archived: true
+date: '2003-08-23T13:57:06-04:00'
 layout: post
 title: Scraping HTML with web services
-date: "2003-08-23T13:57:06-04:00"
+wordpress_id: 466
 wordpress_slug: rss-scrape-urls
 wordpress_url: http://www.decafbad.com/blog/?p=466
 ---
@@ -23,3 +24,55 @@ wordpress_url: http://www.decafbad.com/blog/?p=466
         <p>What would really be nice for apps like this is a better way to express the URLs-within-URLs without escaping and escaping and escaping and...  Thinking some very lightweight scripting here, or some LISP-ish expressions would help.</p>
 <!--more-->
 shortname=rss_scrape_urls
+
+<div id="comments" class="comments archived-comments">
+            <h3>Archived Comments</h3>
+            
+        <ul class="comments">
+            
+        <li class="comment" id="comment-221086837">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://www.whump.com/moreLikeThis/"><img src="http://www.gravatar.com/avatar.php?gravatar_id=622548e3f303e03297375ab20ddcb696&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://www.whump.com/moreLikeThis/">Bill Humphries</a>
+                </div>
+                <a href="#comment-221086837" class="permalink"><time datetime="2003-08-24T16:08:56">2003-08-24T16:08:56</time></a>
+            </div>
+            <div class="content">Does the w3c Tidy service support the force output option? That's what I had to do with command line Tidy to get something well formed from The Nation's home page.</div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221086838">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://www.decafbad.com/blog"><img src="http://www.gravatar.com/avatar.php?gravatar_id=2ac2cffd36ada8c734b90e02a1e5c1ac&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://www.decafbad.com/blog">l.m.orchard</a>
+                </div>
+                <a href="#comment-221086838" class="permalink"><time datetime="2003-08-24T20:07:03">2003-08-24T20:07:03</time></a>
+            </div>
+            <div class="content">Unfortunately, it seems that the W3C service only offers an indentation option</div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221086840">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://www.whump.com/moreLikeThis/"><img src="http://www.gravatar.com/avatar.php?gravatar_id=622548e3f303e03297375ab20ddcb696&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://www.whump.com/moreLikeThis/">Bill Humphries</a>
+                </div>
+                <a href="#comment-221086840" class="permalink"><time datetime="2003-08-25T02:13:11">2003-08-25T02:13:11</time></a>
+            </div>
+            <div class="content">It's tempting to take the script, and offer it as a service myself, with the force output option. However, I'd need to wrap an authorization service in front of it so it doesn't kill my bandwidth.</div>
+            
+        </li>
+    
+        </ul>
+    
+        </div>
+    

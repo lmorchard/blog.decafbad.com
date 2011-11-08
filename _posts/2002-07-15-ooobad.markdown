@@ -1,8 +1,9 @@
---- 
-wordpress_id: 193
+---
+comments_archived: true
+date: '2002-07-15T13:40:48-04:00'
 layout: post
 title: Adventures in DNS-land
-date: "2002-07-15T13:40:48-04:00"
+wordpress_id: 193
 wordpress_slug: ooobad
 wordpress_url: http://www.decafbad.com/blog/?p=193
 ---
@@ -10,3 +11,45 @@ wordpress_url: http://www.decafbad.com/blog/?p=193
 <p>Grr.  Well, I'm back on the air.  I just hope not too many of you out there with news aggregators and auto-unsub-on-error have had me slide off your lists.</p>
 <!--more-->
 shortname=ooobad
+
+<div id="comments" class="comments archived-comments">
+            <h3>Archived Comments</h3>
+            
+        <ul class="comments">
+            
+        <li class="comment" id="comment-221090416">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://brentashley.blogchat.com"><img src="http://www.gravatar.com/avatar.php?gravatar_id=f5d2b80ead5baf93719dd7ee0ab3790d&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://brentashley.blogchat.com">brent</a>
+                </div>
+                <a href="#comment-221090416" class="permalink"><time datetime="2002-07-16T02:19:55">2002-07-16T02:19:55</time></a>
+            </div>
+            <div class="content">You don't say why you changed away from ZoneEdit to DynDNS.
+
+I use Zoneedit for dynamic DNS by using a perl script based on the one they provide.  It's been belly belly good to me.</div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221090417">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://www.decafbad.com"><img src="http://www.gravatar.com/avatar.php?gravatar_id=2ac2cffd36ada8c734b90e02a1e5c1ac&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://www.decafbad.com">l.m.orchard</a>
+                </div>
+                <a href="#comment-221090417" class="permalink"><time datetime="2002-07-16T12:42:24">2002-07-16T12:42:24</time></a>
+            </div>
+            <div class="content">Hmm, actually, no good reason except that I've been using DynDNS.org for years for a domain on my home machines, noticed they had something similar for non-dyndns.org domains, and thought I'd try them out.  Now that you mention that, I really need to look further into ZoneEdit.
+
+It all goes back to not fixing what ain't broke.  *smacks forehead*</div>
+            
+        </li>
+    
+        </ul>
+    
+        </div>
+    

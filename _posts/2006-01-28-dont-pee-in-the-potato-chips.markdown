@@ -1,12 +1,13 @@
---- 
-wordpress_id: 843
+---
+comments_archived: true
+date: '2006-01-28T02:02:15-05:00'
 layout: post
-title: Don't Pee in the Potato Chips
-date: "2006-01-28T02:02:15-05:00"
-tags: 
+tags:
 - opml
 - winer
 - newsriver
+title: Don't Pee in the Potato Chips
+wordpress_id: 843
 wordpress_slug: dont-pee-in-the-potato-chips
 wordpress_url: http://decafbad.com/blog/?p=843
 ---
@@ -36,3 +37,27 @@ So, Dave?  I'm sorry I've pissed in the bag of chips a few times.  Maybe we can 
 [interest]: http://decafbad.com/blog/2006/01/28/ancient-code-drifting-down-the-newsriver
 [opml]: http://support.opml.org/
 [news]: http://www.newsriver.org/
+
+<div id="comments" class="comments archived-comments">
+            <h3>Archived Comments</h3>
+            
+        <ul class="comments">
+            
+        <li class="comment" id="comment-221083364">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://www.flirtinserat.de"><img src="http://www.gravatar.com/avatar.php?gravatar_id=66afe238f8f6f1f8028362dab437a8fb&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://www.flirtinserat.de">Brad Neuberg</a>
+                </div>
+                <a href="#comment-221083364" class="permalink"><time datetime="2006-01-30T10:54:25">2006-01-30T10:54:25</time></a>
+            </div>
+            <div class="content"><p>Do you have a online demo for the OPML Editor you mentioned ?</p></div>
+            
+        </li>
+    
+        </ul>
+    
+        </div>
+    

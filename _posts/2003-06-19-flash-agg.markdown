@@ -1,8 +1,9 @@
---- 
-wordpress_id: 426
+---
+comments_archived: true
+date: '2003-06-19T13:34:00-04:00'
 layout: post
 title: Desktop server + Flash GUI?
-date: "2003-06-19T13:34:00-04:00"
+wordpress_id: 426
 wordpress_slug: flash-agg
 wordpress_url: http://www.decafbad.com/blog/?p=426
 ---
@@ -39,3 +40,27 @@ but
 how about a maniacal mutant hybrid of Python and Flash?
 <!--more-->
 shortname=flash_agg
+
+<div id="comments" class="comments archived-comments">
+            <h3>Archived Comments</h3>
+            
+        <ul class="comments">
+            
+        <li class="comment" id="comment-221085293">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://www.zanpo.com"><img src="http://www.gravatar.com/avatar.php?gravatar_id=8ece86b9eb93514da6f0300082374dbc&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://www.zanpo.com">genjo</a>
+                </div>
+                <a href="#comment-221085293" class="permalink"><time datetime="2003-07-04T23:47:13">2003-07-04T23:47:13</time></a>
+            </div>
+            <div class="content">I was doing a search on Python and Flash, and stumbled upon your post.  Any luck with this?  I had the same idea... building apps in Python with a Flash front-end... they could talk to eachother via XML... so, how can you get python to create a wrapper for a flash gui?</div>
+            
+        </li>
+    
+        </ul>
+    
+        </div>
+    

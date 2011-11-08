@@ -1,9 +1,8 @@
---- 
-wordpress_id: 871
+---
+comments_archived: true
+date: '2006-02-13T12:09:08-05:00'
 layout: post
-title: Reading Lists, OPML, XOXO, Semantic Web, and Tools
-date: "2006-02-13T12:09:08-05:00"
-tags: 
+tags:
 - metablogging
 - webdev
 - rss
@@ -14,6 +13,8 @@ tags:
 - podcasting
 - rdf
 - semweb
+title: Reading Lists, OPML, XOXO, Semantic Web, and Tools
+wordpress_id: 871
 wordpress_slug: reading-lists-opml-xoxo-semantic-web-and-tools
 wordpress_url: http://decafbad.com/blog/?p=871
 ---
@@ -40,3 +41,59 @@ So, to wrap up:  My take on this whole mess is that your format will gain adopti
 
 
 <!-- tags: metablogging rdf semweb webdev opml rss syndication microformats xoxo podcasting -->
+
+<div id="comments" class="comments archived-comments">
+            <h3>Archived Comments</h3>
+            
+        <ul class="comments">
+            
+        <li class="comment" id="comment-221086877">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://vielmetti.typepad.com"><img src="http://www.gravatar.com/avatar.php?gravatar_id=e377f3e2140297d32460ae9a4b38ff98&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://vielmetti.typepad.com">Edward Vielmetti</a>
+                </div>
+                <a href="#comment-221086877" class="permalink"><time datetime="2006-02-14T02:32:49">2006-02-14T02:32:49</time></a>
+            </div>
+            <div class="content"><p>There's a lot to be said for rough consensus and running code, and there's a lot more running code that speaks OPML than there is that speaks XOXO or RDF.  You can just plain sit down and get work done and not have to entangle yourself in a microstandards battle.  There's a certain appeal to that.</p></div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221086879">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://www.synaesmedia.net"><img src="http://www.gravatar.com/avatar.php?gravatar_id=248a3c4ba8f2972427222d46954f9c1c&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://www.synaesmedia.net">phil jones</a>
+                </div>
+                <a href="#comment-221086879" class="permalink"><time datetime="2006-02-14T03:03:10">2006-02-14T03:03:10</time></a>
+            </div>
+            <div class="content"><p>Same as it ever was :</p>
+
+<p>http://www.laputan.org/gabriel/worse-is-better.html </p>
+
+<p>(scroll down to section 2.1)</p></div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221086880">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://philwilson.org/blog/"><img src="http://www.gravatar.com/avatar.php?gravatar_id=abb5e982d97d7539860141b7904ba31a&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://philwilson.org/blog/">Phil Wilson</a>
+                </div>
+                <a href="#comment-221086880" class="permalink"><time datetime="2006-02-21T20:39:35">2006-02-21T20:39:35</time></a>
+            </div>
+            <div class="content"><p>I know they're very different things, but is there any <em>particular</em> part of the OPML Editor that doesn't exist, say, in something like NVU, or a stripped-down TinyMCE?</p></div>
+            
+        </li>
+    
+        </ul>
+    
+        </div>
+    

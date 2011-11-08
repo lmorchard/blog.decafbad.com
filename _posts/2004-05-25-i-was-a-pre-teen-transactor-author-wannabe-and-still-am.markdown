@@ -1,9 +1,11 @@
---- 
-wordpress_id: 526
+---
+comments_archived: true
+date: '2004-05-25T01:03:57-04:00'
+excerpt: I've always wanted to be the kind of hacker who did clever things
+    and wrote about them for other kids like me to read and try.
 layout: post
 title: I was a pre-teen Transactor author wannabe (and still am!)
-excerpt: I've always wanted to be the kind of hacker who did clever things and wrote about them for other kids like me to read and try.
-date: "2004-05-25T01:03:57-04:00"
+wordpress_id: 526
 wordpress_slug: i-was-a-pre-teen-transactor-author-wannabe-and-still-am
 wordpress_url: http://www.decafbad.com/blog/?p=526
 ---
@@ -39,3 +41,156 @@ In the meantime, stay tuned!  I might just have my first installment coming up i
 [ahoy]: http://www.retroarchive.org/cpm/cdrom/ENTERPRS/C64/AHOY/
 [compute]: http://www.myoldcomputers.com/museum/mag/gaz.htm
 [newly_digital]: http://www.decafbad.com/blog/2003/06/13/newly_digital
+
+<div id="comments" class="comments archived-comments">
+            <h3>Archived Comments</h3>
+            
+        <ul class="comments">
+            
+        <li class="comment" id="comment-221084289">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://rasterweb.net/raster/"><img src="http://www.gravatar.com/avatar.php?gravatar_id=db0fab74bcb564ebb09295498b892fb6&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://rasterweb.net/raster/">Pete Prodoehl</a>
+                </div>
+                <a href="#comment-221084289" class="permalink"><time datetime="2004-05-25T01:38:02">2004-05-25T01:38:02</time></a>
+            </div>
+            <div class="content">This sounds like a great idea, can't wait to see what you come up with.</div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221084290">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://admin.support.journurl.com/"><img src="http://www.gravatar.com/avatar.php?gravatar_id=5f89d3df08b8dedac1a0fde900a586db&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://admin.support.journurl.com/">Roger Benningfield</a>
+                </div>
+                <a href="#comment-221084290" class="permalink"><time datetime="2004-05-25T01:39:53">2004-05-25T01:39:53</time></a>
+            </div>
+            <div class="content">God, how I loved Ahoy! I stumbled across a cache of my old, mid-'80s magazines in my mom's garage last year... I need to go through them and see if any issues of Ahoy are in there.</div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221084291">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://www.chadfowler.com"><img src="http://www.gravatar.com/avatar.php?gravatar_id=582cea4d4b676c8d4b90770e62aea7c2&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://www.chadfowler.com">Chad Fowler</a>
+                </div>
+                <a href="#comment-221084291" class="permalink"><time datetime="2004-05-25T04:42:50">2004-05-25T04:42:50</time></a>
+            </div>
+            <div class="content">I'd personally love to see you do some more stuff with AgentFrank.</div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221084293">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://kennethhunt.com/"><img src="http://www.gravatar.com/avatar.php?gravatar_id=ecf86648a0021d0d01786869063b1ec7&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://kennethhunt.com/">Kenneth</a>
+                </div>
+                <a href="#comment-221084293" class="permalink"><time datetime="2004-05-25T17:14:03">2004-05-25T17:14:03</time></a>
+            </div>
+            <div class="content">I'm interested to see what you write. Take this as a vote of encouragement.
+Looking forward to that first article.</div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221084295">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://commons.ucalgary.ca/weblogs/dnorman/"><img src="http://www.gravatar.com/avatar.php?gravatar_id=4f523b36360882764462462cc95f040d&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://commons.ucalgary.ca/weblogs/dnorman/">D'Arcy Norman</a>
+                </div>
+                <a href="#comment-221084295" class="permalink"><time datetime="2004-05-25T18:31:52">2004-05-25T18:31:52</time></a>
+            </div>
+            <div class="content">Wow. What a blast from the past! Compute! Gazette... Ahoy... It's been a loooong time since I thought about them. I bet my dad still has a crate of them in his basement. Might have to crack open my old C64 and see if I can remember much...</div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221084296">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://theplot.tk"><img src="http://www.gravatar.com/avatar.php?gravatar_id=be211f5cd6ae6035440e26cbd45339f3&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://theplot.tk">neozen</a>
+                </div>
+                <a href="#comment-221084296" class="permalink"><time datetime="2004-05-26T21:22:45">2004-05-26T21:22:45</time></a>
+            </div>
+            <div class="content">yeah, that's the spirit.
+we'll be waiting.</div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221084298">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://chxo.com/"><img src="http://www.gravatar.com/avatar.php?gravatar_id=1af04285d8fc6884c262ad04398592e4&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://chxo.com/">Chris Snyder</a>
+                </div>
+                <a href="#comment-221084298" class="permalink"><time datetime="2004-05-27T08:56:18">2004-05-27T08:56:18</time></a>
+            </div>
+            <div class="content">Re: projects, go go go!
+
+Re: link to Ikea's Jerker desk -- are you sure you don't want a Fartfull instead? ;-)
+http://tinyurl.com/ttco
+
+Imagine an office full of those...</div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221084299">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://www.jerrykindall.com/"><img src="http://www.gravatar.com/avatar.php?gravatar_id=bd4b12720e0155880bd08b1455e2267e&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://www.jerrykindall.com/">Jerry Kindall</a>
+                </div>
+                <a href="#comment-221084299" class="permalink"><time datetime="2004-05-28T12:42:33">2004-05-28T12:42:33</time></a>
+            </div>
+            <div class="content">Nibble magazine was like that for the Apple II -- lots of type-in program listings and technical articles on things like accelerating the GOTO statement in BASIC and organizing your disks. Nibble wasn't the only magazine of that type either, just the biggest. Call-APPLE (the newsletter of the Apple Pugetsound Program Library Exchange, a big Seattle user group) ran a legendary article once on how to make the disk operating system load files about 5 times faster.
+
+A friend of mine and I submitted several programs to Nibble, but neither of us ever had one accepted. I did later publish some articles in a small assembly language newsletter and wound up editing a couple for the same publisher. This was the start of my writing career. I later slung code and words for a couple of Apple ii and Mac software developers and then switched over to doing just the words, which I've been doing ever since.
+
+Ahh, good times, good times.
+
+I have a bunch of things (scripts, mostly) kind of half-finished and partially released; maybe i should get serious about cleaning them up and publishing them in some way.</div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221084300">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href=""><img src="http://www.gravatar.com/avatar.php?gravatar_id=702e6eecfa91e5a207315789aa02d7c3&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="">Ken Stailey</a>
+                </div>
+                <a href="#comment-221084300" class="permalink"><time datetime="2004-06-11T04:12:15">2004-06-11T04:12:15</time></a>
+            </div>
+            <div class="content">So lucky you could convince your family to buy computers.  I had to use my own savings to buy my Atari 400 -- couldn't afford an 800.
+
+I did upgrade it peicemeal over '81 - '84 with third party add-on's like a decent keyboard that fit in the place of the orignal McMembrane keyboard and a whopping 48KB of memory.
+
+Who needed a 2nd cartridge slot anyway :)</div>
+            
+        </li>
+    
+        </ul>
+    
+        </div>
+    

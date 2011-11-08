@@ -1,12 +1,19 @@
---- 
-wordpress_id: 529
+---
+comments_archived: true
+date: '2004-06-16T07:42:48-04:00'
+excerpt: For some time now, my girlfriend and I have been accumulating things
+    we want in wishlists on Amazon.com.  Though they have come in handy
+    with relatives at Christmas and on birthdays, neither of us really expects
+    to see a regular flow of gifts from them.  For the most part, they've
+    just become holding tanks for things we intend to buy for each other
+    or ourselves.  On one particular visit, though, the notion of a Wish-of-the-Month
+    club popped into my head.
 layout: post
-title: Wish-of-the-Month Club, Part 1 of 3
-excerpt: For some time now, my girlfriend and I have been accumulating things we want in wishlists on Amazon.com.  Though they have come in handy with relatives at Christmas and on birthdays, neither of us really expects to see a regular flow of gifts from them.  For the most part, they've just become holding tanks for things we intend to buy for each other or ourselves.  On one particular visit, though, the notion of a Wish-of-the-Month club popped into my head.
-date: "2004-06-16T07:42:48-04:00"
-tags: 
+tags:
 - hacks
 - xml
+title: Wish-of-the-Month Club, Part 1 of 3
+wordpress_id: 529
 wordpress_slug: wishofthemonthclub1
 wordpress_url: http://www.decafbad.com/blog/?p=529
 ---
@@ -266,3 +273,47 @@ And that's the end of Part 1.  Next up, we'll be delving into a few more wrinkle
 [lasttime2]: http://www.decafbad.com/blog/2004/06/13/i_will_do_the_fandango
 <!--more-->
 shortname=wishofthemonthclub1
+
+<div id="comments" class="comments archived-comments">
+            <h3>Archived Comments</h3>
+            
+        <ul class="comments">
+            
+        <li class="comment" id="comment-221082740">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://inflatus.net"><img src="http://www.gravatar.com/avatar.php?gravatar_id=2c0ee9a9038c85c0510a7a5fd3f030ab&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://inflatus.net">poepping</a>
+                </div>
+                <a href="#comment-221082740" class="permalink"><time datetime="2004-06-16T17:24:01">2004-06-16T17:24:01</time></a>
+            </div>
+            <div class="content">I was using the amazon wish list api a few months ago, and back then the wish list was out of date, and was missing the newest week or two of stuff.  You might want to check this if this is important to you.
+
+In the future, you could add the feature of ordering the stuff that has a higher priority on it. :)
+
+Cool project though. I think i'm going to go back through my old code and try it again to see if they fixed the delay.
+
+btw, I miss your links of the day.</div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221082741">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://www.mpwilson.com/uccu/"><img src="http://www.gravatar.com/avatar.php?gravatar_id=99b77c34a0e26fd04a058f8c2dbab290&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://www.mpwilson.com/uccu/">Mad William Flint</a>
+                </div>
+                <a href="#comment-221082741" class="permalink"><time datetime="2004-06-16T19:40:55">2004-06-16T19:40:55</time></a>
+            </div>
+            <div class="content">very nice.  whipping out my emacs now...</div>
+            
+        </li>
+    
+        </ul>
+    
+        </div>
+    

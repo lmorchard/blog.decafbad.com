@@ -1,8 +1,9 @@
---- 
-wordpress_id: 140
+---
+comments_archived: true
+date: '2002-05-22T14:40:50-04:00'
 layout: post
 title: Of alligators and bloxsoms
-date: "2002-05-22T14:40:50-04:00"
+wordpress_id: 140
 wordpress_slug: oooafa
 wordpress_url: http://www.decafbad.com/blog/?p=140
 ---
@@ -14,3 +15,43 @@ wordpress_url: http://www.decafbad.com/blog/?p=140
 <p>Unix on the desktop.  Really.  Who woulda thunk it?</p>
 <!--more-->
 shortname=oooafa
+
+<div id="comments" class="comments archived-comments">
+            <h3>Archived Comments</h3>
+            
+        <ul class="comments">
+            
+        <li class="comment" id="comment-221082914">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://www.rolandtanglao.com"><img src="http://www.gravatar.com/avatar.php?gravatar_id=2aae7897dc9617da7c27a5ebf1681afd&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://www.rolandtanglao.com">Roland Tanglao</a>
+                </div>
+                <a href="#comment-221082914" class="permalink"><time datetime="2002-05-29T07:45:22">2002-05-29T07:45:22</time></a>
+            </div>
+            <div class="content">Six Degrees on the Mac uses a Cocoa GUI talking via XML-RPC to its backend:
+
+http://www.xmlrpc.com/discuss/msgReader$2178</div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221082918">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://www.decafbad.com"><img src="http://www.gravatar.com/avatar.php?gravatar_id=2ac2cffd36ada8c734b90e02a1e5c1ac&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://www.decafbad.com">l.m.orchard</a>
+                </div>
+                <a href="#comment-221082918" class="permalink"><time datetime="2002-05-30T16:53:31">2002-05-30T16:53:31</time></a>
+            </div>
+            <div class="content">Great!  That's the product about which I'd forgotten, thanks for the reminder!</div>
+            
+        </li>
+    
+        </ul>
+    
+        </div>
+    

@@ -1,13 +1,14 @@
---- 
-wordpress_id: 677
+---
+comments_archived: true
+date: '2005-08-25T16:37:43-04:00'
 layout: post
-title: My brain's full of fog
-date: "2005-08-25T16:37:43-04:00"
-tags: 
+tags:
 - ipod
 - quick
 - girl
 - pogues
+title: My brain's full of fog
+wordpress_id: 677
 wordpress_slug: my-brains-full-of-fog
 wordpress_url: http://www.decafbad.com/blog/?p=677
 ---
@@ -39,3 +40,41 @@ Overall, life's good--busy, but good.
 [wiki]: http://www.decafbad.com/blog/2005/07/12/an_experiment_in_rest_and_xml
 [stories]: http://www.decafbad.com/blog/2005/08/08/quick_brain_burps
 [iwov]: http://www.interwoven.com
+
+<div id="comments" class="comments archived-comments">
+            <h3>Archived Comments</h3>
+            
+        <ul class="comments">
+            
+        <li class="comment" id="comment-221084373">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://emmott.net"><img src="http://www.gravatar.com/avatar.php?gravatar_id=b1ec7a0c94d320d3c4727015bf111127&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://emmott.net">Kevan Emmott</a>
+                </div>
+                <a href="#comment-221084373" class="permalink"><time datetime="2005-08-30T15:56:58">2005-08-30T15:56:58</time></a>
+            </div>
+            <div class="content">Ah, the good ole days. Do they still have the iw_perl extensions? Right now I'm getting awfully sick of the limitations of XSL to do the same things - I'm hacking away at Rhythmyx.</div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221084374">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://www.heylove.de"><img src="http://www.gravatar.com/avatar.php?gravatar_id=66afe238f8f6f1f8028362dab437a8fb&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://www.heylove.de">Timothy  Love</a>
+                </div>
+                <a href="#comment-221084374" class="permalink"><time datetime="2005-09-05T11:06:33">2005-09-05T11:06:33</time></a>
+            </div>
+            <div class="content">I can only concur, interwoven's also given me sleepless nights</div>
+            
+        </li>
+    
+        </ul>
+    
+        </div>
+    

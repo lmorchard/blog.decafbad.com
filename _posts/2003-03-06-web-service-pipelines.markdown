@@ -1,8 +1,9 @@
---- 
-wordpress_id: 390
+---
+comments_archived: true
+date: '2003-03-06T12:39:00-05:00'
 layout: post
 title: Building Pipelines with Web Services
-date: "2003-03-06T12:39:00-05:00"
+wordpress_id: 390
 wordpress_slug: web-service-pipelines
 wordpress_url: http://www.decafbad.com/blog/?p=390
 ---
@@ -40,3 +41,81 @@ posting.  This all seems very web-natural.
 Now I just have to write a shell that treats URLs as executable commands.
 <!--more-->
 shortname=web_service_pipelines
+
+<div id="comments" class="comments archived-comments">
+            <h3>Archived Comments</h3>
+            
+        <ul class="comments">
+            
+        <li class="comment" id="comment-221087414">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://www.novaroot.com"><img src="http://www.gravatar.com/avatar.php?gravatar_id=0af1f52a082bc92d355d3fc9b29b4c2e&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://www.novaroot.com">Patrick Lioi</a>
+                </div>
+                <a href="#comment-221087414" class="permalink"><time datetime="2003-03-06T16:27:11">2003-03-06T16:27:11</time></a>
+            </div>
+            <div class="content">What would really be beautifil about this is if you could give it a config file (or somesuch) that maps a url to a command name, so the actual commands you enter wouldn't have to look, or even feel, like urls.  I say the more it feels like a regular command line, the better.</div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221087417">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://www.pipetree.com/qmacro"><img src="http://www.gravatar.com/avatar.php?gravatar_id=1e7ff23dbea0c7d56117bcd51b58b581&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://www.pipetree.com/qmacro">DJ</a>
+                </div>
+                <a href="#comment-221087417" class="permalink"><time datetime="2003-03-06T16:40:43">2003-03-06T16:40:43</time></a>
+            </div>
+            <div class="content">Hi 
+
+This is something I was talking to some friends about last year at OSCON. There's a lot of mileage in it, I think. I personally have been doing this sort of thing on and off since then, mostly using off the shelf tools such as wget, curl, GET and POST (the latter two from the Perl LWP bundle; you can do PUT with the POST command too). 
+
+The one question that remains is how to convey the HTTP status code. I've wrapped the call in a script to put the HTTP status code and headers to STDERR, and any HTTP body to STDOUT, but that's not perfect (what about multipart HTTP bodies, for example, with each part having their own HTTP headers)...
+
+In all though it's extremely useful. 
+
+One thing that this sort of approach does for the mind is dispel the myth that REST is bound in any way to XML (of course it's not, but some people seem to think it's XML specific). Use GET (the command) to GET a representation of some data that's plain text. It comes streaming down STDOUT as perfect fodder for your array of shell tools (grep, sort, etc). Lovely.</div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221087420">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href=""><img src="http://www.gravatar.com/avatar.php?gravatar_id=ccb463174df28eddf522e220456d40f2&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="">matt</a>
+                </div>
+                <a href="#comment-221087420" class="permalink"><time datetime="2003-03-07T10:19:09">2003-03-07T10:19:09</time></a>
+            </div>
+            <div class="content">Great post - I thouroughly agree.  Check out some of the tools from Propylon (http://www.propylon.com).  Also, Sun submitted a note to the w3c on xml pipeline definitions (http://www.w3.org/TR/xml-pipeline/).</div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221087423">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://mah.everybody.org/weblog/"><img src="http://www.gravatar.com/avatar.php?gravatar_id=d39ca715bca0c4fa3020bd5f8b445f67&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://mah.everybody.org/weblog/">Mark A. Hershberger</a>
+                </div>
+                <a href="#comment-221087423" class="permalink"><time datetime="2003-03-08T16:32:10">2003-03-08T16:32:10</time></a>
+            </div>
+            <div class="content">Check out AxKit (http://www.axkit.org/).  It has XML pipelines that use Providers (which produce XML or XML Infosets) as the source and uses XPATH, XSLT, etc. to process the data.
+
+I'm working on an RSS provider, for example, as part of my Weblog software.
+
+(The data doesn't /have/ to be XML, but using XML as the interchange format makes things easier.)</div>
+            
+        </li>
+    
+        </ul>
+    
+        </div>
+    

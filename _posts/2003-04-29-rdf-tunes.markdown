@@ -1,8 +1,9 @@
---- 
-wordpress_id: 410
+---
+comments_archived: true
+date: '2003-04-29T08:28:02-04:00'
 layout: post
 title: Indie Music Service (ala Apple)?
-date: "2003-04-29T08:28:02-04:00"
+wordpress_id: 410
 wordpress_slug: rdf-tunes
 wordpress_url: http://www.decafbad.com/blog/?p=410
 ---
@@ -34,3 +35,27 @@ like a good semantic web app that could have some umph going for it in
 the immediate future.
 <!--more-->
 shortname=rdf_tunes
+
+<div id="comments" class="comments archived-comments">
+            <h3>Archived Comments</h3>
+            
+        <ul class="comments">
+            
+        <li class="comment" id="comment-221083558">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href=""><img src="http://www.gravatar.com/avatar.php?gravatar_id=2fc977e82d9f8395a0f49e6f4958bc84&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="">mark</a>
+                </div>
+                <a href="#comment-221083558" class="permalink"><time datetime="2003-04-29T11:10:10">2003-04-29T11:10:10</time></a>
+            </div>
+            <div class="content">This has been the discussion with my friends regarding the service.  I mean it is cool that you can get Kajagoogoo, but where is the indie labels?   Maybe some sort of plugin for iTunes or even Quicktime (so win and mac platforms benefit).  I know apple can really tap into this indie market by producing a plugin.  I think it should use an existing format that is open like RSS, but create an interface as clean and simple as the iTunes browser.</div>
+            
+        </li>
+    
+        </ul>
+    
+        </div>
+    

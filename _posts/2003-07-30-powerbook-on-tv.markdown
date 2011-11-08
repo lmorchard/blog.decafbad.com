@@ -1,8 +1,9 @@
---- 
-wordpress_id: 453
+---
+comments_archived: true
+date: '2003-07-30T10:23:29-04:00'
 layout: post
 title: My Powerbook's on TV
-date: "2003-07-30T10:23:29-04:00"
+wordpress_id: 453
 wordpress_slug: powerbook-on-tv
 wordpress_url: http://www.decafbad.com/blog/?p=453
 ---
@@ -48,3 +49,27 @@ overkill.  But, if you're shopping for a laptop and want some fringe
 benefits, I think this is definitely one that doesn't get much attention.
 <!--more-->
 shortname=powerbook_on_tv
+
+<div id="comments" class="comments archived-comments">
+            <h3>Archived Comments</h3>
+            
+        <ul class="comments">
+            
+        <li class="comment" id="comment-221090562">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href=""><img src="http://www.gravatar.com/avatar.php?gravatar_id=003f0f80dbb60eaf4416ade5506e3fab&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="">Beth</a>
+                </div>
+                <a href="#comment-221090562" class="permalink"><time datetime="2003-07-30T23:29:57">2003-07-30T23:29:57</time></a>
+            </div>
+            <div class="content">have you had any issues whatsoever with the closing of your powerbook? after a week mine refused to latch shut, it no longer seemed magnetic. when i sent it back to apple they returned it in the same shape and said "push harder." i've talked to one other person with this problem, and i just wondered if it was widespread. other than that i'm having a ball authoring DVDs, and it's going to be great keeping my lap nice and warm during the cold michigan winters.</div>
+            
+        </li>
+    
+        </ul>
+    
+        </div>
+    

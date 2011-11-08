@@ -1,8 +1,9 @@
---- 
-wordpress_id: 633
+---
+comments_archived: true
+date: '2005-04-30T13:42:08-04:00'
 layout: post
 title: Initial Tiger Thoughts
-date: "2005-04-30T13:42:08-04:00"
+wordpress_id: 633
 wordpress_slug: initial-tiger-thoughts
 wordpress_url: http://www.decafbad.com/blog/?p=633
 ---
@@ -37,3 +38,27 @@ wordpress_url: http://www.decafbad.com/blog/?p=633
   Seems kinda like a weird game of charades where I'm not necessarily trying to help you figure out what I'm thinking.
 
 [fsm]: http://arstechnica.com/reviews/os/macosx-10.4.ars/9
+
+<div id="comments" class="comments archived-comments">
+            <h3>Archived Comments</h3>
+            
+        <ul class="comments">
+            
+        <li class="comment" id="comment-221087337">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href=""><img src="http://www.gravatar.com/avatar.php?gravatar_id=9b71d738d26738a90411501ac572ceaf&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="">Scott</a>
+                </div>
+                <a href="#comment-221087337" class="permalink"><time datetime="2005-05-04T06:41:10">2005-05-04T06:41:10</time></a>
+            </div>
+            <div class="content">Tiger link at the top is borked.</div>
+            
+        </li>
+    
+        </ul>
+    
+        </div>
+    

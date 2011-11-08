@@ -1,8 +1,9 @@
---- 
-wordpress_id: 496
+---
+comments_archived: true
+date: '2003-10-14T11:05:34-04:00'
 layout: post
 title: When RSS Developers Attack
-date: "2003-10-14T11:05:34-04:00"
+wordpress_id: 496
 wordpress_slug: when-rss-attacks
 wordpress_url: http://www.decafbad.com/blog/?p=496
 ---
@@ -144,3 +145,41 @@ game together, rather than gaming each other?
 </p>
 <!--more-->
 shortname=when_rss_attacks
+
+<div id="comments" class="comments archived-comments">
+            <h3>Archived Comments</h3>
+            
+        <ul class="comments">
+            
+        <li class="comment" id="comment-221085587">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://george.hotelling.net/"><img src="http://www.gravatar.com/avatar.php?gravatar_id=89242476196334aff51840e7c4dadad2&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://george.hotelling.net/">George Hotelling</a>
+                </div>
+                <a href="#comment-221085587" class="permalink"><time datetime="2003-10-14T18:55:17">2003-10-14T18:55:17</time></a>
+            </div>
+            <div class="content">Danny O'Brien has an excellent write up of how the exclusionary methods of Camp Foo were pissing people off, and more importantly why they were necessary.</div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221085588">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://dynamicobjects.com/d2r/"><img src="http://www.gravatar.com/avatar.php?gravatar_id=5c641af6fe45a45f7048ea8ad6184761&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://dynamicobjects.com/d2r/">Diego Doval</a>
+                </div>
+                <a href="#comment-221085588" class="permalink"><time datetime="2003-10-15T06:03:31">2003-10-15T06:03:31</time></a>
+            </div>
+            <div class="content">Actually, there was a reasonable amount of work done back when Jeremy first came up with the proposal, most of which I codified here  and here.  It was done without acrynomy, too. Maybe that's why people were not interested in starting from there and instead preferred to start all over again.</div>
+            
+        </li>
+    
+        </ul>
+    
+        </div>
+    

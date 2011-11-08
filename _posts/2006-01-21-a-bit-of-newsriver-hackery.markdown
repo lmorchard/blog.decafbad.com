@@ -1,9 +1,8 @@
---- 
-wordpress_id: 833
+---
+comments_archived: true
+date: '2006-01-21T01:54:30-05:00'
 layout: post
-title: A bit of newsRiver hackery
-date: "2006-01-21T01:54:30-05:00"
-tags: 
+tags:
 - asides
 - rss
 - syndication
@@ -14,6 +13,8 @@ tags:
 - userland
 - usertalk
 - dwiner
+title: A bit of newsRiver hackery
+wordpress_id: 833
 wordpress_slug: a-bit-of-newsriver-hackery
 wordpress_url: http://decafbad.com/blog/?p=833
 ---
@@ -41,3 +42,27 @@ In any case, do what you like with this work.  I hope it's useful to someone out
 [oe]: http://www.opml.org
 [newsriver]: http://www.newsriver.org/
 [fs]: http://decafbad.com/blog/2005/10/05/feedspool-is-progressing-nicely
+
+<div id="comments" class="comments archived-comments">
+            <h3>Archived Comments</h3>
+            
+        <ul class="comments">
+            
+        <li class="comment" id="comment-221084999">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://donovanwatts.com/"><img src="http://www.gravatar.com/avatar.php?gravatar_id=188ad8b4dc99107d22c8b868e45f0508&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://donovanwatts.com/">Donovan Watts</a>
+                </div>
+                <a href="#comment-221084999" class="permalink"><time datetime="2006-01-21T07:55:24">2006-01-21T07:55:24</time></a>
+            </div>
+            <div class="content"><p>neat! i much prefer this interface. thanks much.</p></div>
+            
+        </li>
+    
+        </ul>
+    
+        </div>
+    

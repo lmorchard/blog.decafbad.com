@@ -1,8 +1,9 @@
---- 
-wordpress_id: 418
+---
+comments_archived: true
+date: '2003-05-19T13:02:48-04:00'
 layout: post
 title: You've Got Your Whuffie in My Aggregator!
-date: "2003-05-19T13:02:48-04:00"
+wordpress_id: 418
 wordpress_slug: serval-whuffie-agg
 wordpress_url: http://www.decafbad.com/blog/?p=418
 ---
@@ -25,3 +26,69 @@ Right-handed whuffie being, of course, the accumulation of whuffie an item
 has be given by authors to whom I've given lots of whuffie.
 <!--more-->
 shortname=serval_whuffie_agg
+
+<div id="comments" class="comments archived-comments">
+            <h3>Archived Comments</h3>
+            
+        <ul class="comments">
+            
+        <li class="comment" id="comment-221088930">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://www.waxwolf.com/blosxom.cgi"><img src="http://www.gravatar.com/avatar.php?gravatar_id=c610effa1070c7a7a4cb3b3e138a023a&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://www.waxwolf.com/blosxom.cgi">Taper Wickel</a>
+                </div>
+                <a href="#comment-221088930" class="permalink"><time datetime="2003-05-19T16:01:04">2003-05-19T16:01:04</time></a>
+            </div>
+            <div class="content">I've been using amphetaoutlines for a while now, and the one trouble I've had with its sorting is that if I read an item in the aggregator itself it's not up-ranked.  And I prefer to read the items in amphetadesk if I can.  (I'm not sure there's a good way to track such a thing, though.)</div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221088934">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://www.decafbad.com"><img src="http://www.gravatar.com/avatar.php?gravatar_id=2ac2cffd36ada8c734b90e02a1e5c1ac&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://www.decafbad.com">l.m.orchard</a>
+                </div>
+                <a href="#comment-221088934" class="permalink"><time datetime="2003-05-19T16:08:49">2003-05-19T16:08:49</time></a>
+            </div>
+            <div class="content">Yeah, there is that.  I had been meaning for awhile to have some mechanism for informing AmphetaDesk when an outline triangle on an item was opened, and allow one level of thumbs up for that, and maybe another higher weight thumbs up for clicking on the link</div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221088935">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href=""><img src="http://www.gravatar.com/avatar.php?gravatar_id=53617e52a0ccf29f19c750e312df0f31&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="">steve</a>
+                </div>
+                <a href="#comment-221088935" class="permalink"><time datetime="2003-06-01T14:09:57">2003-06-01T14:09:57</time></a>
+            </div>
+            <div class="content">on the subject of amphetadesk with amphetaoutlines, im having a problem whereby amphetadesk takes up 125meg of ram all the time, is this a problem with amphetadesk in general or is it due to amphetaoutlines? also anyone know when a new version of amphetadesk or amphetaoutlines is coming out?</div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221088937">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href=""><img src="http://www.gravatar.com/avatar.php?gravatar_id=53617e52a0ccf29f19c750e312df0f31&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="">steve</a>
+                </div>
+                <a href="#comment-221088937" class="permalink"><time datetime="2003-06-01T14:10:11">2003-06-01T14:10:11</time></a>
+            </div>
+            <div class="content">on the subject of amphetadesk with amphetaoutlines, im having a problem whereby amphetadesk takes up 125meg of ram all the time, is this a problem with amphetadesk in general or is it due to amphetaoutlines? also anyone know when a new version of amphetadesk or amphetaoutlines is coming out?</div>
+            
+        </li>
+    
+        </ul>
+    
+        </div>
+    

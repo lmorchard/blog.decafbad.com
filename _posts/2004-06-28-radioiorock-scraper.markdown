@@ -1,11 +1,19 @@
---- 
-wordpress_id: 531
+---
+comments_archived: true
+date: '2004-06-28T19:17:36-04:00'
+excerpt: Lately, my iTunes has been playing radioio Rock almost exclusively
+    lately, but one thing that peeves me is that I don't seem to see the
+    current song while the stream's playing.  Instead, the radioio site
+    offers a pop-up window that displays the last few songs in the playlist.  However,
+    I'm usually somewhere off in another window or a shell and don't really
+    feel like popping over to a browser and navigating to the playlist just
+    to see what this song is.  So, I wrote myself a little mini-scraper
+    script...
 layout: post
-title: A mini-scraper for the playlist at radioio Rock
-excerpt: Lately, my iTunes has been playing radioio Rock almost exclusively lately, but one thing that peeves me is that I don't seem to see the current song while the stream's playing.  Instead, the radioio site offers a pop-up window that displays the last few songs in the playlist.  However, I'm usually somewhere off in another window or a shell and don't really feel like popping over to a browser and navigating to the playlist just to see what this song is.  So, I wrote myself a little mini-scraper script...
-date: "2004-06-28T19:17:36-04:00"
-tags: 
+tags:
 - hacks
+title: A mini-scraper for the playlist at radioio Rock
+wordpress_id: 531
 wordpress_slug: radioiorock-scraper
 wordpress_url: http://www.decafbad.com/blog/?p=531
 ---
@@ -57,3 +65,67 @@ ShareAndEnjoy!
 [eclectic]: http://www.radioio.com/radioioeclectic.php?stream=radioioEclectic
 <!--more-->
 shortname=radioiorock_scraper
+
+<div id="comments" class="comments archived-comments">
+            <h3>Archived Comments</h3>
+            
+        <ul class="comments">
+            
+        <li class="comment" id="comment-221087229">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://www.bytecloud.com"><img src="http://www.gravatar.com/avatar.php?gravatar_id=7388f3fd9cfa9436c5282542aaccf4fd&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://www.bytecloud.com">Mike Carter</a>
+                </div>
+                <a href="#comment-221087229" class="permalink"><time datetime="2004-07-01T07:39:45">2004-07-01T07:39:45</time></a>
+            </div>
+            <div class="content">I was listening to some streams today for the first time in a while and I was thinking how annoying it was not to know the track names.  Thanks for posting this, it may come in handy!</div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221087231">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://cpe000103c34069-cm014300001653.cpe.net.cable.rogers.com/weblogs/ben/"><img src="http://www.gravatar.com/avatar.php?gravatar_id=871196de9b27ed994c30428eed59073c&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://cpe000103c34069-cm014300001653.cpe.net.cable.rogers.com/weblogs/ben/">Gnomon</a>
+                </div>
+                <a href="#comment-221087231" class="permalink"><time datetime="2004-07-01T18:31:58">2004-07-01T18:31:58</time></a>
+            </div>
+            <div class="content">How is this the first time I've ever found out about XML Starlet? It's magnificent!
+
+The application is cool, too, but /man/ - I'm going to have fun with XML Starlet. Thanks so very much for the pointer, Les!</div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221087232">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://www.radioio.com/"><img src="http://www.gravatar.com/avatar.php?gravatar_id=0cfcb3aefaca714528c009a68810e8ec&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://www.radioio.com/">Jesse</a>
+                </div>
+                <a href="#comment-221087232" class="permalink"><time datetime="2005-01-23T11:50:41">2005-01-23T11:50:41</time></a>
+            </div>
+            <div class="content">I was searching around with blowsearch.com today (which btw blows heheh) and found this entry.  This earl might be of interest to ya:
+http://69.28.133.51:1040/7.html
+The db for searchplay and our players is only updated every 30 seconds, 7.html is near reatime right from our playback software.  :)
+
+We used to have title streaming on our mp3 streams but are in transition of server and encoding software atm while we prepare to roll out our own software, and will be adding new formats such as heaac.  :)
+
+Too much to talk about, we have a LOT of stuff planned for 2005-2006 that we've been working on (and patent pending) for years now.  Definately going to be exciting time for net radio.  Thanks for your interest Leslie.
+
+jesse
+chief tinkerer of toys,
+radioio</div>
+            
+        </li>
+    
+        </ul>
+    
+        </div>
+    

@@ -1,14 +1,15 @@
---- 
-wordpress_id: 726
+---
+comments_archived: true
+date: '2005-10-08T13:21:30-04:00'
 layout: post
-title: DOM Scripting sounds like a fine book
-date: "2005-10-08T13:21:30-04:00"
-tags: 
+tags:
 - asides
 - webdev
 - writing
 - javascript
 - books
+title: DOM Scripting sounds like a fine book
+wordpress_id: 726
 wordpress_slug: dom-scripting-sounds-like-a-fine-book
 wordpress_url: http://decafbad.com/blog/?p=726
 ---
@@ -27,3 +28,41 @@ This is exactly how I felt, too.  Congratulations, Jeremy!  I'm going to have to
 [trans]: http://decafbad.com/blog/2004/05/25/i-was-a-pre-teen-transactor-author-wannabe-and-still-am
 
 <!-- tags: books writing javascript webdev -->
+
+<div id="comments" class="comments archived-comments">
+            <h3>Archived Comments</h3>
+            
+        <ul class="comments">
+            
+        <li class="comment" id="comment-221087064">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://domscripting.com/"><img src="http://www.gravatar.com/avatar.php?gravatar_id=b92a329df428bcda0822b25a110ab5ac&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://domscripting.com/">Jeremy Keith</a>
+                </div>
+                <a href="#comment-221087064" class="permalink"><time datetime="2005-10-09T00:42:48">2005-10-09T00:42:48</time></a>
+            </div>
+            <div class="content"><p>Thanks, Leslie. I think you can relate to how I'm feeling right now.</p></div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221087066">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://bt2net.org/"><img src="http://www.gravatar.com/avatar.php?gravatar_id=61087c5f5f3f410280fb5c9dd4786582&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://bt2net.org/">Warren Fischer</a>
+                </div>
+                <a href="#comment-221087066" class="permalink"><time datetime="2005-10-09T10:51:38">2005-10-09T10:51:38</time></a>
+            </div>
+            <div class="content"><p>This book makes sense in a clear, and consice way that most tech books don't. His examples are great, and his writing style is very readable. Thanks!</p></div>
+            
+        </li>
+    
+        </ul>
+    
+        </div>
+    

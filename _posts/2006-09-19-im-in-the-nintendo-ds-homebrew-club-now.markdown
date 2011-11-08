@@ -1,9 +1,8 @@
---- 
-wordpress_id: 996
+---
+comments_archived: true
+date: '2006-09-19T12:16:12-04:00'
 layout: post
-title: i'm in the nintendo ds homebrew club now
-date: "2006-09-19T12:16:12-04:00"
-tags: 
+tags:
 - asides
 - hacks
 - gaming
@@ -11,6 +10,8 @@ tags:
 - ds
 - homebrew
 - software
+title: i'm in the nintendo ds homebrew club now
+wordpress_id: 996
 wordpress_slug: im-in-the-nintendo-ds-homebrew-club-now
 wordpress_url: http://decafbad.com/blog/2006/09/19/im-in-the-nintendo-ds-homebrew-club-now
 ---
@@ -24,3 +25,43 @@ I've just received a [Passcard 3][pc3] in the mail.  Nintendo DS homebrew, here 
 [pc3]: http://www.divineo.com/cgi-bin/div-us/dd-ds-pssc
 [nt]: http://nitrotracker.tobw.net/index.php
 [svm]: http://scummvm.drunkencoders.com/
+
+<div id="comments" class="comments archived-comments">
+            <h3>Archived Comments</h3>
+            
+        <ul class="comments">
+            
+        <li class="comment" id="comment-221082362">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://foosel.net"><img src="http://www.gravatar.com/avatar.php?gravatar_id=bc9bc547d634817fe7ca6348119b0eaf&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://foosel.net">foosel</a>
+                </div>
+                <a href="#comment-221082362" class="permalink"><time datetime="2006-09-24T22:43:08">2006-09-24T22:43:08</time></a>
+            </div>
+            <div class="content"><p>Congratulations on the Passcard ;) I got one myself a couple of months ago, including a M3 CF, and playing Monkey Island on the DS rocks ;) I have to warn you though concerning SD based units, there were a couple of issues not so long ago with several homebrew apps (including Scumm), and write-support for SD is afaik still rather new in the standard fat-lib used by homebrew devs. So you might want to make sure that your most beloved or interesting apps will actually work like expected prior to spending loads of money.</p></div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221082363">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://twitter.com/adammokan"><img src="http://disqus.com/api/users/avatars/amokan.jpg"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://twitter.com/adammokan">Adam Mokan</a>
+                </div>
+                <a href="#comment-221082363" class="permalink"><time datetime="2006-09-28T04:21:30">2006-09-28T04:21:30</time></a>
+            </div>
+            <div class="content"><p>How does the Passcard 3 fit in the DS? I've heard that its a real tight fit and you really have to force it to "click".</p>
+
+<p>I'm getting ready to break down and buy some homebrew stuff for mine.</p></div>
+            
+        </li>
+    
+        </ul>
+    
+        </div>
+    

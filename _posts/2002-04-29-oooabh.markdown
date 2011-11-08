@@ -1,8 +1,9 @@
---- 
-wordpress_id: 108
+---
+comments_archived: true
+date: '2002-04-29T05:41:35-04:00'
 layout: post
 title: REST, Part the Third.
-date: "2002-04-29T05:41:35-04:00"
+wordpress_id: 108
 wordpress_slug: oooabh
 wordpress_url: http://www.decafbad.com/blog/?p=108
 ---
@@ -21,3 +22,27 @@ wordpress_url: http://www.decafbad.com/blog/?p=108
 <p>Now that I understand <a href="http://www.decafbad.com/twiki/bin/view/Main/REST">REST</a> better, I see that I could possibly do most of what I do with SOAP and XML-RPC in a <a href="http://www.decafbad.com/twiki/bin/view/Main/REST">REST</a>ful manner with a bit of brain bending.  It reminds me of <a href="http://www.decafbad.com/news_archives/000090.shtml#000090">threaded versus async / event driven</a> programming.  But I don't know why I should bother: I'm still looking for the payback of <a href="http://www.decafbad.com/twiki/bin/view/Main/REST">REST</a> and I'm still looking for the danger inherent in the RPC model.  </p>
 <!--more-->
 shortname=oooabh
+
+<div id="comments" class="comments archived-comments">
+            <h3>Archived Comments</h3>
+            
+        <ul class="comments">
+            
+        <li class="comment" id="comment-221086422">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://chris.wiw.org/"><img src="http://www.gravatar.com/avatar.php?gravatar_id=41a3710dfca25cec2382a08ffb7cdba5&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://chris.wiw.org/">Christopher Heschong</a>
+                </div>
+                <a href="#comment-221086422" class="permalink"><time datetime="2002-04-29T18:56:25">2002-04-29T18:56:25</time></a>
+            </div>
+            <div class="content">Dave's original post said something like: "Oy, these weenies should stop talking and start writing scripts."</div>
+            
+        </li>
+    
+        </ul>
+    
+        </div>
+    

@@ -1,15 +1,16 @@
---- 
-wordpress_id: 1286
+---
+comments_archived: true
+date: '2008-08-31T00:07:22-04:00'
 layout: post
-title: Ubiquity cracks open personal mashup tinkering
-date: "2008-08-31T00:07:22-04:00"
-tags: 
+tags:
 - webdev
 - mashups
 - javascript
 - entries
 - mozilla
 - ubiquity
+title: Ubiquity cracks open personal mashup tinkering
+wordpress_id: 1286
 wordpress_slug: ubiquity-cracks-open-personal-mashup-tinkering
 wordpress_url: http://decafbad.com/blog/?p=1286
 ---
@@ -50,3 +51,135 @@ It'll be very interesting to see where this project goes.
 [bookmarklets]: http://en.wikipedia.org/wiki/Bookmarklet
 [ubiquity]: http://labs.mozilla.com/2008/08/introducing-ubiquity/
 [commands]: https://labs.toolness.com/ubiquity-herd/
+
+<div id="comments" class="comments archived-comments">
+            <h3>Archived Comments</h3>
+            
+        <ul class="comments">
+            
+        <li class="comment" id="comment-221089574">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href=""><img src="http://www.gravatar.com/avatar.php?gravatar_id=22b4e824255828f5aedd0e6e2558dc52&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="">Raul</a>
+                </div>
+                <a href="#comment-221089574" class="permalink"><time datetime="2008-08-31T10:20:58">2008-08-31T10:20:58</time></a>
+            </div>
+            <div class="content"><p>Hi, was using the original delicious command linked from the Ubiquity wiki, just tried yours and its definitely more polished and functional. Great job with the preview and the extra functionality. Only thing is 'share-to-delicious' is too much to type so I unsubscribed the previous command and changed the namespace in yours. This is clearly going to become a problems as the commands proliferate.</p></div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221089575">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://www.decafbad.com"><img src="http://www.gravatar.com/avatar.php?gravatar_id=2377f34a68801b861c3e54e1301f0dce&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://www.decafbad.com">l.m.orchard</a>
+                </div>
+                <a href="#comment-221089575" class="permalink"><time datetime="2008-08-31T14:43:39">2008-08-31T14:43:39</time></a>
+            </div>
+            <div class="content"><p>@Raul: "share-to-delicious" is long, but keep in mind is that you only need to type enough of the command to disambiguate it.  That is, all I type is "sh this tagged osx software apple" because I have no other commands starting with "sh".  Watch the list of commands in the preview as you type.  Those tell you what the parser thinks of what you're typing as you type.  It's like automatic tab-completion.</p>
+
+<p>Also, I think there's work planned to put some usage based sorting into the command parser, preferring the commands you use most in order of disambiguation.</p></div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221089576">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://abcdefu.wordpress.com"><img src="http://www.gravatar.com/avatar.php?gravatar_id=af8b180d6d4092fb42fe6b5e0b21536c&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://abcdefu.wordpress.com">Abi</a>
+                </div>
+                <a href="#comment-221089576" class="permalink"><time datetime="2008-08-31T15:33:24">2008-08-31T15:33:24</time></a>
+            </div>
+            <div class="content"><p>Nice post. I share your sentiment with regards to Ubiquity commands. A lot of commands that I see are just plain simple searches. I hope developers will work on more interesting things. For example, even things like auto-form filling for this comment (possibly even on page load without having to type a command) could be done by Ubiquity. There's still a lot more room for experimentation.</p></div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221089578">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://abcdefu.wordpress.com"><img src="http://www.gravatar.com/avatar.php?gravatar_id=af8b180d6d4092fb42fe6b5e0b21536c&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://abcdefu.wordpress.com">Abi</a>
+                </div>
+                <a href="#comment-221089578" class="permalink"><time datetime="2008-08-31T15:45:59">2008-08-31T15:45:59</time></a>
+            </div>
+            <div class="content"><p></p>
+
+<p>But otherwise, I <em>really</em> like your command especially the preivew. We should include it as a builtin command, if you don't mind. :)</p></div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221089580">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://abcdefu.wordpress.com"><img src="http://www.gravatar.com/avatar.php?gravatar_id=af8b180d6d4092fb42fe6b5e0b21536c&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://abcdefu.wordpress.com">Abi</a>
+                </div>
+                <a href="#comment-221089580" class="permalink"><time datetime="2008-08-31T15:51:20">2008-08-31T15:51:20</time></a>
+            </div>
+            <div class="content"><p>I noticed a bug in your command. If I select some text in the awesomebar, the bookmark url is chrome. You should use something the command utils to get the url, instead.</p></div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221089582">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://www.decafbad.com"><img src="http://www.gravatar.com/avatar.php?gravatar_id=2377f34a68801b861c3e54e1301f0dce&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://www.decafbad.com">l.m.orchard</a>
+                </div>
+                <a href="#comment-221089582" class="permalink"><time datetime="2008-09-01T06:17:37">2008-09-01T06:17:37</time></a>
+            </div>
+            <div class="content"><p>@Abi: Making this a built-in command is totally fine by me!  It can use more work, though, for sure.</p>
+
+<p>Also, I can reproduce that bug.  Ugh.  I can't find any methods in the CmdUtils to get the current page URL, though.  I'll keep poking a bit though.</p></div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221089584">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://abcdefu.wordpress.com"><img src="http://www.gravatar.com/avatar.php?gravatar_id=af8b180d6d4092fb42fe6b5e0b21536c&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://abcdefu.wordpress.com">Abi</a>
+                </div>
+                <a href="#comment-221089584" class="permalink"><time datetime="2008-09-01T06:50:23">2008-09-01T06:50:23</time></a>
+            </div>
+            <div class="content"><p>Your blog seems to be rejecting code (that's why I had so many posts in the first place). You can get the current page url using (with dots):</p>
+
+<p>CmdUtils  getDocumentInsecure() location href</p></div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221089586">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://theunfocused.net/"><img src="http://www.gravatar.com/avatar.php?gravatar_id=738af918f39d544f8b0d765850c986f8&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://theunfocused.net/">Blair McBride</a>
+                </div>
+                <a href="#comment-221089586" class="permalink"><time datetime="2008-09-02T02:50:12">2008-09-02T02:50:12</time></a>
+            </div>
+            <div class="content"><p>I recommend against using getDocumentInsecure() - its got "Insecure" in its name for a reason! Instead, you should use:</p>
+
+<p>Application.activeWindow.activeTab.uri.spec</p></div>
+            
+        </li>
+    
+        </ul>
+    
+        </div>
+    

@@ -1,8 +1,9 @@
---- 
-wordpress_id: 227
+---
+comments_archived: true
+date: '2002-08-21T16:22:30-04:00'
 layout: post
 title: On grousing about Dave's exit from a mailing list
-date: "2002-08-21T16:22:30-04:00"
+wordpress_id: 227
 wordpress_slug: ooobeo
 wordpress_url: http://www.decafbad.com/blog/?p=227
 ---
@@ -17,3 +18,73 @@ wordpress_url: http://www.decafbad.com/blog/?p=227
 <p>On the other hand, maybe he just thinks he doesn't need any help of this sort and has the sheer magnitude of innovational mojo to leave us all in the dust.  If so, rock on.  :)  As for me, I just joined the list.</p>
 <!--more-->
 shortname=ooobeo
+
+<div id="comments" class="comments archived-comments">
+            <h3>Archived Comments</h3>
+            
+        <ul class="comments">
+            
+        <li class="comment" id="comment-221082938">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://radio.weblogs.com/0100875"><img src="http://www.gravatar.com/avatar.php?gravatar_id=49fee9c8389d0310cceb32653dd7fdd8&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://radio.weblogs.com/0100875">mikel</a>
+                </div>
+                <a href="#comment-221082938" class="permalink"><time datetime="2002-08-21T17:13:28">2002-08-21T17:13:28</time></a>
+            </div>
+            <div class="content">Yes, that was a sticky start to the group. Thanks for taking your thoughts on this off the group. Hopefully,  we've quickly learned and moved on, and the group will be cordial and productive. 
+And we may yet see Dave's return (his opinions are valued), if the tone stays that way.</div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221082941">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://www.decafbad.com"><img src="http://www.gravatar.com/avatar.php?gravatar_id=2ac2cffd36ada8c734b90e02a1e5c1ac&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://www.decafbad.com">l.m.orchard</a>
+                </div>
+                <a href="#comment-221082941" class="permalink"><time datetime="2002-08-21T17:35:46">2002-08-21T17:35:46</time></a>
+            </div>
+            <div class="content">I'd thought about writing something little to the list, but no.  I don't want to contribute to the noise when I personally want to see lots of signal.  So I won't write until I have something to say or see something for which I have a reply - about news aggregation.  After all, that is the topic :)</div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221082946">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://tmp.i.am"><img src="http://www.gravatar.com/avatar.php?gravatar_id=17f6429a1d1ad51ce5607b1dea69fe06&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://tmp.i.am">Doug L</a>
+                </div>
+                <a href="#comment-221082946" class="permalink"><time datetime="2002-08-24T02:35:35">2002-08-24T02:35:35</time></a>
+            </div>
+            <div class="content">other UserLand-related thoughts I've hate lately 
+
+Semi-intentional typo, or Freudian finger-slip?
+Hmmm...</div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221082949">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://www.decafbad.com"><img src="http://www.gravatar.com/avatar.php?gravatar_id=2ac2cffd36ada8c734b90e02a1e5c1ac&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://www.decafbad.com">l.m.orchard</a>
+                </div>
+                <a href="#comment-221082949" class="permalink"><time datetime="2002-08-24T02:37:07">2002-08-24T02:37:07</time></a>
+            </div>
+            <div class="content">D'oht.  Didn't *intend* the that meaning.  :)  I really do like UserLand.  hehe</div>
+            
+        </li>
+    
+        </ul>
+    
+        </div>
+    

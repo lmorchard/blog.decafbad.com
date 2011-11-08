@@ -1,8 +1,9 @@
---- 
-wordpress_id: 655
+---
+comments_archived: true
+date: '2005-06-22T18:23:47-04:00'
 layout: post
 title: Fun and not-so-fun
-date: "2005-06-22T18:23:47-04:00"
+wordpress_id: 655
 wordpress_slug: fun-and-not-so-fun
 wordpress_url: http://www.decafbad.com/blog/?p=655
 ---
@@ -34,3 +35,55 @@ wordpress_url: http://www.decafbad.com/blog/?p=655
 [base64]: http://www.freevbcode.com/ShowCode.asp?ID=5248
 [file]: http://aspzone.com/articles/160.aspx
 [cdonts]: http://www.mostlylucid.co.uk/archive/2003/10/15/589.aspx
+
+<div id="comments" class="comments archived-comments">
+            <h3>Archived Comments</h3>
+            
+        <ul class="comments">
+            
+        <li class="comment" id="comment-221086027">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://rasterweb.net/"><img src="http://www.gravatar.com/avatar.php?gravatar_id=db0fab74bcb564ebb09295498b892fb6&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://rasterweb.net/">Pete Prodoehl</a>
+                </div>
+                <a href="#comment-221086027" class="permalink"><time datetime="2005-06-22T20:02:05">2005-06-22T20:02:05</time></a>
+            </div>
+            <div class="content">After "classic ASP 3.0" I just kept mutter "poor bastard" and couldn't even muster up the courage to read on. I've felt your pain...</div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221086029">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://www.nickfitz.co.uk/"><img src="http://www.gravatar.com/avatar.php?gravatar_id=b09e3490d1406cd1d752c774f9d5e711&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://www.nickfitz.co.uk/">Nick Fitzsimons</a>
+                </div>
+                <a href="#comment-221086029" class="permalink"><time datetime="2005-06-23T12:30:52">2005-06-23T12:30:52</time></a>
+            </div>
+            <div class="content">Ah, the pain... I had to do something similar a few years ago, and it's not fun at all - especially as I had to add in a scheduled task to automatically get the stuff from the mailbox (WSH POP3 client, anyone?), de-Base64 it and upload it onto an intranet server... those were the days :-)</div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221086032">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://therealadam.com"><img src="http://www.gravatar.com/avatar.php?gravatar_id=930993d33d2ce457bf871158e688a2fa&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://therealadam.com">Adam Keys</a>
+                </div>
+                <a href="#comment-221086032" class="permalink"><time datetime="2005-06-28T20:46:30">2005-06-28T20:46:30</time></a>
+            </div>
+            <div class="content">All that and no felonies committed?  You are a saint!</div>
+            
+        </li>
+    
+        </ul>
+    
+        </div>
+    

@@ -1,8 +1,9 @@
---- 
-wordpress_id: 477
+---
+comments_archived: true
+date: '2003-09-05T11:10:53-04:00'
 layout: post
 title: White Hat Worms and robots.txt?
-date: "2003-09-05T11:10:53-04:00"
+wordpress_id: 477
 wordpress_slug: superworm
 wordpress_url: http://www.decafbad.com/blog/?p=477
 ---
@@ -23,3 +24,135 @@ wordpress_url: http://www.decafbad.com/blog/?p=477
 	<p>Anyway, it&#8217;s a whacky idea to a whacky problem that just might work.</p>
 <!--more-->
 shortname=superworm
+
+<div id="comments" class="comments archived-comments">
+            <h3>Archived Comments</h3>
+            
+        <ul class="comments">
+            
+        <li class="comment" id="comment-221086264">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://www.dme.org"><img src="http://www.gravatar.com/avatar.php?gravatar_id=ba95ba57f948f9de1d4a101bb84cca3a&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://www.dme.org">David Edmondson</a>
+                </div>
+                <a href="#comment-221086264" class="permalink"><time datetime="2003-09-05T11:23:25">2003-09-05T11:23:25</time></a>
+            </div>
+            <div class="content">How would a system tell the difference between white hat and black hat
+worms or virii when they arrive?  Distributed trust network?</div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221086265">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://www.decafbad.com/blog"><img src="http://www.gravatar.com/avatar.php?gravatar_id=2ac2cffd36ada8c734b90e02a1e5c1ac&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://www.decafbad.com/blog">l.m.orchard</a>
+                </div>
+                <a href="#comment-221086265" class="permalink"><time datetime="2003-09-05T11:45:13">2003-09-05T11:45:13</time></a>
+            </div>
+            <div class="content">Well, my incredibly naive idea is this:  White hats knock (ie. contact a known local service), and go away if told to.  Black hats sneak in the back door as usual.</div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221086266">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://webseitz.fluxent.com/wiki"><img src="http://www.gravatar.com/avatar.php?gravatar_id=5a70d939a73fa73603f2a9255ab81d21&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://webseitz.fluxent.com/wiki">BillSeitz</a>
+                </div>
+                <a href="#comment-221086266" class="permalink"><time datetime="2003-09-05T12:04:31">2003-09-05T12:04:31</time></a>
+            </div>
+            <div class="content">I think this is a bad line to cross. It's harder to argue against RIAA worms when you're supporting other "good causes" worms.
+
+Unfortunately I don't have any great alternative ideas.
+
+Get the OEMs to bundle ZoneAlarm lite? (Get ZoneAlarm to make a version that's tweaked to scare clueless users into paranoid fears?)</div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221086269">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://www.decafbad.com/blog"><img src="http://www.gravatar.com/avatar.php?gravatar_id=2ac2cffd36ada8c734b90e02a1e5c1ac&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://www.decafbad.com/blog">l.m.orchard</a>
+                </div>
+                <a href="#comment-221086269" class="permalink"><time datetime="2003-09-05T13:45:05">2003-09-05T13:45:05</time></a>
+            </div>
+            <div class="content">Hmm, maybe.  Though I'd still say that, if worms sent out by the RIAA don't go away when told, they're rogue.  The only worms with white hats are the ones that stop other worms and virii.  Anything else is unwelcome, and subject to neutralization by other worms.
+
+Hmm.  But yeah, lots of issues and it's a very naive idea</div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221086270">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://geocities.com/free_love98"><img src="http://www.gravatar.com/avatar.php?gravatar_id=91a4687b3f3c6a42953676d422fbc199&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://geocities.com/free_love98">sunny</a>
+                </div>
+                <a href="#comment-221086270" class="permalink"><time datetime="2003-09-05T15:11:22">2003-09-05T15:11:22</time></a>
+            </div>
+            <div class="content">i actually thought your idea was awesome...just send out worms to fix security holes and they respect your no worms directive unless you specifically allow them in...
+nice site i'll come back later.</div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221086271">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://webseitz.fluxent.com/wiki"><img src="http://www.gravatar.com/avatar.php?gravatar_id=5a70d939a73fa73603f2a9255ab81d21&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://webseitz.fluxent.com/wiki">BillSeitz</a>
+                </div>
+                <a href="#comment-221086271" class="permalink"><time datetime="2003-09-05T16:43:01">2003-09-05T16:43:01</time></a>
+            </div>
+            <div class="content">Another thought: have a site that tests the holes in your computer when you ask it to. Then you need someone like EFF to promote it. But at least it's a 1-stop-shop.</div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221086272">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://webseitz.fluxent.com/wiki"><img src="http://www.gravatar.com/avatar.php?gravatar_id=5a70d939a73fa73603f2a9255ab81d21&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://webseitz.fluxent.com/wiki">BillSeitz</a>
+                </div>
+                <a href="#comment-221086272" class="permalink"><time datetime="2003-09-05T16:49:47">2003-09-05T16:49:47</time></a>
+            </div>
+            <div class="content">Another step back: aren't pretty much all the victims of these big worms users who click on email attachments?
+
+(Sorry if that's a stupid question, I haven't been playing close attention to the technical coverage of the latest infections...)</div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221086273">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href=""><img src="http://www.gravatar.com/avatar.php?gravatar_id=673077cfcaedce7b37ff753d6100560a&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="">John Burton</a>
+                </div>
+                <a href="#comment-221086273" class="permalink"><time datetime="2003-09-06T11:57:52">2003-09-06T11:57:52</time></a>
+            </div>
+            <div class="content">What happens if I'm running some private protocol on a port and this comes along and tried to send some other random data and breaks things? Not a good idea</div>
+            
+        </li>
+    
+        </ul>
+    
+        </div>
+    

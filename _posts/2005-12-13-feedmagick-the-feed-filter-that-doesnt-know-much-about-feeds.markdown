@@ -1,8 +1,9 @@
---- 
-wordpress_id: 795
+---
+comments_archived: true
+date: '2005-12-13T01:26:42-05:00'
 layout: post
 title: FeedMagick, the feed filter that doesn't know much about feeds
-date: "2005-12-13T01:26:42-05:00"
+wordpress_id: 795
 wordpress_slug: feedmagick-the-feed-filter-that-doesnt-know-much-about-feeds
 wordpress_url: http://decafbad.com/blog/?p=795
 ---
@@ -66,3 +67,29 @@ So, yeah.  This might all be obvious to some people, but it all finally made a l
 [b]: http://decafbad.com/blog/2005/12/09/rss-plumbing-in-php-nowhere-to-be-found
 
 <!-- tags: rss atom feed syndication php hackingfeeds -->
+
+<div id="comments" class="comments archived-comments">
+            <h3>Archived Comments</h3>
+            
+        <ul class="comments">
+            
+        <li class="comment" id="comment-221082611">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://harold.hotelling.net/"><img src="http://www.gravatar.com/avatar.php?gravatar_id=5183bee2961385af94a500759bb7a372&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://harold.hotelling.net/">Harold</a>
+                </div>
+                <a href="#comment-221082611" class="permalink"><time datetime="2006-09-08T22:17:16">2006-09-08T22:17:16</time></a>
+            </div>
+            <div class="content"><p>This virtue of laziness and ignorance applies to dynamic programming languages as well, for the same reasons. Not pointed at you, but I see a lot of C++/Java people get very excited about how flexible XML is, but completely miss out on the idea that programming languages like &lt;holy-war&gt; Python Perl Ruby Lisp Scheme etc. &lt;/holy-war&gt; provide this flexibility for all their objects and data structures, all the time. I guess we could try to re-market dynamic languages as XPL &emdash; extensible programming languages.</p>
+
+<p>Well, sorry for the mini-rant. Welcome to the Bay Area.</p></div>
+            
+        </li>
+    
+        </ul>
+    
+        </div>
+    

@@ -1,9 +1,8 @@
---- 
-wordpress_id: 1310
+---
+comments_archived: true
+date: '2008-09-01T00:37:03-04:00'
 layout: post
-title: Writing a Delicious command for Ubiquity
-date: "2008-09-01T00:37:03-04:00"
-tags: 
+tags:
 - delicious
 - webdev
 - javascript
@@ -11,6 +10,8 @@ tags:
 - entries
 - mozilla
 - ubiquity
+title: Writing a Delicious command for Ubiquity
+wordpress_id: 1310
 wordpress_slug: writing-a-delicious-command-for-ubiquity
 wordpress_url: http://decafbad.com/blog/?p=1310
 ---
@@ -389,3 +390,216 @@ Finally, the `.execute()` method—and the command itself—is wrapped up with b
 And, that's it—a command-driven Delicious browser extension in a little over 200 lines of code.  There's still more to be done to really make this thing full-featured, but I think this shows off the basic features of Ubiquity.  I'm hoping to dig in deeper and explore further, taking a look at running Greasemonkey-style code at [browser startup and page load][load], as well as playing with some more browser chrome features.  
 
 [load]: https://wiki.mozilla.org/Labs/Ubiquity/Ubiquity_0.1_Author_Tutorial#Running_on_page_load_and_startup
+
+<div id="comments" class="comments archived-comments">
+            <h3>Archived Comments</h3>
+            
+        <ul class="comments">
+            
+        <li class="comment" id="comment-221085986">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://jclark.org/weblog/"><img src="http://www.gravatar.com/avatar.php?gravatar_id=d0a9ab4b71ce193e98b7284ca257e327&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://jclark.org/weblog/">Jason Clark</a>
+                </div>
+                <a href="#comment-221085986" class="permalink"><time datetime="2008-09-01T14:47:35">2008-09-01T14:47:35</time></a>
+            </div>
+            <div class="content"><p>First off-  fantastic post.  Great to see a lengthy post here again, although I'm one to talk.  This is an excellent introduction to Ubiquity command development, and tres useful to boot.</p>
+
+<p>I'm wondering why you chose to construct and post the XMLHttpRequest manually instead of using jQuery, which is included with Ubiquity.  I don't know that there's any benefit other than some simplicity, but I took a crack at converting your code to use jQuery, which works nicely.  In the 'execute' function, replace everything after "var url  = this._config.api_base + path;" with this (hope code blocks work in comments):</p>
+
+<p><code>
+        var win = context.focusedWindow;
+        var user_agent = win.navigator.userAgent + ";Ubiquity-share-on-delicious";</code></p>
+
+<pre><code>    jQuery.ajax({
+      type: "POST",
+      url: url,
+      data: this._buildQueryString(bm),
+      username: "cookie",
+      password: "cookie",
+      beforeSend: function( req ) {
+        req.setRequestHeader("User-Agent", user_agent); 
+      },
+      error: function() {
+        displayMessage('ERROR: Bookmark "' + bm.description + '" ' + 
+            ' NOT shared on delicious.com/' + user_name);
+      },
+      success: function() {
+        displayMessage('Bookmark "' + bm.description + '" ' + 
+            'shared at delicious.com/' + user_name);
+      },
+    });
+</code></pre>
+
+<p></p>
+
+<p>Also, with both versions of the code, I'm seeing some unexpected behavior around authentication.  Assume I'm logged in to delicious, with "stay logged in" checked, and I restart my browser.  Trying to post with the command fails with a 401 unauthorized, even though I can see the cookie was sent (via Live HTTP Headers extension).  Going to delicious.com shows me logged in, and once I've viewed the site, the command works.  Except that now I can't reproduce; but I know it happened because I've got the headers.  At any rate, it is working nicely, but the previous failure is bugging me... feel like I'm overlooking something.  </p>
+
+<p>Thanks again for an awesome post.  Hope to see more of the same.</p></div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221085988">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href=""><img src="http://www.gravatar.com/avatar.php?gravatar_id=e799a79441c7543be48562403411cd13&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="">Ryan Scott Scheel</a>
+                </div>
+                <a href="#comment-221085988" class="permalink"><time datetime="2008-09-01T15:07:01">2008-09-01T15:07:01</time></a>
+            </div>
+            <div class="content"><p>You should be helping with the documentation, if you aren't already.  Very nice job with this article;</p></div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221085991">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://azarask.in"><img src="http://www.gravatar.com/avatar.php?gravatar_id=e4307f205d017ba76647806951e14bb0&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://azarask.in">Aza Raskin</a>
+                </div>
+                <a href="#comment-221085991" class="permalink"><time datetime="2008-09-02T01:44:13">2008-09-02T01:44:13</time></a>
+            </div>
+            <div class="content"><p>Hi Leslie,</p>
+
+<p>This is a beautiful tutorial on writing a Ubiquity command. We'd love your help in making Ubiquity's documentation better (especially dev facing). You should totally link to this from the Ubiquity Wiki -- or even add the content in someway.</p>
+
+<p>Anyway, just wanted to say thanks.</p>
+
+<p>-- Aza</p></div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221085993">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://www.slackorama.com"><img src="http://www.gravatar.com/avatar.php?gravatar_id=15b474c86cd73c2d12c1d77af11c1d8a&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://www.slackorama.com">seth</a>
+                </div>
+                <a href="#comment-221085993" class="permalink"><time datetime="2008-09-08T17:30:16">2008-09-08T17:30:16</time></a>
+            </div>
+            <div class="content"><p>Am I doing something wrong?  </p>
+
+<p>When I enter in "sh this tagged tag1 tag2 entitled This is a title" everything after the tagged is added as a tag. It's not seeing the entitled part.</p></div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221085994">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://spyced.blogspot.com/"><img src="http://www.gravatar.com/avatar.php?gravatar_id=849810634810c960e5e7c27fa54a0f5b&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://spyced.blogspot.com/">http://spyced.blogspot.com/</a>
+                </div>
+                <a href="#comment-221085994" class="permalink"><time datetime="2008-09-15T19:12:58">2008-09-15T19:12:58</time></a>
+            </div>
+            <div class="content"><p>Did something break?  I'm getting a 404 accessing http://decafbad.com/hg/UbiquityCommands/file/tip/delicious.ubiq.js</p></div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221085995">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://www.decafbad.com"><img src="http://www.gravatar.com/avatar.php?gravatar_id=2377f34a68801b861c3e54e1301f0dce&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://www.decafbad.com">l.m.orchard</a>
+                </div>
+                <a href="#comment-221085995" class="permalink"><time datetime="2008-09-15T23:07:42">2008-09-15T23:07:42</time></a>
+            </div>
+            <div class="content"><p>Yeah, looks like I had a small snafu with switching back from Lighttpd to Apache.  Left out a rewrite rule - doh!</p></div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221085996">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href=""><img src="http://www.gravatar.com/avatar.php?gravatar_id=357a20e8c56e69d6f9734d23ef9517e8&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="">Tony</a>
+                </div>
+                <a href="#comment-221085996" class="permalink"><time datetime="2008-10-22T04:56:03">2008-10-22T04:56:03</time></a>
+            </div>
+            <div class="content"><p>Great article. This is replacing my delicious bookmarklet. Thanks!</p></div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221085997">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href=""><img src="http://www.gravatar.com/avatar.php?gravatar_id=31461076fcbce091ff822fc9ac31315d&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="">dgtlchlk</a>
+                </div>
+                <a href="#comment-221085997" class="permalink"><time datetime="2009-04-14T01:06:57">2009-04-14T01:06:57</time></a>
+            </div>
+            <div class="content"><p>Great article and command.
+Wish it worked correctly with the latest 0.1.8 release though. No matter what text you put in it adds everything as the notes. The tagged and entitled modifiers don't work.</p></div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221085999">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://www.nolanhergert.com"><img src="http://www.gravatar.com/avatar.php?gravatar_id=957e24509baf770ba57ad306e20f201c&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://www.nolanhergert.com">Nolan</a>
+                </div>
+                <a href="#comment-221085999" class="permalink"><time datetime="2009-04-16T03:10:07">2009-04-16T03:10:07</time></a>
+            </div>
+            <div class="content"><p>I second that comment. Delicious is actually saying the link given was "chrome://browser/content/browser.xul" and marking it as harmful inside delicious!</p></div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221086002">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href=""><img src="http://www.gravatar.com/avatar.php?gravatar_id=3d056a5b07c384647fe0806b0dfc429e&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="">Justin</a>
+                </div>
+                <a href="#comment-221086002" class="permalink"><time datetime="2009-07-06T12:39:39">2009-07-06T12:39:39</time></a>
+            </div>
+            <div class="content"><p>Hi Leslie,</p>
+
+<p>Thanks for the delicious ubiquity command. Unfortunately, as one of the commenters above mentions, the tagged modifier doesn't seem to work. I'm using Ubiquity 0.5 pre and typing the phrase:</p>
+
+<p>share tagged foo</p>
+
+<p>Adds the bookmark to Delicious with the note text "tagged foo"</p>
+
+<p>Cheers, Justin</p></div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221086004">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://ericscalf.com/stream"><img src="http://www.gravatar.com/avatar.php?gravatar_id=0775f9beff626496b86d7cb602e5f46f&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://ericscalf.com/stream">Eric</a>
+                </div>
+                <a href="#comment-221086004" class="permalink"><time datetime="2009-07-20T22:43:17">2009-07-20T22:43:17</time></a>
+            </div>
+            <div class="content"><p>Echoing others.. I'm using the latest ubiquity (err, next to latest.. 0.1.8?), and doing "share-on-delicious this is a note tagged testing" saves the link with notes "this is a note tagged testing" and no tags. :(  Then again, the other delicious command I've found (by someone else) is having the same issue.</p></div>
+            
+        </li>
+    
+        </ul>
+    
+        </div>
+    

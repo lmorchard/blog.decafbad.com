@@ -1,8 +1,9 @@
---- 
-wordpress_id: 513
+---
+comments_archived: true
+date: '2004-02-12T21:50:53-05:00'
 layout: post
 title: Colloquy, an insane IRC client for OS X
-date: "2004-02-12T21:50:53-05:00"
+wordpress_id: 513
 wordpress_slug: colloquy-irc
 wordpress_url: http://www.decafbad.com/blog/?p=513
 ---
@@ -73,3 +74,85 @@ for years, but it looks like fun to me!
 </p>
 <!--more-->
 shortname=colloquy_irc
+
+<div id="comments" class="comments archived-comments">
+            <h3>Archived Comments</h3>
+            
+        <ul class="comments">
+            
+        <li class="comment" id="comment-221083216">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://bdash.bluewire.net.nz"><img src="http://www.gravatar.com/avatar.php?gravatar_id=910672cccc603ff1c74b023b7243f424&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://bdash.bluewire.net.nz">Mark bdash Rowe</a>
+                </div>
+                <a href="#comment-221083216" class="permalink"><time datetime="2004-02-13T02:36:05">2004-02-13T02:36:05</time></a>
+            </div>
+            <div class="content">I picked up Colloquy several weeks ago after hearing about it via email.  It is a nice IRC program that makes good use of WebKit to provide easily customisable display.  Its ability to automatically identify yourself with a password to NickServ on the Freenode IRC network saves a lot of time.  It has one or two frustrating bugs that have prevented it from being my main IRC client.  When version 2.0 moves past beta status, I will definitely reconsider.</div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221083218">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://www.lesser-evil.com/"><img src="http://www.gravatar.com/avatar.php?gravatar_id=849f8815a45832c8f0ae2aba14881eca&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://www.lesser-evil.com/">Howard Jones</a>
+                </div>
+                <a href="#comment-221083218" class="permalink"><time datetime="2004-02-14T17:01:18">2004-02-14T17:01:18</time></a>
+            </div>
+            <div class="content">Source is right there in the SourceForge CVS repository...</div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221083223">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href=""><img src="http://www.gravatar.com/avatar.php?gravatar_id=c775a4d231ca5311e135a20d5543916b&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="">paul</a>
+                </div>
+                <a href="#comment-221083223" class="permalink"><time datetime="2004-04-26T08:49:17">2004-04-26T08:49:17</time></a>
+            </div>
+            <div class="content">I enjoy reading nice things about colloquy because I think its a great client also, but contrary to the above post, it emphatically does support multiple servers.  Thats one of my favorite features.</div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221083224">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://www.decafbad.com/"><img src="http://www.gravatar.com/avatar.php?gravatar_id=8a5273f79cfe7579ad46023f93377aa8&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://www.decafbad.com/">l.m.orchard</a>
+                </div>
+                <a href="#comment-221083224" class="permalink"><time datetime="2004-04-26T08:55:04">2004-04-26T08:55:04</time></a>
+            </div>
+            <div class="content">Oh, yeah source is available and multiple servers are supported for Colloquy...
+
+I was referring to Conversation, which doesn't support multiple servers or offer source.</div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221083226">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href=""><img src="http://www.gravatar.com/avatar.php?gravatar_id=07f15a410065bddf69c12ce5e4b27d08&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="">Art</a>
+                </div>
+                <a href="#comment-221083226" class="permalink"><time datetime="2006-09-24T06:24:32">2006-09-24T06:24:32</time></a>
+            </div>
+            <div class="content"><p>Careful with recent versions of Colloquy. After a recent upgrade (announced and downloaded via the application) corrupted its own data store of rooms in the connections window. Has this happened to anyone else?</p></div>
+            
+        </li>
+    
+        </ul>
+    
+        </div>
+    

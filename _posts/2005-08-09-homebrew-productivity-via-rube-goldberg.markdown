@@ -1,8 +1,9 @@
---- 
-wordpress_id: 673
+---
+comments_archived: true
+date: '2005-08-09T09:59:00-04:00'
 layout: post
 title: Homebrew Productivity via Rube Goldberg
-date: "2005-08-09T09:59:00-04:00"
+wordpress_id: 673
 wordpress_slug: homebrew-productivity-via-rube-goldberg
 wordpress_url: http://www.decafbad.com/blog/?p=673
 ---
@@ -33,3 +34,47 @@ For my next productivity micro-project, I'm thinking of setting up an email gate
 [zire]: http://www.palm.com/us/products/zire/
 [markdown]: http://daringfireball.net/projects/markdown/
 [crash]: http://www.decafbad.com/blog/2005/07/05/exocortex_stroke
+
+<div id="comments" class="comments archived-comments">
+            <h3>Archived Comments</h3>
+            
+        <ul class="comments">
+            
+        <li class="comment" id="comment-221082876">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://webseitz.fluxent.com/wiki"><img src="http://www.gravatar.com/avatar.php?gravatar_id=8157a5907b244071cda98ba5aa7a9635&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://webseitz.fluxent.com/wiki">Bill Seitz</a>
+                </div>
+                <a href="#comment-221082876" class="permalink"><time datetime="2005-08-09T13:50:46">2005-08-09T13:50:46</time></a>
+            </div>
+            <div class="content">So the focus in this posting is on the unstructured-note area, not on Address Books, Calendar, etc., right?
+
+I'm pretty sure there's a little wiki that runs on Palm, just layering name-clickability on top of notes.
+
+I just got PikiPiki running on my Zaurus. I need to start playing with models of having a big PrivateWiki on my ibook, and moving subsets back and forth to the Zaurus...
+
+http://webseitz.fluxent.com/wiki/WikiOnZaurus</div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221082878">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://go-blog-go.blogspot.com"><img src="http://www.gravatar.com/avatar.php?gravatar_id=a9c49b00e73397cbd99fcf159104dd90&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://go-blog-go.blogspot.com">Saltation</a>
+                </div>
+                <a href="#comment-221082878" class="permalink"><time datetime="2005-09-21T09:48:10">2005-09-21T09:48:10</time></a>
+            </div>
+            <div class="content">a good tool for taking a task outline and automatically calculating which task is more important where and when is http://llamagraphics.com .  most people register it within a week and i, an inveterate computer-to-do-app hater, am still using it daily 6 years later.</div>
+            
+        </li>
+    
+        </ul>
+    
+        </div>
+    

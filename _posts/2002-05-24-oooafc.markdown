@@ -1,8 +1,9 @@
---- 
-wordpress_id: 142
+---
+comments_archived: true
+date: '2002-05-24T15:30:44-04:00'
 layout: post
 title: Secret weapons of LISP and Perl
-date: "2002-05-24T15:30:44-04:00"
+wordpress_id: 142
 wordpress_slug: oooafc
 wordpress_url: http://www.decafbad.com/blog/?p=142
 ---
@@ -19,3 +20,45 @@ wordpress_url: http://www.decafbad.com/blog/?p=142
 <p>I suppose I can at least say my choice of Perl, if not a secret weapon, didn't break the bank.  :)</p>
 <!--more-->
 shortname=oooafc
+
+<div id="comments" class="comments archived-comments">
+            <h3>Archived Comments</h3>
+            
+        <ul class="comments">
+            
+        <li class="comment" id="comment-221086843">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://radio.beutelevision.com"><img src="http://www.gravatar.com/avatar.php?gravatar_id=429e504076cddcb5436f34d1ecf37371&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://radio.beutelevision.com">Thomas Beutel</a>
+                </div>
+                <a href="#comment-221086843" class="permalink"><time datetime="2002-05-25T00:32:14">2002-05-25T00:32:14</time></a>
+            </div>
+            <div class="content">You might have already seen this article on Yahoo!stores and Lisp - but if not, it is an interesting read: http://www.paulgraham.com/lib/paulgraham/sec.txt
+
+Mark Jason Dominus taught a functional programming course at the latest Perl Whirl, and is also writing a book on functional Perl techniques. I have to say it really opened my eyes to alternate ways of programming.
+
+-Thomas</div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221086845">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://www.decafbad.com"><img src="http://www.gravatar.com/avatar.php?gravatar_id=2ac2cffd36ada8c734b90e02a1e5c1ac&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://www.decafbad.com">l.m.orchard</a>
+                </div>
+                <a href="#comment-221086845" class="permalink"><time datetime="2002-05-29T14:21:17">2002-05-29T14:21:17</time></a>
+            </div>
+            <div class="content">Thanks for the link to that article!  I think it covers all of the ground I was rambling about, and much better than I did :)</div>
+            
+        </li>
+    
+        </ul>
+    
+        </div>
+    

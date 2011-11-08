@@ -1,8 +1,9 @@
---- 
-wordpress_id: 676
+---
+comments_archived: true
+date: '2005-08-19T17:32:12-04:00'
 layout: post
 title: Super-fast DummyPants Addressbarlet for del.icio.us
-date: "2005-08-19T17:32:12-04:00"
+wordpress_id: 676
 wordpress_slug: dummypants
 wordpress_url: http://www.decafbad.com/blog/?p=676
 ---
@@ -33,3 +34,43 @@ If you happen to be having this problem, let me know if this code works for you.
 [addr]: http://naeblis.cx/rtomayko/2004/08/09/DeliciousAddresslets
 <!--more-->
 shortname=dummypants</us></textarea>
+
+<div id="comments" class="comments archived-comments">
+            <h3>Archived Comments</h3>
+            
+        <ul class="comments">
+            
+        <li class="comment" id="comment-221088797">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://plasmasturm.org/"><img src="http://www.gravatar.com/avatar.php?gravatar_id=e17949267bbfe21a0fadf1bbf00592b4&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://plasmasturm.org/">Aristotle Pagaltzis</a>
+                </div>
+                <a href="#comment-221088797" class="permalink"><time datetime="2005-08-20T00:47:22">2005-08-20T00:47:22</time></a>
+            </div>
+            <div class="content">del.icio.us understands UTF-8 (which is exactly what the message says, after all), and the characters you remove are expressed in Unicode codepoints.
+
+The disconnect seems to happen when the page you're on is in an encoding other than UTF-8, in which case Firefox apparently escapes characters using their byte values from that encoding in `encodeURIComponent`. I have no idea why, or exactly where this problem happens; the JS docs say the function should always use the UTF-8 representation for the byte values.</div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221088798">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://ejohn.org/"><img src="http://www.gravatar.com/avatar.php?gravatar_id=b3e04a46e85ad3e165d66f5d927eb609&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://ejohn.org/">John Resig</a>
+                </div>
+                <a href="#comment-221088798" class="permalink"><time datetime="2005-08-20T19:30:38">2005-08-20T19:30:38</time></a>
+            </div>
+            <div class="content">A very smart improvement of the original - I like it! I'll see if I can't include a link to it, before I forget.</div>
+            
+        </li>
+    
+        </ul>
+    
+        </div>
+    

@@ -1,9 +1,10 @@
---- 
-wordpress_id: 578
+---
+comments_archived: true
+date: '2004-12-13T16:31:30-05:00'
+excerpt: So, I think I'm almost out of steam for now on this weekend's thoughts.
 layout: post
 title: Miscellaneous Thoughts about Exploded PCs
-excerpt: So, I think I'm almost out of steam for now on this weekend's thoughts.
-date: "2004-12-13T16:31:30-05:00"
+wordpress_id: 578
 wordpress_slug: miscellaneous-thoughts-about-exploded-pcs
 wordpress_url: http://www.decafbad.com/blog/?p=578
 ---
@@ -26,3 +27,29 @@ Whew.  So I think that's about all for now.  Knowing me, I probably won't post h
 [UML]: http://user-mode-linux.sourceforge.net/
 [gumstix]: http://www.gumstix.com/sys_tinycomp.html
 [managedcode]: http://msdn.microsoft.com/theshow/Episode035/default.asp
+
+<div id="comments" class="comments archived-comments">
+            <h3>Archived Comments</h3>
+            
+        <ul class="comments">
+            
+        <li class="comment" id="comment-221087758">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://www.gumstix.org/"><img src="http://www.gravatar.com/avatar.php?gravatar_id=e2bbc4061759a18de931fd7b7eb146b5&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://www.gumstix.org/">Craig</a>
+                </div>
+                <a href="#comment-221087758" class="permalink"><time datetime="2004-12-14T15:16:54">2004-12-14T15:16:54</time></a>
+            </div>
+            <div class="content">Re: gumstix and mindstorm
+
+http://article.gmane.org/gmane.comp.hardware.lego.robotics/2562</div>
+            
+        </li>
+    
+        </ul>
+    
+        </div>
+    

@@ -1,8 +1,9 @@
---- 
-wordpress_id: 96
+---
+comments_archived: true
+date: '2002-04-24T12:40:12-04:00'
 layout: post
 title: The bunsen burners still burn and the beakers still... um... beak.
-date: "2002-04-24T12:40:12-04:00"
+wordpress_id: 96
 wordpress_slug: oooaaf
 wordpress_url: http://www.decafbad.com/blog/?p=96
 ---
@@ -19,3 +20,59 @@ wordpress_url: http://www.decafbad.com/blog/?p=96
 <p>More soon.</p>
 <!--more-->
 shortname=oooaaf
+
+<div id="comments" class="comments archived-comments">
+            <h3>Archived Comments</h3>
+            
+        <ul class="comments">
+            
+        <li class="comment" id="comment-221089970">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://webseitz.fluxent.com/wiki"><img src="http://www.gravatar.com/avatar.php?gravatar_id=2e83224d92ed7f1148f4dd3cdb0e4548&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://webseitz.fluxent.com/wiki">Bill Seitz</a>
+                </div>
+                <a href="#comment-221089970" class="permalink"><time datetime="2002-04-24T13:48:17">2002-04-24T13:48:17</time></a>
+            </div>
+            <div class="content">What template engine do you use in Perl? In Python?
+
+Have you considered Zope?</div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221089973">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://www.decafbad.com"><img src="http://www.gravatar.com/avatar.php?gravatar_id=2ac2cffd36ada8c734b90e02a1e5c1ac&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://www.decafbad.com">l.m.orchard</a>
+                </div>
+                <a href="#comment-221089973" class="permalink"><time datetime="2002-04-24T16:38:22">2002-04-24T16:38:22</time></a>
+            </div>
+            <div class="content">Well, under Perl, I pretty much religiously use the Template Toolkit nowadays.  As for Python, still looking around.  Was toying with Cheetah, but some #python people were telling me that I need to forsake all these and go for using ZPT.  But, I have a lot of itchiness with ZPT's attribute-based language.
+
+As for Zope... well, I've poked my head in there from time to time, and even was working on a competitor in Perl named Iaido, but I petered out on that.  I love and hate Zope.  I'm waiting to see if the next generation of Zope fixes what I dislike.</div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221089975">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href=""><img src="http://www.gravatar.com/avatar.php?gravatar_id=77d56a18a1b1a6417813091d8a6554e5&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="">reha</a>
+                </div>
+                <a href="#comment-221089975" class="permalink"><time datetime="2004-05-03T21:02:39">2004-05-03T21:02:39</time></a>
+            </div>
+            <div class="content">It's boiring. Where is the picture that shows us what the bunsen burner looks like and if u had a picture you can label it too.</div>
+            
+        </li>
+    
+        </ul>
+    
+        </div>
+    

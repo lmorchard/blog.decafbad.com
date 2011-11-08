@@ -1,8 +1,9 @@
---- 
-wordpress_id: 473
+---
+comments_archived: true
+date: '2003-09-02T13:44:18-04:00'
 layout: post
 title: ChangeLog to RSS web service
-date: "2003-09-02T13:44:18-04:00"
+wordpress_id: 473
 wordpress_slug: cl-to-rss
 wordpress_url: http://www.decafbad.com/blog/?p=473
 ---
@@ -25,3 +26,57 @@ This is at the "it works" stage.  It needs much work in what it presents
 in an <a href="http://www.decafbad.com/twiki/bin/view/Main/RSS">RSS</a> feed, so feel free to suggest changes!
 <!--more-->
 shortname=cl_to_rss
+
+<div id="comments" class="comments archived-comments">
+            <h3>Archived Comments</h3>
+            
+        <ul class="comments">
+            
+        <li class="comment" id="comment-221085069">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://insultconsult.com/"><img src="http://www.gravatar.com/avatar.php?gravatar_id=5b73143e72f280abb5b1e3097608860d&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://insultconsult.com/">Karl-Martin Skontorp</a>
+                </div>
+                <a href="#comment-221085069" class="permalink"><time datetime="2003-09-02T13:47:44">2003-09-02T13:47:44</time></a>
+            </div>
+            <div class="content">Subversion (http://subversion.tigris.org/) can output logs in XML. It is really easy to use XSLT to generate RSS from these logs.</div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221085070">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://www.decafbad.com/blog"><img src="http://www.gravatar.com/avatar.php?gravatar_id=2ac2cffd36ada8c734b90e02a1e5c1ac&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://www.decafbad.com/blog">l.m.orchard</a>
+                </div>
+                <a href="#comment-221085070" class="permalink"><time datetime="2003-09-02T13:50:22">2003-09-02T13:50:22</time></a>
+            </div>
+            <div class="content">Well, the thing about this particular case is that this ChangeLog file is hand-maintained in the GNU style.  I've also seen that Emacs has some tools for maintaining these files as well.  Otherwise, there're tools for CVS logs to RSS as well.
+
+I do keep meaning to check out Subversion though.</div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221085071">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://www.ecyrd.com/ButtUgly/"><img src="http://www.gravatar.com/avatar.php?gravatar_id=8f688c7919a6645352e1bb59b2f45ae4&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://www.ecyrd.com/ButtUgly/">Janne Jalkanen</a>
+                </div>
+                <a href="#comment-221085071" class="permalink"><time datetime="2003-09-02T15:40:06">2003-09-02T15:40:06</time></a>
+            </div>
+            <div class="content">Man, I owe you at least two beers now.  Thanks again! :-)</div>
+            
+        </li>
+    
+        </ul>
+    
+        </div>
+    

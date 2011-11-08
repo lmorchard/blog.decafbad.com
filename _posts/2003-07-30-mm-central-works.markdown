@@ -1,8 +1,9 @@
---- 
-wordpress_id: 452
+---
+comments_archived: true
+date: '2003-07-30T08:26:05-04:00'
 layout: post
 title: Macromedia Central and Deja Vu?
-date: "2003-07-30T08:26:05-04:00"
+wordpress_id: 452
 wordpress_slug: mm-central-works
 wordpress_url: http://www.decafbad.com/blog/?p=452
 ---
@@ -17,3 +18,53 @@ wordpress_url: http://www.decafbad.com/blog/?p=452
 <b>Update:</b> Hmm...  Mike Chambers is <a href="http://www.markme.com/mesh/archives/002978.cfm">inviting questions about Central</a>.  Maybe I should wander over there and ask.
 <!--more-->
 shortname=mm_central_works
+
+<div id="comments" class="comments archived-comments">
+            <h3>Archived Comments</h3>
+            
+        <ul class="comments">
+            
+        <li class="comment" id="comment-221086858">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://www.jhnsn.org"><img src="http://www.gravatar.com/avatar.php?gravatar_id=ccbcc5d5ec97d4d47e92c0bf5bd449b4&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://www.jhnsn.org">Timothy Johnson</a>
+                </div>
+                <a href="#comment-221086858" class="permalink"><time datetime="2003-07-30T13:02:02">2003-07-30T13:02:02</time></a>
+            </div>
+            <div class="content">I wandered over here from Chamber's blog, to answer your question. I think the major (or minor, depending on how you look at it) will be leveraging the multitudes of Flash programmers that already exist. All those other options had their own specific API/code to learn. Also a timing with the Intel Centrino marketing and occasionally-connected computing talk, and joint efforts with Intel would certainly boost credibility.</div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221086859">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href=""><img src="http://www.gravatar.com/avatar.php?gravatar_id=e623db38f132a64df8213b2715042258&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="">mike chambers</a>
+                </div>
+                <a href="#comment-221086859" class="permalink"><time datetime="2003-07-30T13:49:11">2003-07-30T13:49:11</time></a>
+            </div>
+            <div class="content">I think there are a couple of things that set Central apart.
+
+1. integrated try / buy support. It will be very simple for developers to sell their apps (or allow users to try them for a set amount of time). This takes away a ton of the hassle for developers trying to make money from their work.
+
+2. Support of Macromedia / Marketing. Macromedia makes money when developers do, and thus you can be assured that we are going to do everything possible to 1) make sure that Central is successful, 2) make sure that developers sell a lot of apps.
+
+3. Ubiquity : Since Central is based on the Flash player, we will be able to quickly port it to new operating systems. We plan to release with versions for Windows and OSX, and will follow shortly there after with a Pocket PC version. The Flash player is available on tons of other platforms (linux, solaris, etc...), so there are tons of opportunities. 
+
+Just some quick thoughts, hope that helps...
+
+mike chambers
+
+mesh@macromedia.com</div>
+            
+        </li>
+    
+        </ul>
+    
+        </div>
+    

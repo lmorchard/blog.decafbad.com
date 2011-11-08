@@ -1,8 +1,9 @@
---- 
-wordpress_id: 152
+---
+comments_archived: true
+date: '2002-06-03T16:07:08-04:00'
 layout: post
 title: Personal digital cameras for a photoblog?
-date: "2002-06-03T16:07:08-04:00"
+wordpress_id: 152
 wordpress_slug: oooagc
 wordpress_url: http://www.decafbad.com/blog/?p=152
 ---
@@ -14,3 +15,27 @@ wordpress_url: http://www.decafbad.com/blog/?p=152
 <p>I'm sure I'm not the only person thinking of doing this, or already doing this.  Any one have some pointers for me?</p>
 <!--more-->
 shortname=oooagc
+
+<div id="comments" class="comments archived-comments">
+            <h3>Archived Comments</h3>
+            
+        <ul class="comments">
+            
+        <li class="comment" id="comment-221084704">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://www.seiyuuki.net/"><img src="http://www.gravatar.com/avatar.php?gravatar_id=4810395fb6c125a764ff1bf8c17ab042&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://www.seiyuuki.net/">Sergio</a>
+                </div>
+                <a href="#comment-221084704" class="permalink"><time datetime="2002-06-05T13:38:35">2002-06-05T13:38:35</time></a>
+            </div>
+            <div class="content">Just passing through and noticed this entry. I'm actually in the middle of looking for a small camera as well for everyday pocket use (and for a photoblog). I already have a nice digital camera, but it's to obtrusive to take everywhere all the time, it's more for planned photo ops. One of the cameras I've looked at online is the Benq 300mini. Only problem is the memory limitations. I'm more looking for a small camera with expandable memory. Please keep us posted on your search, I'm very interested.</div>
+            
+        </li>
+    
+        </ul>
+    
+        </div>
+    

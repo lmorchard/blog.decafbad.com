@@ -1,14 +1,15 @@
---- 
-wordpress_id: 814
+---
+comments_archived: true
+date: '2006-01-03T09:45:01-05:00'
 layout: post
-title: Sharing attention while reading feeds
-date: "2006-01-03T09:45:01-05:00"
-tags: 
+tags:
 - aggregators
 - rss
 - syndication
 - atom
 - attention
+title: Sharing attention while reading feeds
+wordpress_id: 814
 wordpress_slug: sharing-attention-while-reading-feeds
 wordpress_url: http://decafbad.com/blog/?p=814
 ---
@@ -46,3 +47,81 @@ Anyway, maybe you'll hear more from me about this soon.
 [meme]: http://memeorandum.com/
 [pl]: http://decafbad.com/trac/browser/trunk/hacking_rss_and_atom/ch15_popular_links.py
 [book]: http://www.amazon.com/exec/obidos/ASIN/0764597582/0xdecafbad01-20?creative=327641&camp=14573&link_code=as1
+
+<div id="comments" class="comments archived-comments">
+            <h3>Archived Comments</h3>
+            
+        <ul class="comments">
+            
+        <li class="comment" id="comment-221085102">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://www.wakingideas.com"><img src="http://www.gravatar.com/avatar.php?gravatar_id=c3a79b6f40ba93496389e42cd76ad2f1&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://www.wakingideas.com">Daniel Nicolas</a>
+                </div>
+                <a href="#comment-221085102" class="permalink"><time datetime="2006-01-03T15:39:45">2006-01-03T15:39:45</time></a>
+            </div>
+            <div class="content"><p>I think you could get away with charging $5 for a service like that.  Maybe even $10 if it was all web-based with cool ajaxyness flowing out of it.</p></div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221085103">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://www.annezelenka.com"><img src="http://www.gravatar.com/avatar.php?gravatar_id=4dbe4cabb90ab41b92d7c85afc8adf96&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://www.annezelenka.com">Anne Zelenka</a>
+                </div>
+                <a href="#comment-221085103" class="permalink"><time datetime="2006-01-03T19:26:21">2006-01-03T19:26:21</time></a>
+            </div>
+            <div class="content"><p>That Ch. 15 script looks very useful, though I haven't had a chance to try it yet. The attention.xml thing... interesting but don't know how it would work with three-panel newsreaders like Bloglines. I'm not necessarily interested in a post just because I skimmed the latest articles in a certain feed. I didn't know before I clicked on the feed name whether I'd be interested in the latest stuff. Much of the time I'm not interested.</p>
+
+<p>What I'd like to see is some smart recommendation engine that watches how I read, how much time I spend on a certain article display, whether I click through the links it has, and even provides a "boring" button like some other commenter suggested so it could do some Bayesian filtering. That's getting far beyond what you've described here but what you're describing is a start on it. </p>
+
+<p>Another somewhat different issue is that Memeorandum works by limiting itself to a certain very popular and generic set of issues. Once you have one Memeorandum for politics or tech do you need another? Might individual quirks of attention (like the fact that you are interested in Detroit and I am interested in Maui) make sharing individual attention.xmls less useful? I've never really gotten the social sharing bug though so maybe I'm just showing a lack of imagination.</p>
+
+<p>But just because Memeorandum already exists doesn't mean there isn't a real opportunity. While it's easy to find the hot conversations on politics and tech in the blogosphere, other domains are poorly aggregated and filtered, if at all. I follow mom blogs and feminist blogs and nothing like Memeorandum or digg or reddit exists for those yet there are regularly hot topics that ripple through them. What you describe could be used to build something for those and other domains on the web but is there room for everyone to do it individually? Or will people gravitate to one or a few sites that do a good job of highlighting popular and important conversations in certain well-defined domains?</p>
+
+<p>These are just my raw thoughts on it... your ideas are inspiring.</p></div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221085104">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://philwilson.org/blog/"><img src="http://www.gravatar.com/avatar.php?gravatar_id=abb5e982d97d7539860141b7904ba31a&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://philwilson.org/blog/">Phil Wilson</a>
+                </div>
+                <a href="#comment-221085104" class="permalink"><time datetime="2006-01-04T16:38:10">2006-01-04T16:38:10</time></a>
+            </div>
+            <div class="content"><p>Presumably your subscription list needs to be of a certain size before you can start extracting interesting URLs or you'll just have 20 URLs mentioned twice and 50 URLs mentioned once.</p>
+
+<p>If you were to just read the short head of your popular items list, would this actually be encouraging people to be infovores rather than normal information consumers (where you read or at least skim all of the items in your aggregator)? i.e. the data only starts working for you when you collect enough feeds. Gosh, you could have your own little long-tail on your desktop ;)</p></div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221085106">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://webseitz.fluxent.com/wiki"><img src="http://www.gravatar.com/avatar.php?gravatar_id=8157a5907b244071cda98ba5aa7a9635&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://webseitz.fluxent.com/wiki">Bill Seitz</a>
+                </div>
+                <a href="#comment-221085106" class="permalink"><time datetime="2006-01-06T16:45:16">2006-01-06T16:45:16</time></a>
+            </div>
+            <div class="content"><p>have you look at at TailRank?</p>
+
+<p>http://tailrank.com/</p></div>
+            
+        </li>
+    
+        </ul>
+    
+        </div>
+    

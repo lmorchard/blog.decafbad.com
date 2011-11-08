@@ -1,8 +1,9 @@
---- 
-wordpress_id: 626
+---
+comments_archived: true
+date: '2005-04-25T15:43:08-04:00'
 layout: post
 title: Forbidden Quickies
-date: "2005-04-25T15:43:08-04:00"
+wordpress_id: 626
 wordpress_slug: forbidden-quickies
 wordpress_url: http://www.decafbad.com/blog/?p=626
 ---
@@ -28,3 +29,43 @@ After just [having proclaimed my effort toward maintaining focus][focus], howeve
 [ow]: http://www.omnigroup.com/applications/omniweb/
 [gm]: http://greasemonkey.mozdev.org/
 [ecto]: http://ecto.kung-foo.tv/
+
+<div id="comments" class="comments archived-comments">
+            <h3>Archived Comments</h3>
+            
+        <ul class="comments">
+            
+        <li class="comment" id="comment-221086120">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://micampe.it"><img src="http://www.gravatar.com/avatar.php?gravatar_id=9b8b8acf4797e98cace24b82230e3e84&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://micampe.it">Michele</a>
+                </div>
+                <a href="#comment-221086120" class="permalink"><time datetime="2005-04-26T12:35:10">2005-04-26T12:35:10</time></a>
+            </div>
+            <div class="content">While it's not exactly like OW's tabs (and I couldn't even compare them, having never used OW), you might like the ScrapBook Firefox extension: http://amb.vis.ne.jp/mozilla/scrapbook/</div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221086124">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://jameselee.myblogsite.com"><img src="http://www.gravatar.com/avatar.php?gravatar_id=db37710a49184ecdbe83b5b0bc970a00&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://jameselee.myblogsite.com">James E. Lee</a>
+                </div>
+                <a href="#comment-221086124" class="permalink"><time datetime="2005-06-16T19:25:59">2005-06-16T19:25:59</time></a>
+            </div>
+            <div class="content">You might consider using Furl and a feed reader to keep track of stuff you want to read later.  This post prompted me to actually write the article I've been meaning to post about this idea:
+
+http://jameselee.myblogsite.com/blog/_archives/2005/6/16/947266.html</div>
+            
+        </li>
+    
+        </ul>
+    
+        </div>
+    

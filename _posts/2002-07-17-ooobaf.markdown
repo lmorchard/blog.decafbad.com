@@ -1,8 +1,9 @@
---- 
-wordpress_id: 195
+---
+comments_archived: true
+date: '2002-07-17T16:56:06-04:00'
 layout: post
 title: Making a return to the fields of Java
-date: "2002-07-17T16:56:06-04:00"
+wordpress_id: 195
 wordpress_slug: ooobaf
 wordpress_url: http://www.decafbad.com/blog/?p=195
 ---
@@ -13,3 +14,117 @@ wordpress_url: http://www.decafbad.com/blog/?p=195
 <p>Now, I haven't been completely oblivious to Java over this time.  I've poked at it, and played with a few things from time to time to at least stay somewhat current, and I've tried to vaguely keep up with things a bit.  I have an overall sense of what does what and where to find what, but really getting it under my fingernails again now is a different experience.</p>
 <!--more-->
 shortname=ooobaf
+
+<div id="comments" class="comments archived-comments">
+            <h3>Archived Comments</h3>
+            
+        <ul class="comments">
+            
+        <li class="comment" id="comment-221083428">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://dal.i.am"><img src="http://www.gravatar.com/avatar.php?gravatar_id=b581950de350ed6ad83f09ec48a6be3f&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://dal.i.am">Doug</a>
+                </div>
+                <a href="#comment-221083428" class="permalink"><time datetime="2002-07-18T00:45:50">2002-07-18T00:45:50</time></a>
+            </div>
+            <div class="content">Suggestion:  do it in Jython first, then profile and convert the important parts to normal Java.  I suspect that it'll be way more fun that way.</div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221083430">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://www.decafbad.com"><img src="http://www.gravatar.com/avatar.php?gravatar_id=2ac2cffd36ada8c734b90e02a1e5c1ac&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://www.decafbad.com">l.m.orchard</a>
+                </div>
+                <a href="#comment-221083430" class="permalink"><time datetime="2002-07-18T00:50:57">2002-07-18T00:50:57</time></a>
+            </div>
+            <div class="content">Actually, I've been circulating that thought a bit :)  Seems to me that Jython would make me never homesick for Perl again, Python being tastier to me than Perl in many respects.</div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221083431">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://bwinton.latte.ca/"><img src="http://www.gravatar.com/avatar.php?gravatar_id=441f5529f1db69e1a18cefb090e2690a&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://bwinton.latte.ca/">Blake Winton</a>
+                </div>
+                <a href="#comment-221083431" class="permalink"><time datetime="2002-07-18T12:27:32">2002-07-18T12:27:32</time></a>
+            </div>
+            <div class="content">If you like Netbeans, you should try Idea.  IMHO, it kicks Netbeans all over the map.  Things to specifically note are the Ctrl-Space context sensitive completion of almost anything (even going so far as to suggest variable names), and the built-in refactorings (extract method being one of my favourites).</div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221083433">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://www.decafbad.com"><img src="http://www.gravatar.com/avatar.php?gravatar_id=2ac2cffd36ada8c734b90e02a1e5c1ac&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://www.decafbad.com">l.m.orchard</a>
+                </div>
+                <a href="#comment-221083433" class="permalink"><time datetime="2002-07-18T12:34:00">2002-07-18T12:34:00</time></a>
+            </div>
+            <div class="content">Hmm...  The latest beta of Netbeans I'm using has a ton of Ctrl-Space completion now of classes, variables, etc.  But I'm happy to see Idea has a Mac OS X version, so I'll have to check it out.  I don't think Netbeans has any or much refactoring support, which is something I've been dreaming about while working in other languages.  :)
+
+The only barrier might be price for me, since NetBeans is open/free and Idea is almost US$400.</div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221083435">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://bwinton.latte.ca/"><img src="http://www.gravatar.com/avatar.php?gravatar_id=441f5529f1db69e1a18cefb090e2690a&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://bwinton.latte.ca/">Blake Winton</a>
+                </div>
+                <a href="#comment-221083435" class="permalink"><time datetime="2002-07-19T16:24:37">2002-07-19T16:24:37</time></a>
+            </div>
+            <div class="content">The price is definately higher than Netbeans, although significantly lower than, say, JBuilder.  And they have an Early Access Program where you can test out betas for free.  I've been on it for a couple of years, and it's very rare that the betas are less than rock-solid.  Also, you get to influence the development of the product, which is always a good thing.  :)</div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221083436">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://lockney.net"><img src="http://www.gravatar.com/avatar.php?gravatar_id=e413973485c5536801d587baa1a55905&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://lockney.net">Thomas Lockney</a>
+                </div>
+                <a href="#comment-221083436" class="permalink"><time datetime="2002-07-20T21:11:57">2002-07-20T21:11:57</time></a>
+            </div>
+            <div class="content">You might want to check out Eclipse (http://www.eclipse.org), too. It was originally developer by IBM and then released as open source. While it's written in Java, it doesn't use Swing. They use an API called SWT that they developed in house. SWT uses native libraries on the platforms it's been ported, too (right now includes Windows, Linux and a number of Unix variants, but not OSX, yet -- though OSX support is planned). I've found that the latest release is significantly zippier than any of the other java IDEs I've used and the features it supports are generally comparable or better than any of the others that I've tried. 
+
+It should be noted that Eclipse is also the basic technology underlying a number of major player products (IBM's WebSphere Studio and Rational's newest development tool, the name of which I can't recall at the moment). So you know the project isn't going anywhere anytime soon.</div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221083437">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://www.decafbad.com"><img src="http://www.gravatar.com/avatar.php?gravatar_id=2ac2cffd36ada8c734b90e02a1e5c1ac&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://www.decafbad.com">l.m.orchard</a>
+                </div>
+                <a href="#comment-221083437" class="permalink"><time datetime="2002-07-21T02:39:37">2002-07-21T02:39:37</time></a>
+            </div>
+            <div class="content">Yeah, I checked out Eclipse too, getting the vibe that it was a main competitor for NetBeans in the open source arena.  But, the lack of OS X support is pretty much a show stopper for me since my primary work machine and personal laptop are both Macs.
+
+This is also the reason I have yet to get into .NET and C#, but that's another story altogether.. :)</div>
+            
+        </li>
+    
+        </ul>
+    
+        </div>
+    

@@ -1,8 +1,9 @@
---- 
-wordpress_id: 274
+---
+comments_archived: true
+date: '2002-09-28T15:58:39-04:00'
 layout: post
 title: On RSS and Namespaces
-date: "2002-09-28T15:58:39-04:00"
+wordpress_id: 274
 wordpress_slug: ooobii
 wordpress_url: http://www.decafbad.com/blog/?p=274
 ---
@@ -30,3 +31,75 @@ The first thing is to nail a few things down about version numbers and reverse-c
 So, again, I don't think that this is a fundamental flaw with <a href="http://www.decafbad.com/twiki/bin/view/Main/RSS">RSS</a> 1.0, <a href="http://www.decafbad.com/twiki/bin/view/Main/RSS">RSS</a> 2.0, or namespaces.  This is an issue of versioning, understanding the technology's implications, and reverse-compatibility.
 <!--more-->
 shortname=ooobii
+
+<div id="comments" class="comments archived-comments">
+            <h3>Archived Comments</h3>
+            
+        <ul class="comments">
+            
+        <li class="comment" id="comment-221089859">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://www.scripting.com/"><img src="http://www.gravatar.com/avatar.php?gravatar_id=dc59c5ba9a8aa0a6225d9959eea3b7f3&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://www.scripting.com/">Dave Winer</a>
+                </div>
+                <a href="#comment-221089859" class="permalink"><time datetime="2002-09-28T16:18:26">2002-09-28T16:18:26</time></a>
+            </div>
+            <div class="content">Very interesting and thanks for the thoughtful comments. So the problem could be nailed by adding a comment to the 2.0 spec saying something like this (not an attempt at spec text):
+
+RSS 2.0 feeds are compatible with 0.91 and 0.92 in that every 0.91 or 0.92 source is also a 2.0 source (modulo the version attribute on the rss element), with the exception that, if it uses namespaces, it may not work with some aggregators that do not correctly parse sources that use namespaces. As of Fall 2002, there are enough incompatible parsers to make this advisory necessary. If you wish to be fully backward compatible, do not use namespaces in your feeds.
+
+Does this basically sum up your post?? If so, I think that serves as enough of a red flag for non-namespace aware parsers that some feeds at some time in the future will break (maybe now) and that they should test with 2.0 feeds that do use the namespace compatibility, the sooner the better.
+
+Dave</div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221089861">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href=""><img src="http://www.gravatar.com/avatar.php?gravatar_id=9c49b9a4f6b6f35c422a05921bd41ad5&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="">Charles Cook</a>
+                </div>
+                <a href="#comment-221089861" class="permalink"><time datetime="2002-09-28T16:36:58">2002-09-28T16:36:58</time></a>
+            </div>
+            <div class="content">The problem is nothing to do with parsers. Its because the introduction of a toplevel default namespace produces a completely different XML document format which CANNOT be backwards compatible.</div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221089863">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://www.decafbad.com"><img src="http://www.gravatar.com/avatar.php?gravatar_id=2ac2cffd36ada8c734b90e02a1e5c1ac&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://www.decafbad.com">l.m.orchard</a>
+                </div>
+                <a href="#comment-221089863" class="permalink"><time datetime="2002-09-28T16:44:18">2002-09-28T16:44:18</time></a>
+            </div>
+            <div class="content">Dave:  I think you summed up the post well, thanks! :)</div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221089864">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://www.scripting.com/"><img src="http://www.gravatar.com/avatar.php?gravatar_id=dc59c5ba9a8aa0a6225d9959eea3b7f3&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://www.scripting.com/">Dave Winer</a>
+                </div>
+                <a href="#comment-221089864" class="permalink"><time datetime="2002-09-28T16:45:58">2002-09-28T16:45:58</time></a>
+            </div>
+            <div class="content">Charles, very very interesting!</div>
+            
+        </li>
+    
+        </ul>
+    
+        </div>
+    

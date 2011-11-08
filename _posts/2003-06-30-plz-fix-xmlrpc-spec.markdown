@@ -1,8 +1,9 @@
---- 
-wordpress_id: 434
+---
+comments_archived: true
+date: '2003-06-30T20:25:35-04:00'
 layout: post
 title: Please fix the XML-RPC spec
-date: "2003-06-30T20:25:35-04:00"
+wordpress_id: 434
 wordpress_slug: plz-fix-xmlrpc-spec
 wordpress_url: http://www.decafbad.com/blog/?p=434
 ---
@@ -93,3 +94,97 @@ doubt that my asking please really had much to do with it, but I couldn't guess 
 hurt.  Thanks!
 <!--more-->
 shortname=plz_fix_xmlrpc_spec
+
+<div id="comments" class="comments archived-comments">
+            <h3>Archived Comments</h3>
+            
+        <ul class="comments">
+            
+        <li class="comment" id="comment-221084763">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://online.effbot.org"><img src="http://www.gravatar.com/avatar.php?gravatar_id=091389371fc39ff470d91c8d72f5fca4&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://online.effbot.org">Fredrik Lundh</a>
+                </div>
+                <a href="#comment-221084763" class="permalink"><time datetime="2003-06-30T17:48:03">2003-06-30T17:48:03</time></a>
+            </div>
+            <div class="content">"I consider myself a smart person, and I consider most of the others who have been confused as even smarter."
+
+Oh, I'm really stupid, but I had no problem noticing that the specification wasn't consistent with itself, and that three out of four references to encodings said that "any XML character" could be used ;-)
+
+"So, can we just get a clarifying revision of the spec?"
+
+Sure can; the "ASCII" is gone.
+
+"And if not, why not?"
+
+I don't have access to Dave's site ;-)
+
+Cheers /F</div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221084764">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://online.effbot.org"><img src="http://www.gravatar.com/avatar.php?gravatar_id=091389371fc39ff470d91c8d72f5fca4&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://online.effbot.org">Fredrik Lundh</a>
+                </div>
+                <a href="#comment-221084764" class="permalink"><time datetime="2003-06-30T17:50:29">2003-06-30T17:50:29</time></a>
+            </div>
+            <div class="content">Oops. Looks like your comment tool ate my linefeeds.  Hope it liked them.  I'm sure anyone reading this can figure out where they were.</div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221084766">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://www.decafbad.com"><img src="http://www.gravatar.com/avatar.php?gravatar_id=2ac2cffd36ada8c734b90e02a1e5c1ac&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://www.decafbad.com">l.m.orchard</a>
+                </div>
+                <a href="#comment-221084766" class="permalink"><time datetime="2003-06-30T20:11:20">2003-06-30T20:11:20</time></a>
+            </div>
+            <div class="content">Grr, that's a bug I've been meaning to fix for a month or so now.  While we're in the bug fixing mood...  your linefeeds are restored!
+
+Oh, and since you replied, I'll take the minute to thank you for your XML-RPC work in Python.  It's saved my bacon more than once.  :)</div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221084767">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href=""><img src="http://www.gravatar.com/avatar.php?gravatar_id=dc59c5ba9a8aa0a6225d9959eea3b7f3&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="">Dave Winer</a>
+                </div>
+                <a href="#comment-221084767" class="permalink"><time datetime="2003-06-30T20:35:39">2003-06-30T20:35:39</time></a>
+            </div>
+            <div class="content">Glad to see we're back on friendly terms. ;-></div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221084768">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href=""><img src="http://www.gravatar.com/avatar.php?gravatar_id=dc59c5ba9a8aa0a6225d9959eea3b7f3&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="">Dave Winer</a>
+                </div>
+                <a href="#comment-221084768" class="permalink"><time datetime="2003-06-30T20:35:49">2003-06-30T20:35:49</time></a>
+            </div>
+            <div class="content">Glad to see we're back on friendly terms. ;-></div>
+            
+        </li>
+    
+        </ul>
+    
+        </div>
+    

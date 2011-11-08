@@ -1,8 +1,9 @@
---- 
-wordpress_id: 660
+---
+comments_archived: true
+date: '2005-06-28T11:21:30-04:00'
 layout: post
 title: Four thoughts on MS RSS so far
-date: "2005-06-28T11:21:30-04:00"
+wordpress_id: 660
 wordpress_slug: four-thoughts-on-ms-rss-so-far
 wordpress_url: http://www.decafbad.com/blog/?p=660
 ---
@@ -50,3 +51,29 @@ And, the [Safari RSS Developer Release Notes][srss] mention the `SyndicationAgen
 [softed]: http://mooseyard.com/Jens/index.php
 [response]: http://blogs.msdn.com/rssteam/archive/2005/06/25/432686.aspx
 [phil]: http://philringnalda.com/blog/2005/06/ms_embraces_rss.php
+
+<div id="comments" class="comments archived-comments">
+            <h3>Archived Comments</h3>
+            
+        <ul class="comments">
+            
+        <li class="comment" id="comment-221085617">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://diveintomark.org/"><img src="http://www.gravatar.com/avatar.php?gravatar_id=357a20e8c56e69d6f9734d23ef9517e8&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://diveintomark.org/">Mark</a>
+                </div>
+                <a href="#comment-221085617" class="permalink"><time datetime="2005-06-29T16:57:30">2005-06-29T16:57:30</time></a>
+            </div>
+            <div class="content">> I doubt I barely rate as a C-list blogger in the 'sphere as a whole, so that anyone bothered to contact little old me seems unexpected as well.
+
+I got that email as well, and I've been out of the community for almost a year.  I filed it under "things I tell myself I no longer care about, but secretly miss, on rainy days and such."</div>
+            
+        </li>
+    
+        </ul>
+    
+        </div>
+    

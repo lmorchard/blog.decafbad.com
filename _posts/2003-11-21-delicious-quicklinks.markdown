@@ -1,8 +1,9 @@
---- 
-wordpress_id: 509
+---
+comments_archived: true
+date: '2003-11-21T09:47:10-05:00'
 layout: post
 title: Publishing Quick Links in blosxom with del.icio.us via xmlstarlet
-date: "2003-11-21T09:47:10-05:00"
+wordpress_id: 509
 wordpress_slug: delicious-quicklinks
 wordpress_url: http://www.decafbad.com/blog/?p=509
 ---
@@ -34,3 +35,44 @@ You could do this with XSLT, but hacking with a REST-ish & XML producing web ser
 </p>
 <!--more-->
 shortname=delicious_quicklinks
+
+<div id="comments" class="comments archived-comments">
+            <h3>Archived Comments</h3>
+            
+        <ul class="comments">
+            
+        <li class="comment" id="comment-221086678">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://24.102.209.201/weblogs/ben/"><img src="http://www.gravatar.com/avatar.php?gravatar_id=588bdfdda82be46c638d6956c55ebc38&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://24.102.209.201/weblogs/ben/">Gnomon</a>
+                </div>
+                <a href="#comment-221086678" class="permalink"><time datetime="2003-11-21T10:36:01">2003-11-21T10:36:01</time></a>
+            </div>
+            <div class="content">It's probably the interpolate_conditional or interpolate_fancy plugin - it tends to dislike entries that contain dollar symbols. I've wrestled with it in the past, but now I don't bother - I just use &amp;#036; to represent &#036; instead.</div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221086679">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href=""><img src="http://www.gravatar.com/avatar.php?gravatar_id=b2083fa8a0f60df479da38dbc1256def&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="">Yay</a>
+                </div>
+                <a href="#comment-221086679" class="permalink"><time datetime="2003-12-05T20:01:13">2003-12-05T20:01:13</time></a>
+            </div>
+            <div class="content">Hi,
+Cute script. I changed the last line like this to remove the file if it has got no links:
+
+if test `cat ${FN} |wc -c` = 18; then rm ${FN}; else touch -d "${DATE} 23:59" ${FN}; fi</div>
+            
+        </li>
+    
+        </ul>
+    
+        </div>
+    

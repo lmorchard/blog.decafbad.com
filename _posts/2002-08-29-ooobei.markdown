@@ -1,8 +1,9 @@
---- 
-wordpress_id: 236
+---
+comments_archived: true
+date: '2002-08-29T19:11:47-04:00'
 layout: post
 title: Would the real RSS please stand up?
-date: "2002-08-29T19:11:47-04:00"
+wordpress_id: 236
 wordpress_slug: ooobei
 wordpress_url: http://www.decafbad.com/blog/?p=236
 ---
@@ -18,3 +19,43 @@ wordpress_url: http://www.decafbad.com/blog/?p=236
 </p>
 <!--more-->
 shortname=ooobei
+
+<div id="comments" class="comments archived-comments">
+            <h3>Archived Comments</h3>
+            
+        <ul class="comments">
+            
+        <li class="comment" id="comment-221086220">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://markpasc.org/"><img src="http://www.gravatar.com/avatar.php?gravatar_id=7e91c7ddf6c6db73665d8df9bb55d0d9&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://markpasc.org/">Mark Paschal</a>
+                </div>
+                <a href="#comment-221086220" class="permalink"><time datetime="2002-08-29T20:55:04">2002-08-29T20:55:04</time></a>
+            </div>
+            <div class="content">"Yes, our site is fully SYNDICATO MASTER OF SPACE AND TIME 9.0 compliant."</div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221086221">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://www.scripting.com"><img src="http://www.gravatar.com/avatar.php?gravatar_id=dc59c5ba9a8aa0a6225d9959eea3b7f3&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://www.scripting.com">Dave Winer</a>
+                </div>
+                <a href="#comment-221086221" class="permalink"><time datetime="2002-08-30T00:09:22">2002-08-30T00:09:22</time></a>
+            </div>
+            <div class="content">To see the trail the 1.0 fork left, look in the archives of the Syndication list, starting in August 2000.
+
+The main problem with that fork is that the 0.91 installed base was pretty big when it happened. When 0.91 forked from 0.90 (Netscape's decision), the installed base was insignificant.</div>
+            
+        </li>
+    
+        </ul>
+    
+        </div>
+    

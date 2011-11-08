@@ -1,8 +1,9 @@
---- 
-wordpress_id: 325
+---
+comments_archived: true
+date: '2002-12-12T20:37:57-05:00'
 layout: post
 title: Working on an RDF-based task tracking proof of concept
-date: "2002-12-12T20:37:57-05:00"
+wordpress_id: 325
 wordpress_slug: ooocea
 wordpress_url: http://www.decafbad.com/blog/?p=325
 ---
@@ -12,3 +13,57 @@ wordpress_url: http://www.decafbad.com/blog/?p=325
 <p>So far so good.  I hope I'm not insane to be thinking this is easy.  Waiting for the enthusiasm to calm down so I can realistically take account of what warts are to be found in the current state of <a href="http://www.decafbad.com/twiki/bin/view/Main/RDF">RDF</a> art.</p>
 <!--more-->
 shortname=ooocea
+
+<div id="comments" class="comments archived-comments">
+            <h3>Archived Comments</h3>
+            
+        <ul class="comments">
+            
+        <li class="comment" id="comment-221087195">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://webseitz.fluxent.com/wiki"><img src="http://www.gravatar.com/avatar.php?gravatar_id=5a70d939a73fa73603f2a9255ab81d21&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://webseitz.fluxent.com/wiki">BillSeitz</a>
+                </div>
+                <a href="#comment-221087195" class="permalink"><time datetime="2002-12-13T11:43:18">2002-12-13T11:43:18</time></a>
+            </div>
+            <div class="content">Have you looked at IsaViz as an RDF browser?</div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221087196">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://www.decafbad.com"><img src="http://www.gravatar.com/avatar.php?gravatar_id=2ac2cffd36ada8c734b90e02a1e5c1ac&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://www.decafbad.com">l.m.orchard</a>
+                </div>
+                <a href="#comment-221087196" class="permalink"><time datetime="2002-12-13T12:22:37">2002-12-13T12:22:37</time></a>
+            </div>
+            <div class="content">Actually, I *had* looked at IsaViz yesterday.  It didn't seem to work very well on my Mac running OS X - mouse pointers disappearing, clunky windows and randomly disappearing graphics.  Not sure what the issue was, but it wasn't very positive for my first try</div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221087197">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://weblog.burningbird.net"><img src="http://www.gravatar.com/avatar.php?gravatar_id=fab5bffa5622f63e6b0ff81a2b0e3956&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://weblog.burningbird.net">Burningbird</a>
+                </div>
+                <a href="#comment-221087197" class="permalink"><time datetime="2002-12-13T19:41:04">2002-12-13T19:41:04</time></a>
+            </div>
+            <div class="content">Thanks for pointing out Brownsauce! That was one I missed, and fell in love with when I played with it last night. However, must update my schema file.
+
+And I am enjoying your explorations of RDF.</div>
+            
+        </li>
+    
+        </ul>
+    
+        </div>
+    

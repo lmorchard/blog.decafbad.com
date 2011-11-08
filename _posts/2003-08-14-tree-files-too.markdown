@@ -1,8 +1,9 @@
---- 
-wordpress_id: 461
+---
+comments_archived: true
+date: '2003-08-14T15:53:02-04:00'
 layout: post
 title: Tree files too (the prequel)
-date: "2003-08-14T15:53:02-04:00"
+wordpress_id: 461
 wordpress_slug: tree-files-too
 wordpress_url: http://www.decafbad.com/blog/?p=461
 ---
@@ -50,3 +51,27 @@ wordpress_url: http://www.decafbad.com/blog/?p=461
  </i><div class="credit" align="right"><small>Source: <cite><a href="http://notabug.com/swhack/chatlogs/2002-04-05.html#T15-39-52">IRC log of swhack on 2002-04-05</a></cite></small></div>	<p>Heh, heh.</p>
 <!--more-->
 shortname=tree_files_too
+
+<div id="comments" class="comments archived-comments">
+            <h3>Archived Comments</h3>
+            
+        <ul class="comments">
+            
+        <li class="comment" id="comment-221087726">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://www.10500bc.org"><img src="http://www.gravatar.com/avatar.php?gravatar_id=6492f173a7059ece309f7d670ff44e95&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://www.10500bc.org">nf0</a>
+                </div>
+                <a href="#comment-221087726" class="permalink"><time datetime="2003-08-14T17:15:01">2003-08-14T17:15:01</time></a>
+            </div>
+            <div class="content">Oh man thats funny, poor guy.</div>
+            
+        </li>
+    
+        </ul>
+    
+        </div>
+    

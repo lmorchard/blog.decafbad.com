@@ -1,10 +1,11 @@
---- 
-wordpress_id: 1030
+---
+comments_archived: true
+date: '2006-12-21T12:33:48-05:00'
 layout: post
-title: My semi-annual blogger navel gazing post
-date: "2006-12-21T12:33:48-05:00"
-tags: 
+tags:
 - metablogging
+title: My semi-annual blogger navel gazing post
+wordpress_id: 1030
 wordpress_slug: my-semi-annual-blogger-navel-gazing-post
 wordpress_url: http://decafbad.com/blog/2006/12/21/my-semi-annual-blogger-navel-gazing-post
 ---
@@ -24,3 +25,59 @@ Hmm, I wonder if that means I'm not *actually* a blogger, per se?  :)
 [del]: http://del.icio.us/deusx
 [tg]: http://del.icio.us/help/tagometer
 [debate]: http://technorati.com/search/www.scripting.com%2F2006%2F12%2F20.html%23godBlessTheReinventers
+
+<div id="comments" class="comments archived-comments">
+            <h3>Archived Comments</h3>
+            
+        <ul class="comments">
+            
+        <li class="comment" id="comment-221090527">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://www.mpwilson.com/uccu/"><img src="http://www.gravatar.com/avatar.php?gravatar_id=02ffe238ed68da35e8037df461552234&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://www.mpwilson.com/uccu/">Mad William Flint</a>
+                </div>
+                <a href="#comment-221090527" class="permalink"><time datetime="2006-12-21T21:08:43">2006-12-21T21:08:43</time></a>
+            </div>
+            <div class="content"><p>Heh.  You'd be surprised at what would be noticed.  I'd be lying if I didn't say I actually do hang on the aggregator, just in case.</p>
+
+<p>Contrived goals like that are seemingly impeccable in their inability to motivate.  The quickest way I can get out of a blog funk (assuming it's a BLOG funk and not some other kind of funk) is to just open up emacs and start typing.  It's usually not more than 3/4 sentences before I start having "Ya know, that REALLY pisses me off!" thoughts running through my head.</p>
+
+<p>What more do you really need for a blog post ;-)</p></div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221090530">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href=""><img src="http://www.gravatar.com/avatar.php?gravatar_id=90d3a543b48a9b848ace0c809e539773&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="">LostPwns</a>
+                </div>
+                <a href="#comment-221090530" class="permalink"><time datetime="2006-12-22T10:50:23">2006-12-22T10:50:23</time></a>
+            </div>
+            <div class="content"><p>omg you look like that irakieguy from lost! 'tis is too cool...</p></div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221090533">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://www.decafbad.com"><img src="http://www.gravatar.com/avatar.php?gravatar_id=2377f34a68801b861c3e54e1301f0dce&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://www.decafbad.com">l.m.orchard</a>
+                </div>
+                <a href="#comment-221090533" class="permalink"><time datetime="2010-11-07T03:11:40">2010-11-07T03:11:40</time></a>
+            </div>
+            <div class="content"><p>This is a test comment.</p></div>
+            
+        </li>
+    
+        </ul>
+    
+        </div>
+    

@@ -1,12 +1,16 @@
---- 
-wordpress_id: 568
+---
+comments_archived: true
+date: '2004-11-30T16:53:35-05:00'
+excerpt: 'This has been where most of my private hacking sessions have been
+    taking me over the past year or so:  combining HTML, CSS, DOM, JavaScript,
+    XML, XSLT, and REST to build what I consider to be a next-generation
+    web app.'
 layout: post
-title: Next generation web apps using REST, XML, XSLT, and XmlHTTPRequest
-excerpt: "This has been where most of my private hacking sessions have been taking me over the past year or so:  combining HTML, CSS, DOM, JavaScript, XML, XSLT, and REST to build what I consider to be a next-generation web app."
-date: "2004-11-30T16:53:35-05:00"
-tags: 
+tags:
 - syndication
 - xml
+title: Next generation web apps using REST, XML, XSLT, and XmlHTTPRequest
+wordpress_id: 568
 wordpress_slug: nextgenwebapps
 wordpress_url: http://www.decafbad.com/blog/?p=568
 ---
@@ -44,3 +48,41 @@ With that in mind, I think I'll wrap up this entry and think about putting toget
 Stay tuned.
 <!--more-->
 shortname=nextgenwebapps
+
+<div id="comments" class="comments archived-comments">
+            <h3>Archived Comments</h3>
+            
+        <ul class="comments">
+            
+        <li class="comment" id="comment-221089601">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://www.ricebridge.com"><img src="http://www.gravatar.com/avatar.php?gravatar_id=a57fe535201a5daca9590abd68d490c7&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://www.ricebridge.com">Richard Rodger</a>
+                </div>
+                <a href="#comment-221089601" class="permalink"><time datetime="2004-12-01T08:14:39">2004-12-01T08:14:39</time></a>
+            </div>
+            <div class="content">You should take a look at http://www.json.org which provides a really nice JavaScript-native way to exchange data using XMLHttpRequest.</div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221089609">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://fiftyfly.mine.nu"><img src="http://www.gravatar.com/avatar.php?gravatar_id=c1e58f891708437e94407f573639094c&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://fiftyfly.mine.nu">mike</a>
+                </div>
+                <a href="#comment-221089609" class="permalink"><time datetime="2004-12-01T14:23:44">2004-12-01T14:23:44</time></a>
+            </div>
+            <div class="content">This is def a powerful set of techniques. I hadn't worked with a lot of javascript in several years but recently I'd wanted to put a cleaner face on my proof of concept request icecast station: http://fiftyfly.mine.nu/RFM . An off hand comment somone had made regarding XMLHTTPRequest sounded so interesting I had to give it some thought. The result can be found here: http://fiftyfly.mine.nu/RFMamp.html . Faster, cleaner, far more flexible - this excercise has made me think about web services in a way I hadn't previously. Consider my eyes opened ;)</div>
+            
+        </li>
+    
+        </ul>
+    
+        </div>
+    

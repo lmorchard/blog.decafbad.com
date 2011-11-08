@@ -1,8 +1,9 @@
---- 
-wordpress_id: 625
+---
+comments_archived: true
+date: '2005-04-25T15:16:23-04:00'
 layout: post
 title: Hacking RSS and Atom is a Real Book
-date: "2005-04-25T15:16:23-04:00"
+wordpress_id: 625
 wordpress_slug: hacking-rss-and-atom-is-a-real-book
 wordpress_url: http://www.decafbad.com/blog/?p=625
 ---
@@ -27,3 +28,41 @@ In the meantime...  hello world.  Still here, almost there, and see you soon.
 [wbook]: http://www.wiley.com/WileyCDA/WileyTitle/productCd-0764597582.html
 [quick]: http://www.decafbad.com/blog/2005/02/19/writing_no_things_of_epic_import
 [bmind]: http://www.decafbad.com/blog/2005/01/07/beginners_mind_versus_teachers_mind
+
+<div id="comments" class="comments archived-comments">
+            <h3>Archived Comments</h3>
+            
+        <ul class="comments">
+            
+        <li class="comment" id="comment-221088668">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://rasterweb.net/raster/"><img src="http://www.gravatar.com/avatar.php?gravatar_id=db0fab74bcb564ebb09295498b892fb6&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://rasterweb.net/raster/">Pete Prodoehl</a>
+                </div>
+                <a href="#comment-221088668" class="permalink"><time datetime="2005-04-25T16:18:48">2005-04-25T16:18:48</time></a>
+            </div>
+            <div class="content">Thanks for the progress report...</div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221088669">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href=""><img src="http://www.gravatar.com/avatar.php?gravatar_id=8f8ff21a67437febebc70afd19364e95&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="">Tony Flores</a>
+                </div>
+                <a href="#comment-221088669" class="permalink"><time datetime="2006-02-03T04:33:15">2006-02-03T04:33:15</time></a>
+            </div>
+            <div class="content"><p>I browsed your book at Borders and it looks very good I will be buying it tomorrow, I hope it does well for you. Congrats</p></div>
+            
+        </li>
+    
+        </ul>
+    
+        </div>
+    

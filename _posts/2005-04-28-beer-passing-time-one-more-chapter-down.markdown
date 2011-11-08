@@ -1,8 +1,9 @@
---- 
-wordpress_id: 631
+---
+comments_archived: true
+date: '2005-04-28T22:34:24-04:00'
 layout: post
 title: Beer, passing time, one more chapter down
-date: "2005-04-28T22:34:24-04:00"
+wordpress_id: 631
 wordpress_slug: beer-passing-time-one-more-chapter-down
 wordpress_url: http://www.decafbad.com/blog/?p=631
 ---
@@ -33,3 +34,113 @@ wordpress_url: http://www.decafbad.com/blog/?p=631
   [feedparser]: http://www.feedparser.org/
 
 * Anyway, excuse any oddness in the previous prose: I've emptied 3 of those aforementioned [Expedition Stout][bes] bottles so far this eve.  Good stuff.
+
+<div id="comments" class="comments archived-comments">
+            <h3>Archived Comments</h3>
+            
+        <ul class="comments">
+            
+        <li class="comment" id="comment-221085059">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://www.voidstar.com"><img src="http://www.gravatar.com/avatar.php?gravatar_id=547a40fc1027d9388ce5ba52c888a2f8&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://www.voidstar.com">julian.bond</a>
+                </div>
+                <a href="#comment-221085059" class="permalink"><time datetime="2005-04-29T03:32:06">2005-04-29T03:32:06</time></a>
+            </div>
+            <div class="content">I seem to have waited in vain for years now for ports of feedparser to other languages. In particular PHP and C#. For PHP, Magpie is not bad but it still barfs on feeds that are not perfect XML. And without re-igniting that debate, *I* want a parser that will do it's best even when the feed is broken.
+
+Maybe this is a lazyweb request.</div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221085060">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href=""><img src="http://www.gravatar.com/avatar.php?gravatar_id=eb7f2a3ba74af37415ab7df101a86c75&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="">l.m. orchard</a>
+                </div>
+                <a href="#comment-221085060" class="permalink"><time datetime="2005-04-29T06:57:18">2005-04-29T06:57:18</time></a>
+            </div>
+            <div class="content">Well, for Java, there's also Rome (https://rome.dev.java.net/), although I've not yet had a chance to play with it.
+
+But, yeah, the existence of feedparser only for Python has exerted quite a pull in keeping me programming in Python while I want to play around with Lisp, Ruby, and C#.  And, I seem to remember someone was playing around with a port of feedparser to another language, but the link escapes me.
+
+Anyone trying to port the thing is likely to go mad, though... have you ever looked at what all that thing does?  :)  It's a very useful tool, but it's also a concrete demonstration of why we really need to insist on valid feeds.</div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221085061">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href=""><img src="http://www.gravatar.com/avatar.php?gravatar_id=eb7f2a3ba74af37415ab7df101a86c75&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="">l.m. orchard</a>
+                </div>
+                <a href="#comment-221085061" class="permalink"><time datetime="2005-04-29T06:58:00">2005-04-29T06:58:00</time></a>
+            </div>
+            <div class="content">(Oh yeah, and valid feeds from clear and consistent specs, too.)</div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221085063">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href=""><img src="http://www.gravatar.com/avatar.php?gravatar_id=f3794e603ef53b0513ab45b6565ee457&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="">Jeremy Dunck</a>
+                </div>
+                <a href="#comment-221085063" class="permalink"><time datetime="2005-04-29T18:08:07">2005-04-29T18:08:07</time></a>
+            </div>
+            <div class="content">(must..resist..retort...)</div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221085064">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://plasmasturm.org/"><img src="http://www.gravatar.com/avatar.php?gravatar_id=e17949267bbfe21a0fadf1bbf00592b4&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://plasmasturm.org/">Aristotle Pagaltzis</a>
+                </div>
+                <a href="#comment-221085064" class="permalink"><time datetime="2005-04-29T22:41:49">2005-04-29T22:41:49</time></a>
+            </div>
+            <div class="content">Personally, I don't see what the deal is about generating valid XML. It's just not that difficult.
+
+(Now, talk to me about getting encodings right, then we're on the same page: that [can get arbitrarily complex](http://plasmasturm.org/log/276/). But I'll tell you to simply stick to UTF-8 and forget your worries, because that Just Works.)
+
+Anyway:
+
+> Man, I haven't felt like that about a job--just doing my time--since I worked as a bagger / cashier for Farmer Jack.
+
+Count yourself lucky. Very few people have this luxury, even in the "civilized," "modern" world.
+
+PS.: I was going to ask you to enable at least some rudimentary markup such as italics, blockquotes and the like, since you moderate your comments anyway. Then I noticed in preview that you're running your comments through Markdown. That's even better, but maybe we could have a notice about that on the comment form?</div>
+            
+        </li>
+    
+        <li class="comment" id="comment-221085065">
+            <div class="meta">
+                <div class="author">
+                    <a class="avatar image" rel="nofollow" 
+                       href="http://www.mycgiserver.com/~gpiancastelli/blog/"><img src="http://www.gravatar.com/avatar.php?gravatar_id=6b8da971c82f4d161a83643f5bc05cb1&amp;size=32&amp;default=http://mediacdn.disqus.com/1320279820/images/noavatar32.png"/></a>
+                    <a class="avatar name" rel="nofollow" 
+                       href="http://www.mycgiserver.com/~gpiancastelli/blog/">Giulio Piancastelli</a>
+                </div>
+                <a href="#comment-221085065" class="permalink"><time datetime="2005-05-02T02:07:25">2005-05-02T02:07:25</time></a>
+            </div>
+            <div class="content">I've tried to port some tests from the feedparser suite to the RSS library in Ruby. Due to lack of time and ultimately interest, I drop the ball very soon. I also had a look at Mark's code, but gave up the idea of a port as well: that thing needs time to be studied before attempting a raw port to any language. But, yes, it would be cool to have someone (else) to do it.</div>
+            
+        </li>
+    
+        </ul>
+    
+        </div>
+    
