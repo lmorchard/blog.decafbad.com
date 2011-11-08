@@ -89,7 +89,15 @@ def main():
     fetch_comments_for_posts(disqus, posts_by_url, threads)
 
     # Finally, archive each post's comment thread into post source.
+    now = datetime.datetime.utcnow()
+    cutoff_dt = (now - settings.MAX_POST_AGE).isoformat()
     for post in posts_by_url.values():
+        if post['meta'].get('comments_archived', False):
+            # Skip posts already archived
+            continue
+        if post['pub_date'] > cutoff_dt:
+            # Skip any posts newer than the cutoff date
+            continue
         archive_comments_to_post(post)
 
 
@@ -108,6 +116,8 @@ def load_all_posts():
     posts_by_url = dict()
     posts_list = glob.glob(os.path.join(settings.POSTS_DIR, '*.markdown'))
     for post_path in posts_list:
+        if not os.path.isfile(post_path):
+            continue
         (full_url, path, fn, pub_date, meta, post) = fetch_post(post_path)
         posts_by_url[full_url] = p = {
             "url": full_url,
@@ -127,8 +137,9 @@ def fetch_post(post_path):
     # HACK: Can't use yaml.load_all(), because the post part isn't YAML.
     (meta_lines, post_lines, boundary_ct) = [], [], 0
     fin = open(post_path, 'r')
-    for line in fin.xreadlines():
-        if line.startswith('---'):
+    lines = fin.readlines()
+    for line in lines:
+        if line.startswith("---"):
             boundary_ct += 1
         elif boundary_ct == 1:
             meta_lines.append(line)
@@ -209,31 +220,37 @@ def fetch_comments_for_posts(disqus, posts_by_url, threads):
 def archive_comments_to_post(post):
     """Render comment thread from a post onto the end of the content,
     reconstitute the source file with altered YAML front matter."""
-    
-    path = os.path.join(settings.DATA_DIR, 'comments/%s.json' % post['fn'])
-    if not os.path.exists(path):
-        print "No comments found for %s" % post['fn']
-        return
-    post['comments'] = json.load(open(path))
-
-    post['meta']['comments_archived'] = True
     fn = os.path.join(settings.POSTS_DIR, post['fn'])
+
     print "Archiving to %s" % fn
-    open(fn, 'w').write(u"".join([
+    
+    post['meta']['comments_archived'] = True
+    out = [
         u"---\n",
         unicode(yaml.safe_dump(post['meta'],
             width=70, indent=4, default_flow_style=False)),
         u"---\n",
         unicode(post['post']),
-        u"\n",
-        render_comments_for_post(post)
-    ]).encode('utf-8'))
+    ]
+
+    path = os.path.join(settings.DATA_DIR,
+                        'comments/%s.json' % post['fn'])
+    if not os.path.exists(path):
+        print "\tNo comments found for %s" % post['fn']
+    else:
+        comments = json.load(open(path))
+        print "\t%s comments found for %s" % (len(comments), 
+                                              post['fn'])
+        out.extend([
+            u"\n",
+            render_comments_for_post(comments)
+        ])
+
+    open(fn, 'w').write(u"".join(out).encode('utf-8'))
 
 
-def render_comments_for_post(post):
+def render_comments_for_post(comments):
     """Render the hierarchical comment thread for a post"""
-    comments = post['comments']
-
     # Index the posts by ID
     by_id = dict((str(x['id']), x) for x in comments)
 
