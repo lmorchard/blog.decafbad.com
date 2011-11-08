@@ -278,7 +278,7 @@ ul.posts span {
      padding: 0pt;
 }
 
-#comments.archived-comments ul.comments {
+#comments.archived-comments > ul.comments {
      margin: 0pt 0pt 0pt 0em;
 }
 
