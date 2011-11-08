@@ -1,10 +1,11 @@
---- 
-wordpress_id: 896
+---
+comments_archived: true
+date: '2006-02-23T08:15:15-05:00'
 layout: post
-title: OPML to XOXO to Technorati Favorites
-date: "2006-02-23T08:15:15-05:00"
-tags: 
+tags:
 - asides
+title: OPML to XOXO to Technorati Favorites
+wordpress_id: 896
 wordpress_slug: opml-to-xoxo-to-technorati-favorites-2
 wordpress_url: http://decafbad.com/blog/2006/02/23/opml-to-xoxo-to-technorati-favorites-2
 ---

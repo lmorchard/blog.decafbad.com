@@ -1,8 +1,9 @@
---- 
-wordpress_id: 467
+---
+comments_archived: true
+date: '2003-08-23T14:52:14-04:00'
 layout: post
-title: "Scraping with web services: Success"
-date: "2003-08-23T14:52:14-04:00"
+title: 'Scraping with web services: Success'
+wordpress_id: 467
 wordpress_slug: rss-scrape-urls2
 wordpress_url: http://www.decafbad.com/blog/?p=467
 ---

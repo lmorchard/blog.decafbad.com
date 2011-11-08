@@ -1,8 +1,9 @@
---- 
-wordpress_id: 245
+---
+comments_archived: true
+date: '2002-09-05T19:12:31-04:00'
 layout: post
 title: Once more into the RSS breach - what's the catch?
-date: "2002-09-05T19:12:31-04:00"
+wordpress_id: 245
 wordpress_slug: ooobfh
 wordpress_url: http://www.decafbad.com/blog/?p=245
 ---

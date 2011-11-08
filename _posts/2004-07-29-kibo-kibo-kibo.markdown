@@ -1,8 +1,9 @@
---- 
-wordpress_id: 535
+---
+comments_archived: true
+date: '2004-07-29T23:22:32-04:00'
 layout: post
 title: Kibo Kibo Kibo
-date: "2004-07-29T23:22:32-04:00"
+wordpress_id: 535
 wordpress_slug: kibo-kibo-kibo
 wordpress_url: http://www.decafbad.com/blog/?p=535
 ---

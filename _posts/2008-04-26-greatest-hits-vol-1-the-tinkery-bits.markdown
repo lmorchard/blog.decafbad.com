@@ -1,12 +1,13 @@
---- 
-wordpress_id: 1087
+---
+comments_archived: true
+date: '2008-04-26T12:53:13-04:00'
 layout: post
-title: Greatest Hits Vol. 1, the Tinkery Bits
-date: "2008-04-26T12:53:13-04:00"
-tags: 
+tags:
 - metablogging
 - retrospective
 - entries
+title: Greatest Hits Vol. 1, the Tinkery Bits
+wordpress_id: 1087
 wordpress_slug: greatest-hits-vol-1-the-tinkery-bits
 wordpress_url: http://decafbad.com/blog/?p=1087
 ---

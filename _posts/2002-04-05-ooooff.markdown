@@ -1,8 +1,9 @@
---- 
-wordpress_id: 48
+---
+comments_archived: true
+date: '2002-04-05T01:25:57-05:00'
 layout: post
 title: Trying to post from my Radio UserLand instant outline
-date: "2002-04-05T01:25:57-05:00"
+wordpress_id: 48
 wordpress_slug: ooooff
 wordpress_url: http://www.decafbad.com/blog/?p=48
 ---

@@ -1,10 +1,11 @@
---- 
-wordpress_id: 880
+---
+comments_archived: true
+date: '2006-02-14T23:29:41-05:00'
 layout: post
-title: Pre-sleep bullet points
-date: "2006-02-14T23:29:41-05:00"
-tags: 
+tags:
 - asides
+title: Pre-sleep bullet points
+wordpress_id: 880
 wordpress_slug: pre-sleep-bullet-points
 wordpress_url: http://decafbad.com/blog/2006/02/14/pre-sleep-bullet-points
 ---

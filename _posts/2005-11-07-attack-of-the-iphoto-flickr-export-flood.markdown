@@ -1,10 +1,11 @@
---- 
-wordpress_id: 769
+---
+comments_archived: true
+date: '2005-11-07T17:04:21-05:00'
 layout: post
-title: Attack of the iPhoto Flickr Export Flood
-date: "2005-11-07T17:04:21-05:00"
-tags: 
+tags:
 - asides
+title: Attack of the iPhoto Flickr Export Flood
+wordpress_id: 769
 wordpress_slug: attack-of-the-iphoto-flickr-export-flood
 wordpress_url: http://decafbad.com/blog/?p=769
 ---

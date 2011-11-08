@@ -1,8 +1,9 @@
---- 
-wordpress_id: 155
+---
+comments_archived: true
+date: '2002-06-04T12:37:05-04:00'
 layout: post
 title: Blogchat's on and no one
-date: "2002-06-04T12:37:05-04:00"
+wordpress_id: 155
 wordpress_slug: oooagf
 wordpress_url: http://www.decafbad.com/blog/?p=155
 ---

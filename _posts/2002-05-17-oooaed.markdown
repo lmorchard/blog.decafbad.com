@@ -1,8 +1,9 @@
---- 
-wordpress_id: 133
+---
+comments_archived: true
+date: '2002-05-17T12:33:34-04:00'
 layout: post
 title: DECAFBAD's gone all wobbly
-date: "2002-05-17T12:33:34-04:00"
+wordpress_id: 133
 wordpress_slug: oooaed
 wordpress_url: http://www.decafbad.com/blog/?p=133
 ---

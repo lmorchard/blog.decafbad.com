@@ -1,8 +1,9 @@
---- 
-wordpress_id: 499
+---
+comments_archived: true
+date: '2003-10-29T08:38:46-05:00'
 layout: post
 title: Late to the Panther party
-date: "2003-10-29T08:38:46-05:00"
+wordpress_id: 499
 wordpress_slug: late-to-the-panther-party
 wordpress_url: http://www.decafbad.com/blog/?p=499
 ---

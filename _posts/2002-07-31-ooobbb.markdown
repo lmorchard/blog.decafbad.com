@@ -1,8 +1,9 @@
---- 
-wordpress_id: 201
+---
+comments_archived: true
+date: '2002-07-31T13:00:17-04:00'
 layout: post
 title: Why I don't have to like "Monday:"
-date: "2002-07-31T13:00:17-04:00"
+wordpress_id: 201
 wordpress_slug: ooobbb
 wordpress_url: http://www.decafbad.com/blog/?p=201
 ---

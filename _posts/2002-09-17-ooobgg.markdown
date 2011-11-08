@@ -1,8 +1,9 @@
---- 
-wordpress_id: 253
+---
+comments_archived: true
+date: '2002-09-17T11:27:55-04:00'
 layout: post
 title: We can be Monsters, just for one day
-date: "2002-09-17T11:27:55-04:00"
+wordpress_id: 253
 wordpress_slug: ooobgg
 wordpress_url: http://www.decafbad.com/blog/?p=253
 ---

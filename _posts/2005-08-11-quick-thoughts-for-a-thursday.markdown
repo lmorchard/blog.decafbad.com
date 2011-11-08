@@ -1,8 +1,9 @@
---- 
-wordpress_id: 674
+---
+comments_archived: true
+date: '2005-08-11T11:37:26-04:00'
 layout: post
 title: Quick Thoughts for a Thursday
-date: "2005-08-11T11:37:26-04:00"
+wordpress_id: 674
 wordpress_slug: quick-thoughts-for-a-thursday
 wordpress_url: http://www.decafbad.com/blog/?p=674
 ---

@@ -1,10 +1,11 @@
---- 
-wordpress_id: 9
+---
+comments_archived: true
+date: '2002-02-15T13:35:09-05:00'
 layout: post
-title: Blew the dust off the BBS
-date: "2002-02-15T13:35:09-05:00"
-tags: 
+tags:
 - Header
+title: Blew the dust off the BBS
+wordpress_id: 9
 wordpress_slug: ooooai
 wordpress_url: http://www.decafbad.com/blog/?p=9
 ---

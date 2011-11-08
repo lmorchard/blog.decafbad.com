@@ -1,8 +1,9 @@
---- 
-wordpress_id: 4
+---
+comments_archived: true
+date: '2002-02-14T04:34:45-05:00'
 layout: post
 title: Yay,it all works.
-date: "2002-02-14T04:34:45-05:00"
+wordpress_id: 4
 wordpress_slug: ooooad
 wordpress_url: http://www.decafbad.com/blog/?p=4
 ---

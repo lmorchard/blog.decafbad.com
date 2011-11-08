@@ -1,8 +1,9 @@
---- 
-wordpress_id: 31
+---
+comments_archived: true
+date: '2002-03-06T16:03:20-05:00'
 layout: post
 title: Welcome RdFlowers, and wiki reg considered harmful?
-date: "2002-03-06T16:03:20-05:00"
+wordpress_id: 31
 wordpress_slug: oooodg
 wordpress_url: http://www.decafbad.com/blog/?p=31
 ---

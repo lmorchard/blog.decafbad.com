@@ -1,8 +1,9 @@
---- 
-wordpress_id: 459
+---
+comments_archived: true
+date: '2003-08-13T13:12:19-04:00'
 layout: post
 title: Wireless cams for police at Detroit Dream Cruise
-date: "2003-08-13T13:12:19-04:00"
+wordpress_id: 459
 wordpress_slug: dream-cruise-spy-cams
 wordpress_url: http://www.decafbad.com/blog/?p=459
 ---

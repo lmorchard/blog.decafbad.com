@@ -1,10 +1,11 @@
---- 
-wordpress_id: 928
+---
+comments_archived: true
+date: '2006-04-06T16:46:33-04:00'
 layout: post
-title: Multi-lingual S3 action
-date: "2006-04-06T16:46:33-04:00"
-tags: 
+tags:
 - asides
+title: Multi-lingual S3 action
+wordpress_id: 928
 wordpress_slug: multi-lingual-s3-action
 wordpress_url: http://decafbad.com/blog/2006/04/06/multi-lingual-s3-action
 ---

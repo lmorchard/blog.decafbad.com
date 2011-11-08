@@ -1,15 +1,16 @@
---- 
-wordpress_id: 768
+---
+comments_archived: true
+date: '2005-11-03T13:29:12-05:00'
 layout: post
-title: Yahoo for stalking iPods in the hands of couriers
-date: "2005-11-03T13:29:12-05:00"
-tags: 
+tags:
 - asides
 - hacks
 - yahoo
 - ipod
 - programming
 - maps
+title: Yahoo for stalking iPods in the hands of couriers
+wordpress_id: 768
 wordpress_slug: yahoo-for-stalking-ipods-in-the-hands-of-couriers
 wordpress_url: http://decafbad.com/blog/?p=768
 ---

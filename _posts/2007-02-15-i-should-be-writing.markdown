@@ -1,11 +1,12 @@
---- 
-wordpress_id: 1040
+---
+comments_archived: true
+date: '2007-02-15T04:05:30-05:00'
 layout: post
-title: i should be writing
-date: "2007-02-15T04:05:30-05:00"
-tags: 
+tags:
 - asides
 - writing
+title: i should be writing
+wordpress_id: 1040
 wordpress_slug: i-should-be-writing
 wordpress_url: http://decafbad.com/blog/2007/02/15/i-should-be-writing
 ---

@@ -1,8 +1,9 @@
---- 
-wordpress_id: 486
+---
+comments_archived: true
+date: '2003-10-01T13:00:56-04:00'
 layout: post
 title: Comment Icons drawn from author's RSS or FOAF files
-date: "2003-10-01T13:00:56-04:00"
+wordpress_id: 486
 wordpress_slug: comment-icons
 wordpress_url: http://www.decafbad.com/blog/?p=486
 ---

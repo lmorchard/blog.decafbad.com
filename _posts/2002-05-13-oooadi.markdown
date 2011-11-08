@@ -1,8 +1,9 @@
---- 
-wordpress_id: 128
+---
+comments_archived: true
+date: '2002-05-13T01:57:26-04:00'
 layout: post
 title: I can do quickies as well as the next blog
-date: "2002-05-13T01:57:26-04:00"
+wordpress_id: 128
 wordpress_slug: oooadi
 wordpress_url: http://www.decafbad.com/blog/?p=128
 ---

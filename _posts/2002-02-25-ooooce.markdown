@@ -1,8 +1,9 @@
---- 
-wordpress_id: 19
+---
+comments_archived: true
+date: '2002-02-25T18:15:02-05:00'
 layout: post
 title: 0xDECAFBAD is trying to find itself.
-date: "2002-02-25T18:15:02-05:00"
+wordpress_id: 19
 wordpress_slug: ooooce
 wordpress_url: http://www.decafbad.com/blog/?p=19
 ---

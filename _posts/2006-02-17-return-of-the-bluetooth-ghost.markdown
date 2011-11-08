@@ -1,10 +1,11 @@
---- 
-wordpress_id: 887
+---
+comments_archived: true
+date: '2006-02-17T15:45:59-05:00'
 layout: post
-title: Return of the Bluetooth Ghost
-date: "2006-02-17T15:45:59-05:00"
-tags: 
+tags:
 - asides
+title: Return of the Bluetooth Ghost
+wordpress_id: 887
 wordpress_slug: return-of-the-bluetooth-ghost
 wordpress_url: http://decafbad.com/blog/2006/02/17/return-of-the-bluetooth-ghost
 ---

@@ -1,8 +1,9 @@
---- 
-wordpress_id: 283
+---
+comments_archived: true
+date: '2002-10-16T17:32:38-04:00'
 layout: post
 title: A new toy, and blaming Vinge
-date: "2002-10-16T17:32:38-04:00"
+wordpress_id: 283
 wordpress_slug: ooocoh
 wordpress_url: http://www.decafbad.com/blog/?p=283
 ---

@@ -1,8 +1,9 @@
---- 
-wordpress_id: 111
+---
+comments_archived: true
+date: '2002-05-03T12:36:59-04:00'
 layout: post
 title: Down, but not out.
-date: "2002-05-03T12:36:59-04:00"
+wordpress_id: 111
 wordpress_slug: oooaca
 wordpress_url: http://www.decafbad.com/blog/?p=111
 ---

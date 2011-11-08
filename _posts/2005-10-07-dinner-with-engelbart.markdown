@@ -1,10 +1,11 @@
---- 
-wordpress_id: 721
+---
+comments_archived: true
+date: '2005-10-07T07:52:18-04:00'
 layout: post
-title: Dinner with Engelbart
-date: "2005-10-07T07:52:18-04:00"
-tags: 
+tags:
 - asides
+title: Dinner with Engelbart
+wordpress_id: 721
 wordpress_slug: dinner-with-engelbart
 wordpress_url: http://decafbad.com/blog/?p=721
 ---

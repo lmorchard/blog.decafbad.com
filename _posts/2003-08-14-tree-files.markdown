@@ -1,8 +1,9 @@
---- 
-wordpress_id: 460
+---
+comments_archived: true
+date: '2003-08-14T15:48:24-04:00'
 layout: post
 title: Tree files
-date: "2003-08-14T15:48:24-04:00"
+wordpress_id: 460
 wordpress_slug: tree-files
 wordpress_url: http://www.decafbad.com/blog/?p=460
 ---

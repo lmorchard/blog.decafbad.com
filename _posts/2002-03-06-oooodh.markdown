@@ -1,8 +1,9 @@
---- 
-wordpress_id: 32
+---
+comments_archived: true
+date: '2002-03-06T18:10:48-05:00'
 layout: post
 title: The mind bomb of XmlRpcFilteringPipes and a web command line
-date: "2002-03-06T18:10:48-05:00"
+wordpress_id: 32
 wordpress_slug: oooodh
 wordpress_url: http://www.decafbad.com/blog/?p=32
 ---

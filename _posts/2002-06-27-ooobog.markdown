@@ -1,8 +1,9 @@
---- 
-wordpress_id: 186
+---
+comments_archived: true
+date: '2002-06-27T03:39:46-04:00'
 layout: post
 title: TrackBack in MT 2.2
-date: "2002-06-27T03:39:46-04:00"
+wordpress_id: 186
 wordpress_slug: ooobog
 wordpress_url: http://www.decafbad.com/blog/?p=186
 ---

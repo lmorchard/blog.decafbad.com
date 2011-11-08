@@ -1,8 +1,9 @@
---- 
-wordpress_id: 158
+---
+comments_archived: true
+date: '2002-06-05T13:17:35-04:00'
 layout: post
 title: You got your blog URL in my RSS referrer!
-date: "2002-06-05T13:17:35-04:00"
+wordpress_id: 158
 wordpress_slug: oooagi
 wordpress_url: http://www.decafbad.com/blog/?p=158
 ---

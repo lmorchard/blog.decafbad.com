@@ -1,12 +1,13 @@
---- 
-wordpress_id: 1088
+---
+comments_archived: true
+date: '2008-04-26T13:21:21-04:00'
 layout: post
-title: Greatest Hits Vol. 2, the Babble Bits
-date: "2008-04-26T13:21:21-04:00"
-tags: 
+tags:
 - metablogging
 - retrospective
 - entries
+title: Greatest Hits Vol. 2, the Babble Bits
+wordpress_id: 1088
 wordpress_slug: greatest-hits-vol-2-the-babble-bits
 wordpress_url: http://decafbad.com/blog/?p=1088
 ---

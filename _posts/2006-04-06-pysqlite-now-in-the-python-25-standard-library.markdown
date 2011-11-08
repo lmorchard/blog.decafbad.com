@@ -1,10 +1,11 @@
---- 
-wordpress_id: 927
+---
+comments_archived: true
+date: '2006-04-06T14:48:51-04:00'
 layout: post
-title: pysqlite now in the Python 2.5 standard library?!
-date: "2006-04-06T14:48:51-04:00"
-tags: 
+tags:
 - asides
+title: pysqlite now in the Python 2.5 standard library?!
+wordpress_id: 927
 wordpress_slug: pysqlite-now-in-the-python-25-standard-library
 wordpress_url: http://decafbad.com/blog/2006/04/06/pysqlite-now-in-the-python-25-standard-library
 ---

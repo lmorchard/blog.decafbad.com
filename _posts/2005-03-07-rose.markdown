@@ -1,8 +1,9 @@
---- 
-wordpress_id: 608
+---
+comments_archived: true
+date: '2005-03-07T20:41:29-05:00'
 layout: post
-title: "\"Nice to meet you Rose... run for your life!\""
-date: "2005-03-07T20:41:29-05:00"
+title: '"Nice to meet you Rose... run for your life!"'
+wordpress_id: 608
 wordpress_slug: rose
 wordpress_url: http://www.decafbad.com/blog/?p=608
 ---

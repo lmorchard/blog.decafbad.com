@@ -1,10 +1,11 @@
---- 
-wordpress_id: 688
+---
+comments_archived: true
+date: '2005-09-25T12:12:03-04:00'
 layout: post
-title: Battlestar Galactica's opening teaser
-date: "2005-09-25T12:12:03-04:00"
-tags: 
+tags:
 - asides
+title: Battlestar Galactica's opening teaser
+wordpress_id: 688
 wordpress_slug: battlestar-galacticas-opening-teaser
 wordpress_url: http://decafbad.com/blog/?p=688
 ---

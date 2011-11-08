@@ -1,14 +1,15 @@
---- 
-wordpress_id: 738
+---
+comments_archived: true
+date: '2005-10-20T17:09:43-04:00'
 layout: post
-title: Spaceship Radio is nifty
-date: "2005-10-20T17:09:43-04:00"
-tags: 
+tags:
 - asides
 - scifi
 - podcasts
 - podcasting
 - fiction
+title: Spaceship Radio is nifty
+wordpress_id: 738
 wordpress_slug: spaceship-radio-is-nifty
 wordpress_url: http://decafbad.com/blog/?p=738
 ---

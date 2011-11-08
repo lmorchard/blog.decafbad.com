@@ -1,10 +1,11 @@
---- 
-wordpress_id: 894
+---
+comments_archived: true
+date: '2006-02-21T14:04:16-05:00'
 layout: post
-title: Hello to Dr. Steve!
-date: "2006-02-21T14:04:16-05:00"
-tags: 
+tags:
 - asides
+title: Hello to Dr. Steve!
+wordpress_id: 894
 wordpress_slug: hello-to-dr-steve-2
 wordpress_url: http://decafbad.com/blog/2006/02/21/hello-to-dr-steve-2
 ---

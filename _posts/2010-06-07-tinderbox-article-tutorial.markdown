@@ -1,15 +1,16 @@
---- 
-wordpress_id: 1925
+---
+comments_archived: true
+date: '2010-06-07T00:41:03-04:00'
 layout: post
-title: Using Tinderbox to write articles for the web
-date: "2010-06-07T00:41:03-04:00"
-tags: 
+tags:
 - metablogging
 - webdev
 - writing
 - tinderbox
 - entries
 - html
+title: Using Tinderbox to write articles for the web
+wordpress_id: 1925
 wordpress_slug: tinderbox-article-tutorial
 wordpress_url: http://decafbad.com/blog/?p=1925
 ---

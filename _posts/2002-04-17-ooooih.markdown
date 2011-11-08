@@ -1,8 +1,9 @@
---- 
-wordpress_id: 78
+---
+comments_archived: true
+date: '2002-04-17T12:35:24-04:00'
 layout: post
 title: Disintermediating the Bestsellers List
-date: "2002-04-17T12:35:24-04:00"
+wordpress_id: 78
 wordpress_slug: ooooih
 wordpress_url: http://www.decafbad.com/blog/?p=78
 ---

@@ -1,8 +1,9 @@
---- 
-wordpress_id: 498
+---
+comments_archived: true
+date: '2003-10-29T08:06:02-05:00'
 layout: post
 title: A thought about the Nokia N-Gage
-date: "2003-10-29T08:06:02-05:00"
+wordpress_id: 498
 wordpress_slug: nokia-ngage-schmutz
 wordpress_url: http://www.decafbad.com/blog/?p=498
 ---

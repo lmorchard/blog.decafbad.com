@@ -1,8 +1,9 @@
---- 
-wordpress_id: 148
+---
+comments_archived: true
+date: '2002-05-30T20:37:40-04:00'
 layout: post
 title: Obsolete Research Dooms Author to Irrelevance
-date: "2002-05-30T20:37:40-04:00"
+wordpress_id: 148
 wordpress_slug: oooafi
 wordpress_url: http://www.decafbad.com/blog/?p=148
 ---

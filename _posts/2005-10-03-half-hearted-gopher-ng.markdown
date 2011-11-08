@@ -1,14 +1,15 @@
---- 
-wordpress_id: 713
+---
+comments_archived: true
+date: '2005-10-03T18:34:43-04:00'
 layout: post
-title: Half-hearted Gopher NG
-date: "2005-10-03T18:34:43-04:00"
-tags: 
+tags:
 - asides
 - xoxo
 - microformats
 - opml
 - gopher
+title: Half-hearted Gopher NG
+wordpress_id: 713
 wordpress_slug: half-hearted-gopher-ng
 wordpress_url: http://decafbad.com/blog/?p=713
 ---

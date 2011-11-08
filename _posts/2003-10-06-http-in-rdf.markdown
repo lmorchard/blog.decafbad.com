@@ -1,8 +1,9 @@
---- 
-wordpress_id: 492
+---
+comments_archived: true
+date: '2003-10-06T15:45:12-04:00'
 layout: post
 title: RDF representations of HTTP transactions?
-date: "2003-10-06T15:45:12-04:00"
+wordpress_id: 492
 wordpress_slug: http-in-rdf
 wordpress_url: http://www.decafbad.com/blog/?p=492
 ---

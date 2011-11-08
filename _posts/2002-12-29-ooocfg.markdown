@@ -1,8 +1,9 @@
---- 
-wordpress_id: 340
+---
+comments_archived: true
+date: '2002-12-29T01:04:50-05:00'
 layout: post
 title: InCITEing the Spanish Inquisition
-date: "2002-12-29T01:04:50-05:00"
+wordpress_id: 340
 wordpress_slug: ooocfg
 wordpress_url: http://www.decafbad.com/blog/?p=340
 ---

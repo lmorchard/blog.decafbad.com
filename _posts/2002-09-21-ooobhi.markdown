@@ -1,8 +1,9 @@
---- 
-wordpress_id: 264
+---
+comments_archived: true
+date: '2002-09-21T15:41:55-04:00'
 layout: post
 title: Running Classic from a disk image?
-date: "2002-09-21T15:41:55-04:00"
+wordpress_id: 264
 wordpress_slug: ooobhi
 wordpress_url: http://www.decafbad.com/blog/?p=264
 ---

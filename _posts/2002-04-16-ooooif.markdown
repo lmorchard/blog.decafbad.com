@@ -1,8 +1,9 @@
---- 
-wordpress_id: 76
+---
+comments_archived: true
+date: '2002-04-16T20:46:41-04:00'
 layout: post
 title: Blogchat resurrected on decafbad.com
-date: "2002-04-16T20:46:41-04:00"
+wordpress_id: 76
 wordpress_slug: ooooif
 wordpress_url: http://www.decafbad.com/blog/?p=76
 ---

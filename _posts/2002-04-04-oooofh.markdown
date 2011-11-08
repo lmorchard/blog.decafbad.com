@@ -1,8 +1,9 @@
---- 
-wordpress_id: 47
+---
+comments_archived: true
+date: '2002-04-04T14:37:41-05:00'
 layout: post
 title: Just upgraded to MT 2.0
-date: "2002-04-04T14:37:41-05:00"
+wordpress_id: 47
 wordpress_slug: oooofh
 wordpress_url: http://www.decafbad.com/blog/?p=47
 ---

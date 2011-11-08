@@ -1,12 +1,14 @@
---- 
-wordpress_id: 537
+---
+comments_archived: true
+date: '2004-08-05T19:53:34-04:00'
+excerpt: I've just dumped what code I have into my CVS repository.  So,
+    go ahead and poke fun at it.
 layout: post
-title: dbagg3 code in CVS
-excerpt: I've just dumped what code I have into my CVS repository.  So, go ahead and poke fun at it.
-date: "2004-08-05T19:53:34-04:00"
-tags: 
+tags:
 - syndication
 - python
+title: dbagg3 code in CVS
+wordpress_id: 537
 wordpress_slug: dbagg3cvs
 wordpress_url: http://www.decafbad.com/blog/?p=537
 ---

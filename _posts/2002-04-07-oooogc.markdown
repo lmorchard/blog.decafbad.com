@@ -1,8 +1,9 @@
---- 
-wordpress_id: 54
+---
+comments_archived: true
+date: '2002-04-07T23:59:44-04:00'
 layout: post
 title: From My Instant Outline @ 4/7/02; 8:58:55 PM
-date: "2002-04-07T23:59:44-04:00"
+wordpress_id: 54
 wordpress_slug: oooogc
 wordpress_url: http://www.decafbad.com/blog/?p=54
 ---

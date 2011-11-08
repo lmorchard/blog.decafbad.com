@@ -1,8 +1,9 @@
---- 
-wordpress_id: 139
+---
+comments_archived: true
+date: '2002-05-21T15:16:23-04:00'
 layout: post
 title: Mass media & consumer culture, a mind-virus threat?
-date: "2002-05-21T15:16:23-04:00"
+wordpress_id: 139
 wordpress_slug: oooafo
 wordpress_url: http://www.decafbad.com/blog/?p=139
 ---

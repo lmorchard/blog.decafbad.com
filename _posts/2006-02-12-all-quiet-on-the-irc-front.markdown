@@ -1,10 +1,11 @@
---- 
-wordpress_id: 862
+---
+comments_archived: true
+date: '2006-02-12T00:44:38-05:00'
 layout: post
-title: All quiet on the IRC front
-date: "2006-02-12T00:44:38-05:00"
-tags: 
+tags:
 - asides
+title: All quiet on the IRC front
+wordpress_id: 862
 wordpress_slug: all-quiet-on-the-irc-front
 wordpress_url: http://decafbad.com/blog/?p=862
 ---

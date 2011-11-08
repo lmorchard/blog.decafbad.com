@@ -1,10 +1,11 @@
---- 
-wordpress_id: 789
+---
+comments_archived: true
+date: '2005-12-02T00:52:51-05:00'
 layout: post
-title: Tab Sidebar update and more userChrome.css hacking
-date: "2005-12-02T00:52:51-05:00"
-tags: 
+tags:
 - asides
+title: Tab Sidebar update and more userChrome.css hacking
+wordpress_id: 789
 wordpress_slug: tab-sidebar-update-and-more-userchromecss-hacking
 wordpress_url: http://decafbad.com/blog/?p=789
 ---

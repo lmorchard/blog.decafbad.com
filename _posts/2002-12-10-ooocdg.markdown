@@ -1,8 +1,9 @@
---- 
-wordpress_id: 321
+---
+comments_archived: true
+date: '2002-12-10T13:16:13-05:00'
 layout: post
 title: MoBlog with WAPBlog
-date: "2002-12-10T13:16:13-05:00"
+wordpress_id: 321
 wordpress_slug: ooocdg
 wordpress_url: http://www.decafbad.com/blog/?p=321
 ---

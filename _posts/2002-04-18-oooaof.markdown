@@ -1,8 +1,9 @@
---- 
-wordpress_id: 86
+---
+comments_archived: true
+date: '2002-04-18T15:06:25-04:00'
 layout: post
 title: A menagerie of HexOddities
-date: "2002-04-18T15:06:25-04:00"
+wordpress_id: 86
 wordpress_slug: oooaof
 wordpress_url: http://www.decafbad.com/blog/?p=86
 ---

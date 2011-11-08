@@ -1,10 +1,11 @@
---- 
-wordpress_id: 889
+---
+comments_archived: true
+date: '2006-02-20T13:58:15-05:00'
 layout: post
-title: OPML Community Server in PHP
-date: "2006-02-20T13:58:15-05:00"
-tags: 
+tags:
 - asides
+title: OPML Community Server in PHP
+wordpress_id: 889
 wordpress_slug: opml-community-server-in-php
 wordpress_url: http://decafbad.com/blog/2006/02/20/opml-community-server-in-php
 ---

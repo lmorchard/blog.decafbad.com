@@ -1,8 +1,9 @@
---- 
-wordpress_id: 97
+---
+comments_archived: true
+date: '2002-04-24T17:56:36-04:00'
 layout: post
 title: On home servers and extreme personal PCs
-date: "2002-04-24T17:56:36-04:00"
+wordpress_id: 97
 wordpress_slug: oooaag
 wordpress_url: http://www.decafbad.com/blog/?p=97
 ---

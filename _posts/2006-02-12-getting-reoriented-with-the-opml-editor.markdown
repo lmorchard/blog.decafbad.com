@@ -1,10 +1,11 @@
---- 
-wordpress_id: 860
+---
+comments_archived: true
+date: '2006-02-12T00:42:31-05:00'
 layout: post
-title: Getting reoriented with the OPML Editor
-date: "2006-02-12T00:42:31-05:00"
-tags: 
+tags:
 - asides
+title: Getting reoriented with the OPML Editor
+wordpress_id: 860
 wordpress_slug: getting-reoriented-with-the-opml-editor
 wordpress_url: http://decafbad.com/blog/?p=860
 ---

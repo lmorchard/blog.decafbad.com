@@ -1,8 +1,9 @@
---- 
-wordpress_id: 33
+---
+comments_archived: true
+date: '2002-03-07T17:17:16-05:00'
 layout: post
 title: aaronland vs 0xDECAFBAD -- Link!
-date: "2002-03-07T17:17:16-05:00"
+wordpress_id: 33
 wordpress_slug: oooodi
 wordpress_url: http://www.decafbad.com/blog/?p=33
 ---

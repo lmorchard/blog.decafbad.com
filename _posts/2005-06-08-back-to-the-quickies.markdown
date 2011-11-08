@@ -1,8 +1,9 @@
---- 
-wordpress_id: 647
+---
+comments_archived: true
+date: '2005-06-08T17:35:53-04:00'
 layout: post
 title: Back to the Quickies
-date: "2005-06-08T17:35:53-04:00"
+wordpress_id: 647
 wordpress_slug: back-to-the-quickies
 wordpress_url: http://www.decafbad.com/blog/?p=647
 ---

@@ -1,8 +1,9 @@
---- 
-wordpress_id: 224
+---
+comments_archived: true
+date: '2002-08-20T15:51:30-04:00'
 layout: post
 title: First semi-satisfied plugin customer
-date: "2002-08-20T15:51:30-04:00"
+wordpress_id: 224
 wordpress_slug: ooobdf
 wordpress_url: http://www.decafbad.com/blog/?p=224
 ---

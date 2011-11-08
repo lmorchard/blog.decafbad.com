@@ -1,8 +1,9 @@
---- 
-wordpress_id: 79
+---
+comments_archived: true
+date: '2002-04-17T14:00:36-04:00'
 layout: post
 title: Google 2 RSS, 0xDECAFBAD style
-date: "2002-04-17T14:00:36-04:00"
+wordpress_id: 79
 wordpress_slug: ooooii
 wordpress_url: http://www.decafbad.com/blog/?p=79
 ---

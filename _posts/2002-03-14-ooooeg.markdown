@@ -1,8 +1,9 @@
---- 
-wordpress_id: 39
+---
+comments_archived: true
+date: '2002-03-14T17:05:02-05:00'
 layout: post
 title: Need to tweak up the volume
-date: "2002-03-14T17:05:02-05:00"
+wordpress_id: 39
 wordpress_slug: ooooeg
 wordpress_url: http://www.decafbad.com/blog/?p=39
 ---

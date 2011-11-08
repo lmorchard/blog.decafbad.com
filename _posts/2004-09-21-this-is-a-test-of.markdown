@@ -1,8 +1,9 @@
---- 
-wordpress_id: 556
+---
+comments_archived: true
+date: '2004-09-21T09:44:41-04:00'
 layout: post
 title: This is a test of
-date: "2004-09-21T09:44:41-04:00"
+wordpress_id: 556
 wordpress_slug: this-is-a-test-of
 wordpress_url: http://www.decafbad.com/blog/?p=556
 ---

@@ -1,9 +1,8 @@
---- 
-wordpress_id: 801
+---
+comments_archived: true
+date: '2005-12-18T22:01:51-05:00'
 layout: post
-title: FeedMagick gains an RSS-to-JSON filter
-date: "2005-12-18T22:01:51-05:00"
-tags: 
+tags:
 - asides
 - ajax
 - json
@@ -13,6 +12,8 @@ tags:
 - syndication
 - atom
 - javascript
+title: FeedMagick gains an RSS-to-JSON filter
+wordpress_id: 801
 wordpress_slug: feedmagick-gains-an-rss-to-json-filter
 wordpress_url: http://decafbad.com/blog/?p=801
 ---

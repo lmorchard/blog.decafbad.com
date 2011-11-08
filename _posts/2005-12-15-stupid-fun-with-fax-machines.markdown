@@ -1,14 +1,15 @@
---- 
-wordpress_id: 800
+---
+comments_archived: true
+date: '2005-12-15T16:55:58-05:00'
 layout: post
-title: Stupid fun with fax machines
-date: "2005-12-15T16:55:58-05:00"
-tags: 
+tags:
 - asides
 - hacks
 - fun
 - nifty
 - fax
+title: Stupid fun with fax machines
+wordpress_id: 800
 wordpress_slug: stupid-fun-with-fax-machines
 wordpress_url: http://decafbad.com/blog/?p=800
 ---

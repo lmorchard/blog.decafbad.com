@@ -1,8 +1,9 @@
---- 
-wordpress_id: 44
+---
+comments_archived: true
+date: '2002-03-26T20:34:19-05:00'
 layout: post
 title: XmlRpcFilteringPipes are alive in RadioUserLand
-date: "2002-03-26T20:34:19-05:00"
+wordpress_id: 44
 wordpress_slug: oooofb
 wordpress_url: http://www.decafbad.com/blog/?p=44
 ---

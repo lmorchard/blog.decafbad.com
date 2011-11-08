@@ -1,8 +1,9 @@
---- 
-wordpress_id: 176
+---
+comments_archived: true
+date: '2002-06-13T13:24:42-04:00'
 layout: post
 title: Even Mozilla supports RSS autodetection.  Sorta.
-date: "2002-06-13T13:24:42-04:00"
+wordpress_id: 176
 wordpress_slug: oooaig
 wordpress_url: http://www.decafbad.com/blog/?p=176
 ---

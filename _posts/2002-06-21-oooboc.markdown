@@ -1,8 +1,9 @@
---- 
-wordpress_id: 182
+---
+comments_archived: true
+date: '2002-06-21T20:11:08-04:00'
 layout: post
 title: LiveJournal for K-Logs?!
-date: "2002-06-21T20:11:08-04:00"
+wordpress_id: 182
 wordpress_slug: oooboc
 wordpress_url: http://www.decafbad.com/blog/?p=182
 ---

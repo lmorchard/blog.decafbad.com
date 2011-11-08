@@ -1,8 +1,9 @@
---- 
-wordpress_id: 310
+---
+comments_archived: true
+date: '2002-11-28T01:24:57-05:00'
 layout: post
 title: RSS vs HTML - NO FIGHT!
-date: "2002-11-28T01:24:57-05:00"
+wordpress_id: 310
 wordpress_slug: oooccf
 wordpress_url: http://www.decafbad.com/blog/?p=310
 ---

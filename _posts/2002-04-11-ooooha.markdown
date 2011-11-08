@@ -1,8 +1,9 @@
---- 
-wordpress_id: 61
+---
+comments_archived: true
+date: '2002-04-11T15:44:58-04:00'
 layout: post
 title: Really automated automaticwriter?
-date: "2002-04-11T15:44:58-04:00"
+wordpress_id: 61
 wordpress_slug: ooooha
 wordpress_url: http://www.decafbad.com/blog/?p=61
 ---

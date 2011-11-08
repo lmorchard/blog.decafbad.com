@@ -1,8 +1,9 @@
---- 
-wordpress_id: 620
+---
+comments_archived: true
+date: '2005-03-20T19:48:41-05:00'
 layout: post
 title: Busy bullets
-date: "2005-03-20T19:48:41-05:00"
+wordpress_id: 620
 wordpress_slug: busy-bullets
 wordpress_url: http://www.decafbad.com/blog/?p=620
 ---

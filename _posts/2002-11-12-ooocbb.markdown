@@ -1,8 +1,9 @@
---- 
-wordpress_id: 297
+---
+comments_archived: true
+date: '2002-11-12T09:05:27-05:00'
 layout: post
 title: Bitterness from the halls of Decafbad?
-date: "2002-11-12T09:05:27-05:00"
+wordpress_id: 297
 wordpress_slug: ooocbb
 wordpress_url: http://www.decafbad.com/blog/?p=297
 ---

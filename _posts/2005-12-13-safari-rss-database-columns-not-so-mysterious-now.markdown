@@ -1,9 +1,8 @@
---- 
-wordpress_id: 798
+---
+comments_archived: true
+date: '2005-12-13T16:08:06-05:00'
 layout: post
-title: Safari RSS database columns not so mysterious now
-date: "2005-12-13T16:08:06-05:00"
-tags: 
+tags:
 - asides
 - rss
 - syndication
@@ -13,6 +12,8 @@ tags:
 - pirate
 - monkey
 - robot
+title: Safari RSS database columns not so mysterious now
+wordpress_id: 798
 wordpress_slug: safari-rss-database-columns-not-so-mysterious-now
 wordpress_url: http://decafbad.com/blog/?p=798
 ---

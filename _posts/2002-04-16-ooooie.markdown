@@ -1,8 +1,9 @@
---- 
-wordpress_id: 75
+---
+comments_archived: true
+date: '2002-04-16T19:52:30-04:00'
 layout: post
 title: Blogchat needs resurrection
-date: "2002-04-16T19:52:30-04:00"
+wordpress_id: 75
 wordpress_slug: ooooie
 wordpress_url: http://www.decafbad.com/blog/?p=75
 ---

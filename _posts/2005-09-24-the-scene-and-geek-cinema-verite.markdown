@@ -1,13 +1,14 @@
---- 
-wordpress_id: 686
+---
+comments_archived: true
+date: '2005-09-24T13:46:15-04:00'
 layout: post
-title: "The Scene and geek cin\xC3\xA9ma v\xC3\xA9rit\xC3\xA9"
-date: "2005-09-24T13:46:15-04:00"
-tags: 
+tags:
 - entertainment
 - video
 - review
 - warez
+title: "The Scene and geek cin\xC3\xA9ma v\xC3\xA9rit\xC3\xA9"
+wordpress_id: 686
 wordpress_slug: the-scene-and-geek-cinema-verite
 wordpress_url: http://decafbad.com/blog/?p=686
 ---

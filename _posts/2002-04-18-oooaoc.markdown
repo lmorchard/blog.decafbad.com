@@ -1,8 +1,9 @@
---- 
-wordpress_id: 83
+---
+comments_archived: true
+date: '2002-04-18T03:09:08-04:00'
 layout: post
 title: Google Boxes?  Permasearch?
-date: "2002-04-18T03:09:08-04:00"
+wordpress_id: 83
 wordpress_slug: oooaoc
 wordpress_url: http://www.decafbad.com/blog/?p=83
 ---

@@ -1,9 +1,8 @@
---- 
-wordpress_id: 1058
+---
+comments_archived: true
+date: '2007-07-09T16:21:41-04:00'
 layout: post
-title: A Curmudgeon Playing with the Zend Framework
-date: "2007-07-09T16:21:41-04:00"
-tags: 
+tags:
 - webdev
 - php
 - zend
@@ -12,6 +11,8 @@ tags:
 - django
 - python
 - curmudgeons
+title: A Curmudgeon Playing with the Zend Framework
+wordpress_id: 1058
 wordpress_slug: a-curmudgeon-playing-with-the-zend-framework
 wordpress_url: http://decafbad.com/blog/2007/07/09/a-curmudgeon-playing-with-the-zend-framework
 ---

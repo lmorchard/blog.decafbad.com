@@ -1,8 +1,9 @@
---- 
-wordpress_id: 326
+---
+comments_archived: true
+date: '2002-12-12T23:51:33-05:00'
 layout: post
 title: Standards based replacement for Exchange scheduling?
-date: "2002-12-12T23:51:33-05:00"
+wordpress_id: 326
 wordpress_slug: oooceb
 wordpress_url: http://www.decafbad.com/blog/?p=326
 ---

@@ -1,8 +1,9 @@
---- 
-wordpress_id: 43
+---
+comments_archived: true
+date: '2002-03-26T20:14:35-05:00'
 layout: post
 title: Perceptible interface + laziness threshold = weblog silence
-date: "2002-03-26T20:14:35-05:00"
+wordpress_id: 43
 wordpress_slug: oooofa
 wordpress_url: http://www.decafbad.com/blog/?p=43
 ---

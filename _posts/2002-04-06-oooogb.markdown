@@ -1,8 +1,9 @@
---- 
-wordpress_id: 53
+---
+comments_archived: true
+date: '2002-04-06T20:57:53-05:00'
 layout: post
 title: coding opensource for profit
-date: "2002-04-06T20:57:53-05:00"
+wordpress_id: 53
 wordpress_slug: oooogb
 wordpress_url: http://www.decafbad.com/blog/?p=53
 ---

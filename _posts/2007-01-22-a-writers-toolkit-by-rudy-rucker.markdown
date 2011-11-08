@@ -1,13 +1,14 @@
---- 
-wordpress_id: 1036
+---
+comments_archived: true
+date: '2007-01-22T01:34:56-05:00'
 layout: post
-title: A Writer's Toolkit by Rudy Rucker
-date: "2007-01-22T01:34:56-05:00"
-tags: 
+tags:
 - asides
 - scifi
 - writing
 - rudyrucker
+title: A Writer's Toolkit by Rudy Rucker
+wordpress_id: 1036
 wordpress_slug: a-writers-toolkit-by-rudy-rucker
 wordpress_url: http://decafbad.com/blog/2007/01/22/a-writers-toolkit-by-rudy-rucker
 ---

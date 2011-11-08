@@ -1,8 +1,9 @@
---- 
-wordpress_id: 704
+---
+comments_archived: true
+date: '2005-09-27T16:30:38-04:00'
 layout: post
 title: Colophon
-date: "2005-09-27T16:30:38-04:00"
+wordpress_id: 704
 wordpress_slug: colophon
 wordpress_url: http://decafbad.com/blog/colophon/
 ---

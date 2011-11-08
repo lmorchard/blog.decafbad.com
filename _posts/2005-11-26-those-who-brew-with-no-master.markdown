@@ -1,10 +1,11 @@
---- 
-wordpress_id: 778
+---
+comments_archived: true
+date: '2005-11-26T16:03:50-05:00'
 layout: post
-title: Those who brew with no master
-date: "2005-11-26T16:03:50-05:00"
-tags: 
+tags:
 - asides
+title: Those who brew with no master
+wordpress_id: 778
 wordpress_slug: those-who-brew-with-no-master
 wordpress_url: http://decafbad.com/blog/?p=778
 ---

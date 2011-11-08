@@ -1,8 +1,9 @@
---- 
-wordpress_id: 165
+---
+comments_archived: true
+date: '2002-06-07T19:58:48-04:00'
 layout: post
 title: In the distant post-apocalyptic future...
-date: "2002-06-07T19:58:48-04:00"
+wordpress_id: 165
 wordpress_slug: oooahf
 wordpress_url: http://www.decafbad.com/blog/?p=165
 ---

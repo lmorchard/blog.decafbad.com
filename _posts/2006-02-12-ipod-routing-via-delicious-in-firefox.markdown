@@ -1,10 +1,11 @@
---- 
-wordpress_id: 867
+---
+comments_archived: true
+date: '2006-02-12T23:52:44-05:00'
 layout: post
-title: iPod routing via del.icio.us in Firefox
-date: "2006-02-12T23:52:44-05:00"
-tags: 
+tags:
 - asides
+title: iPod routing via del.icio.us in Firefox
+wordpress_id: 867
 wordpress_slug: ipod-routing-via-delicious-in-firefox
 wordpress_url: http://decafbad.com/blog/?p=867
 ---

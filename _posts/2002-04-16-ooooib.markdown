@@ -1,8 +1,9 @@
---- 
-wordpress_id: 72
+---
+comments_archived: true
+date: '2002-04-16T01:43:59-04:00'
 layout: post
 title: Reinventing wheels versus using the perfectly good set you have
-date: "2002-04-16T01:43:59-04:00"
+wordpress_id: 72
 wordpress_slug: ooooib
 wordpress_url: http://www.decafbad.com/blog/?p=72
 ---

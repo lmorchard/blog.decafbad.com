@@ -1,10 +1,11 @@
---- 
-wordpress_id: 933
+---
+comments_archived: true
+date: '2006-04-20T17:41:35-04:00'
 layout: post
-title: An Ode to AppleCare
-date: "2006-04-20T17:41:35-04:00"
-tags: 
+tags:
 - asides
+title: An Ode to AppleCare
+wordpress_id: 933
 wordpress_slug: an-ode-to-applecare
 wordpress_url: http://decafbad.com/blog/2006/04/20/an-ode-to-applecare
 ---

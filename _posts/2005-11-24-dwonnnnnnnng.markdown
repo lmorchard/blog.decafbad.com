@@ -1,10 +1,11 @@
---- 
-wordpress_id: 776
+---
+comments_archived: true
+date: '2005-11-24T00:16:29-05:00'
 layout: post
-title: Dwonnnnnnnng
-date: "2005-11-24T00:16:29-05:00"
-tags: 
+tags:
 - asides
+title: Dwonnnnnnnng
+wordpress_id: 776
 wordpress_slug: dwonnnnnnnng
 wordpress_url: http://decafbad.com/blog/?p=776
 ---

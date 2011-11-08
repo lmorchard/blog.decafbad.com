@@ -1,8 +1,9 @@
---- 
-wordpress_id: 323
+---
+comments_archived: true
+date: '2002-12-11T17:11:01-05:00'
 layout: post
 title: RDFifying my old RSS template...
-date: "2002-12-11T17:11:01-05:00"
+wordpress_id: 323
 wordpress_slug: ooocdi
 wordpress_url: http://www.decafbad.com/blog/?p=323
 ---

@@ -1,8 +1,9 @@
---- 
-wordpress_id: 352
+---
+comments_archived: true
+date: '2003-01-16T17:10:30-05:00'
 layout: post
 title: OmniGraffle + AppleScript = RSS news reader
-date: "2003-01-16T17:10:30-05:00"
+wordpress_id: 352
 wordpress_slug: ooochb
 wordpress_url: http://www.decafbad.com/blog/?p=352
 ---

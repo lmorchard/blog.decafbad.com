@@ -1,9 +1,8 @@
---- 
-wordpress_id: 816
+---
+comments_archived: true
+date: '2006-01-07T11:24:02-05:00'
 layout: post
-title: Look mom, I'm on the podcast!
-date: "2006-01-07T11:24:02-05:00"
-tags: 
+tags:
 - asides
 - rss
 - writing
@@ -12,6 +11,8 @@ tags:
 - thebook
 - hackingrssandatom
 - radio
+title: Look mom, I'm on the podcast!
+wordpress_id: 816
 wordpress_slug: look-mom-im-on-the-podcast
 wordpress_url: http://decafbad.com/blog/?p=816
 ---

@@ -1,8 +1,9 @@
---- 
-wordpress_id: 185
+---
+comments_archived: true
+date: '2002-06-27T03:11:12-04:00'
 layout: post
 title: Welcome to the wonderful world of digital photography.
-date: "2002-06-27T03:11:12-04:00"
+wordpress_id: 185
 wordpress_slug: ooobof
 wordpress_url: http://www.decafbad.com/blog/?p=185
 ---

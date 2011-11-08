@@ -1,8 +1,9 @@
---- 
-wordpress_id: 403
+---
+comments_archived: true
+date: '2003-04-15T10:36:31-04:00'
 layout: post
 title: Safari has tabs now, but I've changed my mind.
-date: "2003-04-15T10:36:31-04:00"
+wordpress_id: 403
 wordpress_slug: safari-tabs
 wordpress_url: http://www.decafbad.com/blog/?p=403
 ---

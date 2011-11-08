@@ -1,10 +1,11 @@
---- 
-wordpress_id: 936
+---
+comments_archived: true
+date: '2006-04-24T13:29:32-04:00'
 layout: post
-title: S3AjaxWiki got noticed
-date: "2006-04-24T13:29:32-04:00"
-tags: 
+tags:
 - asides
+title: S3AjaxWiki got noticed
+wordpress_id: 936
 wordpress_slug: s3ajaxwiki-got-noticed
 wordpress_url: http://decafbad.com/blog/2006/04/24/s3ajaxwiki-got-noticed
 ---

@@ -1,8 +1,9 @@
---- 
-wordpress_id: 347
+---
+comments_archived: true
+date: '2003-01-07T04:24:19-05:00'
 layout: post
 title: Readline support for Python on OS X
-date: "2003-01-07T04:24:19-05:00"
+wordpress_id: 347
 wordpress_slug: ooocgd
 wordpress_url: http://www.decafbad.com/blog/?p=347
 ---

@@ -1,9 +1,8 @@
---- 
-wordpress_id: 858
+---
+comments_archived: true
+date: '2006-02-09T10:49:42-05:00'
 layout: post
-title: Pulling the Linkmobile back into the garage
-date: "2006-02-09T10:49:42-05:00"
-tags: 
+tags:
 - links
 - asides
 - metablogging
@@ -11,6 +10,8 @@ tags:
 - ajax
 - feedmagick
 - geegaws
+title: Pulling the Linkmobile back into the garage
+wordpress_id: 858
 wordpress_slug: pulling-the-linkmobile-back-into-the-garage
 wordpress_url: http://decafbad.com/blog/?p=858
 ---

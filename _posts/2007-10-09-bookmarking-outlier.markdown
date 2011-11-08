@@ -1,15 +1,16 @@
---- 
-wordpress_id: 1064
+---
+comments_archived: true
+date: '2007-10-09T12:18:56-04:00'
 layout: post
-title: bookmarking outlier
-date: "2007-10-09T12:18:56-04:00"
-tags: 
+tags:
 - asides
 - delicious
 - web20
 - bookmarking
 - numbers
 - epeen
+title: bookmarking outlier
+wordpress_id: 1064
 wordpress_slug: bookmarking-outlier
 wordpress_url: http://decafbad.com/blog/2007/10/09/bookmarking-outlier
 ---

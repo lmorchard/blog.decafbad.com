@@ -1,8 +1,9 @@
---- 
-wordpress_id: 420
+---
+comments_archived: true
+date: '2003-05-21T10:34:56-04:00'
 layout: post
 title: Programming Web Services with Perl
-date: "2003-05-21T10:34:56-04:00"
+wordpress_id: 420
 wordpress_slug: web-services-book-thanks
 wordpress_url: http://www.decafbad.com/blog/?p=420
 ---

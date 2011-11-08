@@ -1,14 +1,15 @@
---- 
-wordpress_id: 759
+---
+comments_archived: true
+date: '2005-10-31T18:34:54-05:00'
 layout: post
-title: Sundown
-date: "2005-10-31T18:34:54-05:00"
-tags: 
+tags:
 - asides
 - sad
 - fall
 - date
 - weather
+title: Sundown
+wordpress_id: 759
 wordpress_slug: sundown
 wordpress_url: http://decafbad.com/blog/?p=759
 ---

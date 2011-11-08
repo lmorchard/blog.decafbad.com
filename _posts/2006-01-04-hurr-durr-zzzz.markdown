@@ -1,10 +1,11 @@
---- 
-wordpress_id: 815
+---
+comments_archived: true
+date: '2006-01-04T23:43:32-05:00'
 layout: post
-title: Hurr durr zzzz
-date: "2006-01-04T23:43:32-05:00"
-tags: 
+tags:
 - asides
+title: Hurr durr zzzz
+wordpress_id: 815
 wordpress_slug: hurr-durr-zzzz
 wordpress_url: http://decafbad.com/blog/?p=815
 ---

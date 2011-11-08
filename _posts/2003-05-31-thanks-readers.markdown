@@ -1,8 +1,9 @@
---- 
-wordpress_id: 422
+---
+comments_archived: true
+date: '2003-05-31T15:43:09-04:00'
 layout: post
 title: Thank You, Readers
-date: "2003-05-31T15:43:09-04:00"
+wordpress_id: 422
 wordpress_slug: thanks-readers
 wordpress_url: http://www.decafbad.com/blog/?p=422
 ---

@@ -1,10 +1,11 @@
---- 
-wordpress_id: 775
+---
+comments_archived: true
+date: '2005-11-23T22:37:04-05:00'
 layout: post
-title: I'm a guest Greasemonkey hacker
-date: "2005-11-23T22:37:04-05:00"
-tags: 
+tags:
 - asides
+title: I'm a guest Greasemonkey hacker
+wordpress_id: 775
 wordpress_slug: im-a-guest-greasemonkey-hacker
 wordpress_url: http://decafbad.com/blog/?p=775
 ---

@@ -1,8 +1,9 @@
---- 
-wordpress_id: 153
+---
+comments_archived: true
+date: '2002-06-03T16:17:10-04:00'
 layout: post
 title: Rock bangers are people too
-date: "2002-06-03T16:17:10-04:00"
+wordpress_id: 153
 wordpress_slug: oooagd
 wordpress_url: http://www.decafbad.com/blog/?p=153
 ---

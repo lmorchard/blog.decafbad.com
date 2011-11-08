@@ -1,12 +1,13 @@
---- 
-wordpress_id: 978
+---
+comments_archived: true
+date: '2006-08-19T13:55:29-04:00'
 layout: post
-title: firefox and macbook pro oddities
-date: "2006-08-19T13:55:29-04:00"
-tags: 
+tags:
 - asides
 - firefox
 - macbookpro
+title: firefox and macbook pro oddities
+wordpress_id: 978
 wordpress_slug: firefox-and-macbook-pro-oddities
 wordpress_url: http://decafbad.com/blog/2006/08/19/firefox-and-macbook-pro-oddities
 ---

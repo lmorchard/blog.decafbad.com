@@ -1,10 +1,11 @@
---- 
-wordpress_id: 865
+---
+comments_archived: true
+date: '2006-02-12T23:51:59-05:00'
 layout: post
-title: Quantum OPML flux
-date: "2006-02-12T23:51:59-05:00"
-tags: 
+tags:
 - asides
+title: Quantum OPML flux
+wordpress_id: 865
 wordpress_slug: quantum-opml-flux
 wordpress_url: http://decafbad.com/blog/?p=865
 ---

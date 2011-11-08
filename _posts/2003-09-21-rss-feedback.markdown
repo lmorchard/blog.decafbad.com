@@ -1,8 +1,9 @@
---- 
-wordpress_id: 481
+---
+comments_archived: true
+date: '2003-09-21T15:54:42-04:00'
 layout: post
 title: Feedback loops and syndication
-date: "2003-09-21T15:54:42-04:00"
+wordpress_id: 481
 wordpress_slug: rss-feedback
 wordpress_url: http://www.decafbad.com/blog/?p=481
 ---

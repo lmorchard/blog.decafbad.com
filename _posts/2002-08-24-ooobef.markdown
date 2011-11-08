@@ -1,8 +1,9 @@
---- 
-wordpress_id: 233
+---
+comments_archived: true
+date: '2002-08-24T02:55:33-04:00'
 layout: post
 title: Comments rise from the ashes
-date: "2002-08-24T02:55:33-04:00"
+wordpress_id: 233
 wordpress_slug: ooobef
 wordpress_url: http://www.decafbad.com/blog/?p=233
 ---

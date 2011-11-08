@@ -1,8 +1,9 @@
---- 
-wordpress_id: 119
+---
+comments_archived: true
+date: '2002-05-07T04:40:37-04:00'
 layout: post
 title: Blosxom.  Why ask why?
-date: "2002-05-07T04:40:37-04:00"
+wordpress_id: 119
 wordpress_slug: oooado
 wordpress_url: http://www.decafbad.com/blog/?p=119
 ---

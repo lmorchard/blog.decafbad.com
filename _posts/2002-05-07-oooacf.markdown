@@ -1,8 +1,9 @@
---- 
-wordpress_id: 116
+---
+comments_archived: true
+date: '2002-05-07T03:29:57-04:00'
 layout: post
 title: Bathroom breaks and golden geese
-date: "2002-05-07T03:29:57-04:00"
+wordpress_id: 116
 wordpress_slug: oooacf
 wordpress_url: http://www.decafbad.com/blog/?p=116
 ---

@@ -1,10 +1,11 @@
---- 
-wordpress_id: 870
+---
+comments_archived: true
+date: '2006-02-12T23:53:54-05:00'
 layout: post
-title: Audio comments via Odeo + del.icio.us
-date: "2006-02-12T23:53:54-05:00"
-tags: 
+tags:
 - asides
+title: Audio comments via Odeo + del.icio.us
+wordpress_id: 870
 wordpress_slug: audio-comments-via-odeo-delicious
 wordpress_url: http://decafbad.com/blog/?p=870
 ---

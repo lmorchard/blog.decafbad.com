@@ -1,10 +1,11 @@
---- 
-wordpress_id: 911
+---
+comments_archived: true
+date: '2006-03-02T12:01:35-05:00'
 layout: post
-title: More long tail yawps
-date: "2006-03-02T12:01:35-05:00"
-tags: 
+tags:
 - asides
+title: More long tail yawps
+wordpress_id: 911
 wordpress_slug: more-long-tail-yawps
 wordpress_url: http://decafbad.com/blog/2006/03/02/more-long-tail-yawps
 ---

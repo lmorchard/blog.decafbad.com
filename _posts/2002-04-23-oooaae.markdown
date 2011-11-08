@@ -1,8 +1,9 @@
---- 
-wordpress_id: 95
+---
+comments_archived: true
+date: '2002-04-23T20:20:31-04:00'
 layout: post
 title: Sort me to the top, baby.
-date: "2002-04-23T20:20:31-04:00"
+wordpress_id: 95
 wordpress_slug: oooaae
 wordpress_url: http://www.decafbad.com/blog/?p=95
 ---

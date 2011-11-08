@@ -1,10 +1,11 @@
---- 
-wordpress_id: 954
+---
+comments_archived: true
+date: '2006-06-12T11:27:11-04:00'
 layout: post
-title: Honeymoon is go!
-date: "2006-06-12T11:27:11-04:00"
-tags: 
+tags:
 - asides
+title: Honeymoon is go!
+wordpress_id: 954
 wordpress_slug: honeymoon-is-go
 wordpress_url: http://decafbad.com/blog/2006/06/12/honeymoon-is-go
 ---

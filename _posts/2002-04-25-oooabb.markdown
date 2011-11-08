@@ -1,8 +1,9 @@
---- 
-wordpress_id: 102
+---
+comments_archived: true
+date: '2002-04-25T17:04:46-04:00'
 layout: post
 title: Playing with ZOE, some assembly required
-date: "2002-04-25T17:04:46-04:00"
+wordpress_id: 102
 wordpress_slug: oooabb
 wordpress_url: http://www.decafbad.com/blog/?p=102
 ---

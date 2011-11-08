@@ -1,8 +1,9 @@
---- 
-wordpress_id: 184
+---
+comments_archived: true
+date: '2002-06-25T19:12:22-04:00'
 layout: post
 title: Busy but not too busy to warchalk
-date: "2002-06-25T19:12:22-04:00"
+wordpress_id: 184
 wordpress_slug: oooboe
 wordpress_url: http://www.decafbad.com/blog/?p=184
 ---

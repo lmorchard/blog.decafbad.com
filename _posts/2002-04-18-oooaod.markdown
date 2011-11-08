@@ -1,8 +1,9 @@
---- 
-wordpress_id: 84
+---
+comments_archived: true
+date: '2002-04-18T03:20:48-04:00'
 layout: post
 title: Pipelining the web makes for messy URLs
-date: "2002-04-18T03:20:48-04:00"
+wordpress_id: 84
 wordpress_slug: oooaod
 wordpress_url: http://www.decafbad.com/blog/?p=84
 ---

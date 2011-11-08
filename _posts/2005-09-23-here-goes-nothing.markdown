@@ -1,10 +1,11 @@
---- 
-wordpress_id: 682
+---
+comments_archived: true
+date: '2005-09-23T09:53:00-04:00'
 layout: post
-title: Here goes nothing
-date: "2005-09-23T09:53:00-04:00"
-tags: 
+tags:
 - asides
+title: Here goes nothing
+wordpress_id: 682
 wordpress_slug: here-goes-nothing
 wordpress_url: http://decafbad.com/blog/?p=682
 ---

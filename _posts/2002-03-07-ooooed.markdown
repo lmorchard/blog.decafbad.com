@@ -1,8 +1,9 @@
---- 
-wordpress_id: 36
+---
+comments_archived: true
+date: '2002-03-07T20:51:38-05:00'
 layout: post
 title: In case you're all wondering
-date: "2002-03-07T20:51:38-05:00"
+wordpress_id: 36
 wordpress_slug: ooooed
 wordpress_url: http://www.decafbad.com/blog/?p=36
 ---

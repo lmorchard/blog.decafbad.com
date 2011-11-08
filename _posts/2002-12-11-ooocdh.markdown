@@ -1,8 +1,9 @@
---- 
-wordpress_id: 322
+---
+comments_archived: true
+date: '2002-12-11T12:44:26-05:00'
 layout: post
 title: Personal Web Proxy, Part the Second
-date: "2002-12-11T12:44:26-05:00"
+wordpress_id: 322
 wordpress_slug: ooocdh
 wordpress_url: http://www.decafbad.com/blog/?p=322
 ---

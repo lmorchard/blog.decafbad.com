@@ -1,8 +1,9 @@
---- 
-wordpress_id: 638
+---
+comments_archived: true
+date: '2005-05-02T21:19:59-04:00'
 layout: post
 title: Happy Birthday Dave!
-date: "2005-05-02T21:19:59-04:00"
+wordpress_id: 638
 wordpress_slug: happy-birthday-dave
 wordpress_url: http://www.decafbad.com/blog/?p=638
 ---

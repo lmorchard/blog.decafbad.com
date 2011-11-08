@@ -1,10 +1,11 @@
---- 
-wordpress_id: 836
+---
+comments_archived: true
+date: '2006-01-24T00:20:37-05:00'
 layout: post
-title: links for 2006-01-24
-date: "2006-01-24T00:20:37-05:00"
-tags: 
+tags:
 - links
+title: links for 2006-01-24
+wordpress_id: 836
 wordpress_slug: links-for-2006-01-24
 wordpress_url: http://decafbad.com/blog/2006/01/24/links-for-2006-01-24
 ---

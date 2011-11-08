@@ -1,8 +1,9 @@
---- 
-wordpress_id: 93
+---
+comments_archived: true
+date: '2002-04-22T04:16:34-04:00'
 layout: post
 title: Blinded by mad science
-date: "2002-04-22T04:16:34-04:00"
+wordpress_id: 93
 wordpress_slug: oooaac
 wordpress_url: http://www.decafbad.com/blog/?p=93
 ---

@@ -1,8 +1,9 @@
---- 
-wordpress_id: 143
+---
+comments_archived: true
+date: '2002-05-28T03:24:34-04:00'
 layout: post
 title: Yes, I am an outline nut
-date: "2002-05-28T03:24:34-04:00"
+wordpress_id: 143
 wordpress_slug: oooafd
 wordpress_url: http://www.decafbad.com/blog/?p=143
 ---

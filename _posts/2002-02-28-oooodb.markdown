@@ -1,8 +1,9 @@
---- 
-wordpress_id: 26
+---
+comments_archived: true
+date: '2002-02-28T03:57:07-05:00'
 layout: post
 title: Partial stab at MoinMoin XML-RPC interface
-date: "2002-02-28T03:57:07-05:00"
+wordpress_id: 26
 wordpress_slug: oooodb
 wordpress_url: http://www.decafbad.com/blog/?p=26
 ---

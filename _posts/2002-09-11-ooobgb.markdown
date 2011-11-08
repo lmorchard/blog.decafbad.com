@@ -1,8 +1,9 @@
---- 
-wordpress_id: 249
+---
+comments_archived: true
+date: '2002-09-11T02:43:31-04:00'
 layout: post
 title: Blogwalking on a Zaurus in progress?
-date: "2002-09-11T02:43:31-04:00"
+wordpress_id: 249
 wordpress_slug: ooobgb
 wordpress_url: http://www.decafbad.com/blog/?p=249
 ---

@@ -1,8 +1,9 @@
---- 
-wordpress_id: 55
+---
+comments_archived: true
+date: '2002-04-08T05:10:47-04:00'
 layout: post
 title: PipeFilters v0.3.5 Released
-date: "2002-04-08T05:10:47-04:00"
+wordpress_id: 55
 wordpress_slug: ooooge
 wordpress_url: http://www.decafbad.com/blog/?p=55
 ---

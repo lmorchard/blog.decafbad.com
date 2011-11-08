@@ -1,8 +1,9 @@
---- 
-wordpress_id: 167
+---
+comments_archived: true
+date: '2002-06-09T15:30:36-04:00'
 layout: post
 title: RSS + XSLT  for a cleaner world
-date: "2002-06-09T15:30:36-04:00"
+wordpress_id: 167
 wordpress_slug: oooahh
 wordpress_url: http://www.decafbad.com/blog/?p=167
 ---

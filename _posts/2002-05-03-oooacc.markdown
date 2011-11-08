@@ -1,8 +1,9 @@
---- 
-wordpress_id: 113
+---
+comments_archived: true
+date: '2002-05-03T19:25:22-04:00'
 layout: post
 title: Facelift needed around here?
-date: "2002-05-03T19:25:22-04:00"
+wordpress_id: 113
 wordpress_slug: oooacc
 wordpress_url: http://www.decafbad.com/blog/?p=113
 ---

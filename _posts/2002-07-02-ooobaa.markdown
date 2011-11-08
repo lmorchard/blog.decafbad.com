@@ -1,8 +1,9 @@
---- 
-wordpress_id: 190
+---
+comments_archived: true
+date: '2002-07-02T20:00:14-04:00'
 layout: post
-title: "YAPC 2002: \"They always shut up when you talk about boobies\""
-date: "2002-07-02T20:00:14-04:00"
+title: 'YAPC 2002: "They always shut up when you talk about boobies"'
+wordpress_id: 190
 wordpress_slug: ooobaa
 wordpress_url: http://www.decafbad.com/blog/?p=190
 ---

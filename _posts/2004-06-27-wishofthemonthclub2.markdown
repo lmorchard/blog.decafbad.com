@@ -1,12 +1,16 @@
---- 
-wordpress_id: 530
+---
+comments_archived: true
+date: '2004-06-27T21:44:51-04:00'
+excerpt: Here's the next installment of the Wish-of-the-Month Club.  You
+    can revisit the first part, too, if you've missed it.  I'd meant to
+    post it within a week of the first part, so apologies all around to
+    anyone who has been tapping a foot waiting for it.  Enjoy!
 layout: post
-title: Wish-of-the-Month Club, Part 2 of 3
-excerpt: Here's the next installment of the Wish-of-the-Month Club.  You can revisit the first part, too, if you've missed it.  I'd meant to post it within a week of the first part, so apologies all around to anyone who has been tapping a foot waiting for it.  Enjoy!
-date: "2004-06-27T21:44:51-04:00"
-tags: 
+tags:
 - hacks
 - xml
+title: Wish-of-the-Month Club, Part 2 of 3
+wordpress_id: 530
 wordpress_slug: wishofthemonthclub2
 wordpress_url: http://www.decafbad.com/blog/?p=530
 ---

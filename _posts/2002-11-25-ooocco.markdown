@@ -1,8 +1,9 @@
---- 
-wordpress_id: 305
+---
+comments_archived: true
+date: '2002-11-25T14:07:52-05:00'
 layout: post
 title: Hammer that round peg into that round hole
-date: "2002-11-25T14:07:52-05:00"
+wordpress_id: 305
 wordpress_slug: ooocco
 wordpress_url: http://www.decafbad.com/blog/?p=305
 ---

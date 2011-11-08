@@ -1,8 +1,9 @@
---- 
-wordpress_id: 77
+---
+comments_archived: true
+date: '2002-04-17T04:03:11-04:00'
 layout: post
 title: I've been Dave-dotted.
-date: "2002-04-17T04:03:11-04:00"
+wordpress_id: 77
 wordpress_slug: ooooig
 wordpress_url: http://www.decafbad.com/blog/?p=77
 ---

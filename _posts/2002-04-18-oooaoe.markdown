@@ -1,8 +1,9 @@
---- 
-wordpress_id: 85
+---
+comments_archived: true
+date: '2002-04-18T04:07:29-04:00'
 layout: post
 title: Auto-backlinks from blog entries via referral logs
-date: "2002-04-18T04:07:29-04:00"
+wordpress_id: 85
 wordpress_slug: oooaoe
 wordpress_url: http://www.decafbad.com/blog/?p=85
 ---

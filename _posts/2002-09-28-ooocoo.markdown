@@ -1,8 +1,9 @@
---- 
-wordpress_id: 275
+---
+comments_archived: true
+date: '2002-09-28T16:29:13-04:00'
 layout: post
 title: Pingback and embedded metadata in (X)HTML
-date: "2002-09-28T16:29:13-04:00"
+wordpress_id: 275
 wordpress_slug: ooocoo
 wordpress_url: http://www.decafbad.com/blog/?p=275
 ---

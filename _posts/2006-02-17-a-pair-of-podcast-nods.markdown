@@ -1,10 +1,11 @@
---- 
-wordpress_id: 886
+---
+comments_archived: true
+date: '2006-02-17T15:45:53-05:00'
 layout: post
-title: A pair of podcast nods
-date: "2006-02-17T15:45:53-05:00"
-tags: 
+tags:
 - asides
+title: A pair of podcast nods
+wordpress_id: 886
 wordpress_slug: a-pair-of-podcast-nods
 wordpress_url: http://decafbad.com/blog/2006/02/17/a-pair-of-podcast-nods
 ---

@@ -1,14 +1,17 @@
---- 
-wordpress_id: 562
+---
+comments_archived: true
+date: '2004-10-11T10:22:51-04:00'
+excerpt: 'When I was in high school, around about the time Ross Perot was
+    getting into the presidential race, I remember putting a little item
+    on my to-do list in my brand new day planner:
+
+
+    * Read the newspaper, watch the news.'
 layout: post
-title: All Growed Up as an Info Freako
-excerpt: |-
-  When I was in high school, around about the time Ross Perot was getting into the presidential race, I remember putting a little item on my to-do list in my brand new day planner:
-  
-  * Read the newspaper, watch the news.
-date: "2004-10-11T10:22:51-04:00"
-tags: 
+tags:
 - syndication
+title: All Growed Up as an Info Freako
+wordpress_id: 562
 wordpress_slug: allgrowedup
 wordpress_url: http://www.decafbad.com/blog/?p=562
 ---

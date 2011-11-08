@@ -1,8 +1,9 @@
---- 
-wordpress_id: 198
+---
+comments_archived: true
+date: '2002-07-28T03:10:58-04:00'
 layout: post
 title: Gone fishing?
-date: "2002-07-28T03:10:58-04:00"
+wordpress_id: 198
 wordpress_slug: ooobai
 wordpress_url: http://www.decafbad.com/blog/?p=198
 ---

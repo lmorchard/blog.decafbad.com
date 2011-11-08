@@ -1,8 +1,9 @@
---- 
-wordpress_id: 29
+---
+comments_archived: true
+date: '2002-03-04T16:52:43-05:00'
 layout: post
 title: From Slashcode to Radio UserLand?
-date: "2002-03-04T16:52:43-05:00"
+wordpress_id: 29
 wordpress_slug: oooode
 wordpress_url: http://www.decafbad.com/blog/?p=29
 ---

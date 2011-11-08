@@ -1,8 +1,9 @@
---- 
-wordpress_id: 51
+---
+comments_archived: true
+date: '2002-04-05T15:34:28-05:00'
 layout: post
 title: More adventures in Instant Outlining.
-date: "2002-04-05T15:34:28-05:00"
+wordpress_id: 51
 wordpress_slug: oooogo
 wordpress_url: http://www.decafbad.com/blog/?p=51
 ---

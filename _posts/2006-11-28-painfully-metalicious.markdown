@@ -1,13 +1,14 @@
---- 
-wordpress_id: 1023
+---
+comments_archived: true
+date: '2006-11-28T19:05:22-05:00'
 layout: post
-title: painfully metalicious
-date: "2006-11-28T19:05:22-05:00"
-tags: 
+tags:
 - asides
 - delicious
 - webdev
 - md5
+title: painfully metalicious
+wordpress_id: 1023
 wordpress_slug: painfully-metalicious
 wordpress_url: http://decafbad.com/blog/2006/11/28/painfully-metalicious
 ---

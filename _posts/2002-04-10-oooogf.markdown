@@ -1,8 +1,9 @@
---- 
-wordpress_id: 56
+---
+comments_archived: true
+date: '2002-04-10T17:04:07-04:00'
 layout: post
 title: Playing around with PipeFilter updates and the Memepoolizer
-date: "2002-04-10T17:04:07-04:00"
+wordpress_id: 56
 wordpress_slug: oooogf
 wordpress_url: http://www.decafbad.com/blog/?p=56
 ---

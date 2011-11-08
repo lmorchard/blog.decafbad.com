@@ -1,9 +1,8 @@
---- 
-wordpress_id: 831
+---
+comments_archived: true
+date: '2006-01-20T12:19:57-05:00'
 layout: post
-title: Re-introducing nightly link posts
-date: "2006-01-20T12:19:57-05:00"
-tags: 
+tags:
 - links
 - asides
 - wordpress
@@ -12,6 +11,8 @@ tags:
 - redesign
 - reboot
 - linkblogging
+title: Re-introducing nightly link posts
+wordpress_id: 831
 wordpress_slug: re-introducing-nightly-link-posts
 wordpress_url: http://decafbad.com/blog/?p=831
 ---

@@ -1,8 +1,9 @@
---- 
-wordpress_id: 231
+---
+comments_archived: true
+date: '2002-08-22T18:37:02-04:00'
 layout: post
 title: A warning about MTXmlRpcFilterPlugin use
-date: "2002-08-22T18:37:02-04:00"
+wordpress_id: 231
 wordpress_slug: ooobed
 wordpress_url: http://www.decafbad.com/blog/?p=231
 ---

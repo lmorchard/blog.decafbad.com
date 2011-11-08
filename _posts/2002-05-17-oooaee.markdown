@@ -1,8 +1,9 @@
---- 
-wordpress_id: 134
+---
+comments_archived: true
+date: '2002-05-17T16:59:52-04:00'
 layout: post
 title: Rock bangers, unite!
-date: "2002-05-17T16:59:52-04:00"
+wordpress_id: 134
 wordpress_slug: oooaee
 wordpress_url: http://www.decafbad.com/blog/?p=134
 ---

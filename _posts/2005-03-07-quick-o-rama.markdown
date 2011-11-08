@@ -1,8 +1,9 @@
---- 
-wordpress_id: 606
+---
+comments_archived: true
+date: '2005-03-07T16:18:27-05:00'
 layout: post
 title: Quick-o-rama
-date: "2005-03-07T16:18:27-05:00"
+wordpress_id: 606
 wordpress_slug: quick-o-rama
 wordpress_url: http://www.decafbad.com/blog/?p=606
 ---

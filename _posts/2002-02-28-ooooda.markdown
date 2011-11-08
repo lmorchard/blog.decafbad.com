@@ -1,8 +1,9 @@
---- 
-wordpress_id: 25
+---
+comments_archived: true
+date: '2002-02-28T03:51:51-05:00'
 layout: post
 title: Still playing with templates
-date: "2002-02-28T03:51:51-05:00"
+wordpress_id: 25
 wordpress_slug: ooooda
 wordpress_url: http://www.decafbad.com/blog/?p=25
 ---

@@ -1,8 +1,9 @@
---- 
-wordpress_id: 342
+---
+comments_archived: true
+date: '2002-12-31T01:34:49-05:00'
 layout: post
-title: "Making a brane snapshot, re: PersonalWebProxy"
-date: "2002-12-31T01:34:49-05:00"
+title: 'Making a brane snapshot, re: PersonalWebProxy'
+wordpress_id: 342
 wordpress_slug: ooocfi
 wordpress_url: http://www.decafbad.com/blog/?p=342
 ---

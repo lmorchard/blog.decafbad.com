@@ -1,14 +1,15 @@
---- 
-wordpress_id: 755
+---
+comments_archived: true
+date: '2005-10-28T10:32:29-04:00'
 layout: post
-title: Working on a Tripkodoo business plan tonight
-date: "2005-10-28T10:32:29-04:00"
-tags: 
+tags:
 - asides
 - web20
 - projects
 - microformats
 - silly
+title: Working on a Tripkodoo business plan tonight
+wordpress_id: 755
 wordpress_slug: working-on-a-tripkodoo-business-plan-tonight
 wordpress_url: http://decafbad.com/blog/?p=755
 ---

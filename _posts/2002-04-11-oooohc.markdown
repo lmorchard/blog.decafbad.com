@@ -1,8 +1,9 @@
---- 
-wordpress_id: 63
+---
+comments_archived: true
+date: '2002-04-11T20:14:21-04:00'
 layout: post
 title: Someone else using SSI as a CMS
-date: "2002-04-11T20:14:21-04:00"
+wordpress_id: 63
 wordpress_slug: oooohc
 wordpress_url: http://www.decafbad.com/blog/?p=63
 ---

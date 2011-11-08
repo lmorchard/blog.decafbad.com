@@ -1,8 +1,9 @@
---- 
-wordpress_id: 220
+---
+comments_archived: true
+date: '2002-08-16T23:45:08-04:00'
 layout: post
 title: I love it when Dave invokes Murphy.
-date: "2002-08-16T23:45:08-04:00"
+wordpress_id: 220
 wordpress_slug: ooobda
 wordpress_url: http://www.decafbad.com/blog/?p=220
 ---

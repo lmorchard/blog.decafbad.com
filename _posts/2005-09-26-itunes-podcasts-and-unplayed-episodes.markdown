@@ -1,10 +1,11 @@
---- 
-wordpress_id: 694
+---
+comments_archived: true
+date: '2005-09-26T16:25:57-04:00'
 layout: post
-title: iTunes, Podcasts, and "unplayed" episodes
-date: "2005-09-26T16:25:57-04:00"
-tags: 
+tags:
 - asides
+title: iTunes, Podcasts, and "unplayed" episodes
+wordpress_id: 694
 wordpress_slug: itunes-podcasts-and-unplayed-episodes
 wordpress_url: http://decafbad.com/blog/?p=694
 ---

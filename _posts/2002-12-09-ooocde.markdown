@@ -1,8 +1,9 @@
---- 
-wordpress_id: 319
+---
+comments_archived: true
+date: '2002-12-09T03:59:44-05:00'
 layout: post
 title: The prodigal iBook has returned
-date: "2002-12-09T03:59:44-05:00"
+wordpress_id: 319
 wordpress_slug: ooocde
 wordpress_url: http://www.decafbad.com/blog/?p=319
 ---

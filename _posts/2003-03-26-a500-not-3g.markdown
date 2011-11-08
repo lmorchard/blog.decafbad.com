@@ -1,8 +1,9 @@
---- 
-wordpress_id: 400
+---
+comments_archived: true
+date: '2003-03-26T15:42:11-05:00'
 layout: post
 title: The A500 ain't 3G
-date: "2003-03-26T15:42:11-05:00"
+wordpress_id: 400
 wordpress_slug: a500-not-3g
 wordpress_url: http://www.decafbad.com/blog/?p=400
 ---

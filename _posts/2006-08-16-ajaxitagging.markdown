@@ -1,15 +1,16 @@
---- 
-wordpress_id: 971
+---
+comments_archived: true
+date: '2006-08-16T09:12:07-04:00'
 layout: post
-title: Ajaxitagging
-date: "2006-08-16T09:12:07-04:00"
-tags: 
+tags:
 - delicious
 - book
 - hacks
 - ajax
 - json
 - webdev
+title: Ajaxitagging
+wordpress_id: 971
 wordpress_slug: ajaxitagging
 wordpress_url: http://decafbad.com/blog/2006/08/16/ajaxitagging
 ---

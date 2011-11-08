@@ -1,8 +1,9 @@
---- 
-wordpress_id: 659
+---
+comments_archived: true
+date: '2005-06-25T12:03:22-04:00'
 layout: post
-title: "Microsoft + RSS: Godzilla tiptoes into Tokyo"
-date: "2005-06-25T12:03:22-04:00"
+title: 'Microsoft + RSS: Godzilla tiptoes into Tokyo'
+wordpress_id: 659
 wordpress_slug: microsoft-rss-godzilla-tiptoes-into-tokyo
 wordpress_url: http://www.decafbad.com/blog/?p=659
 ---

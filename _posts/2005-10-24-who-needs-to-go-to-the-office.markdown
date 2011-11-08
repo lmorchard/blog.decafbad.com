@@ -1,10 +1,11 @@
---- 
-wordpress_id: 745
+---
+comments_archived: true
+date: '2005-10-24T09:53:07-04:00'
 layout: post
-title: Who needs to go to the office?
-date: "2005-10-24T09:53:07-04:00"
-tags: 
+tags:
 - asides
+title: Who needs to go to the office?
+wordpress_id: 745
 wordpress_slug: who-needs-to-go-to-the-office
 wordpress_url: http://decafbad.com/blog/?p=745
 ---

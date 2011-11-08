@@ -1,8 +1,9 @@
---- 
-wordpress_id: 50
+---
+comments_archived: true
+date: '2002-04-05T05:11:41-05:00'
 layout: post
 title: Hmm...  need to simplify the site template
-date: "2002-04-05T05:11:41-05:00"
+wordpress_id: 50
 wordpress_slug: oooofi
 wordpress_url: http://www.decafbad.com/blog/?p=50
 ---

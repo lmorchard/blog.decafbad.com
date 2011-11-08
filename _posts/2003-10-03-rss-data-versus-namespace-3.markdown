@@ -1,8 +1,9 @@
---- 
-wordpress_id: 490
+---
+comments_archived: true
+date: '2003-10-03T08:28:16-04:00'
 layout: post
-title: "RSS 2.0 namespace versus RSS-Data, Part 3: Electric Boogalee"
-date: "2003-10-03T08:28:16-04:00"
+title: 'RSS 2.0 namespace versus RSS-Data, Part 3: Electric Boogalee'
+wordpress_id: 490
 wordpress_slug: rss-data-versus-namespace-3
 wordpress_url: http://www.decafbad.com/blog/?p=490
 ---

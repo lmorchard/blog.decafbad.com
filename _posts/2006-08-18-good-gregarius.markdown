@@ -1,9 +1,8 @@
---- 
-wordpress_id: 975
+---
+comments_archived: true
+date: '2006-08-18T00:43:20-04:00'
 layout: post
-title: good gregarius
-date: "2006-08-18T00:43:20-04:00"
-tags: 
+tags:
 - asides
 - webdev
 - aggregators
@@ -11,6 +10,8 @@ tags:
 - syndication
 - php
 - readinglists
+title: good gregarius
+wordpress_id: 975
 wordpress_slug: good-gregarius
 wordpress_url: http://decafbad.com/blog/2006/08/18/good-gregarius
 ---

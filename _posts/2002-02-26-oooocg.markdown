@@ -1,8 +1,9 @@
---- 
-wordpress_id: 21
+---
+comments_archived: true
+date: '2002-02-26T15:23:17-05:00'
 layout: post
 title: Where oh where did my little httpd go?
-date: "2002-02-26T15:23:17-05:00"
+wordpress_id: 21
 wordpress_slug: oooocg
 wordpress_url: http://www.decafbad.com/blog/?p=21
 ---

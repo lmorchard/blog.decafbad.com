@@ -1,8 +1,9 @@
---- 
-wordpress_id: 58
+---
+comments_archived: true
+date: '2002-04-10T17:51:40-04:00'
 layout: post
-title: "Via Eric Freeman's Radio Weblog:"
-date: "2002-04-10T17:51:40-04:00"
+title: 'Via Eric Freeman''s Radio Weblog:'
+wordpress_id: 58
 wordpress_slug: oooogh
 wordpress_url: http://www.decafbad.com/blog/?p=58
 ---

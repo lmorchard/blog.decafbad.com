@@ -1,8 +1,9 @@
---- 
-wordpress_id: 288
+---
+comments_archived: true
+date: '2002-11-01T21:41:58-05:00'
 layout: post
 title: I've been on the Death March road
-date: "2002-11-01T21:41:58-05:00"
+wordpress_id: 288
 wordpress_slug: ooocac
 wordpress_url: http://www.decafbad.com/blog/?p=288
 ---

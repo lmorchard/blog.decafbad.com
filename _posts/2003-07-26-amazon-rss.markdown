@@ -1,8 +1,9 @@
---- 
-wordpress_id: 449
+---
+comments_archived: true
+date: '2003-07-26T14:59:13-04:00'
 layout: post
 title: Finding the RSS in Amazon searches
-date: "2003-07-26T14:59:13-04:00"
+wordpress_id: 449
 wordpress_slug: amazon-rss
 wordpress_url: http://www.decafbad.com/blog/?p=449
 ---

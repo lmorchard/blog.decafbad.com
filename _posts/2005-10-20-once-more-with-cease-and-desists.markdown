@@ -1,15 +1,16 @@
---- 
-wordpress_id: 737
+---
+comments_archived: true
+date: '2005-10-20T11:52:32-04:00'
 layout: post
-title: Once More with Cease and Desist Letters
-date: "2005-10-20T11:52:32-04:00"
-tags: 
+tags:
 - asides
 - whedon
 - culture
 - copyfight
 - television
 - buffy
+title: Once More with Cease and Desist Letters
+wordpress_id: 737
 wordpress_slug: once-more-with-cease-and-desists
 wordpress_url: http://decafbad.com/blog/?p=737
 ---

@@ -1,8 +1,9 @@
---- 
-wordpress_id: 407
+---
+comments_archived: true
+date: '2003-04-22T01:28:17-04:00'
 layout: post
 title: Do NOT Taunt the Happy Fun Dave
-date: "2003-04-22T01:28:17-04:00"
+wordpress_id: 407
 wordpress_slug: shitstorms-abound-2
 wordpress_url: http://www.decafbad.com/blog/?p=407
 ---

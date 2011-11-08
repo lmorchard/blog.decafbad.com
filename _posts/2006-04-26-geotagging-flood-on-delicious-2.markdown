@@ -1,10 +1,11 @@
---- 
-wordpress_id: 939
+---
+comments_archived: true
+date: '2006-04-26T22:23:06-04:00'
 layout: post
-title: Geotagging Flood on del.icio.us
-date: "2006-04-26T22:23:06-04:00"
-tags: 
+tags:
 - asides
+title: Geotagging Flood on del.icio.us
+wordpress_id: 939
 wordpress_slug: geotagging-flood-on-delicious-2
 wordpress_url: http://decafbad.com/blog/2006/04/26/geotagging-flood-on-delicious-2
 ---

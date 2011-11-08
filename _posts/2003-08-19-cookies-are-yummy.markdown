@@ -1,8 +1,9 @@
---- 
-wordpress_id: 463
+---
+comments_archived: true
+date: '2003-08-19T12:51:56-04:00'
 layout: post
 title: Cookies are yummy
-date: "2003-08-19T12:51:56-04:00"
+wordpress_id: 463
 wordpress_slug: cookies-are-yummy
 wordpress_url: http://www.decafbad.com/blog/?p=463
 ---

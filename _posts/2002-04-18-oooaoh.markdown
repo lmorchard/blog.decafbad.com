@@ -1,8 +1,9 @@
---- 
-wordpress_id: 88
+---
+comments_archived: true
+date: '2002-04-18T19:14:19-04:00'
 layout: post
 title: Windowshading == outlining for window management
-date: "2002-04-18T19:14:19-04:00"
+wordpress_id: 88
 wordpress_slug: oooaoh
 wordpress_url: http://www.decafbad.com/blog/?p=88
 ---

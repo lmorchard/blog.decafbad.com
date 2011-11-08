@@ -1,8 +1,9 @@
---- 
-wordpress_id: 501
+---
+comments_archived: true
+date: '2003-11-03T10:07:43-05:00'
 layout: post
 title: Reviews in RSS feeds
-date: "2003-11-03T10:07:43-05:00"
+wordpress_id: 501
 wordpress_slug: reviews-in-rdf
 wordpress_url: http://www.decafbad.com/blog/?p=501
 ---

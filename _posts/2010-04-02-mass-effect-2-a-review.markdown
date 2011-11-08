@@ -1,14 +1,15 @@
---- 
-wordpress_id: 1894
+---
+comments_archived: true
+date: '2010-04-02T16:06:30-04:00'
 layout: post
-title: "Mass Effect 2: A Review"
-date: "2010-04-02T16:06:30-04:00"
-tags: 
+tags:
 - gaming
 - reviews
 - entries
 - masseffect
 - bioware
+title: 'Mass Effect 2: A Review'
+wordpress_id: 1894
 wordpress_slug: mass-effect-2-a-review
 wordpress_url: http://decafbad.com/blog/?p=1894
 ---

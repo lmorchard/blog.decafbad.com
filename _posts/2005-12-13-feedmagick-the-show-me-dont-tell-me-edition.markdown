@@ -1,10 +1,11 @@
---- 
-wordpress_id: 796
+---
+comments_archived: true
+date: '2005-12-13T01:23:44-05:00'
 layout: post
-title: FeedMagick, the show-me-don't-tell-me edition
-date: "2005-12-13T01:23:44-05:00"
-tags: 
+tags:
 - asides
+title: FeedMagick, the show-me-don't-tell-me edition
+wordpress_id: 796
 wordpress_slug: feedmagick-the-show-me-dont-tell-me-edition
 wordpress_url: http://decafbad.com/blog/?p=796
 ---

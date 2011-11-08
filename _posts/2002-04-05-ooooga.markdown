@@ -1,8 +1,9 @@
---- 
-wordpress_id: 52
+---
+comments_archived: true
+date: '2002-04-05T17:47:10-05:00'
 layout: post
 title: Mother of all hello world for Cocoon 2
-date: "2002-04-05T17:47:10-05:00"
+wordpress_id: 52
 wordpress_slug: ooooga
 wordpress_url: http://www.decafbad.com/blog/?p=52
 ---

@@ -1,8 +1,9 @@
---- 
-wordpress_id: 124
+---
+comments_archived: true
+date: '2002-05-10T12:28:37-04:00'
 layout: post
 title: Great minds can now blog alike with Radio
-date: "2002-05-10T12:28:37-04:00"
+wordpress_id: 124
 wordpress_slug: oooade
 wordpress_url: http://www.decafbad.com/blog/?p=124
 ---

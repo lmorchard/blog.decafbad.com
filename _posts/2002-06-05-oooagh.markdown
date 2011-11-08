@@ -1,8 +1,9 @@
---- 
-wordpress_id: 157
+---
+comments_archived: true
+date: '2002-06-05T12:47:17-04:00'
 layout: post
 title: LiveJournal comes back to the RSS fold, adds autodiscovery
-date: "2002-06-05T12:47:17-04:00"
+wordpress_id: 157
 wordpress_slug: oooagh
 wordpress_url: http://www.decafbad.com/blog/?p=157
 ---

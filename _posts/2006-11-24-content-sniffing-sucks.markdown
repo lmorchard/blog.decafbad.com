@@ -1,9 +1,8 @@
---- 
-wordpress_id: 1021
+---
+comments_archived: true
+date: '2006-11-24T01:28:11-05:00'
 layout: post
-title: content sniffing sucks
-date: "2006-11-24T01:28:11-05:00"
-tags: 
+tags:
 - asides
 - aggregators
 - rss
@@ -11,6 +10,8 @@ tags:
 - atom
 - xsl
 - xml
+title: content sniffing sucks
+wordpress_id: 1021
 wordpress_slug: content-sniffing-sucks
 wordpress_url: http://decafbad.com/blog/2006/11/24/content-sniffing-sucks
 ---

@@ -1,8 +1,9 @@
---- 
-wordpress_id: 436
+---
+comments_archived: true
+date: '2003-07-05T21:52:40-04:00'
 layout: post
 title: Added a scroller?
-date: "2003-07-05T21:52:40-04:00"
+wordpress_id: 436
 wordpress_slug: added-a-scroll
 wordpress_url: http://www.decafbad.com/blog/?p=436
 ---

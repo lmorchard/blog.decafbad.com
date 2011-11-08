@@ -1,8 +1,9 @@
---- 
-wordpress_id: 10
+---
+comments_archived: true
+date: '2002-02-18T19:52:15-05:00'
 layout: post
 title: The game is afoot.  Or something.  Not really.
-date: "2002-02-18T19:52:15-05:00"
+wordpress_id: 10
 wordpress_slug: oooobo
 wordpress_url: http://www.decafbad.com/blog/?p=10
 ---

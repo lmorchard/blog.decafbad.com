@@ -1,8 +1,9 @@
---- 
-wordpress_id: 137
+---
+comments_archived: true
+date: '2002-05-20T15:50:35-04:00'
 layout: post
 title: Conference blogging and linkbacks
-date: "2002-05-20T15:50:35-04:00"
+wordpress_id: 137
 wordpress_slug: oooaeh
 wordpress_url: http://www.decafbad.com/blog/?p=137
 ---

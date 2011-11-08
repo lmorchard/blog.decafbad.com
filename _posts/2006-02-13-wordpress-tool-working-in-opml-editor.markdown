@@ -1,10 +1,11 @@
---- 
-wordpress_id: 875
+---
+comments_archived: true
+date: '2006-02-13T14:48:55-05:00'
 layout: post
-title: WordPress tool working in OPML Editor
-date: "2006-02-13T14:48:55-05:00"
-tags: 
+tags:
 - asides
+title: WordPress tool working in OPML Editor
+wordpress_id: 875
 wordpress_slug: wordpress-tool-working-in-opml-editor
 wordpress_url: http://decafbad.com/blog/2006/02/13/wordpress-tool-working-in-opml-editor
 ---

@@ -1,10 +1,11 @@
---- 
-wordpress_id: 771
+---
+comments_archived: true
+date: '2005-11-10T00:49:29-05:00'
 layout: post
-title: Christmas Under Siege
-date: "2005-11-10T00:49:29-05:00"
-tags: 
+tags:
 - asides
+title: Christmas Under Siege
+wordpress_id: 771
 wordpress_slug: christmas-under-siege
 wordpress_url: http://decafbad.com/blog/?p=771
 ---

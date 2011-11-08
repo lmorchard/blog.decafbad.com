@@ -1,8 +1,9 @@
---- 
-wordpress_id: 336
+---
+comments_archived: true
+date: '2002-12-26T14:01:04-05:00'
 layout: post
 title: There is no perfect software design
-date: "2002-12-26T14:01:04-05:00"
+wordpress_id: 336
 wordpress_slug: ooocfc
 wordpress_url: http://www.decafbad.com/blog/?p=336
 ---

@@ -1,10 +1,11 @@
---- 
-wordpress_id: 1076
+---
+comments_archived: true
+date: '2008-01-03T15:37:00-05:00'
 layout: post
-title: Got me a Centro
-date: "2008-01-03T15:37:00-05:00"
-tags: 
+tags:
 - moblog
+title: Got me a Centro
+wordpress_id: 1076
 wordpress_slug: got-me-a-centro
 wordpress_url: http://decafbad.com/blog/2008/01/03/got-me-a-centro
 ---

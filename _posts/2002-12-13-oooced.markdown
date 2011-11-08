@@ -1,8 +1,9 @@
---- 
-wordpress_id: 328
+---
+comments_archived: true
+date: '2002-12-13T16:33:13-05:00'
 layout: post
 title: Designing for recombinant growth with the lazyweb
-date: "2002-12-13T16:33:13-05:00"
+wordpress_id: 328
 wordpress_slug: oooced
 wordpress_url: http://www.decafbad.com/blog/?p=328
 ---

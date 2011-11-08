@@ -1,8 +1,9 @@
---- 
-wordpress_id: 504
+---
+comments_archived: true
+date: '2003-11-12T13:35:46-05:00'
 layout: post
 title: The Whuffie Web II
-date: "2003-11-12T13:35:46-05:00"
+wordpress_id: 504
 wordpress_slug: The-Whuffie-Web-II
 wordpress_url: http://www.decafbad.com/blog/?p=504
 ---

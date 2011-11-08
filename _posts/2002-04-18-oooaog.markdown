@@ -1,8 +1,9 @@
---- 
-wordpress_id: 87
+---
+comments_archived: true
+date: '2002-04-18T17:22:56-04:00'
 layout: post
 title: Need to learn more deep XML
-date: "2002-04-18T17:22:56-04:00"
+wordpress_id: 87
 wordpress_slug: oooaog
 wordpress_url: http://www.decafbad.com/blog/?p=87
 ---

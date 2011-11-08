@@ -1,10 +1,11 @@
---- 
-wordpress_id: 866
+---
+comments_archived: true
+date: '2006-02-12T23:52:22-05:00'
 layout: post
-title: I have a last.fm account
-date: "2006-02-12T23:52:22-05:00"
-tags: 
+tags:
 - asides
+title: I have a last.fm account
+wordpress_id: 866
 wordpress_slug: i-have-a-lastfm-account
 wordpress_url: http://decafbad.com/blog/?p=866
 ---

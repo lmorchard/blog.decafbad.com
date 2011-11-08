@@ -1,8 +1,9 @@
---- 
-wordpress_id: 129
+---
+comments_archived: true
+date: '2002-05-13T03:07:48-04:00'
 layout: post
 title: Mr. Downes' Javascript-based referrers
-date: "2002-05-13T03:07:48-04:00"
+wordpress_id: 129
 wordpress_slug: oooaeo
 wordpress_url: http://www.decafbad.com/blog/?p=129
 ---

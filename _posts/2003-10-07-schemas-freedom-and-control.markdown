@@ -1,8 +1,9 @@
---- 
-wordpress_id: 494
+---
+comments_archived: true
+date: '2003-10-07T11:12:49-04:00'
 layout: post
 title: Schemas, Freedom, and Control
-date: "2003-10-07T11:12:49-04:00"
+wordpress_id: 494
 wordpress_slug: schemas-freedom-and-control
 wordpress_url: http://www.decafbad.com/blog/?p=494
 ---

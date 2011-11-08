@@ -1,8 +1,9 @@
---- 
-wordpress_id: 273
+---
+comments_archived: true
+date: '2002-09-27T22:21:48-04:00'
 layout: post
 title: Yes, chicks do dig Mac OS X.
-date: "2002-09-27T22:21:48-04:00"
+wordpress_id: 273
 wordpress_slug: ooobih
 wordpress_url: http://www.decafbad.com/blog/?p=273
 ---

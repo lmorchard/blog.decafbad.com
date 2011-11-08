@@ -1,8 +1,9 @@
---- 
-wordpress_id: 89
+---
+comments_archived: true
+date: '2002-04-19T14:08:14-04:00'
 layout: post
 title: New and Improved! Now with nearly ubiquitous referral links
-date: "2002-04-19T14:08:14-04:00"
+wordpress_id: 89
 wordpress_slug: oooaoi
 wordpress_url: http://www.decafbad.com/blog/?p=89
 ---

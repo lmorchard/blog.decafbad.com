@@ -1,8 +1,9 @@
---- 
-wordpress_id: 225
+---
+comments_archived: true
+date: '2002-08-20T16:06:05-04:00'
 layout: post
 title: Note to self
-date: "2002-08-20T16:06:05-04:00"
+wordpress_id: 225
 wordpress_slug: ooobdg
 wordpress_url: http://www.decafbad.com/blog/?p=225
 ---

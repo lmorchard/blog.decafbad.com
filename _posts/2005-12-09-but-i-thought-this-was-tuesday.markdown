@@ -1,10 +1,11 @@
---- 
-wordpress_id: 791
+---
+comments_archived: true
+date: '2005-12-09T01:45:39-05:00'
 layout: post
-title: But I thought this was Tuesday
-date: "2005-12-09T01:45:39-05:00"
-tags: 
+tags:
 - asides
+title: But I thought this was Tuesday
+wordpress_id: 791
 wordpress_slug: but-i-thought-this-was-tuesday
 wordpress_url: http://decafbad.com/blog/?p=791
 ---

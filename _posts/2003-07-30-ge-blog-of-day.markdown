@@ -1,8 +1,9 @@
---- 
-wordpress_id: 455
+---
+comments_archived: true
+date: '2003-07-30T13:41:16-04:00'
 layout: post
 title: GeniusEngineer Blog of the Day
-date: "2003-07-30T13:41:16-04:00"
+wordpress_id: 455
 wordpress_slug: ge-blog-of-day
 wordpress_url: http://www.decafbad.com/blog/?p=455
 ---

@@ -1,10 +1,11 @@
---- 
-wordpress_id: 942
+---
+comments_archived: true
+date: '2006-04-28T12:57:18-04:00'
 layout: post
-title: Even Less About Ajax
-date: "2006-04-28T12:57:18-04:00"
-tags: 
+tags:
 - asides
+title: Even Less About Ajax
+wordpress_id: 942
 wordpress_slug: even-less-about-ajax
 wordpress_url: http://decafbad.com/blog/2006/04/28/even-less-about-ajax
 ---

@@ -1,8 +1,9 @@
---- 
-wordpress_id: 442
+---
+comments_archived: true
+date: '2003-07-16T23:55:26-04:00'
 layout: post
 title: Changes in my link blogging
-date: "2003-07-16T23:55:26-04:00"
+wordpress_id: 442
 wordpress_slug: linkblog-changes
 wordpress_url: http://www.decafbad.com/blog/?p=442
 ---

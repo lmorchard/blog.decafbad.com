@@ -1,8 +1,9 @@
---- 
-wordpress_id: 470
+---
+comments_archived: true
+date: '2003-08-31T21:34:52-04:00'
 layout: post
 title: Bookmark Blogger in Python
-date: "2003-08-31T21:34:52-04:00"
+wordpress_id: 470
 wordpress_slug: bookmark-blogger-python
 wordpress_url: http://www.decafbad.com/blog/?p=470
 ---

@@ -1,8 +1,9 @@
---- 
-wordpress_id: 141
+---
+comments_archived: true
+date: '2002-05-22T21:01:13-04:00'
 layout: post
 title: Ideas on a next iteration of the linkback implementation
-date: "2002-05-22T21:01:13-04:00"
+wordpress_id: 141
 wordpress_slug: oooafb
 wordpress_url: http://www.decafbad.com/blog/?p=141
 ---

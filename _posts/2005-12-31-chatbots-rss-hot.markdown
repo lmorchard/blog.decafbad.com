@@ -1,10 +1,11 @@
---- 
-wordpress_id: 811
+---
+comments_archived: true
+date: '2005-12-31T15:19:18-05:00'
 layout: post
-title: Chatbots + RSS = Hot?
-date: "2005-12-31T15:19:18-05:00"
-tags: 
+tags:
 - asides
+title: Chatbots + RSS = Hot?
+wordpress_id: 811
 wordpress_slug: chatbots-rss-hot
 wordpress_url: http://decafbad.com/blog/?p=811
 ---

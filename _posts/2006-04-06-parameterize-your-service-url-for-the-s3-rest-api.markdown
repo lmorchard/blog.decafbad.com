@@ -1,10 +1,11 @@
---- 
-wordpress_id: 926
+---
+comments_archived: true
+date: '2006-04-06T09:59:29-04:00'
 layout: post
-title: Parameterize your service URL for the S3 REST API
-date: "2006-04-06T09:59:29-04:00"
-tags: 
+tags:
 - asides
+title: Parameterize your service URL for the S3 REST API
+wordpress_id: 926
 wordpress_slug: parameterize-your-service-url-for-the-s3-rest-api
 wordpress_url: http://decafbad.com/blog/2006/04/06/parameterize-your-service-url-for-the-s3-rest-api
 ---

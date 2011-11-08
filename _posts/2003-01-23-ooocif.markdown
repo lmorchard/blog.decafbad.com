@@ -1,8 +1,9 @@
---- 
-wordpress_id: 365
+---
+comments_archived: true
+date: '2003-01-23T18:49:41-05:00'
 layout: post
 title: Vellum and coffee rings
-date: "2003-01-23T18:49:41-05:00"
+wordpress_id: 365
 wordpress_slug: ooocif
 wordpress_url: http://www.decafbad.com/blog/?p=365
 ---

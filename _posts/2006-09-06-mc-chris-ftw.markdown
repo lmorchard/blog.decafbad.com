@@ -1,13 +1,14 @@
---- 
-wordpress_id: 994
+---
+comments_archived: true
+date: '2006-09-06T16:27:46-04:00'
 layout: post
-title: mc chris ftw!
-date: "2006-09-06T16:27:46-04:00"
-tags: 
+tags:
 - asides
 - nerdcore
 - mcchris
 - music
+title: mc chris ftw!
+wordpress_id: 994
 wordpress_slug: mc-chris-ftw
 wordpress_url: http://decafbad.com/blog/2006/09/06/mc-chris-ftw
 ---

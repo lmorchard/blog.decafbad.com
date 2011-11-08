@@ -1,9 +1,8 @@
---- 
-wordpress_id: 1075
+---
+comments_archived: true
+date: '2007-12-25T00:25:16-05:00'
 layout: post
-title: An Accumulator for all my stuff
-date: "2007-12-25T00:25:16-05:00"
-tags: 
+tags:
 - metablogging
 - aggregators
 - feeds
@@ -12,6 +11,8 @@ tags:
 - planet
 - pobox.com
 - accumulator
+title: An Accumulator for all my stuff
+wordpress_id: 1075
 wordpress_slug: an-accumulator-for-all-my-stuff
 wordpress_url: http://decafbad.com/blog/2007/12/25/an-accumulator-for-all-my-stuff
 ---

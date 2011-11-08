@@ -1,8 +1,9 @@
---- 
-wordpress_id: 114
+---
+comments_archived: true
+date: '2002-05-03T20:58:08-04:00'
 layout: post
-title: "Micropoll: verdict=nifty"
-date: "2002-05-03T20:58:08-04:00"
+title: 'Micropoll: verdict=nifty'
+wordpress_id: 114
 wordpress_slug: oooacd
 wordpress_url: http://www.decafbad.com/blog/?p=114
 ---

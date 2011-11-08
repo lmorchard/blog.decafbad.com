@@ -1,14 +1,15 @@
---- 
-wordpress_id: 761
+---
+comments_archived: true
+date: '2005-11-01T19:32:48-05:00'
 layout: post
-title: SpotMeta fixes Spotlight for OS X Tiger
-date: "2005-11-01T19:32:48-05:00"
-tags: 
+tags:
 - asides
 - osx
 - spotlight
 - tiger
 - spotmeta
+title: SpotMeta fixes Spotlight for OS X Tiger
+wordpress_id: 761
 wordpress_slug: spotmeta-fixes-spotlight-for-os-x-tiger
 wordpress_url: http://decafbad.com/blog/?p=761
 ---

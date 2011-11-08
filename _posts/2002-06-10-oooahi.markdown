@@ -1,8 +1,9 @@
---- 
-wordpress_id: 168
+---
+comments_archived: true
+date: '2002-06-10T17:23:28-04:00'
 layout: post
 title: Linkbacks, robots, laziness, the semantic web, and you - part II
-date: "2002-06-10T17:23:28-04:00"
+wordpress_id: 168
 wordpress_slug: oooahi
 wordpress_url: http://www.decafbad.com/blog/?p=168
 ---

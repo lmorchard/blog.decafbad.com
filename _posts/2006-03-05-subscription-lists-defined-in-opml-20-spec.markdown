@@ -1,10 +1,11 @@
---- 
-wordpress_id: 913
+---
+comments_archived: true
+date: '2006-03-05T13:03:00-05:00'
 layout: post
-title: Subscription lists defined in OPML 2.0 spec
-date: "2006-03-05T13:03:00-05:00"
-tags: 
+tags:
 - asides
+title: Subscription lists defined in OPML 2.0 spec
+wordpress_id: 913
 wordpress_slug: subscription-lists-defined-in-opml-20-spec
 wordpress_url: http://decafbad.com/blog/2006/03/05/subscription-lists-defined-in-opml-20-spec
 ---

@@ -1,10 +1,11 @@
---- 
-wordpress_id: 885
+---
+comments_archived: true
+date: '2006-02-17T08:06:35-05:00'
 layout: post
-title: Three guys are having lunch
-date: "2006-02-17T08:06:35-05:00"
-tags: 
+tags:
 - asides
+title: Three guys are having lunch
+wordpress_id: 885
 wordpress_slug: three-guys-are-having-lunch
 wordpress_url: http://decafbad.com/blog/2006/02/17/three-guys-are-having-lunch
 ---

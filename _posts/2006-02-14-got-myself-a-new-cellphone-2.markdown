@@ -1,10 +1,11 @@
---- 
-wordpress_id: 879
+---
+comments_archived: true
+date: '2006-02-14T13:34:15-05:00'
 layout: post
-title: Got myself a new cellphone
-date: "2006-02-14T13:34:15-05:00"
-tags: 
+tags:
 - asides
+title: Got myself a new cellphone
+wordpress_id: 879
 wordpress_slug: got-myself-a-new-cellphone-2
 wordpress_url: http://decafbad.com/blog/2006/02/14/got-myself-a-new-cellphone-2
 ---

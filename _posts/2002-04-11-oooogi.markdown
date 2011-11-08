@@ -1,8 +1,9 @@
---- 
-wordpress_id: 59
+---
+comments_archived: true
+date: '2002-04-11T02:39:33-04:00'
 layout: post
 title: SSI, Sibling Blogs, RssDisplay, and Grousing
-date: "2002-04-11T02:39:33-04:00"
+wordpress_id: 59
 wordpress_slug: oooogi
 wordpress_url: http://www.decafbad.com/blog/?p=59
 ---

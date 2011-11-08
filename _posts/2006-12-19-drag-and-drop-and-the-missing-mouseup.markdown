@@ -1,15 +1,16 @@
---- 
-wordpress_id: 1026
+---
+comments_archived: true
+date: '2006-12-19T11:21:40-05:00'
 layout: post
-title: drag and drop and the missing mouseup
-date: "2006-12-19T11:21:40-05:00"
-tags: 
+tags:
 - asides
 - webdev
 - firefox
 - javascript
 - dhtml
 - xoxooutliner
+title: drag and drop and the missing mouseup
+wordpress_id: 1026
 wordpress_slug: drag-and-drop-and-the-missing-mouseup
 wordpress_url: http://decafbad.com/blog/2006/12/19/drag-and-drop-and-the-missing-mouseup
 ---

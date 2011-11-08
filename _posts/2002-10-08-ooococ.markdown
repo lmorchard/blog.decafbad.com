@@ -1,8 +1,9 @@
---- 
-wordpress_id: 278
+---
+comments_archived: true
+date: '2002-10-08T15:46:11-04:00'
 layout: post
 title: Cheers and tears, too
-date: "2002-10-08T15:46:11-04:00"
+wordpress_id: 278
 wordpress_slug: ooococ
 wordpress_url: http://www.decafbad.com/blog/?p=278
 ---

@@ -1,8 +1,9 @@
---- 
-wordpress_id: 62
+---
+comments_archived: true
+date: '2002-04-11T20:01:04-04:00'
 layout: post
 title: Is there reason in the masses, or only sheep going baa baa baa?
-date: "2002-04-11T20:01:04-04:00"
+wordpress_id: 62
 wordpress_slug: oooohb
 wordpress_url: http://www.decafbad.com/blog/?p=62
 ---

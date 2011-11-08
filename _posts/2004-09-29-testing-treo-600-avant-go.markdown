@@ -1,8 +1,9 @@
---- 
-wordpress_id: 559
+---
+comments_archived: true
+date: '2004-09-29T18:55:58-04:00'
 layout: post
 title: testing treo 600 + avant go
-date: "2004-09-29T18:55:58-04:00"
+wordpress_id: 559
 wordpress_slug: testing-treo-600-avant-go
 wordpress_url: http://www.decafbad.com/blog/?p=559
 ---

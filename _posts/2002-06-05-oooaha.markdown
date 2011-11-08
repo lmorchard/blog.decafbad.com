@@ -1,8 +1,9 @@
---- 
-wordpress_id: 160
+---
+comments_archived: true
+date: '2002-06-05T17:48:58-04:00'
 layout: post
 title: The 'zilla has awakened! (Now what?)
-date: "2002-06-05T17:48:58-04:00"
+wordpress_id: 160
 wordpress_slug: oooaha
 wordpress_url: http://www.decafbad.com/blog/?p=160
 ---

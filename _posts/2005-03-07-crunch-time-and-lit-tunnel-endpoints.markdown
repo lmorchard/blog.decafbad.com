@@ -1,8 +1,9 @@
---- 
-wordpress_id: 607
+---
+comments_archived: true
+date: '2005-03-07T17:11:25-05:00'
 layout: post
 title: Crunch Time and Lit-Tunnel Endpoints
-date: "2005-03-07T17:11:25-05:00"
+wordpress_id: 607
 wordpress_slug: crunch-time-and-lit-tunnel-endpoints
 wordpress_url: http://www.decafbad.com/blog/?p=607
 ---

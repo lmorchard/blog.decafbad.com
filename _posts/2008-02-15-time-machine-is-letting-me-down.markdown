@@ -1,10 +1,11 @@
---- 
-wordpress_id: 1082
+---
+comments_archived: true
+date: '2008-02-15T20:19:00-05:00'
 layout: post
-title: time machine is letting me down
-date: "2008-02-15T20:19:00-05:00"
-tags: 
+tags:
 - asides
+title: time machine is letting me down
+wordpress_id: 1082
 wordpress_slug: time-machine-is-letting-me-down
 wordpress_url: http://decafbad.com/blog/1999/11/29/time-machine-is-letting-me-down
 ---

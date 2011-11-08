@@ -1,8 +1,9 @@
---- 
-wordpress_id: 338
+---
+comments_archived: true
+date: '2002-12-27T15:35:21-05:00'
 layout: post
 title: Pushing envelopes and mining the hills
-date: "2002-12-27T15:35:21-05:00"
+wordpress_id: 338
 wordpress_slug: ooocfe
 wordpress_url: http://www.decafbad.com/blog/?p=338
 ---

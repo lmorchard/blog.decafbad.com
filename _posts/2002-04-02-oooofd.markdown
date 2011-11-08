@@ -1,8 +1,9 @@
---- 
-wordpress_id: 46
+---
+comments_archived: true
+date: '2002-04-02T19:09:33-05:00'
 layout: post
 title: decafbad is getting left out of the pipeline
-date: "2002-04-02T19:09:33-05:00"
+wordpress_id: 46
 wordpress_slug: oooofd
 wordpress_url: http://www.decafbad.com/blog/?p=46
 ---

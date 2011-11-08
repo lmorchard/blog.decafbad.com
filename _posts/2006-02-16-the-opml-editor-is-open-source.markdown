@@ -1,10 +1,11 @@
---- 
-wordpress_id: 882
+---
+comments_archived: true
+date: '2006-02-16T10:29:32-05:00'
 layout: post
-title: The OPML Editor is Open Source
-date: "2006-02-16T10:29:32-05:00"
-tags: 
+tags:
 - asides
+title: The OPML Editor is Open Source
+wordpress_id: 882
 wordpress_slug: the-opml-editor-is-open-source
 wordpress_url: http://decafbad.com/blog/2006/02/16/the-opml-editor-is-open-source
 ---

@@ -1,8 +1,9 @@
---- 
-wordpress_id: 40
+---
+comments_archived: true
+date: '2002-03-14T17:22:34-05:00'
 layout: post
 title: Why I have a blog on the front page of 0xDECAFBAD
-date: "2002-03-14T17:22:34-05:00"
+wordpress_id: 40
 wordpress_slug: ooooeh
 wordpress_url: http://www.decafbad.com/blog/?p=40
 ---

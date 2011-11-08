@@ -1,8 +1,9 @@
---- 
-wordpress_id: 174
+---
+comments_archived: true
+date: '2002-06-12T20:03:38-04:00'
 layout: post
 title: Interactive shells uber alles!
-date: "2002-06-12T20:03:38-04:00"
+wordpress_id: 174
 wordpress_slug: oooaie
 wordpress_url: http://www.decafbad.com/blog/?p=174
 ---

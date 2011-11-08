@@ -1,8 +1,9 @@
---- 
-wordpress_id: 314
+---
+comments_archived: true
+date: '2002-12-02T15:58:29-05:00'
 layout: post
 title: Saved by a Thanksgiving food coma
-date: "2002-12-02T15:58:29-05:00"
+wordpress_id: 314
 wordpress_slug: ooocdo
 wordpress_url: http://www.decafbad.com/blog/?p=314
 ---

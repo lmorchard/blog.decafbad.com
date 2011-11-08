@@ -1,8 +1,9 @@
---- 
-wordpress_id: 300
+---
+comments_archived: true
+date: '2002-11-20T13:00:58-05:00'
 layout: post
 title: Email as command line
-date: "2002-11-20T13:00:58-05:00"
+wordpress_id: 300
 wordpress_slug: ooocbe
 wordpress_url: http://www.decafbad.com/blog/?p=300
 ---

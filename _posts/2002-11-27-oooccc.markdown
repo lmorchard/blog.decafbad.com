@@ -1,8 +1,9 @@
---- 
-wordpress_id: 308
+---
+comments_archived: true
+date: '2002-11-27T14:55:11-05:00'
 layout: post
-title: "XML-RPC case study redux, Part I: Setting"
-date: "2002-11-27T14:55:11-05:00"
+title: 'XML-RPC case study redux, Part I: Setting'
+wordpress_id: 308
 wordpress_slug: oooccc
 wordpress_url: http://www.decafbad.com/blog/?p=308
 ---

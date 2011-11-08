@@ -1,8 +1,9 @@
---- 
-wordpress_id: 81
+---
+comments_archived: true
+date: '2002-04-17T19:24:10-04:00'
 layout: post
 title: GoogleToRss seems broken now
-date: "2002-04-17T19:24:10-04:00"
+wordpress_id: 81
 wordpress_slug: oooaoa
 wordpress_url: http://www.decafbad.com/blog/?p=81
 ---

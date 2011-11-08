@@ -1,8 +1,9 @@
---- 
-wordpress_id: 130
+---
+comments_archived: true
+date: '2002-05-13T03:10:52-04:00'
 layout: post
 title: Linksback to the danger zone
-date: "2002-05-13T03:10:52-04:00"
+wordpress_id: 130
 wordpress_slug: oooaea
 wordpress_url: http://www.decafbad.com/blog/?p=130
 ---

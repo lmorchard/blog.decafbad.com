@@ -1,8 +1,9 @@
---- 
-wordpress_id: 154
+---
+comments_archived: true
+date: '2002-06-03T16:24:46-04:00'
 layout: post
 title: RSS autodiscovery update
-date: "2002-06-03T16:24:46-04:00"
+wordpress_id: 154
 wordpress_slug: oooage
 wordpress_url: http://www.decafbad.com/blog/?p=154
 ---

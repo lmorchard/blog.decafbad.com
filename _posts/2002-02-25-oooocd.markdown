@@ -1,8 +1,9 @@
---- 
-wordpress_id: 18
+---
+comments_archived: true
+date: '2002-02-25T04:48:29-05:00'
 layout: post
 title: Tweaking the Wiki, building APIs and bridges
-date: "2002-02-25T04:48:29-05:00"
+wordpress_id: 18
 wordpress_slug: oooocd
 wordpress_url: http://www.decafbad.com/blog/?p=18
 ---

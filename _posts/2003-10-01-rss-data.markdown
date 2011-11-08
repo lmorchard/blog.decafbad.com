@@ -1,8 +1,9 @@
---- 
-wordpress_id: 487
+---
+comments_archived: true
+date: '2003-10-01T16:21:23-04:00'
 layout: post
-title: "RSS-Data: XML-RPC encoding in RSS 2.0"
-date: "2003-10-01T16:21:23-04:00"
+title: 'RSS-Data: XML-RPC encoding in RSS 2.0'
+wordpress_id: 487
 wordpress_slug: rss-data
 wordpress_url: http://www.decafbad.com/blog/?p=487
 ---

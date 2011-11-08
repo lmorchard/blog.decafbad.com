@@ -1,8 +1,9 @@
---- 
-wordpress_id: 298
+---
+comments_archived: true
+date: '2002-11-19T03:49:27-05:00'
 layout: post
 title: Broken project download links fixed
-date: "2002-11-19T03:49:27-05:00"
+wordpress_id: 298
 wordpress_slug: ooocbc
 wordpress_url: http://www.decafbad.com/blog/?p=298
 ---

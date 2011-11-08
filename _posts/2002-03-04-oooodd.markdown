@@ -1,8 +1,9 @@
---- 
-wordpress_id: 28
+---
+comments_archived: true
+date: '2002-03-04T15:14:16-05:00'
 layout: post
 title: A new project idea for simulating LiveJournal's Friends
-date: "2002-03-04T15:14:16-05:00"
+wordpress_id: 28
 wordpress_slug: oooodd
 wordpress_url: http://www.decafbad.com/blog/?p=28
 ---

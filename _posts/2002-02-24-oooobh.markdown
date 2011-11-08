@@ -1,10 +1,11 @@
---- 
-wordpress_id: 13
+---
+comments_archived: true
+date: '2002-02-24T04:24:13-05:00'
 layout: post
-title: It&apos;s quiet. Too quiet. Actually,
-date: "2002-02-24T04:24:13-05:00"
-tags: 
+tags:
 - Header
+title: It&apos;s quiet. Too quiet. Actually,
+wordpress_id: 13
 wordpress_slug: oooobh
 wordpress_url: http://www.decafbad.com/blog/?p=13
 ---

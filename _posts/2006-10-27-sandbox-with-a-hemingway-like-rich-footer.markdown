@@ -1,15 +1,16 @@
---- 
-wordpress_id: 1007
+---
+comments_archived: true
+date: '2006-10-27T12:39:45-04:00'
 layout: post
-title: sandbox with a hemingway-like rich footer
-date: "2006-10-27T12:39:45-04:00"
-tags: 
+tags:
 - asides
 - wordpress
 - metablogging
 - sandbox
 - hemingway
 - css
+title: sandbox with a hemingway-like rich footer
+wordpress_id: 1007
 wordpress_slug: sandbox-with-a-hemingway-like-rich-footer
 wordpress_url: http://decafbad.com/blog/2006/10/27/sandbox-with-a-hemingway-like-rich-footer
 ---

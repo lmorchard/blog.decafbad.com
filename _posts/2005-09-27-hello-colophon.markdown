@@ -1,10 +1,11 @@
---- 
-wordpress_id: 705
+---
+comments_archived: true
+date: '2005-09-27T16:52:06-04:00'
 layout: post
-title: Hello Colophon
-date: "2005-09-27T16:52:06-04:00"
-tags: 
+tags:
 - asides
+title: Hello Colophon
+wordpress_id: 705
 wordpress_slug: hello-colophon
 wordpress_url: http://decafbad.com/blog/?p=705
 ---

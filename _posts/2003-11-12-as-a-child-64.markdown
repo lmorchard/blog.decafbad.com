@@ -1,8 +1,9 @@
---- 
-wordpress_id: 503
+---
+comments_archived: true
+date: '2003-11-12T12:48:36-05:00'
 layout: post
 title: As a child, I would have teased Mark Pilgrim
-date: "2003-11-12T12:48:36-05:00"
+wordpress_id: 503
 wordpress_slug: as-a-child-64
 wordpress_url: http://www.decafbad.com/blog/?p=503
 ---

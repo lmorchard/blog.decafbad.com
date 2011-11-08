@@ -1,8 +1,9 @@
---- 
-wordpress_id: 619
+---
+comments_archived: true
+date: '2005-03-20T16:13:21-05:00'
 layout: post
 title: Posting brief music bullets
-date: "2005-03-20T16:13:21-05:00"
+wordpress_id: 619
 wordpress_slug: posting-brief-music-bullets
 wordpress_url: http://www.decafbad.com/blog/?p=619
 ---

@@ -1,8 +1,9 @@
---- 
-wordpress_id: 80
+---
+comments_archived: true
+date: '2002-04-17T14:35:38-04:00'
 layout: post
 title: CNET Blast from the past
-date: "2002-04-17T14:35:38-04:00"
+wordpress_id: 80
 wordpress_slug: oooaoo
 wordpress_url: http://www.decafbad.com/blog/?p=80
 ---

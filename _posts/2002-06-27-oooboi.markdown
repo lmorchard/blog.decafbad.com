@@ -1,8 +1,9 @@
---- 
-wordpress_id: 188
+---
+comments_archived: true
+date: '2002-06-27T17:20:13-04:00'
 layout: post
 title: Digital photography the Lomography way?
-date: "2002-06-27T17:20:13-04:00"
+wordpress_id: 188
 wordpress_slug: oooboi
 wordpress_url: http://www.decafbad.com/blog/?p=188
 ---

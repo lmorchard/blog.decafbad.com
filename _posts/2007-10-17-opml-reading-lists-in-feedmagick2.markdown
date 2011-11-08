@@ -1,9 +1,8 @@
---- 
-wordpress_id: 1066
+---
+comments_archived: true
+date: '2007-10-17T03:22:47-04:00'
 layout: post
-title: OPML reading lists in FeedMagick2
-date: "2007-10-17T03:22:47-04:00"
-tags: 
+tags:
 - webdev
 - rss
 - php
@@ -13,6 +12,8 @@ tags:
 - feedmagick
 - feedmagick2
 - feeds
+title: OPML reading lists in FeedMagick2
+wordpress_id: 1066
 wordpress_slug: opml-reading-lists-in-feedmagick2
 wordpress_url: http://decafbad.com/blog/2007/10/17/opml-reading-lists-in-feedmagick2
 ---

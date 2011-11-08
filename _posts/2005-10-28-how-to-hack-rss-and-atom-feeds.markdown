@@ -1,9 +1,8 @@
---- 
-wordpress_id: 756
+---
+comments_archived: true
+date: '2005-10-28T11:22:26-04:00'
 layout: post
-title: How to Hack RSS and Atom Feeds
-date: "2005-10-28T11:22:26-04:00"
-tags: 
+tags:
 - asides
 - book
 - rss
@@ -11,6 +10,8 @@ tags:
 - writing
 - atom
 - books
+title: How to Hack RSS and Atom Feeds
+wordpress_id: 756
 wordpress_slug: how-to-hack-rss-and-atom-feeds
 wordpress_url: http://decafbad.com/blog/?p=756
 ---

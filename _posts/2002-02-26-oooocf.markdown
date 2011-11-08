@@ -1,8 +1,9 @@
---- 
-wordpress_id: 20
+---
+comments_archived: true
+date: '2002-02-26T04:42:14-05:00'
 layout: post
 title: Almost done with another implementation of the Wiki XML-RPC API
-date: "2002-02-26T04:42:14-05:00"
+wordpress_id: 20
 wordpress_slug: oooocf
 wordpress_url: http://www.decafbad.com/blog/?p=20
 ---

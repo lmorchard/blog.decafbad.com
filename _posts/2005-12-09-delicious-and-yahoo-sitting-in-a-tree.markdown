@@ -1,10 +1,11 @@
---- 
-wordpress_id: 793
+---
+comments_archived: true
+date: '2005-12-09T16:04:55-05:00'
 layout: post
-title: del.icio.us and Yahoo! sitting in a tree
-date: "2005-12-09T16:04:55-05:00"
-tags: 
+tags:
 - asides
+title: del.icio.us and Yahoo! sitting in a tree
+wordpress_id: 793
 wordpress_slug: delicious-and-yahoo-sitting-in-a-tree
 wordpress_url: http://decafbad.com/blog/?p=793
 ---

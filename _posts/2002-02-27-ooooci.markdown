@@ -1,8 +1,9 @@
---- 
-wordpress_id: 23
+---
+comments_archived: true
+date: '2002-02-27T20:11:21-05:00'
 layout: post
 title: More sites like this...
-date: "2002-02-27T20:11:21-05:00"
+wordpress_id: 23
 wordpress_slug: ooooci
 wordpress_url: http://www.decafbad.com/blog/?p=23
 ---

@@ -1,10 +1,11 @@
---- 
-wordpress_id: 786
+---
+comments_archived: true
+date: '2005-11-30T00:39:45-05:00'
 layout: post
-title: Unify your UI, but be careful with the chrome
-date: "2005-11-30T00:39:45-05:00"
-tags: 
+tags:
 - asides
+title: Unify your UI, but be careful with the chrome
+wordpress_id: 786
 wordpress_slug: unify-your-ui-but-be-careful-with-the-chrome
 wordpress_url: http://decafbad.com/blog/?p=786
 ---

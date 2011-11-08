@@ -1,8 +1,9 @@
---- 
-wordpress_id: 357
+---
+comments_archived: true
+date: '2003-01-19T19:29:18-05:00'
 layout: post
 title: Russell Beattie is a sneaky, mobile guy.
-date: "2003-01-19T19:29:18-05:00"
+wordpress_id: 357
 wordpress_slug: ooochh
 wordpress_url: http://www.decafbad.com/blog/?p=357
 ---

@@ -1,15 +1,16 @@
---- 
-wordpress_id: 725
+---
+comments_archived: true
+date: '2005-10-07T23:36:12-04:00'
 layout: post
-title: Too hard on Google Reader?
-date: "2005-10-07T23:36:12-04:00"
-tags: 
+tags:
 - asides
 - rss
 - syndication
 - google
 - googlemaps
 - rants
+title: Too hard on Google Reader?
+wordpress_id: 725
 wordpress_slug: too-hard-on-google-reader
 wordpress_url: http://decafbad.com/blog/?p=725
 ---

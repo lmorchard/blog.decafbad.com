@@ -1,9 +1,8 @@
---- 
-wordpress_id: 1018
+---
+comments_archived: true
+date: '2006-11-13T04:34:02-05:00'
 layout: post
-title: XoxoOutliner and suboutline addressing
-date: "2006-11-13T04:34:02-05:00"
-tags: 
+tags:
 - asides
 - webdev
 - php
@@ -12,6 +11,8 @@ tags:
 - xsl
 - xoxo
 - xml
+title: XoxoOutliner and suboutline addressing
+wordpress_id: 1018
 wordpress_slug: xoxooutliner-and-suboutline-addressing
 wordpress_url: http://decafbad.com/blog/2006/11/13/xoxooutliner-and-suboutline-addressing
 ---

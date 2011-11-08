@@ -1,8 +1,9 @@
---- 
-wordpress_id: 98
+---
+comments_archived: true
+date: '2002-04-24T18:01:24-04:00'
 layout: post
 title: Yes, I actually do get out and have a life sometimes :)
-date: "2002-04-24T18:01:24-04:00"
+wordpress_id: 98
 wordpress_slug: oooaah
 wordpress_url: http://www.decafbad.com/blog/?p=98
 ---

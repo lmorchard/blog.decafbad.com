@@ -1,13 +1,14 @@
---- 
-wordpress_id: 1065
+---
+comments_archived: true
+date: '2007-10-09T23:59:02-04:00'
 layout: post
-title: Beautiful Code
-date: "2007-10-09T23:59:02-04:00"
-tags: 
+tags:
 - code
 - style
 - programming
 - poetry
+title: Beautiful Code
+wordpress_id: 1065
 wordpress_slug: beautiful-code
 wordpress_url: http://decafbad.com/blog/2007/10/09/beautiful-code
 ---

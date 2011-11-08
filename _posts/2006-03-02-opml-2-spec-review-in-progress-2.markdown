@@ -1,10 +1,11 @@
---- 
-wordpress_id: 912
+---
+comments_archived: true
+date: '2006-03-02T12:04:41-05:00'
 layout: post
-title: OPML 2 spec review in progress
-date: "2006-03-02T12:04:41-05:00"
-tags: 
+tags:
 - asides
+title: OPML 2 spec review in progress
+wordpress_id: 912
 wordpress_slug: opml-2-spec-review-in-progress-2
 wordpress_url: http://decafbad.com/blog/2006/03/02/opml-2-spec-review-in-progress-2
 ---

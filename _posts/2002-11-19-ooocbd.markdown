@@ -1,8 +1,9 @@
---- 
-wordpress_id: 299
+---
+comments_archived: true
+date: '2002-11-19T04:00:03-05:00'
 layout: post
 title: Really, this time, I wanna come back
-date: "2002-11-19T04:00:03-05:00"
+wordpress_id: 299
 wordpress_slug: ooocbd
 wordpress_url: http://www.decafbad.com/blog/?p=299
 ---

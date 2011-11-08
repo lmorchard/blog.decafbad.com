@@ -1,8 +1,9 @@
---- 
-wordpress_id: 243
+---
+comments_archived: true
+date: '2002-09-05T18:41:59-04:00'
 layout: post
 title: Further down the LiveJournal spiral
-date: "2002-09-05T18:41:59-04:00"
+wordpress_id: 243
 wordpress_slug: ooobff
 wordpress_url: http://www.decafbad.com/blog/?p=243
 ---

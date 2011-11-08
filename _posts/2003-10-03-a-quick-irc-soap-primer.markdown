@@ -1,8 +1,9 @@
---- 
-wordpress_id: 491
+---
+comments_archived: true
+date: '2003-10-03T09:28:17-04:00'
 layout: post
 title: A quick SOAP primer via IRC (but not SOAP via IRC)
-date: "2003-10-03T09:28:17-04:00"
+wordpress_id: 491
 wordpress_slug: a-quick-irc-soap-primer
 wordpress_url: http://www.decafbad.com/blog/?p=491
 ---

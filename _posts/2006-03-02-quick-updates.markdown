@@ -1,10 +1,11 @@
---- 
-wordpress_id: 910
+---
+comments_archived: true
+date: '2006-03-02T12:01:33-05:00'
 layout: post
-title: Quick updates from my parallel universe
-date: "2006-03-02T12:01:33-05:00"
-tags: 
+tags:
 - asides
+title: Quick updates from my parallel universe
+wordpress_id: 910
 wordpress_slug: quick-updates
 wordpress_url: http://decafbad.com/blog/2006/03/02/opml-2-spec-review-in-progress
 ---

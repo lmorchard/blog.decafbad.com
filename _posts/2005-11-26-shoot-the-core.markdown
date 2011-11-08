@@ -1,10 +1,11 @@
---- 
-wordpress_id: 779
+---
+comments_archived: true
+date: '2005-11-26T17:56:59-05:00'
 layout: post
-title: Shoot the core!
-date: "2005-11-26T17:56:59-05:00"
-tags: 
+tags:
 - asides
+title: Shoot the core!
+wordpress_id: 779
 wordpress_slug: shoot-the-core
 wordpress_url: http://decafbad.com/blog/?p=779
 ---

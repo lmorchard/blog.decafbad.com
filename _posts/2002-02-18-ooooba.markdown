@@ -1,10 +1,11 @@
---- 
-wordpress_id: 11
+---
+comments_archived: true
+date: '2002-02-18T20:10:15-05:00'
 layout: post
-title: "Wanted: A non-ugly stylesheet"
-date: "2002-02-18T20:10:15-05:00"
-tags: 
+tags:
 - Header
+title: 'Wanted: A non-ugly stylesheet'
+wordpress_id: 11
 wordpress_slug: ooooba
 wordpress_url: http://www.decafbad.com/blog/?p=11
 ---

@@ -1,8 +1,9 @@
---- 
-wordpress_id: 500
+---
+comments_archived: true
+date: '2003-10-29T09:14:03-05:00'
 layout: post
 title: Panther, forgotten connections, and no more lockups
-date: "2003-10-29T09:14:03-05:00"
+wordpress_id: 500
 wordpress_slug: panther-and-forgotten-connections
 wordpress_url: http://www.decafbad.com/blog/?p=500
 ---

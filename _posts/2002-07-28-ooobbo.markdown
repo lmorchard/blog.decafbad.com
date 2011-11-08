@@ -1,8 +1,9 @@
---- 
-wordpress_id: 199
+---
+comments_archived: true
+date: '2002-07-28T03:30:10-04:00'
 layout: post
 title: News Aggregation meets iTunes3 / Web vs Native GUI
-date: "2002-07-28T03:30:10-04:00"
+wordpress_id: 199
 wordpress_slug: ooobbo
 wordpress_url: http://www.decafbad.com/blog/?p=199
 ---

@@ -1,8 +1,9 @@
---- 
-wordpress_id: 506
+---
+comments_archived: true
+date: '2003-11-16T23:39:12-05:00'
 layout: post
 title: Building the Recipe Web II
-date: "2003-11-16T23:39:12-05:00"
+wordpress_id: 506
 wordpress_slug: the-recipe-web-2
 wordpress_url: http://www.decafbad.com/blog/?p=506
 ---

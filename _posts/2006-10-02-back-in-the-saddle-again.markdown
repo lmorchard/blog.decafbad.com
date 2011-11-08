@@ -1,12 +1,13 @@
---- 
-wordpress_id: 998
+---
+comments_archived: true
+date: '2006-10-02T17:55:42-04:00'
 layout: post
-title: Back in the Saddle Again
-date: "2006-10-02T17:55:42-04:00"
-tags: 
+tags:
 - delicious
 - gimp
 - crutches
+title: Back in the Saddle Again
+wordpress_id: 998
 wordpress_slug: back-in-the-saddle-again
 wordpress_url: http://decafbad.com/blog/2006/10/02/back-in-the-saddle-again
 ---

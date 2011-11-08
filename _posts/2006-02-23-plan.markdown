@@ -1,8 +1,9 @@
---- 
-wordpress_id: 897
+---
+comments_archived: true
+date: '2006-02-23T11:40:53-05:00'
 layout: post
 title: .plan
-date: "2006-02-23T11:40:53-05:00"
+wordpress_id: 897
 wordpress_slug: plan
 wordpress_url: http://decafbad.com/blog/plan/
 ---

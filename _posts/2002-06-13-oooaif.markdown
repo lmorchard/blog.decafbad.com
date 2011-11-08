@@ -1,8 +1,9 @@
---- 
-wordpress_id: 175
+---
+comments_archived: true
+date: '2002-06-13T13:02:20-04:00'
 layout: post
 title: News aggregators to converge toward Lifestreams/Scopeware interface?
-date: "2002-06-13T13:02:20-04:00"
+wordpress_id: 175
 wordpress_slug: oooaif
 wordpress_url: http://www.decafbad.com/blog/?p=175
 ---

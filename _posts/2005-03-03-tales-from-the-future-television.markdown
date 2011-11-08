@@ -1,8 +1,9 @@
---- 
-wordpress_id: 601
+---
+comments_archived: true
+date: '2005-03-03T08:48:10-05:00'
 layout: post
-title: "Tales from the Future: Television"
-date: "2005-03-03T08:48:10-05:00"
+title: 'Tales from the Future: Television'
+wordpress_id: 601
 wordpress_slug: tales-from-the-future-television
 wordpress_url: http://www.decafbad.com/blog/?p=601
 ---

@@ -1,8 +1,9 @@
---- 
-wordpress_id: 905
+---
+comments_archived: true
+date: '2006-02-26T23:25:10-05:00'
 layout: post
 title: The OPML Editor means Getting Things Blogged
-date: "2006-02-26T23:25:10-05:00"
+wordpress_id: 905
 wordpress_slug: the-opml-editor-means-getting-things-blogged
 wordpress_url: http://decafbad.com/blog/2006/02/26/the-opml-editor-means-getting-things-blogged
 ---

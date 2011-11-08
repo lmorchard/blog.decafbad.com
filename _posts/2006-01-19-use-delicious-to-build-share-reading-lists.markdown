@@ -1,9 +1,8 @@
---- 
-wordpress_id: 829
+---
+comments_archived: true
+date: '2006-01-19T15:08:37-05:00'
 layout: post
-title: Use del.icio.us to build & share Reading Lists?
-date: "2006-01-19T15:08:37-05:00"
-tags: 
+tags:
 - asides
 - delicious
 - rss
@@ -12,6 +11,8 @@ tags:
 - atom
 - opml
 - newsriver
+title: Use del.icio.us to build & share Reading Lists?
+wordpress_id: 829
 wordpress_slug: use-delicious-to-build-share-reading-lists
 wordpress_url: http://decafbad.com/blog/?p=829
 ---

@@ -1,14 +1,15 @@
---- 
-wordpress_id: 1935
+---
+comments_archived: true
+date: '2010-06-22T18:16:24-04:00'
 layout: post
-title: "Case Study: Building a Bookmark Management UI for Mozilla's BYOB"
-date: "2010-06-22T18:16:24-04:00"
-tags: 
+tags:
 - webdev
 - js
 - entries
 - mozilla
 - byob
+title: 'Case Study: Building a Bookmark Management UI for Mozilla''s BYOB'
+wordpress_id: 1935
 wordpress_slug: case-study-building-a-bookmark-management-ui-for-mozillas-byob
 wordpress_url: http://decafbad.com/blog/?p=1935
 ---

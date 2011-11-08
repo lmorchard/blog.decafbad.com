@@ -1,10 +1,11 @@
---- 
-wordpress_id: 1948
+---
+comments_archived: true
+date: '2010-12-18T17:02:11-05:00'
 layout: post
-title: Less del.icio.us than ever before
-date: "2010-12-18T17:02:11-05:00"
-tags: 
+tags:
 - entries
+title: Less del.icio.us than ever before
+wordpress_id: 1948
 wordpress_slug: less-del-icio-us-than-ever-before
 wordpress_url: http://decafbad.com/blog/?p=1948
 ---

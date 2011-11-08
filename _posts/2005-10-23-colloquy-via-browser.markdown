@@ -1,14 +1,15 @@
---- 
-wordpress_id: 744
+---
+comments_archived: true
+date: '2005-10-23T15:02:36-04:00'
 layout: post
-title: Colloquy via Browser
-date: "2005-10-23T15:02:36-04:00"
-tags: 
+tags:
 - asides
 - osx
 - irc
 - mac
 - colloquy
+title: Colloquy via Browser
+wordpress_id: 744
 wordpress_slug: colloquy-via-browser
 wordpress_url: http://decafbad.com/blog/?p=744
 ---

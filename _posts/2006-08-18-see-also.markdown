@@ -1,14 +1,15 @@
---- 
-wordpress_id: 977
+---
+comments_archived: true
+date: '2006-08-18T12:11:43-04:00'
 layout: post
-title: see also
-date: "2006-08-18T12:11:43-04:00"
-tags: 
+tags:
 - asides
 - wordpress
 - metablogging
 - identity
 - claimid
+title: see also
+wordpress_id: 977
 wordpress_slug: see-also
 wordpress_url: http://decafbad.com/blog/2006/08/18/see-also
 ---

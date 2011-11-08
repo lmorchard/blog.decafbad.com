@@ -1,10 +1,11 @@
---- 
-wordpress_id: 837
+---
+comments_archived: true
+date: '2006-01-25T10:20:35-05:00'
 layout: post
-title: Server downtime - I wish I had downtime
-date: "2006-01-25T10:20:35-05:00"
-tags: 
+tags:
 - asides
+title: Server downtime - I wish I had downtime
+wordpress_id: 837
 wordpress_slug: server-downtime-i-wish-i-had-downtime
 wordpress_url: http://decafbad.com/blog/?p=837
 ---

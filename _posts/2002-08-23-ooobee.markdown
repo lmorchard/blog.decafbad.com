@@ -1,8 +1,9 @@
---- 
-wordpress_id: 232
+---
+comments_archived: true
+date: '2002-08-23T11:10:01-04:00'
 layout: post
 title: Dead comments, they keep calling me
-date: "2002-08-23T11:10:01-04:00"
+wordpress_id: 232
 wordpress_slug: ooobee
 wordpress_url: http://www.decafbad.com/blog/?p=232
 ---

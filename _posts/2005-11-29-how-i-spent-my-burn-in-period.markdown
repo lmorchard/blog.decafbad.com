@@ -1,10 +1,11 @@
---- 
-wordpress_id: 784
+---
+comments_archived: true
+date: '2005-11-29T21:54:24-05:00'
 layout: post
-title: How I spent my burn-in period
-date: "2005-11-29T21:54:24-05:00"
-tags: 
+tags:
 - asides
+title: How I spent my burn-in period
+wordpress_id: 784
 wordpress_slug: how-i-spent-my-burn-in-period
 wordpress_url: http://decafbad.com/blog/?p=784
 ---

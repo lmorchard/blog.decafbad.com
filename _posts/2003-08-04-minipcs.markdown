@@ -1,8 +1,9 @@
---- 
-wordpress_id: 457
+---
+comments_archived: true
+date: '2003-08-04T12:41:04-04:00'
 layout: post
 title: MiniPCs, Wave of the Future
-date: "2003-08-04T12:41:04-04:00"
+wordpress_id: 457
 wordpress_slug: minipcs
 wordpress_url: http://www.decafbad.com/blog/?p=457
 ---

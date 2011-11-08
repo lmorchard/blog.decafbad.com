@@ -1,8 +1,9 @@
---- 
-wordpress_id: 616
+---
+comments_archived: true
+date: '2005-03-17T11:39:41-05:00'
 layout: post
 title: The Arrival of Spring
-date: "2005-03-17T11:39:41-05:00"
+wordpress_id: 616
 wordpress_slug: the-arrival-of-spring
 wordpress_url: http://www.decafbad.com/blog/?p=616
 ---

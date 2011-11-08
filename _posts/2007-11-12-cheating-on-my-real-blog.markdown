@@ -1,14 +1,15 @@
---- 
-wordpress_id: 1071
+---
+comments_archived: true
+date: '2007-11-12T20:00:40-05:00'
 layout: post
-title: cheating on my "real" blog
-date: "2007-11-12T20:00:40-05:00"
-tags: 
+tags:
 - asides
 - metablogging
 - opml
 - tinderbox
 - recaffinated
+title: cheating on my "real" blog
+wordpress_id: 1071
 wordpress_slug: cheating-on-my-real-blog
 wordpress_url: http://decafbad.com/blog/2007/11/12/cheating-on-my-real-blog
 ---

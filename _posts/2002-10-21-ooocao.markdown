@@ -1,8 +1,9 @@
---- 
-wordpress_id: 285
+---
+comments_archived: true
+date: '2002-10-21T14:30:06-04:00'
 layout: post
 title: Status check, damage report
-date: "2002-10-21T14:30:06-04:00"
+wordpress_id: 285
 wordpress_slug: ooocao
 wordpress_url: http://www.decafbad.com/blog/?p=285
 ---

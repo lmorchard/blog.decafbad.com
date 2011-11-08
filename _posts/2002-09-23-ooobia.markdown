@@ -1,8 +1,9 @@
---- 
-wordpress_id: 266
+---
+comments_archived: true
+date: '2002-09-23T23:04:17-04:00'
 layout: post
 title: Pingback one-ups TrackBack
-date: "2002-09-23T23:04:17-04:00"
+wordpress_id: 266
 wordpress_slug: ooobia
 wordpress_url: http://www.decafbad.com/blog/?p=266
 ---

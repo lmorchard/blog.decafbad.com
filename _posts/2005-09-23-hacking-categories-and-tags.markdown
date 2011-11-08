@@ -1,10 +1,11 @@
---- 
-wordpress_id: 683
+---
+comments_archived: true
+date: '2005-09-23T09:55:49-04:00'
 layout: post
-title: Hacking categories and tags
-date: "2005-09-23T09:55:49-04:00"
-tags: 
+tags:
 - asides
+title: Hacking categories and tags
+wordpress_id: 683
 wordpress_slug: hacking-categories-and-tags
 wordpress_url: http://decafbad.com/blog/?p=683
 ---

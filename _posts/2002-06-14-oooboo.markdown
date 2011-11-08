@@ -1,8 +1,9 @@
---- 
-wordpress_id: 179
+---
+comments_archived: true
+date: '2002-06-14T19:11:53-04:00'
 layout: post
 title: AmphetaDesk v0.93 rolls out of bed
-date: "2002-06-14T19:11:53-04:00"
+wordpress_id: 179
 wordpress_slug: oooboo
 wordpress_url: http://www.decafbad.com/blog/?p=179
 ---

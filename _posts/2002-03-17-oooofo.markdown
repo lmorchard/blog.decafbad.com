@@ -1,8 +1,9 @@
---- 
-wordpress_id: 42
+---
+comments_archived: true
+date: '2002-03-17T20:04:00-05:00'
 layout: post
 title: XML-RPC + Wiki + SVG = Nifty?
-date: "2002-03-17T20:04:00-05:00"
+wordpress_id: 42
 wordpress_slug: oooofo
 wordpress_url: http://www.decafbad.com/blog/?p=42
 ---

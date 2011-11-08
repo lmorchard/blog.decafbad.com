@@ -1,8 +1,9 @@
---- 
-wordpress_id: 203
+---
+comments_archived: true
+date: '2002-07-31T14:36:21-04:00'
 layout: post
 title: The Natives are Growing Restless.
-date: "2002-07-31T14:36:21-04:00"
+wordpress_id: 203
 wordpress_slug: ooobbd
 wordpress_url: http://www.decafbad.com/blog/?p=203
 ---

@@ -1,11 +1,14 @@
---- 
-wordpress_id: 553
+---
+comments_archived: true
+date: '2004-09-18T23:47:07-04:00'
+excerpt: While the girl does her Calculus and Statistics homework, I'm availing
+    myself of this coffee shop wi-fi to make an initial brain-dump of FeedReactor
+    details into Kwiki.
 layout: post
-title: Initial dbagg3 / feedReactor notes in Kwiki
-excerpt: While the girl does her Calculus and Statistics homework, I'm availing myself of this coffee shop wi-fi to make an initial brain-dump of FeedReactor details into Kwiki.
-date: "2004-09-18T23:47:07-04:00"
-tags: 
+tags:
 - syndication
+title: Initial dbagg3 / feedReactor notes in Kwiki
+wordpress_id: 553
 wordpress_slug: feedreactor-dbagg3-notes
 wordpress_url: http://www.decafbad.com/blog/?p=553
 ---

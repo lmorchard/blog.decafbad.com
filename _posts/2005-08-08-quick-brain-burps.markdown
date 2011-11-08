@@ -1,8 +1,9 @@
---- 
-wordpress_id: 672
+---
+comments_archived: true
+date: '2005-08-08T13:17:03-04:00'
 layout: post
 title: Quick Brain Burps
-date: "2005-08-08T13:17:03-04:00"
+wordpress_id: 672
 wordpress_slug: quick-brain-burps
 wordpress_url: http://www.decafbad.com/blog/?p=672
 ---

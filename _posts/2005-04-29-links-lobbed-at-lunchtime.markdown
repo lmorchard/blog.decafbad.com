@@ -1,8 +1,9 @@
---- 
-wordpress_id: 632
+---
+comments_archived: true
+date: '2005-04-29T14:06:45-04:00'
 layout: post
 title: Links Lobbed at Lunchtime
-date: "2005-04-29T14:06:45-04:00"
+wordpress_id: 632
 wordpress_slug: links-lobbed-at-lunchtime
 wordpress_url: http://www.decafbad.com/blog/?p=632
 ---
