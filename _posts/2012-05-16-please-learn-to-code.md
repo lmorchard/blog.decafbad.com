@@ -9,7 +9,7 @@ date: 2012-05-16T13:00:00Z
 **TL;DR**: <em>I think coding is an essential skill for modern humans
 surrounded by code and machines that run it. Please learn to code.</em>
 
-<span style="display: block; float: right; text-decoration: none; border: none; margin: 0 0 1em 1em; width: 310px;"><img src="http://farm3.static.flickr.com/2001/2508770940_b88b955aaa.jpg" style="width: 275px; border: 2px solid #ddd; padding: 1em; background: #fff;" /></span>
+<a href="http://www.flickr.com/photos/mita/2508770940/?ref=nf" style="display: block; float: right; text-decoration: none; border: none; margin: 0 0 1em 1em; width: 310px;"><img src="http://farm3.static.flickr.com/2001/2508770940_b88b955aaa.jpg" style="width: 275px; border: 2px solid #ddd; padding: 1em; background: #fff;" /></a>
 
 I disagree with Jeff Atwood on ["Please don't learn to code"][dontcode]:
 
