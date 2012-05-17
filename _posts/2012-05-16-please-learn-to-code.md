@@ -71,13 +71,12 @@ drive a CPU to perform tasks on his or her behalf.
 
 That's a very broad definition, but it implies a lot. First, you have
 to realize that *you* can make a CPU can do things on your
-behalf--it's okay, [you won't break it][breakit]. It's a tool made by
+behalf--it's okay, you won't break it. It's a tool made by
 humans and you as a human can understand it. Then, you need a notion
 of [algorithmic thinking][algothink], in order to formulate your
 intent and reasoning in a form that a CPU can execute. These are not
 natural or intuitive things.
 
-[breakit]: http://hackintruths.net/tips-and-tricks/computers-are-not-scary/
 [algothink]: http://rwxweb.wordpress.com/2012/01/31/teaching-algorithmic-thinking/
 
 I agree with that it's good to "[recognize what code is, and when code
