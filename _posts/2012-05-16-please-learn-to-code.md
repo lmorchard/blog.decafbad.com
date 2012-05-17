@@ -89,7 +89,7 @@ And, if you've never worked to force your thoughts into to the
 confoundingly literal and common senseless constraints of computer
 programming, it's hard to even imagine how code works. If you can't
 imagine how it works, how do you work it into your mental toolkit for
-getting things done.
+getting things done?
 
 Learn to code, and a lot of other things get dragged into your head
 along the way.
