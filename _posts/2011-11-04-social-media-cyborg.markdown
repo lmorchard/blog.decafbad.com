@@ -4,13 +4,14 @@ title: "Social Media Cyborg"
 tags: [web20, social, feeds, metablogging, ifttt, hacks]
 published: true
 date: 2011-11-04T21:12:34.971699
+
 ---
 
 **TL;DR**: <em>Since Google Reader lost it's sharing, I've decided to
 revisit my "social media strategy". I'm plugging lots of things into
 other things. I feel like maybe I should write about this stuff.</em>
 
-<a href="https://www.lucidchart.com/documents/view#4eb47331-8950-4a92-8b55-6c6e0a7aa298?branch=9c737269-0e32-4248-8525-54b73b1424a5" style="display: block; float: right; text-decoration: none; border: none; margin: 0 0 1em 1em; width: 310px;"><img src="{{ site.baseurl }}/images/2011/11/social-media-cyborg.png" style="width: 275px; border: 2px solid #ddd; padding: 1em; background: #fff;" /><br/><small>Started diagramming all my social media flows on LucidChart.</small></a>
+<span style="display: block; float: right; text-decoration: none; border: none; margin: 0 0 1em 1em; width: 310px;"><img src="http://decafbad.com/blog/images/2011/11/social-media-cyborg.png" style="width: 275px; border: 2px solid #ddd; padding: 1em; background: #fff;" /><br/><small>Started diagramming all my social media flows on LucidChart.</small></span>
 
 ## This is what I do for fun
 
