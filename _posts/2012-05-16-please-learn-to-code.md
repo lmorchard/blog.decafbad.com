@@ -24,9 +24,7 @@ In fact, I *do* regard coding as an essential modern skill. Yes,
 [right alongside reading, writing, and 'rithmatic][rithms]. At least
 this part of [the post][dontcode] had me nodding:
 
-[rithms]:
-http://dmlcentral.net/blog/cathy-davidson/why-we-need-4th-r-reading-writing-arithmetic-algorithms
-"Why We Need a 4th R: Reading, wRiting, aRithmetic, algoRithms"
+[rithms]: http://dmlcentral.net/blog/cathy-davidson/why-we-need-4th-r-reading-writing-arithmetic-algorithms "Why We Need a 4th R: Reading, wRiting, aRithmetic, algoRithms"
 
 > I suppose I can support learning a tiny bit about programming just
 > so you can recognize what code is, and when code might be an
@@ -58,9 +56,7 @@ the world, and plenty of people get by just fine like that. But, I
 certainly wouldn't agree that "**Please don't learn about pipes**" is
 good advice in general.
 
-[madmen]: 
-http://www.gkdating.com/mad-men-lessons-three-men-and-a-sink/ 
-"Mad Men Lessons: Three Men and a Sink"
+[madmen]: http://www.gkdating.com/mad-men-lessons-three-men-and-a-sink/ "Mad Men Lessons: Three Men and a Sink"
 
 ## Learning by doing
 
