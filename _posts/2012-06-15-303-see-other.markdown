@@ -9,7 +9,7 @@ date: 2012-06-15T21:12:36.923080
 **TL;DR**: <em>I'm switching to a new blog and a new domain, because
 0xDECAFBAD is not my name and WordPress is stupidly simple.</em>
 
-<a style="display: block; float: right; text-decoration: none; border: none; margin: 0 0 1em 1em; width: 310px;" href="http://www.flickr.com/photos/nimbupani/4213397611/" title="So Long and Thanks for All The Fish by nimbu, on Flickr"><img src="http://farm5.staticflickr.com/4041/4213397611_b4eba76403.jpg" width="375" height="500" alt="So Long and Thanks for All The Fish"></a>
+<a style="display: block; float: right; text-decoration: none; border: none; margin: 0 0 1em 1em; width: 310px;" href="http://www.flickr.com/photos/nimbupani/4213397611/" title="So Long and Thanks for All The Fish by nimbu, on Flickr"><img src="http://farm5.staticflickr.com/4041/4213397611_b4eba76403.jpg" width="305" height="500" alt="So Long and Thanks for All The Fish"></a>
 
 This is probably the last post you'll see from me on this blog. End of
 an era, and all that. I think I'm going to leave this thing as it is,
